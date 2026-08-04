@@ -10,10 +10,12 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import warnings
 
-
-# --- 核心逻辑：MC-Dropout 不确定性分析 ---
+# --- Bayesian Uncertainty Quantification via MC-Dropout ---
 def predict_with_uncertainty(model, X_scaled, n_iter=20):
-    model.train()  # 开启 Dropout
+    """
+    Performs Monte Carlo Dropout inference to quantify epistemic uncertainty.
+    """
+    model.train()  # Enable dropout layers for stochastic inference
     preds = []
     X_t = torch.tensor(X_scaled, dtype=torch.float32)
     for _ in range(n_iter):
@@ -27,11 +29,17 @@ def predict_with_uncertainty(model, X_scaled, n_iter=20):
 
 
 def get_confidence_label(std, threshold=0.1):
+    """
+    Categorizes predictions into confidence levels based on uncertainty threshold.
+    """
     return ["High Confidence" if s < threshold else "Low Confidence" for s in std]
 
 
-# --- 可视化模块 ---
+# --- Visualization Module ---
 def plot_confidence_distribution(all_confidences):
+    """
+    Generates a bar chart illustrating the distribution of prediction confidence.
+    """
     high_count = all_confidences.count('High Confidence')
     low_count = all_confidences.count('Low Confidence')
     plt.figure(figsize=(8, 6))
@@ -42,15 +50,15 @@ def plot_confidence_distribution(all_confidences):
         yval = bar.get_height()
         plt.text(bar.get_x() + bar.get_width() / 2, yval + 1, yval, ha='center', va='bottom')
     plt.savefig('Confidence_Distribution.png', dpi=300)
-    print("\n✨ [Visualization] Chart saved as 'Confidence_Distribution.png'.")
+    print("\nVisualization chart saved as 'Confidence_Distribution.png'.")
     plt.show()
 
 
-# --- 主运行逻辑 ---
+# --- Main Execution Logic ---
 warnings.filterwarnings('ignore')
-print("🛡️ [Integrated] Master Ensemble Engine with Uncertainty Quantification")
+print("Initializing Master Ensemble Engine with Uncertainty Quantification.")
 
-# 加载数据
+# Load data
 try:
     slim_df = pd.read_csv("STITCH_Identifiers/Slim_Fused_Feature_Matrix.csv", index_col=0)
     vip_features = slim_df.columns.tolist()
@@ -59,8 +67,8 @@ try:
     merged_data = inputs.merge(outputs[['Drug', 'Neopl']], how='left', left_on=inputs.index, right_on='Drug').dropna()
     X = merged_data[vip_features].values
     y = merged_data['Neopl'].values.astype(int)
-except:
-    print("❌ Error: Load failed.")
+except Exception as e:
+    print(f"Error: Data loading failed. {e}")
     exit()
 
 
@@ -89,7 +97,7 @@ for fold, (train_idx, test_idx) in enumerate(skf.split(X, y), 1):
     optimizer = optim.Adam(model.parameters(), lr=0.001)
     criterion = nn.BCELoss()
 
-    # 简单训练
+    # Training phase
     model.train()
     X_t = torch.tensor(X_train_scaled, dtype=torch.float32)
     y_t = torch.tensor(y_train, dtype=torch.float32).unsqueeze(1)
@@ -98,14 +106,14 @@ for fold, (train_idx, test_idx) in enumerate(skf.split(X, y), 1):
         criterion(model(X_t), y_t).backward()
         optimizer.step()
 
-    # 分析
+    # Analysis phase
     mean_preds, std = predict_with_uncertainty(model, X_test_scaled)
     confidences = get_confidence_label(std)
     all_confidences.extend(confidences)
 
     pred_ens = (mean_preds >= 0.5).astype(int)
     res_ens['f1'].append(f1_score(y_test, pred_ens, zero_division=0))
-    print(f"   ✨ Fold {fold} Analysis: {confidences.count('High Confidence')} High Confidence.")
+    print(f"Fold {fold} analysis complete: {confidences.count('High Confidence')} high confidence predictions.")
 
 plot_confidence_distribution(all_confidences)
-print("\n🏆 Final Ensemble Report: Mean F1: {:.4f}".format(np.mean(res_ens['f1'])))
+print("\nFinal Ensemble Report: Mean F1-Score: {:.4f}".format(np.mean(res_ens['f1'])))

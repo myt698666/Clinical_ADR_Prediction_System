@@ -4,28 +4,40 @@ import shap
 import matplotlib.pyplot as plt
 import warnings
 
+# Suppress warnings for clean log generation
 warnings.filterwarnings('ignore')
 
-print("🚀 [1/4] 正在加载 500 维黄金 VIP 燃料...")
+print("Initializing clinical toxicity analysis and XAI framework.")
+
+# ==========================================
+# 1. Data Ingestion
+# ==========================================
+# Load 500-dimensional VIP feature matrix and significance targets
 slim_df = pd.read_csv("STITCH_Identifiers/Slim_Fused_Feature_Matrix.csv", index_col=0)
 vip_features = slim_df.columns.tolist()
 
 inputs = pd.read_csv("STITCH_Identifiers/Ultimate_Fused_Feature_Matrix.csv", index_col='Matched Drug')
 outputs = pd.read_csv("ADR_Summary/SOC_significance_matrix.csv")
-merged_data = inputs.merge(outputs, how='left', left_index=True, right_on='Drug').dropna()
 
+# Merge features and targets
+merged_data = inputs.merge(outputs, how='left', left_index=True, right_on='Drug').dropna()
 X = merged_data[vip_features]
-target = 'Blood'  # 我们依然先拿血液系统开刀
+
+# Target selection (System Organ Class)
+target = 'Blood'
 y = merged_data[target]
 
-print(f"🎯 [2/4] 正在使用刚刚找到的【最强冠军参数】训练 '{target}' 模型...")
+# ==========================================
+# 2. Model Training with Optimized Hyperparameters
+# ==========================================
+print(f"Training XGBoost estimator for target: '{target}'.")
 
-# 自动计算不平衡权重
+# Dynamic class weighting for imbalance mitigation
 pos_count = sum(y == 1)
 neg_count = sum(y == 0)
-scale_weight = neg_count / pos_count if pos_count > 0 else 1
+scale_weight = neg_count / pos_count if pos_count > 0 else 1.0
 
-# 💡 这里填入的就是你上一局跑出来的最佳参数！
+# Initialize and fit XGBoost model with refined hyperparameters
 xgb_model = xgb.XGBClassifier(
     n_estimators=500,
     max_depth=3,
@@ -38,25 +50,27 @@ xgb_model = xgb.XGBClassifier(
 )
 xgb_model.fit(X, y)
 
-print("🔍 [3/4] 模型训练完毕！正在请 SHAP 大师进行开箱解剖 (可能需要十几秒)...")
+# ==========================================
+# 3. Model Interpretability Analysis (SHAP)
+# ==========================================
+print("Computing SHAP values for model interpretability.")
 
-# 初始化 SHAP 解释器并计算 SHAP 值
+# Initialize SHAP explainer
 explainer = shap.TreeExplainer(xgb_model)
 shap_values = explainer.shap_values(X)
 
-print("🎨 [4/4] 正在绘制 SHAP 蜂巢图 (Bee Swarm Plot)...")
-
-# 解决画图时可能出现的中文/负号显示问题（学术图表防踩坑）
+# ==========================================
+# 4. Visualization and Export
+# ==========================================
 plt.rcParams['axes.unicode_minus'] = False
+plt.figure(figsize=(10, 8))
 
-# 画图并展示
-plt.figure(figsize=(10, 8)) # 设定画布大小
+# Generate summary plot (bee swarm)
 shap.summary_plot(shap_values, X, plot_type="dot", show=False)
 
-# 保存这张极其珍贵的学术图表
+# Export publication-quality image
 output_image_path = f"SHAP_Summary_{target}.png"
 plt.savefig(output_image_path, bbox_inches='tight', dpi=300)
-print(f"\n🎉 大功告成！顶级学术图表已保存至当前目录: {output_image_path}")
 
-# 在你的 PyCharm 里直接弹出来给你看！
+print(f"Analysis finalized. Publication-ready chart exported to: {output_image_path}")
 plt.show()

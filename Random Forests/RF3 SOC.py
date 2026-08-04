@@ -1,151 +1,109 @@
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier, ExtraTreesClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
+import numpy as np
+import os
+import joblib
+import shap
 import seaborn as sns
 import matplotlib.pyplot as plt
-import numpy as np
-import joblib
-import os
-from sklearn.utils.class_weight import compute_class_weight
-from imblearn.over_sampling import SMOTE
+import warnings
+
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 from sklearn.feature_selection import SelectFromModel
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import f1_score, precision_score, recall_score
-import shap
+from imblearn.over_sampling import SMOTE
 
-# Create the saved models folder if it doesn't exist
+warnings.filterwarnings('ignore')
+
+# Create directory for model persistence
 os.makedirs('saved_models/SOC', exist_ok=True)
 
-# --- 外科手术替换开始：注入咱们的 2548 维多模态超级矩阵 ---
+# Load multi-modal feature matrix and significance targets
 input_file_path = "../STITCH_Identifiers/Ultimate_Fused_Feature_Matrix.csv"
 output_file_path = "../ADR_Summary/SOC_significance_matrix.csv"
 
-# 读取超级矩阵，并把咱们的 'Matched Drug' 列设为索引，完美对接原作者的代码逻辑
 inputs = pd.read_csv(input_file_path, index_col='Matched Drug')
 outputs = pd.read_csv(output_file_path)
-# --- 外科手术替换结束 ---
 
-# Perform a left join on the 'Drug' column
-merged_data = inputs.merge(outputs, how='left', left_index=True, right_on='Drug')
+# Merge feature matrix with target significance matrix
+merged_data = inputs.merge(outputs, how='left', left_index=True, right_on='Drug').dropna()
 
-# Drop rows with missing output values (for all target columns)
-merged_data = merged_data.dropna()
-
-# Separate features (inputs) and target columns
-X = merged_data.iloc[:, :-len(outputs.columns)]  # Inputs (all columns in `inputs`)
-output_columns = outputs.columns.drop('Drug')    # Exclude the 'Drug' column
+# Segregate features and target outcomes
+X = merged_data.iloc[:, :len(inputs.columns)]
+output_columns = outputs.columns.drop('Drug')
 results = []
 
-from sklearn.feature_selection import SelectFromModel
-
-results = []
 for target in output_columns:
     y = merged_data[target]
-    
-    # Split data
+
+    # Stratified split and synthetic oversampling for class imbalance
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    
-    # Apply SMOTE to balance data
     smote = SMOTE(random_state=42)
     X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
-    
-    # Train an initial Random Forest model to determine feature importance
+
+    # Initial model fitting to extract feature importance and SHAP values
     rf_initial = RandomForestClassifier(random_state=42)
     rf_initial.fit(X_train_resampled, y_train_resampled)
 
-    # Compute SHAP values
+    # Compute SHAP values for model interpretability
     explainer = shap.TreeExplainer(rf_initial)
-    shap_values = explainer.shap_values(X,check_additivity=False)
+    shap_values = explainer.shap_values(X, check_additivity=False)
 
-    # Focus on positive class (class 1)
-    positive_class_shap_values = shap_values[1]
-
-    # Visualise feature importance for class 1
-    # shap.summary_plot(positive_class_shap_values, X, plot_type="bar")
-    
-    
-    # Get feature importances and feature names
+    # Feature ranking
     feature_importances = rf_initial.feature_importances_
     feature_names = X.columns
-    
-    # Rank and select the top 5 features
-    top_5_indices = np.argsort(feature_importances)[-5:][::-1]  # Get indices of top 5 features
-    top_5_features = [(feature_names[i], feature_importances[i]) for i in top_5_indices]
-    
+    top_5_indices = np.argsort(feature_importances)[-5:][::-1]
+
     print(f"\nTop 5 features for target '{target}':")
-    for feature, importance in top_5_features:
-        print(f"  Feature: {feature}, Importance: {importance:.4f}")
-    
-    # Select top 200 features
+    for idx in top_5_indices:
+        print(f"  Feature: {feature_names[idx]}, Importance: {feature_importances[idx]:.4f}")
+
+    # Feature selection (top 200)
     selector = SelectFromModel(rf_initial, max_features=200, prefit=True)
     X_train_top200 = selector.transform(X_train_resampled)
     X_test_top200 = selector.transform(X_test)
-    
-    # Retrain models using only the top 200 features
+
+    # Ensemble voting strategy with varying random seeds
     all_predictions = []
     trained_models = []
-    
-    for random_state in [10, 20, 42, 57, 83]:
-        rf_model = RandomForestClassifier(random_state=random_state)
-        rf_model = rf_model.fit(X_train_top200, y_train_resampled)
-        
-        # Save model
-        model_filename = f"saved_models/SOC/random_forest_top200_{target}_{random_state}.pkl"
-        joblib.dump(rf_model, model_filename)
-        
-        trained_models.append(rf_model)
-        
-        # Predict with the top 200 features
-        y_pred = rf_model.predict(X_test_top200)
-        all_predictions.append(y_pred)
+    random_states = [10, 20, 42, 57, 83]
 
-    # Apply majority voting
-    majority_vote = np.sum(all_predictions, axis=0) >= 2
-    majority_vote = majority_vote.astype(int)
-    
-    # Evaluate model performance
-    accuracy = accuracy_score(y_test, majority_vote)
-    precision = precision_score(y_test, majority_vote, zero_division=0)
-    recall = recall_score(y_test, majority_vote, zero_division=0)
-    f1 = f1_score(y_test, majority_vote, zero_division=0)
-    
+    for seed in random_states:
+        rf_model = RandomForestClassifier(random_state=seed)
+        rf_model.fit(X_train_top200, y_train_resampled)
+
+        model_filename = f"saved_models/SOC/random_forest_top200_{target}_{seed}.pkl"
+        joblib.dump(rf_model, model_filename)
+
+        trained_models.append(rf_model)
+        all_predictions.append(rf_model.predict(X_test_top200))
+
+    # Evaluate via majority voting
+    majority_vote = (np.sum(all_predictions, axis=0) >= 3).astype(int)
+
+    # Performance metrics computation
     results.append({
         'Target': target,
-        'Accuracy': accuracy,
-        'Precision': precision,
-        'Recall': recall,
-        'F1-Score': f1,
+        'Accuracy': accuracy_score(y_test, majority_vote),
+        'Precision': precision_score(y_test, majority_vote, zero_division=0),
+        'Recall': recall_score(y_test, majority_vote, zero_division=0),
+        'F1-Score': f1_score(y_test, majority_vote, zero_division=0),
         'y_test': y_test.values,
-        'y_pred': majority_vote,
-        'models': trained_models
+        'y_pred': majority_vote
     })
-    
-    print(f"Model for target '{target}': Accuracy: {accuracy:.2f}, Precision: {precision:.2f}, Recall: {recall:.2f}, F1-Score: {f1:.2f}")
 
-# Sort results by accuracy and select the top 10 accurate models
+    print(f"Metrics for '{target}': F1-Score: {results[-1]['F1-Score']:.2f}")
+
+# Visualization of top 10 results by F1-Score
 top_10_results = sorted(results, key=lambda x: x['F1-Score'], reverse=True)[:10]
 
-
-# Predict with the top 10 models and visualize the validation results (y_pred vs y_test)
 plt.figure(figsize=(20, 15))
 for idx, result in enumerate(top_10_results):
-    # Compare the predicted values to the actual ones (y_test) for this target
-    comparison_df = pd.DataFrame({
-        'Actual': result['y_test'],
-        'Predicted': result['y_pred']
-    })
-    
-    plt.subplot(2, 5, idx + 1)  # 2 rows, 5 columns for 10 plots
-    sns.heatmap(
-        comparison_df.T, 
-        cmap='coolwarm', 
-        cbar=True, 
-        xticklabels=False, 
-        yticklabels=['Actual', 'Predicted']
-    )
-    plt.title(f"Heatmap for Target: {result['Target']}\nF1-score: {result['F1-Score']:.2f}")
+    comparison_df = pd.DataFrame({'Actual': result['y_test'], 'Predicted': result['y_pred']})
+
+    plt.subplot(2, 5, idx + 1)
+    sns.heatmap(comparison_df.T, cmap='coolwarm', cbar=True, xticklabels=False, yticklabels=['Actual', 'Predicted'])
+    plt.title(f"Target: {result['Target']}\nF1-Score: {result['F1-Score']:.2f}")
 
 plt.tight_layout()
 plt.show()

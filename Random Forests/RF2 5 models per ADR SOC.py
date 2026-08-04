@@ -1,146 +1,107 @@
 import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
 import joblib
-import os
-from sklearn.utils.class_weight import compute_class_weight
-from imblearn.over_sampling import SMOTE
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_selection import SelectFromModel
-from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import f1_score, precision_score, recall_score
+from imblearn.over_sampling import SMOTE
+import os
 
-
-# Create the saved models folder if it doesn't exist
+# Ensure the output directory for models exists
 os.makedirs('saved_models/SOC', exist_ok=True)
 
-# --- 外科手术替换开始：注入咱们的 2548 维多模态超级矩阵 ---
+# Load the multi-modal fused feature matrix and the target significance matrix
 input_file_path = "STITCH_Identifiers/Ultimate_Fused_Feature_Matrix.csv"
 output_file_path = "ADR_Summary/SOC_significance_matrix.csv"
 
-# 读取超级矩阵，并把咱们的 'Matched Drug' 列设为索引，完美对接原作者的代码逻辑
+# Set index to 'Matched Drug' to align with the feature matrix structure
 inputs = pd.read_csv(input_file_path, index_col='Matched Drug')
 outputs = pd.read_csv(output_file_path)
-# --- 外科手术替换结束 ---
 
-# Perform a left join on the 'Drug' column
+# Merge inputs and outputs on the drug identifier
 merged_data = inputs.merge(outputs, how='left', left_index=True, right_on='Drug')
-
-# Drop rows with missing output values (for all target columns)
 merged_data = merged_data.dropna()
 
-# Separate features (inputs) and target columns
-X = merged_data.iloc[:, :-len(outputs.columns)]  # Inputs (all columns in `inputs`)
-output_columns = outputs.columns.drop('Drug')    # Exclude the 'Drug' column
+# Extract feature matrix and target columns
+# Exclude target columns and the 'Drug' column from the feature matrix
+X = merged_data.iloc[:, :len(inputs.columns)]
+output_columns = outputs.columns.drop('Drug')
 results = []
 
-# Define a parameter grid for hyperparameter tuning
+# Define parameter grid for hyperparameter optimization
 param_grid = {
-    'n_estimators': [100, 200, 300],  # Number of trees
-    'max_depth': [None, 15, 30],  # Maximum depth of trees
-    'min_samples_split': [2, 5, 10],  # Minimum samples required to split an internal node
-    'min_samples_leaf': [1, 2, 4],    # Minimum samples required to be at a leaf node
-    'max_features': ['auto', 'sqrt', 'log2'],  # Number of features to consider for the best split
+    'n_estimators': [100, 200, 300],
+    'max_depth': [None, 15, 30],
+    'min_samples_split': [2, 5, 10],
+    'min_samples_leaf': [1, 2, 4],
+    'max_features': ['sqrt', 'log2']
 }
 
-# Modify the loop to include GridSearchCV for hyperparameter optimization
+# Iterate through each System Organ Class (SOC) target
 for target in output_columns:
     y = merged_data[target]
 
-    # Split the data into training and testing sets
+    # Split dataset into training and testing sets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-    # Apply SMOTE to balance data
+    # Address class imbalance using SMOTE
     smote = SMOTE(random_state=42)
     X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
-
-    # Convert X_train_resampled to DataFrame with feature names
     X_train_resampled_df = pd.DataFrame(X_train_resampled, columns=X.columns)
 
-    # Initialize a RandomForestClassifier (no hyperparameters for now)
+    # Initialize RandomForest and GridSearch
     rf_model = RandomForestClassifier(random_state=42)
-
-    # Set up GridSearchCV to search for the best hyperparameters with F1-score as the scoring metric
-    grid_search = GridSearchCV(estimator=rf_model, param_grid=param_grid, cv=3, n_jobs=-1, verbose=2, scoring='f1')
-
-    # Fit GridSearchCV to find the best hyperparameters
+    grid_search = GridSearchCV(estimator=rf_model, param_grid=param_grid, cv=3, n_jobs=-1, verbose=1, scoring='f1')
     grid_search.fit(X_train_resampled_df, y_train_resampled)
 
-    # Get the best model from GridSearchCV
     best_rf_model = grid_search.best_estimator_
+    print(f"Target: {target} | Best Hyperparameters: {grid_search.best_params_}")
 
-    # Print the best hyperparameters found by GridSearchCV
-    print(f"Best hyperparameters for target '{target}': {grid_search.best_params_}")
-
-    # Use SelectFromModel to select the most important features
-    selector = SelectFromModel(best_rf_model, threshold="mean", max_features=200)  # Select top 200 features
+    # Feature selection based on importance threshold
+    selector = SelectFromModel(best_rf_model, threshold="mean", max_features=200)
     selector.fit(X_train_resampled_df, y_train_resampled)
-    
-    # Get the selected features
+
     selected_features = X_train_resampled_df.columns[selector.get_support()]
+    print(f"Target: {target} | Number of selected features: {len(selected_features)}")
 
-    # Print the selected features
-    print(f"Top selected features for target '{target}': {selected_features.tolist()}")
-
-    # Save the best model
-    model_filename = f"saved_models/SOC/random_forest_best_{target}_best.pkl"
+    # Save model artifact
+    model_filename = f"saved_models/SOC/random_forest_best_{target}.pkl"
     joblib.dump(best_rf_model, model_filename)
 
-    # Transform the train and test sets to include only the selected features
+    # Transform data and perform final evaluation
     X_train_selected = selector.transform(X_train_resampled_df)
     X_test_selected = selector.transform(X_test)
-
-    # Train the best model on the selected features
     best_rf_model.fit(X_train_selected, y_train_resampled)
-
-    # Predict using the best model
     y_pred = best_rf_model.predict(X_test_selected)
 
-    # Evaluate model performance using F1-score, precision, and recall
+    # Calculate performance metrics
     f1 = f1_score(y_test, y_pred, zero_division=0)
     precision = precision_score(y_test, y_pred, zero_division=0)
     recall = recall_score(y_test, y_pred, zero_division=0)
 
-    # Store results
     results.append({
         'Target': target,
         'F1-Score': f1,
         'Precision': precision,
         'Recall': recall,
         'y_test': y_test.values,
-        'y_pred': y_pred,
-        'best_model': best_rf_model
+        'y_pred': y_pred
     })
 
-    # Output the performance metrics for each target
-    print(f"Model for target '{target}': F1-Score: {f1:.2f}, Precision: {precision:.2f}, Recall: {recall:.2f}")
+    print(f"Target: {target} | F1: {f1:.2f}, Precision: {precision:.2f}, Recall: {recall:.2f}")
 
-# Sort results by accuracy and select the top 10 accurate models
+# Visualize top 10 models performance
 top_10_results = sorted(results, key=lambda x: x['F1-Score'], reverse=True)[:10]
 
-
-# Predict with the top 10 models and visualize the validation results (y_pred vs y_test)
 plt.figure(figsize=(20, 15))
 for idx, result in enumerate(top_10_results):
-    # Compare the predicted values to the actual ones (y_test) for this target
-    comparison_df = pd.DataFrame({
-        'Actual': result['y_test'],
-        'Predicted': result['y_pred']
-    })
-    
-    plt.subplot(2, 5, idx + 1)  # 2 rows, 5 columns for 10 plots
-    sns.heatmap(
-        comparison_df.T, 
-        cmap='coolwarm', 
-        cbar=True, 
-        xticklabels=False, 
-        yticklabels=['Actual', 'Predicted']
-    )
-    plt.title(f"Heatmap for Target: {result['Target']}\nF1-score: {result['F1-Score']:.2f}")
+    comparison_df = pd.DataFrame({'Actual': result['y_test'], 'Predicted': result['y_pred']})
+
+    plt.subplot(2, 5, idx + 1)
+    sns.heatmap(comparison_df.T, cmap='coolwarm', cbar=False, xticklabels=False, yticklabels=['Actual', 'Predicted'])
+    plt.title(f"Target: {result['Target']}\nF1: {result['F1-Score']:.2f}")
 
 plt.tight_layout()
 plt.show()

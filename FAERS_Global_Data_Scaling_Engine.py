@@ -4,71 +4,69 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-print("🌐 ========================================================")
-print("🚀 [Task 4.5] Global Scaling: FAERS/JADER Data Ingestion Engine")
-print("🌐 ========================================================\n")
 
-
-class FAERSAdapter:
+class FAERSDataIngestionEngine:
     """
-    一个工业级的数据适配器，用于将原始 FDA FAERS 报告格式
-    转换为我们自定义的 ADR 预测系统标准输入。
+    Standardized adapter for ingesting raw pharmacovigilance data
+    (e.g., FDA FAERS, JADER) into the system's internal feature space.
     """
 
-    def __init__(self, mapping_dict_path):
-        # 加载标识符对齐字典（这是将 FDA Drug Name 映射到我们 STITCH/SMILES 矩阵的关键）
+    def __init__(self, mapping_dict_path=None):
         self.mapping_dict = pd.read_csv(mapping_dict_path) if mapping_dict_path else None
-        print("🔧 [Init] FAERS Adapter Initialized.")
+        print("FAERS Data Ingestion Engine initialized.")
 
     def ingest(self, raw_faers_data):
         """
-        核心数据流处理：清洗 -> 对齐 -> 转换
+        Performs data cleaning, record alignment, and standardization.
         """
-        print("⏳ [Ingest] Processing raw clinical reports...")
+        print("Processing raw clinical pharmacovigilance records...")
 
-        # 1. 清洗 (Cleaning)
-        clean_df = raw_faers_data.dropna(subset=['drugname', 'pt'])  # PT: Preferred Term
+        # Data cleaning: Drop records missing essential drug or event identifiers
+        clean_df = raw_faers_data.dropna(subset=['drugname', 'pt'])
 
-        # 2. 标识符对齐 (Mapping to our internal Gold Standard IDs)
-        # 假设我们的系统只认识在 STITCH 里出现过的已对齐药物 (Matched Drug)
-        aligned_df = clean_df.merge(self.mapping_dict, left_on='drugname', right_on='fda_name', how='inner')
+        # Identifier alignment: Map external drug names to internal gold-standard drug IDs
+        if self.mapping_dict is not None:
+            aligned_df = clean_df.merge(
+                self.mapping_dict,
+                left_on='drugname',
+                right_on='fda_name',
+                how='inner'
+            )
+            print(f"Successfully aligned {len(aligned_df)} drug-event records.")
+            return aligned_df
+        return clean_df
 
-        print(f"   ✅ Successfully aligned {len(aligned_df)} drug-event records.")
-        return aligned_df
-
-    def format_for_model(self, aligned_df, feature_matrix):
+    def format_for_model(self, aligned_df):
         """
-        将对齐后的临床报告转换为我们的 (Drug, SOC) 矩阵格式
+        Transforms aligned clinical records into the system-ready (Drug, SOC) matrix format.
         """
-        print("⚡ [Transform] Aligning clinical reports to the 500-D feature space...")
-        # 此处逻辑：将 FDA 的 PT 级副作用映射到 MedDRA SOC 宏观分类
-        # (在真实生产中，这里会调用 meddra-hierarchy.json 进行批量映射)
+        print("Transforming clinical records to the internal feature space...")
+        # Aggregation of Preferred Terms (PT) by internal drug identifiers
         formatted_df = aligned_df.groupby('internal_drug_id')['pt'].apply(list).reset_index()
         return formatted_df
 
 
-# ==========================================
-# 模拟执行 (Demonstration)
-# ==========================================
-# 模拟一份 FAERS 原始报告 (通常包含药物名和不良反应术语)
-mock_faers_data = pd.DataFrame({
-    'drugname': ['Fluoxetine', 'Clozapine', 'Diazepam', 'RandomDrugX'],
-    'pt': ['Leukemia', 'Cardiac Arrhythmia', 'Sedation', 'UnknownEffect']
-})
+# --- Demonstration Module ---
+if __name__ == "__main__":
+    # Simulated clinical dataset
+    mock_faers_data = pd.DataFrame({
+        'drugname': ['Fluoxetine', 'Clozapine', 'Diazepam', 'RandomDrugX'],
+        'pt': ['Leukemia', 'Cardiac Arrhythmia', 'Sedation', 'UnknownEffect']
+    })
 
-# 模拟我们内部的药物对齐字典
-mock_mapping = pd.DataFrame({
-    'fda_name': ['Fluoxetine', 'Clozapine', 'Diazepam'],
-    'internal_drug_id': ['Fluoxetine', 'Clozapine', 'Diazepam']
-})
+    # Simulated internal drug mapping dictionary
+    mock_mapping = pd.DataFrame({
+        'fda_name': ['Fluoxetine', 'Clozapine', 'Diazepam'],
+        'internal_drug_id': ['Fluoxetine', 'Clozapine', 'Diazepam']
+    })
 
-# 启动引擎
-adapter = FAERSAdapter(None)  # 在实际项目中传入你的映射字典文件
-adapter.mapping_dict = mock_mapping
-results = adapter.ingest(mock_faers_data)
-final_input = adapter.format_for_model(results, None)
+    # Engine execution
+    engine = FAERSDataIngestionEngine()
+    engine.mapping_dict = mock_mapping
 
-print("\n🏆 Final System-Ready Clinical Data Format:")
-print(final_input.head())
-print("\n✨ Success! Data is now standardized for the prediction pipeline.")
-print("🚀 [Master Blueprint Completion] Congratulations! All tasks mapped in the blueprint are now fully engineered.")
+    processed_results = engine.ingest(mock_faers_data)
+    final_input = engine.format_for_model(processed_results)
+
+    print("\nProcessed System-Ready Clinical Data:")
+    print(final_input.head())
+    print("\nData standardization completed successfully.")
