@@ -1,0 +1,152 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Embolism,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+2,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+2,2,Disseminated intravascular coagulation,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+3,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+4,1,Arteriosclerosis coronary artery,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+4,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+4,3,Coma,Coma states,Neurological disorders NEC,Nerv,N
+4,4,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+5,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+5,2,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+5,3,Coma,Coma states,Neurological disorders NEC,Nerv,N
+6,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+6,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+7,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+7,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+7,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+8,1,Cardiac ventricular thrombosis,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+8,2,Haemodynamic instability,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+8,3,International normalised ratio decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+8,4,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+9,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+10,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+11,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+11,2,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+11,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+12,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,Y
+13,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+14,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,Y
+14,2,Underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+15,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+15,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+15,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+15,4,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+15,5,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+15,6,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+15,7,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+15,8,Skin hypertrophy,Skin hyperplasias and hypertrophies,Cornification and dystrophic skin disorders,Skin,N
+15,9,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+15,10,Wrong product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+16,1,Neurological decompensation,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+17,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+17,2,Underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+18,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+19,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+19,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+19,3,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+20,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+20,2,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+20,3,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+20,4,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+20,5,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+20,6,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+21,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+21,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+21,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+21,4,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+22,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+22,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,Y
+23,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+24,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+24,2,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+24,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+24,4,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+24,5,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+24,6,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+24,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+24,8,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+24,9,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+25,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,Y
+26,1,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+26,2,Infusion site necrosis,Infusion site reactions,Administration site reactions,Genrl,N
+26,3,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+27,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+28,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+28,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+28,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+28,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+28,5,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+28,6,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+29,1,Cerebral thrombosis,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+30,1,Catheter site related reaction,Implant and catheter site reactions,Administration site reactions,Genrl,N
+30,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+30,3,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+30,4,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+30,5,Injection site discomfort,Injection site reactions,Administration site reactions,Genrl,N
+30,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+30,7,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+31,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+31,2,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+31,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+31,4,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+32,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+32,2,Underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+33,1,Blood pressure diastolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+33,2,Intrapericardial thrombosis,Pericardial disorders NEC,Pericardial disorders,Card,N
+34,1,Body temperature decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+34,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+35,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+35,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+35,3,Coma,Coma states,Neurological disorders NEC,Nerv,N
+35,4,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+35,5,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+35,6,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+35,7,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+35,8,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+35,9,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+35,10,Underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+36,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+37,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+38,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+38,2,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+39,1,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+39,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+39,3,Necrotising fasciitis,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,Y
+39,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+40,1,Blood pressure systolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+40,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+40,3,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+40,4,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+40,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+40,6,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+40,7,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+41,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+41,2,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+42,1,Splenectomy,Lymphoid tissue therapeutic procedures,Haematological and lymphoid tissue therapeutic procedures,Surg,N
+42,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+43,1,Accidental underdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+43,2,Cerebral mass effect,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+43,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+43,4,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+44,1,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+44,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+45,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+45,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+46,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+47,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+47,2,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+47,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+48,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+49,1,Cardiac ventricular thrombosis,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+50,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+51,1,Cardiac ventricular thrombosis,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,Y
+51,2,Coronary artery embolism,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+51,3,Embolic cerebellar infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+51,4,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+52,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+52,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+53,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+54,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+54,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,Y

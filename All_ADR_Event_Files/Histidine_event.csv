@@ -1,0 +1,888 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Eosinophilia,Eosinophilic disorders,White blood cell disorders,Blood,N
+2,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+2,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+2,3,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+2,4,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+2,5,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+3,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+4,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+4,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+5,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+6,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+6,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+7,1,Periarthritis,Joint related disorders NEC,Joint disorders,Musc,N
+8,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+8,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+8,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+9,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+9,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+9,3,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+10,1,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+10,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+11,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+11,2,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+12,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+13,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+14,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+15,1,Skin necrosis,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+16,1,Vena cava thrombosis,Vena caval embolism and thrombosis,Embolism and thrombosis,Vasc,N
+17,1,Vena cava thrombosis,Vena caval embolism and thrombosis,Embolism and thrombosis,Vasc,N
+18,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+18,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+18,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+18,4,Vena cava thrombosis,Vena caval embolism and thrombosis,Embolism and thrombosis,Vasc,N
+19,1,Blood bicarbonate,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+19,2,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+20,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+20,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+20,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+21,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+21,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+21,3,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+21,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+22,1,Venous thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+23,1,Headache,Headaches NEC,Headaches,Nerv,N
+23,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+23,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+23,4,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+23,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+24,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+25,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+25,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+26,1,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+27,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+27,2,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+27,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+29,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+30,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+31,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+31,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+32,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+33,1,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+34,1,Candida infection,Candida infections,Fungal infectious disorders,Infec,N
+35,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+35,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+35,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+35,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+36,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+37,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+37,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+38,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+38,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+39,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+39,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+39,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+40,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+40,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+40,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+40,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+41,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+42,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+42,2,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+43,1,Blood glucose decreased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+43,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+44,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+45,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+46,1,Metabolic alkalosis,Metabolic alkaloses,Acid-base disorders,Metab,N
+47,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+48,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+48,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+49,1,Complication associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+49,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+50,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+51,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+51,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+52,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+53,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+54,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+54,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+54,3,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+54,4,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+55,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+55,2,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+55,3,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+55,4,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+56,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+57,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+57,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+58,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+58,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+59,1,Cholestasis,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,Y
+60,1,Abscess neck,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,N
+60,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+61,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+61,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+62,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+63,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+63,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+63,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+64,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+65,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+66,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+67,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+68,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+69,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+70,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+71,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+72,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+73,1,Catheter site discharge,Implant and catheter site reactions,Administration site reactions,Genrl,N
+73,2,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+74,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+75,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+76,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+77,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+77,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+78,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+79,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+80,1,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+80,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+80,3,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+80,4,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+80,5,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+81,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+81,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+81,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+82,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+83,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+83,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+84,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+85,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+86,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+87,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+87,2,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+87,3,Peritoneal effluent abnormal,Peritoneal fluid and membrane function analyses,Gastrointestinal investigations,Inv,N
+88,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+88,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+89,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+90,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+91,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+92,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+93,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+93,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+94,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+94,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+95,1,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+96,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+96,2,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+97,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+97,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+98,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+99,1,Catheter site extravasation,Implant and catheter site reactions,Administration site reactions,Genrl,N
+99,2,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+99,3,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+100,1,Intestinal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+101,1,Wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+102,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+103,1,Headache,Headaches NEC,Headaches,Nerv,N
+103,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+103,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+104,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+105,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+106,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+107,1,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+107,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+107,3,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+107,4,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+107,5,Pneumoperitoneum,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+108,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+109,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+109,2,Intestinal perforation,Intestinal ulcers and perforation NEC,Gastrointestinal ulceration and perforation,Gastr,N
+109,3,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+110,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+111,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+112,1,Device related sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+112,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+113,1,Bacillus bacteraemia,Bacillary infections,Bacterial infectious disorders,Infec,N
+114,1,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+114,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+114,3,Wrong product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+115,1,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+115,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+115,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+116,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+116,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+117,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+117,2,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+117,3,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+118,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+118,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+118,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+118,4,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+118,5,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+119,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+120,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+120,2,Necrotising fasciitis,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,N
+120,3,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+121,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+121,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+121,3,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+122,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+122,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+123,1,Abdominal infection,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+123,2,Excessive granulation tissue,Skin and subcutaneous conditions NEC,Skin and subcutaneous tissue disorders NEC,Skin,N
+123,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+123,4,Postoperative wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+124,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+125,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+126,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+127,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+128,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+128,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+128,3,Post procedural infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+129,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+129,2,Thermal burn,Thermal burns,Injuries by physical agents,Inj&P,N
+130,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+131,1,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+131,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+132,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+133,1,Bloody peritoneal effluent,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,N
+133,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+134,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+135,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+136,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+137,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+137,2,Diabetic complication,Diabetic complications NEC,Diabetic complications,Metab,N
+137,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+137,4,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+138,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+139,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+140,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+140,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+141,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+142,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+143,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+144,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+145,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+146,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+147,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+148,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+148,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+149,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+149,2,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+150,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+151,1,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+151,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+152,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+152,2,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+152,3,Blood pressure abnormal,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+152,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+152,5,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+152,6,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+152,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+153,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+154,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+155,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+155,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+155,3,Poor quality product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+155,4,Product odour abnormal,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+156,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+156,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+156,3,Pseudomonas infection,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+157,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+158,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+159,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+160,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+161,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+161,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+161,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+161,4,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+162,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+162,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+162,3,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+162,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+162,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+162,6,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+163,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+164,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+165,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+166,1,Bronchitis,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+166,2,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+166,3,Choking sensation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+166,4,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+166,5,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+166,6,Diabetic complication,Diabetic complications NEC,Diabetic complications,Metab,N
+166,7,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+166,8,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+166,9,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+167,1,Candida infection,Candida infections,Fungal infectious disorders,Infec,N
+168,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+169,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+169,2,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+169,3,Corynebacterium infection,Corynebacteria infections,Bacterial infectious disorders,Infec,N
+169,4,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+169,5,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+170,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+171,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+172,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+173,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+173,2,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+174,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+174,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+174,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+175,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+176,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+176,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+176,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+176,4,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+176,5,Hypophagia,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+176,6,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+176,7,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+176,8,Terminal state,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+176,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+177,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+177,2,Foetal growth restriction,Foetal growth complications,Foetal complications,Preg,N
+178,1,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+178,2,Cholestasis,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+178,3,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+178,4,Haemorrhage in pregnancy,Haemorrhagic complications of pregnancy,Maternal complications of pregnancy,Preg,N
+178,5,Hypertransaminasaemia,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+178,6,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+178,7,Placental insufficiency,Placental abnormalities (excl neoplasms),"Placental, amniotic and cavity disorders (excl haemorrhages)",Preg,N
+178,8,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+178,9,Premature separation of placenta,Haemorrhagic complications of pregnancy,Maternal complications of pregnancy,Preg,N
+178,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+178,11,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+179,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+179,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+180,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+180,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+181,1,Arthropod bite,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+181,2,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+181,3,Furuncle,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+181,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+181,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+181,6,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+182,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+183,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+184,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+185,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+186,1,Application site dryness,Application site reactions,Administration site reactions,Genrl,N
+186,2,Application site exfoliation,Application site reactions,Administration site reactions,Genrl,N
+186,3,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+186,4,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+187,1,Hypophagia,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+187,2,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+187,3,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+188,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+188,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+188,3,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+189,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+190,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+191,1,Cholecystitis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+191,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+192,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+193,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+193,2,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+194,1,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+194,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+195,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+196,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+197,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+198,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+198,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+198,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+199,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+200,1,Candida infection,Candida infections,Fungal infectious disorders,Infec,N
+200,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+200,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+201,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+201,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+201,3,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+201,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+201,5,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+201,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+201,7,Vascular device infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+202,1,Application site exfoliation,Application site reactions,Administration site reactions,Genrl,N
+202,2,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+202,3,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+203,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+203,2,Aortic aneurysm,Aortic aneurysms and dissections,Aneurysms and artery dissections,Vasc,N
+203,3,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+203,4,Pneumoperitoneum,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+204,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+204,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+205,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+206,1,Catheter site discharge,Implant and catheter site reactions,Administration site reactions,Genrl,N
+206,2,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+206,3,Device connection issue,Device issues NEC,Device issues,Prod,N
+206,4,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+206,5,Near death experience,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+206,6,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+206,7,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+206,8,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+207,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+207,2,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+207,3,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+207,4,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+208,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+208,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+209,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+210,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+210,2,Headache,Headaches NEC,Headaches,Nerv,N
+210,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+210,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+211,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+212,1,Device related sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+212,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+212,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+213,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+214,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+215,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+215,2,Fluid intake reduced,Fluid intake decreased,Electrolyte and fluid balance conditions,Metab,N
+215,3,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+215,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+215,5,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+215,6,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+216,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+217,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+217,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+218,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+218,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+219,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+220,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+221,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+221,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+221,3,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+221,4,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+222,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+222,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+223,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+224,1,Eosinophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+224,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+224,3,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+225,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+225,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+225,3,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+226,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+227,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+227,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+227,3,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+227,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+228,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+228,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+229,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+229,2,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+229,3,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+229,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+230,1,Hypovitaminosis,Vitamin deficiencies NEC,Vitamin related disorders,Metab,N
+230,2,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+231,1,Catheter site extravasation,Implant and catheter site reactions,Administration site reactions,Genrl,N
+231,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+232,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+232,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+232,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+232,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+232,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+232,6,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+233,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+233,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+234,1,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+235,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+235,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+235,3,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+236,1,Abdominal sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+236,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+236,3,Feeling of body temperature change,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+236,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+236,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+237,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+238,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+238,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+238,3,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+239,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+240,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+240,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+240,3,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+241,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+242,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+243,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+243,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+244,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+244,2,Headache,Headaches NEC,Headaches,Nerv,N
+244,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+244,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+245,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+246,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+246,2,Catheter site extravasation,Implant and catheter site reactions,Administration site reactions,Genrl,N
+246,3,Procedural complication,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+247,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+248,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+248,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+248,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+248,4,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+248,5,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+249,1,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+249,2,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+250,1,Device physical property issue,Device physical property and chemical issues,Device issues,Prod,N
+250,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+251,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+251,2,Dyschezia,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+252,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+253,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+253,2,Cor pulmonale acute,Right ventricular failures,Heart failures,Card,N
+253,3,Inadequate aseptic technique in manufacturing of product,Manufacturing production issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+254,1,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+255,1,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+256,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+256,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+256,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+256,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+257,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+257,2,Headache,Headaches NEC,Headaches,Nerv,N
+257,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+257,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+257,5,Refeeding syndrome,Metabolic disorders NEC,Metabolism disorders NEC,Metab,N
+258,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+258,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+258,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+258,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+259,1,Headache,Headaches NEC,Headaches,Nerv,N
+259,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+259,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+260,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+261,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+262,1,Headache,Headaches NEC,Headaches,Nerv,N
+262,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+262,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+263,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+264,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+264,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+265,1,Headache,Headaches NEC,Headaches,Nerv,N
+265,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+266,1,Blood test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+266,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+266,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+266,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+266,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+267,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+267,2,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+268,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+269,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+269,2,Peritonitis pneumococcal,Streptococcal infections,Bacterial infectious disorders,Infec,N
+269,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+270,1,Electrolyte imbalance,Electrolyte imbalance NEC,Electrolyte and fluid balance conditions,Metab,N
+271,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+272,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+273,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+273,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+274,1,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+275,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+276,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+276,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+277,1,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+277,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+277,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+278,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+279,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+280,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+281,1,Skin odour abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+282,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+283,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+284,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+285,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+286,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+286,2,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+286,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+286,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+287,1,Peritonitis bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+287,2,Pseudomonas peritonitis,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+288,1,Pseudomonas peritonitis,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+289,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+290,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+290,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+290,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+291,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+292,1,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+292,2,Systemic infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+293,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+293,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+293,3,Polyuria,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+293,4,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+294,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+295,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+296,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+296,2,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+297,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+297,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+298,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+298,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+298,3,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+298,4,Spinal cord infection,Central nervous system and spinal infections,Infections - pathogen unspecified,Infec,N
+299,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+299,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+300,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+300,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+300,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+300,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+301,1,Mycobacterial peritonitis,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+302,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+302,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+302,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+303,1,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+304,1,Headache,Headaches NEC,Headaches,Nerv,N
+304,2,Migraine,Migraine headaches,Headaches,Nerv,N
+305,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+306,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+307,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+308,1,Device related sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+308,2,Staphylococcal sepsis,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+309,1,Accidental underdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+310,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+311,1,Vascular device infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+312,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+312,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+312,3,Weight gain poor,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+313,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+314,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+314,2,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+314,3,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+315,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+315,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+316,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+317,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+317,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+318,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+319,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+319,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+320,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+320,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+320,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+321,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+322,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+323,1,Catheter site infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+324,1,Vulvovaginal candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+325,1,Vulvovaginal candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+326,1,Infusion site pruritus,Infusion site reactions,Administration site reactions,Genrl,N
+326,2,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+327,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+328,1,Headache,Headaches NEC,Headaches,Nerv,N
+328,2,Headache,Headaches NEC,Headaches,Nerv,N
+328,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+328,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+329,1,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+330,1,Wrong product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+331,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+332,1,Limb mass,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+332,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+332,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+332,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+332,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+332,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+333,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+333,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+334,1,Amino acid metabolism disorder,Amino acid metabolism disorders NEC,Protein and amino acid metabolism disorders NEC,Metab,N
+334,2,Drug dose titration not performed,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+334,3,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+335,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+335,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+336,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+336,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+336,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+337,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+337,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+338,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+339,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+340,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+340,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+340,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+340,4,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+340,5,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+340,6,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+340,7,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+341,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+342,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+343,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+343,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+343,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+344,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+345,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+345,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+346,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+346,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+347,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+347,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+348,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+349,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+350,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+351,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+351,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+352,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+352,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+352,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+352,4,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+352,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+352,6,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+353,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+353,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+353,3,Hypoaesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+353,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+353,5,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+353,6,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+354,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+354,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+355,1,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+355,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+356,1,Priapism,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+357,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+358,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+359,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+359,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+360,1,Blood test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+361,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+362,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+363,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+363,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+364,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+364,2,Food intolerance,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metab,N
+364,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+364,4,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+364,5,Retching,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+364,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+365,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+365,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+366,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+367,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+367,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+367,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+367,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+367,5,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+368,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+368,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+368,3,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+369,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+369,2,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+369,3,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+370,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+371,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+371,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+371,3,Underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+372,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+372,2,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+372,3,Blood magnesium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+372,4,Blood phosphorus decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+372,5,Blood potassium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+372,6,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+372,7,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+372,8,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+372,9,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+372,10,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+372,11,Electrolyte imbalance,Electrolyte imbalance NEC,Electrolyte and fluid balance conditions,Metab,N
+372,12,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+372,13,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+372,14,Klebsiella test positive,Bacteria identification and serology (excl mycobacteria),Microbiology and serology investigations,Inv,N
+372,15,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+373,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+374,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+374,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+374,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+375,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+376,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+376,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+376,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+377,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+378,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+379,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+380,1,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+380,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+380,3,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+380,4,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+380,5,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+381,1,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+381,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+381,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+382,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+383,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+383,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+383,3,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+384,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+384,2,Liquid product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+385,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+386,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+386,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+386,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+386,4,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+387,1,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+387,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+388,1,Vascular device infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+389,1,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+389,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+389,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+390,1,Peritoneal dialysis complication,Dialysis related complications,Procedural related injuries and complications NEC,Inj&P,N
+391,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+391,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+392,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+392,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+393,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+394,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+394,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+394,3,Gastroenteritis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+394,4,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+395,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+396,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+396,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+396,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+396,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+396,5,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+397,1,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+398,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+398,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+398,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+398,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+398,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+399,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+399,2,Headache,Headaches NEC,Headaches,Nerv,N
+400,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+401,1,Device placement issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+401,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+402,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+402,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+403,1,Noninfectious peritonitis,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,3,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,4,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,5,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,6,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+403,7,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+404,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+405,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+405,2,Peritoneal cloudy effluent,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+405,3,Peritonitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+406,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+406,2,Device issue,Device issues NEC,Device issues,Prod,N
+406,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+407,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+407,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+407,3,Epigastric discomfort,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+407,4,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+407,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+407,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+407,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+408,1,Gastrointestinal stoma output abnormal,Gastrointestinal function diagnostic procedures,Gastrointestinal investigations,Inv,N
+408,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+409,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+409,2,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+409,3,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+410,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+410,2,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+411,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+411,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+411,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+411,4,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+411,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+411,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+412,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+412,2,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+412,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+413,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+413,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+414,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+414,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+414,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+415,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+416,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+417,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+418,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+418,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N

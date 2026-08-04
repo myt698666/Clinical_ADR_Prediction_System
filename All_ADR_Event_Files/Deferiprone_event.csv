@@ -1,0 +1,88 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+2,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+2,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,Y
+2,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+3,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+4,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,Y
+4,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+5,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+5,2,Psychomotor skills impaired,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+6,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+6,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+7,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+7,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+8,1,Retinal toxicity,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+9,1,Retinal toxicity,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+10,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+11,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+12,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+12,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+13,1,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+14,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+14,2,Dermal cyst,Skin cysts and polyps,Cutaneous neoplasms benign,Skin,N
+14,3,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+14,4,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+14,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+14,6,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+14,7,Synovial fluid protein present,Musculoskeletal and soft tissue tests NEC,Musculoskeletal and soft tissue investigations (excl enzyme tests),Inv,N
+15,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+15,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+16,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+17,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+17,2,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+18,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+19,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+20,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+20,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+20,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+20,4,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+20,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+21,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+22,1,Arthropathy,Arthropathies NEC,Joint disorders,Musc,N
+23,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+24,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+25,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+26,1,Blood product transfusion dependent,Disability issues,Lifestyle issues,SocCi,N
+26,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+26,3,Haemolysis,Haemolyses NEC,Haemolyses and related conditions,Blood,N
+27,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+27,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+27,3,Cardiac iron overload,Cardiomyopathies,Myocardial disorders,Card,N
+27,4,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+28,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+28,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+28,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+28,4,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+28,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+28,6,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+29,1,Neurological symptom,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+30,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+30,3,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+30,4,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,5,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+30,6,Hepatosplenomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+30,7,Hyperparathyroidism,Hyperparathyroid disorders,Parathyroid gland disorders,Endo,N
+30,8,Hypoparathyroidism,Hypoparathyroid disorders,Parathyroid gland disorders,Endo,N
+30,9,Iron overload,Iron excess,Iron and trace metal metabolism disorders,Metab,N
+30,10,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+30,11,Serum ferritin increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+30,12,Thalassaemia beta,Haemoglobinopathies congenital,Blood and lymphatic system disorders congenital,Cong,N
+30,13,Type 1 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+31,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+31,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+32,1,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+33,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+33,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+34,1,Headache,Headaches NEC,Headaches,Nerv,N
+34,2,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+34,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+34,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+34,5,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+34,6,Vascular device infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+35,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+36,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+36,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+36,3,Migraine,Migraine headaches,Headaches,Nerv,N
+36,4,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N

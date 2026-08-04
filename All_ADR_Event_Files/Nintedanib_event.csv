@@ -1,0 +1,944 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+2,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+2,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+3,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+3,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+3,3,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+3,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+4,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+5,1,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+6,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+6,2,Thrombotic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+7,1,Blindness unilateral,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+7,2,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+8,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+8,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+9,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+10,1,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+10,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+11,1,Diverticular perforation,"Gastrointestinal ulcers and perforation, site unspecified",Gastrointestinal ulceration and perforation,Gastr,N
+12,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+14,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+15,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+15,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+16,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+16,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+16,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+17,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+18,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+18,2,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+18,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+18,4,Lung consolidation,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+18,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+18,6,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+18,7,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+18,8,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+19,1,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+20,1,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+21,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+22,1,Intestinal perforation,Intestinal ulcers and perforation NEC,Gastrointestinal ulceration and perforation,Gastr,Y
+23,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+24,1,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+25,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+25,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,3,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+26,1,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+27,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+27,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Aortic aneurysm,Aortic aneurysms and dissections,Aneurysms and artery dissections,Vasc,Y
+29,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+29,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+29,3,Hemiplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+30,1,Headache,Headaches NEC,Headaches,Nerv,N
+30,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+31,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+31,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,4,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+31,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+31,6,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+31,7,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+32,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+32,2,Abnormal faeces,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+32,3,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+32,4,Bowel movement irregularity,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+32,5,Faeces pale,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+33,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+33,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+33,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+33,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+34,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+34,2,Cervical radiculopathy,Cervical spinal cord and nerve root disorders,Spinal cord and nerve root disorders,Nerv,N
+35,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+35,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+36,1,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+37,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+38,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+38,2,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+38,3,Inhibitory drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+39,1,Chondrocalcinosis,Crystal arthropathic disorders,Joint disorders,Musc,N
+39,2,Chronic obstructive pulmonary disease,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+39,3,Elderly,Age related issues,Age related factors,SocCi,N
+39,4,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+40,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+40,2,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+40,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+41,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+41,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+41,3,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+41,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+42,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+43,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+43,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+43,3,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+44,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+44,2,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+44,3,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+44,4,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+44,5,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+44,6,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+44,7,Non-small cell lung cancer metastatic,Non-small cell neoplasms malignant of the respiratory tract cell type specified,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,Y
+44,8,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+45,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+45,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+46,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+46,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+47,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+47,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+48,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+49,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+50,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+50,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+51,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+51,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+51,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+51,4,Gastrointestinal sounds abnormal,Abdominal findings abnormal,Gastrointestinal signs and symptoms,Gastr,N
+51,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+52,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+53,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+54,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+54,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+55,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+55,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+55,3,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+55,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+56,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+56,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+57,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+58,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+58,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+59,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+59,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+59,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+60,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+61,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+62,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+62,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+63,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+64,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+64,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+65,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+65,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+65,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+66,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+66,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+67,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+68,1,Glomerulonephritis membranous,Glomerulonephritis and nephrotic syndrome,Nephropathies,Renal,N
+68,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+68,3,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+69,1,Headache,Headaches NEC,Headaches,Nerv,N
+70,1,Glomerulonephritis membranous,Glomerulonephritis and nephrotic syndrome,Nephropathies,Renal,N
+70,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+70,3,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+71,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+71,2,Hyperaesthesia teeth,Dental pain and sensation disorders,Dental and gingival conditions,Gastr,N
+71,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+71,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+72,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+73,1,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,Y
+74,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+74,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+74,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+74,4,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+74,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+74,6,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+74,7,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+74,8,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+74,9,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+74,10,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+75,1,Duodenal ulcer haemorrhage,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+76,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+76,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+76,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+76,4,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+76,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+76,6,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+76,7,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+76,8,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+76,9,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+76,10,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+77,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+78,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+79,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+80,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+80,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+80,3,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+81,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+81,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+82,1,Cerebral artery embolism,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+83,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+83,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+84,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+84,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+85,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+85,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+85,3,Erosive duodenitis,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+86,1,Herpes zoster,Herpes viral infections,Viral infectious disorders,Infec,N
+86,2,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+87,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+88,1,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+88,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+89,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+89,2,Atherosclerotic plaque rupture,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+89,3,Coronary artery occlusion,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+90,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+90,2,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+90,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+90,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+91,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+91,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+91,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+92,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+92,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+92,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+93,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+93,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+93,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+94,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+94,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+95,1,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+96,1,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+97,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+98,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+98,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+98,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+98,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+99,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+99,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+99,3,Respiratory symptom,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,Resp,N
+100,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+100,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+101,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+101,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+101,3,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+101,4,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+102,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+102,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+102,3,Forced vital capacity decreased,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+103,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+104,1,Amaurosis fugax,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+104,2,Peripheral arterial occlusive disease,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+104,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+105,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+105,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+105,3,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+106,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+107,1,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+108,1,Lacunar infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+109,1,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+109,2,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+110,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+111,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+112,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+112,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+112,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+113,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+113,2,Hypomagnesaemia,Magnesium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+114,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+115,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+116,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+117,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+117,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+117,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+118,1,Cholangiocarcinoma,Bile duct neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,N
+119,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+120,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+121,1,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+121,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+122,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+123,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+124,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+124,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+124,3,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+124,4,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+124,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+124,6,Papule,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+124,7,Urine odour abnormal,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+124,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+125,1,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+126,1,Diverticulum,Diverticula,Diverticular disorders,Gastr,N
+126,2,Large intestine perforation,Intestinal ulcers and perforation NEC,Gastrointestinal ulceration and perforation,Gastr,N
+126,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+127,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+127,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+127,3,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+128,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+128,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+128,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+128,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+129,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+130,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+131,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+132,1,Polymyalgia rheumatica,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+133,1,Gastric ulcer,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+133,2,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+134,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+134,2,Headache,Headaches NEC,Headaches,Nerv,N
+134,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+134,4,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+134,5,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+134,6,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+134,7,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+134,8,Transaminases increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+135,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+136,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+136,2,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+136,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+137,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+137,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+137,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+138,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+138,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+139,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+139,2,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+139,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+139,4,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+139,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+140,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+140,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+141,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+142,1,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+142,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+143,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+144,1,Intestinal perforation,Intestinal ulcers and perforation NEC,Gastrointestinal ulceration and perforation,Gastr,N
+145,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+146,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+146,2,Blood electrolytes increased,Water and electrolyte analyses NEC,"Water, electrolyte and mineral investigations",Inv,N
+146,3,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+146,4,International normalised ratio decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+146,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+146,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+146,7,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+146,8,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+146,9,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+146,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+147,1,Acute coronary syndrome,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+148,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+149,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+149,2,Faeces discoloured,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+149,3,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+149,4,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+150,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+151,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+151,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+152,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+152,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+152,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+153,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+154,1,Dilated cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+155,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+155,2,Necrotising fasciitis,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,N
+156,1,Cholecystitis infective,Hepatobiliary and spleen infections,Infections - pathogen unspecified,Infec,N
+156,2,Gallbladder rupture,Gallbladder disorders NEC,Gallbladder disorders,Hepat,N
+157,1,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+158,1,Blood urine present,Urinalysis NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+158,2,Transitional cell carcinoma,Urinary tract neoplasms malignant NEC,Renal and urinary tract neoplasms malignant and unspecified,Neopl,N
+159,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+160,1,Angina unstable,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+161,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+162,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+162,2,Platelet disorder,Platelet disorders NEC,Platelet disorders,Blood,N
+163,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+164,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+165,1,Conjunctival haemorrhage,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+166,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+167,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+167,2,Dilated cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+167,3,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+167,4,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+168,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+169,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+169,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+170,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+171,1,Abscess limb,Infections NEC,Infections - pathogen unspecified,Infec,N
+172,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+172,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+172,3,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+172,4,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+173,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+174,1,Sudden cardiac death,Death and sudden death,Fatal outcomes,Genrl,Y
+175,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+175,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+175,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+175,4,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,Y
+176,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+176,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+176,3,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+176,4,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+176,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+176,6,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+177,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+177,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+177,3,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+177,4,Agonal rhythm,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+177,5,Catarrh,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+177,6,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+177,7,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+177,8,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+177,9,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,Y
+177,10,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+177,11,Gallbladder oedema,Gallbladder disorders NEC,Gallbladder disorders,Hepat,N
+177,12,Hypopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+177,13,Incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+177,14,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+177,15,Liver tenderness,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+177,16,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+177,17,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+177,18,Pulseless electrical activity,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+177,19,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+177,20,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+177,21,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+177,22,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+178,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+178,2,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+179,1,Thrombotic cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+180,1,Myopathy,Myopathies,Muscle disorders,Musc,N
+180,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+181,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+182,1,Myopathy,Myopathies,Muscle disorders,Musc,N
+182,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+183,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+184,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+185,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+185,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+186,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+187,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+188,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+188,2,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,N
+189,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+189,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+189,3,Pulmonary function test decreased,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+190,1,Myasthenia gravis,Neuromuscular junction dysfunction,Neuromuscular disorders,Nerv,N
+191,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+191,2,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+192,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+193,1,Fixed eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+193,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+193,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+193,4,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+194,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,Y
+195,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+195,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+196,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+197,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+198,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+199,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+200,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+201,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+201,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+202,1,Eosinophilia,Eosinophilic disorders,White blood cell disorders,Blood,N
+203,1,Lung neoplasm malignant,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,N
+204,1,Limb discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+204,2,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+205,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+206,1,Appendicitis perforated,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+206,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+206,3,Gangrene,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+206,4,Gastrointestinal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+206,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+207,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+208,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+208,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+208,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+208,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+208,5,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+209,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+210,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+210,2,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+211,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+212,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+212,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+212,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+212,4,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+212,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+212,6,Oesophageal candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+212,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+213,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+214,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+215,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+215,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+215,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+215,4,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+215,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+216,1,Parapsoriasis,Papulosquamous conditions,Epidermal and dermal conditions,Skin,N
+217,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+217,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+218,1,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,Y
+219,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+220,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+221,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+222,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+223,1,Duodenal perforation,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+224,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+225,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+226,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+227,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+228,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+229,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+230,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+231,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+232,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+233,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+234,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+235,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+235,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+235,3,Thalamic infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+236,1,Headache,Headaches NEC,Headaches,Nerv,N
+236,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+237,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+238,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+239,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+240,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+241,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+242,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+243,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+244,1,Lung transplant,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surg,N
+244,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+244,3,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+245,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+245,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+245,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+246,1,Appendicitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+247,1,Cardiac operation,Cardiac therapeutic procedures NEC,Cardiac therapeutic procedures,Surg,N
+248,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+249,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+250,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+251,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+252,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+253,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,Y
+253,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+254,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+254,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+254,3,Duodenal ulcer,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,Y
+255,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+256,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+256,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+257,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+257,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+258,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+259,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+259,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+259,3,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+259,4,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+260,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+261,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+262,1,Lung neoplasm malignant,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,Y
+263,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+263,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+263,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+263,4,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+264,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+264,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+265,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+266,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+266,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+267,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+267,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+267,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+268,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+268,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+268,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+268,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+269,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+269,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+269,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+270,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+270,2,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+270,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+270,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+270,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+271,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+272,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+272,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+272,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+272,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+273,1,Antisynthetase syndrome,Muscle infections and inflammations,Muscle disorders,Musc,N
+273,2,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+274,1,Anal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+275,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+275,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+275,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+275,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+276,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+277,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+278,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+278,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+279,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+280,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+281,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+281,2,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+281,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+282,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+283,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+283,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+284,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+284,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+284,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+284,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+285,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+286,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+286,2,Crepitations,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+287,1,Crepitations,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+287,2,Forced vital capacity decreased,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+287,3,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+288,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+288,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+288,3,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+289,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+289,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+290,1,Enterocolitis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,Y
+291,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+291,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+291,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+291,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+291,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+292,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+292,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+293,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+293,2,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+293,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+294,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+294,2,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+294,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+295,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+296,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+296,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+297,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+298,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+298,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+299,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+300,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+300,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+301,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+301,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+301,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+301,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+301,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+301,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+302,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+303,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+304,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+305,1,Oxygen consumption increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+306,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+306,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+307,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+307,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+308,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+309,1,Chronic kidney disease,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+310,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+311,1,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+312,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+312,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+312,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+313,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+314,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+314,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+314,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+315,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+316,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+317,1,Pityriasis,Scaly conditions,Epidermal and dermal conditions,Skin,N
+318,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+319,1,Diverticulitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+319,2,Haemorrhoids,Haemorrhoids and gastrointestinal varices (excl oesophageal),Gastrointestinal vascular conditions,Gastr,N
+320,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+320,2,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+321,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+321,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+322,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,Y
+323,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+323,2,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+324,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+325,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+325,2,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+326,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+327,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,Y
+328,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+328,2,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+329,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+330,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+331,1,Drug tolerance decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+332,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+333,1,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+334,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+335,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+336,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+337,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+338,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+339,1,Mean cell volume increased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+340,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+341,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+342,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+343,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+343,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+343,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+343,4,Parapsoriasis,Papulosquamous conditions,Epidermal and dermal conditions,Skin,N
+343,5,Skin lesion inflammation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+344,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+344,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+345,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+346,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+346,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+346,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+346,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+347,1,Gastrointestinal motility disorder,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+348,1,Acute coronary syndrome,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+348,2,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+348,3,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+348,4,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+349,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+349,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+349,3,Eating disorder,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+349,4,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+349,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+350,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+351,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+351,2,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+351,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+352,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+353,1,Biliary obstruction,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepat,N
+353,2,Blood test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+353,3,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+354,1,Retroperitoneal haemorrhage,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,N
+355,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+356,1,Knee arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+357,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+358,1,Conjunctival haemorrhage,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+359,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+360,1,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+361,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+361,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+362,1,Mesenteric haematoma,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+363,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+363,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+364,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+365,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+365,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+365,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+366,1,Circumcision,Penile therapeutic procedures,Male genital tract therapeutic procedures,Surg,N
+367,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+368,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+369,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+370,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+371,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+371,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+372,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+373,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+374,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+374,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+375,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+376,1,Aortic aneurysm rupture,Aortic aneurysms and dissections,Aneurysms and artery dissections,Vasc,N
+377,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+378,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+379,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+379,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+380,1,Retroperitoneal haemorrhage,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,N
+381,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+381,2,Bile duct stone,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepat,N
+382,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+382,2,Biliary obstruction,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepat,N
+382,3,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+382,4,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+382,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+383,1,Mean cell volume increased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+384,1,Skin cancer,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,Neopl,N
+385,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+386,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+387,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+388,1,Knee operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+389,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+390,1,Onychoclasis,Nail and nail bed conditions (excl infections and infestations),Skin appendage conditions,Skin,N
+391,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+391,2,Faeces soft,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+391,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+391,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+391,5,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+391,6,Migraine,Migraine headaches,Headaches,Nerv,N
+391,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+391,8,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+392,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+393,1,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+394,1,Left ventricular dysfunction,Myocardial disorders NEC,Myocardial disorders,Card,N
+395,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+396,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+396,2,Genital paraesthesia,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+397,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+398,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+398,2,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+399,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+400,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+401,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+401,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+402,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+402,2,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+403,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+403,2,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+403,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+403,4,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+403,5,Headache,Headaches NEC,Headaches,Nerv,N
+403,6,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+403,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+404,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+405,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+406,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+407,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+407,2,Subdural haemorrhage,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+408,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+409,1,Retroperitoneal haemorrhage,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,N
+410,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+410,2,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+410,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+410,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+411,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+412,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+413,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+414,1,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+415,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+416,1,Onychomycosis,Fungal infections NEC,Fungal infectious disorders,Infec,N
+416,2,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+417,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+418,1,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+418,2,Platypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+418,3,Pneumomediastinum,Mediastinal disorders,Thoracic disorders (excl lung and pleura),Resp,N
+418,4,Respiratory alkalosis,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+419,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+419,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+420,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+421,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+422,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+422,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+423,1,Bradypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+423,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+424,1,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+425,1,Oral candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+426,1,Adrenal haemorrhage,Adrenal gland disorders NEC,Adrenal gland disorders,Endo,N
+427,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+427,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+427,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+428,1,Hypertransaminasaemia,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+428,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+429,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+430,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+431,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+432,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+433,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+434,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+435,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+436,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+437,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+437,2,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+438,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+439,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+439,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+439,3,Hypopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+439,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+439,5,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+439,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+440,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+440,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+441,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+442,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+442,2,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+443,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+444,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+444,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+445,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+446,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+447,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+448,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+449,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+450,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+451,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+451,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+451,3,Intentional product use issue,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+451,4,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+452,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+452,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+453,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+453,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+453,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+453,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+453,5,Impaired quality of life,Social issues NEC,Lifestyle issues,SocCi,N
+454,1,Affective disorder,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+454,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+454,3,Decreased interest,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+455,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+456,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+457,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+458,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+458,2,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+459,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+460,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+461,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+462,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+462,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+462,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+463,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+464,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+464,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+464,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+465,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+465,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+465,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+466,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+467,1,Acute coronary syndrome,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+467,2,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+468,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+469,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+470,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+471,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+472,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+472,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+472,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+472,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+472,5,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+473,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+474,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+475,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+475,2,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+476,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+477,1,Aortic dilatation,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+477,2,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+477,3,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+477,4,Wound,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+478,1,Renal embolism,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+479,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+480,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+480,2,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+481,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+482,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+482,2,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+483,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+484,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+485,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+486,1,Right ventricular failure,Right ventricular failures,Heart failures,Card,N
+487,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+488,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+488,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+489,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+489,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N

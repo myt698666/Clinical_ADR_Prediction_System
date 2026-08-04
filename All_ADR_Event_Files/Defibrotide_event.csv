@@ -1,0 +1,48 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+2,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+2,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+2,3,Gastritis erosive,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+2,4,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+2,5,Oral mucosa atrophy,Oral soft tissue disorders NEC,Oral soft tissue conditions,Gastr,N
+2,6,Pharyngeal haemorrhage,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+2,7,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+3,1,Pulmonary haemorrhage,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,Y
+4,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+5,1,Gastric haemorrhage,Gastric and oesophageal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+6,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+6,2,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+6,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+6,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+7,1,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+8,1,Acute myeloid leukaemia recurrent,Leukaemias acute myeloid,Leukaemias,Neopl,Y
+9,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+9,2,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+9,3,Serositis,Inflammations,General system disorders NEC,Genrl,N
+10,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+10,2,Device related sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+10,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+10,4,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+11,1,Acute lymphocytic leukaemia recurrent,Leukaemias acute lymphocytic,Leukaemias,Neopl,N
+11,2,Transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,Y
+12,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+12,2,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+12,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+13,1,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,Y
+14,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+15,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+15,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+16,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+16,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+17,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+17,2,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+17,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+18,1,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+18,2,Post transplant lymphoproliferative disorder,Lymphoproliferative disorders NEC (excl leukaemias and lymphomas),Haematopoietic neoplasms (excl leukaemias and lymphomas),Neopl,N
+18,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+18,4,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+19,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+20,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+20,2,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+21,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+22,1,Haemofiltration,Haematological therapeutic procedures NEC,Haematological and lymphoid tissue therapeutic procedures,Surg,N

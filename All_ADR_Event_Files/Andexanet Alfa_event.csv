@@ -1,0 +1,36 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+2,1,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+3,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+4,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+5,1,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+6,1,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+6,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+6,3,Poor peripheral circulation,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+6,4,Pulse absent,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+7,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+8,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+9,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+10,1,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+10,2,Middle cerebral artery stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+11,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+12,1,Heparin resistance,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+13,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+13,2,Procedural haemorrhage,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+13,3,Product monitoring error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+13,4,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+14,1,Vascular graft thrombosis,Cardiac and vascular procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+15,1,Injury associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+16,1,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+16,2,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+16,3,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+16,4,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+17,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,Y
+18,1,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+19,1,Graft thrombosis,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,Y
+20,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+20,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+20,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+20,4,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+21,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+22,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N

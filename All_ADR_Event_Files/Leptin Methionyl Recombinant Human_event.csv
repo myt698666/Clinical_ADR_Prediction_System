@@ -1,0 +1,30 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+2,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+2,2,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+2,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+3,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+4,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+4,2,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+4,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+5,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+6,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+7,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+7,2,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+7,3,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+7,4,Diet noncompliance,Dietary and nutritional issues,Lifestyle issues,SocCi,N
+7,5,Glycosylated haemoglobin increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+8,1,Eye operation,Eye therapeutic procedures NEC,Eye therapeutic procedures,Surg,N
+8,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+9,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+9,2,Treatment noncompliance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+10,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+10,2,Needle issue,Device physical property and chemical issues,Device issues,Prod,N
+10,3,Therapy cessation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+11,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+11,2,Lupus vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+11,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+11,4,Therapy cessation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+12,1,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+13,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+13,2,Therapy cessation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N

@@ -1,0 +1,134 @@
+{
+    "Blood": {
+        "max_depth": 27,
+        "min_samples_split": 9,
+        "min_samples_leaf": 12,
+        "max_features": null
+    },
+    "Card": {
+        "max_depth": 32,
+        "min_samples_split": 4,
+        "min_samples_leaf": 8,
+        "max_features": "sqrt"
+    },
+    "Cong": {
+        "max_depth": 25,
+        "min_samples_split": 37,
+        "min_samples_leaf": 35,
+        "max_features": "sqrt"
+    },
+    "Ear": {
+        "max_depth": 19,
+        "min_samples_split": 6,
+        "min_samples_leaf": 12,
+        "max_features": null
+    },
+    "Endo": {
+        "max_depth": 21,
+        "min_samples_split": 27,
+        "min_samples_leaf": 29,
+        "max_features": null
+    },
+    "Eye": {
+        "max_depth": 19,
+        "min_samples_split": 22,
+        "min_samples_leaf": 10,
+        "max_features": "sqrt"
+    },
+    "Gastr": {
+        "max_depth": 39,
+        "min_samples_split": 9,
+        "min_samples_leaf": 2,
+        "max_features": "sqrt"
+    },
+    "Hepat": {
+        "max_depth": 4,
+        "min_samples_split": 10,
+        "min_samples_leaf": 22,
+        "max_features": "sqrt"
+    },
+    "Immun": {
+        "max_depth": 32,
+        "min_samples_split": 25,
+        "min_samples_leaf": 20,
+        "max_features": null
+    },
+    "Infec": {
+        "max_depth": 17,
+        "min_samples_split": 11,
+        "min_samples_leaf": 25,
+        "max_features": null
+    },
+    "Metab": {
+        "max_depth": 29,
+        "min_samples_split": 10,
+        "min_samples_leaf": 16,
+        "max_features": null
+    },
+    "Musc": {
+        "max_depth": 26,
+        "min_samples_split": 27,
+        "min_samples_leaf": 20,
+        "max_features": "sqrt"
+    },
+    "Neopl": {
+        "max_depth": 40,
+        "min_samples_split": 6,
+        "min_samples_leaf": 6,
+        "max_features": "sqrt"
+    },
+    "Nerv": {
+        "max_depth": 33,
+        "min_samples_split": 6,
+        "min_samples_leaf": 12,
+        "max_features": null
+    },
+    "Preg": {
+        "max_depth": 13,
+        "min_samples_split": 2,
+        "min_samples_leaf": 22,
+        "max_features": "sqrt"
+    },
+    "Prod": {
+        "max_depth": 37,
+        "min_samples_split": 4,
+        "min_samples_leaf": 19,
+        "max_features": "sqrt"
+    },
+    "Psych": {
+        "max_depth": 31,
+        "min_samples_split": 15,
+        "min_samples_leaf": 12,
+        "max_features": null
+    },
+    "Renal": {
+        "max_depth": 30,
+        "min_samples_split": 26,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt"
+    },
+    "Repro": {
+        "max_depth": 24,
+        "min_samples_split": 12,
+        "min_samples_leaf": 3,
+        "max_features": null
+    },
+    "Resp": {
+        "max_depth": 23,
+        "min_samples_split": 28,
+        "min_samples_leaf": 18,
+        "max_features": null
+    },
+    "Skin": {
+        "max_depth": 38,
+        "min_samples_split": 3,
+        "min_samples_leaf": 3,
+        "max_features": "sqrt"
+    },
+    "Vasc": {
+        "max_depth": 40,
+        "min_samples_split": 18,
+        "min_samples_leaf": 6,
+        "max_features": null
+    }
+}

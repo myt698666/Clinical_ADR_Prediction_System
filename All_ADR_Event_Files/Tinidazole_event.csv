@@ -1,0 +1,93 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Toxic skin eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+2,1,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+3,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+3,2,Headache,Headaches NEC,Headaches,Nerv,N
+3,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+3,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+4,1,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+4,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+5,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+5,2,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+5,3,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+6,1,Erection increased,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+7,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+7,2,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+8,1,Mouth swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+8,2,Oropharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+8,3,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+9,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+10,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+11,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+12,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+12,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+12,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+13,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+14,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+15,1,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+16,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+17,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+18,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+18,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+19,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+20,1,Grunting,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+21,1,Alcohol interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+21,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+21,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+22,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+23,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+23,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+23,3,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+24,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,1,Pharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+26,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+26,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+27,1,Headache,Headaches NEC,Headaches,Nerv,N
+27,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+27,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Congenital anomaly,Congenital disorders NEC,Congenital and hereditary disorders NEC,Cong,N
+28,2,Tooth disorder,Dental disorders NEC,Dental and gingival conditions,Gastr,N
+29,1,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+29,2,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+29,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+29,4,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+29,5,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+30,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+30,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+30,3,Fear,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+31,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+31,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+31,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+32,1,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+33,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+33,2,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+34,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+35,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+35,2,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+35,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+35,4,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+36,1,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+36,2,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+37,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+37,2,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+38,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+39,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+39,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+40,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+40,2,Headache,Headaches NEC,Headaches,Nerv,N
+40,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+41,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+42,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+43,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+44,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+45,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+45,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+45,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+45,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+46,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+47,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+48,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+49,1,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+49,2,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+50,1,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+50,2,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N

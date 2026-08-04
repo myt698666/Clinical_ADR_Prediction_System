@@ -1,0 +1,451 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+1,2,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+2,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+2,2,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+3,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+3,2,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+3,3,Coronary artery stenosis,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+3,4,Troponin increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+4,1,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+5,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+5,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+5,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+5,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+5,5,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+6,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+6,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+6,3,Gastritis erosive,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+7,1,Bone infarction,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+7,2,Chronic myeloid leukaemia,Leukaemias chronic myeloid,Leukaemias,Neopl,N
+7,3,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+7,4,Disease recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+7,5,Therapeutic response delayed,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+8,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+8,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+8,3,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+8,4,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+8,5,Headache,Headaches NEC,Headaches,Nerv,N
+8,6,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+8,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+9,1,Metastases to fallopian tube,Metastases to specified sites,Metastases,Neopl,N
+9,2,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+9,3,Metastases to ovary,Metastases to specified sites,Metastases,Neopl,N
+9,4,Metastases to stomach,Metastases to specified sites,Metastases,Neopl,N
+9,5,Metastases to uterus,Metastases to specified sites,Metastases,Neopl,N
+9,6,Uterine cancer,Uterine neoplasms malignant NEC,Reproductive neoplasms female malignant and unspecified,Neopl,Y
+10,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+11,1,Blast crisis in myelogenous leukaemia,Leukaemias myeloid NEC,Leukaemias,Neopl,N
+12,1,Lipase increased,Digestive enzymes,Gastrointestinal investigations,Inv,N
+13,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+13,2,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+14,1,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,Y
+14,2,Second primary malignancy,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+15,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+15,2,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+15,3,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+16,1,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+16,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+17,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+17,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+17,3,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+17,4,Hepatotoxicity,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+17,5,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+17,6,Macule,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+18,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+18,2,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+19,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+20,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+21,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+21,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+21,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+21,4,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+21,5,Peripheral arterial occlusive disease,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+21,6,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+21,7,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+21,8,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+22,1,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+22,2,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+23,1,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+24,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+25,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+26,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+26,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+27,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+27,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+27,3,Impaired gastric emptying,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+27,4,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+28,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+28,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+28,3,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+28,4,Right ventricular failure,Right ventricular failures,Heart failures,Card,N
+29,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+29,2,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+30,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+30,2,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+31,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+31,2,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+32,1,Bronchopulmonary aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+33,1,Headache,Headaches NEC,Headaches,Nerv,N
+34,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+34,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+35,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+36,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+37,1,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+37,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+38,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+38,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+38,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+38,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+38,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+38,6,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+38,7,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+38,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+39,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+40,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+41,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+42,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+43,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+44,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+45,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+46,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+47,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+47,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+48,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,2,Gastrointestinal toxicity,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+48,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+48,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+49,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+49,2,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+50,1,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+50,2,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+51,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+51,2,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+52,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+52,2,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+52,3,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+52,4,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+52,5,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+52,6,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+52,7,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+52,8,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+52,9,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+53,1,Creatinine renal clearance increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+53,2,Hodgkin's disease,Hodgkin's disease NEC,Lymphomas Hodgkin's disease,Neopl,N
+53,3,Second primary malignancy,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+54,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+54,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+54,3,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+54,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+54,5,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+54,6,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+55,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+55,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+55,3,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+55,4,Dysstasia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+55,5,Ehlers-Danlos syndrome,Connective tissue disorders congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+55,6,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+55,7,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+55,8,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+56,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+57,1,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+57,2,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+57,3,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+57,4,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+58,1,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+58,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+58,3,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+58,4,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+59,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+59,2,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+60,1,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+60,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+61,1,Bronchopulmonary aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+61,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+61,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+61,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+62,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+62,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+62,3,Iron metabolism disorder,Iron metabolism disorders NEC,Iron and trace metal metabolism disorders,Metab,N
+62,4,Myelosuppression,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+62,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+62,6,Serum ferritin decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+63,1,Bronchopulmonary aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+64,1,Bronchopulmonary aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+64,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+64,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+64,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+64,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+65,1,Bronchopulmonary aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+66,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+66,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+66,3,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+66,4,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+66,5,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+67,1,Coronary artery stenosis,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+67,2,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+67,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+67,4,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+67,5,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+67,6,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+67,7,Gene mutation identification test positive,Gene analyses,Cytogenetic investigations and genetic analyses,Inv,N
+67,8,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+67,9,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+68,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+68,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+69,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+69,2,Liver function test decreased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+70,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+70,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+70,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+71,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+71,2,Arteriosclerosis coronary artery,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+71,3,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+71,4,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+71,5,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+71,6,Cataract subcapsular,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+71,7,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+71,8,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+71,9,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+71,10,Glomerular filtration rate decreased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+71,11,Headache,Headaches NEC,Headaches,Nerv,N
+71,12,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+71,13,Migraine,Migraine headaches,Headaches,Nerv,N
+71,14,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+71,15,Premature menopause,Menopausal effects NEC,Menopause related conditions,Repro,N
+71,16,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+72,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+73,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+73,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+73,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+73,4,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+74,1,Hepatotoxicity,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+75,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+75,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+76,1,Haematotoxicity,Haematological disorders,Haematological disorders NEC,Blood,N
+76,2,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+77,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+77,2,Brain fog,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+77,3,Cardiac flutter,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+77,4,Eyelid skin dryness,"Lid, lash and lacrimal structural disorders","Anterior eye structural change, deposit and degeneration",Eye,N
+77,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+77,6,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+77,7,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+77,8,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+77,9,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+78,1,Blood pH increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+78,2,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+78,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+78,4,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+78,5,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+78,6,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+79,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+79,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+80,1,Arterial disorder,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+80,2,Diabetic retinopathy,Retinopathies NEC,"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+80,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+80,4,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+80,5,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+80,6,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+81,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+81,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+81,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+81,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+81,5,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+81,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+82,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+82,2,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+83,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+83,2,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+83,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+83,4,Hepatotoxicity,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+83,5,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+83,6,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+84,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+84,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+84,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+85,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+85,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+85,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+85,4,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+86,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+87,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+87,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+87,3,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
+87,4,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+87,5,Renal artery stenosis,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+87,6,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+88,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+88,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+88,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+88,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+88,5,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+88,6,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+89,1,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+89,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+89,3,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+89,4,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+89,5,Obesity,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+89,6,Philadelphia chromosome positive,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+90,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+90,2,Full blood count abnormal,Blood counts NEC,Haematology investigations (incl blood groups),Inv,N
+90,3,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+91,1,Clonal evolution,Oncologic complications and emergencies,Neoplasm related morbidities,Neopl,N
+91,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+91,3,Loss of therapeutic response,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+91,4,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+91,5,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+92,1,Clonal evolution,Oncologic complications and emergencies,Neoplasm related morbidities,Neopl,N
+92,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,3,Loss of therapeutic response,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,4,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+92,5,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+93,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+93,2,Loss of therapeutic response,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+94,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+94,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+94,3,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+95,1,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+96,1,Aphthous ulcer,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+96,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+96,3,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+96,4,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+97,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+97,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+97,3,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+97,4,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+98,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+98,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+99,1,Blood blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+99,2,Conjunctival haemorrhage,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+99,3,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+99,4,Immune thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+99,5,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+100,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+100,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+101,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+102,1,Cardiac dysfunction,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+102,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+102,3,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+103,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+104,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+104,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+105,1,Cytogenetic abnormality,Chromosomal abnormalities NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+105,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+106,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+106,2,Hepatic cyst,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+106,3,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+106,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+106,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+107,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+107,2,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+107,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+107,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+107,5,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+107,6,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+108,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+108,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+108,3,Headache,Headaches NEC,Headaches,Nerv,N
+109,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+109,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+109,3,Philadelphia chromosome positive,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+109,4,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+109,5,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+109,6,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+110,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+110,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+110,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+111,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+111,2,Gene mutation,Gene mutations and other alterations NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+112,1,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+112,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+113,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+113,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+113,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+113,4,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+114,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+114,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+114,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+114,4,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+115,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+116,1,Cardiovascular disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+116,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+117,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+117,2,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+117,3,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+117,4,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+117,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+118,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+118,2,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+118,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+118,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+119,1,Cytogenetic analysis abnormal,Chromosome analyses,Cytogenetic investigations and genetic analyses,Inv,N
+119,2,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+120,1,Cytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+121,1,Gastrointestinal stoma output increased,Gastrointestinal function diagnostic procedures,Gastrointestinal investigations,Inv,N
+121,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+121,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+122,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+122,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+123,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+123,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+123,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+124,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+125,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+125,2,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+125,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+125,4,Splenomegaly,Spleen disorders,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+125,5,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+125,6,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+126,1,Ileostomy,Small intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+127,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+127,2,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+127,3,Myopathy toxic,Myopathies,Muscle disorders,Musc,N
+127,4,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+128,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+129,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+130,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+131,1,Liver function test decreased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+131,2,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+132,1,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+133,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+133,2,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+133,3,Myopathy toxic,Myopathies,Muscle disorders,Musc,N
+134,1,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+135,1,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+136,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+136,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+136,3,Gluten sensitivity,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metab,N
+136,4,Ulcer,Ulcers NEC,Tissue disorders NEC,Genrl,N
+137,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+137,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+137,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+138,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+139,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+139,2,Exposure via partner,Pathways and sources of exposure,"Exposures, chemical injuries and poisoning",Inj&P,N
+140,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+141,1,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+142,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+143,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+143,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+143,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+144,1,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+145,1,Chronic myeloid leukaemia,Leukaemias chronic myeloid,Leukaemias,Neopl,N
+145,2,Second primary malignancy,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+145,3,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+146,1,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+147,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+148,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+149,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+149,2,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+150,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+150,2,Change of bowel habit,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+150,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+150,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+150,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+150,6,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+150,7,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+150,8,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+150,9,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+150,10,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N

@@ -1,0 +1,1901 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Immune thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+2,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+3,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+4,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+4,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+5,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+5,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+6,1,Corneal dystrophy,Corneal and scleral disorders congenital,Eye disorders congenital,Cong,N
+6,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+6,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+7,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+7,2,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+7,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+8,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+9,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+9,2,Headache,Headaches NEC,Headaches,Nerv,N
+9,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+10,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+10,2,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+10,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+11,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+11,2,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+12,1,Foetal death,Stillbirth and foetal death,Abortions and stillbirth,Preg,Y
+13,1,Hangover,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+13,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+13,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+13,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+14,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+14,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+14,3,Sputum increased,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+15,1,Eyelid ptosis,Eyelid movement disorders,Ocular neuromuscular disorders,Eye,N
+15,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+16,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+17,1,Muscular dystrophy,Non-site specific muscle disorders congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+17,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+18,1,Lichenoid keratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+19,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+19,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+19,3,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+19,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+20,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+21,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+22,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+23,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+24,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+25,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+26,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+27,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+27,2,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+28,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+29,1,Failure to thrive,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+30,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+30,2,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+30,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+31,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+32,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+33,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+34,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+34,2,Headache,Headaches NEC,Headaches,Nerv,N
+34,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+34,4,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+34,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+35,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+35,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+36,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+37,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+37,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+37,3,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+38,1,Galactorrhoea,Lactation disorders,Breast disorders,Repro,N
+39,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+39,2,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+39,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+40,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+41,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+41,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+41,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+42,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+43,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+44,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+45,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+45,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+46,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+47,1,Peripheral sensory neuropathy,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+48,1,Emotional disorder,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+48,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+49,1,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+50,1,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+51,1,Headache,Headaches NEC,Headaches,Nerv,N
+52,1,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+52,2,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+53,1,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+54,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+54,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+55,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+56,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+56,2,Lymphocytic leukaemia,Leukaemias lymphocytic NEC,Leukaemias,Neopl,N
+57,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+58,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+58,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+59,1,Tension headache,Headaches NEC,Headaches,Nerv,N
+60,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+60,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+61,1,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+61,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+62,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+63,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+64,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+64,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+65,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+65,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+66,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+67,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+68,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+68,2,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+68,3,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+68,4,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+68,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+69,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+69,2,Mouth swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+69,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+70,1,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+71,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+72,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+72,2,Perinatal brain damage,Neonatal disorders due to birth trauma (excl intracranial haemorrhages),Neonatal and perinatal conditions,Preg,Y
+72,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+73,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+73,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+74,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+75,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+76,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+77,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+78,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+79,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+80,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,Y
+81,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+82,1,Headache,Headaches NEC,Headaches,Nerv,N
+82,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+83,1,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+83,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+84,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+85,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+85,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+85,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+86,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+87,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+88,1,Euphoric mood,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+88,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+89,1,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+90,1,Spontaneous penile erection,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+91,1,Antinuclear antibody positive,Autoimmunity analyses,Immunology and allergy investigations,Inv,N
+91,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+91,3,Claustrophobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+91,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+91,5,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+91,6,Pleuritic pain,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+91,7,Systemic lupus erythematosus,Lupus erythematosus (incl subtypes),Connective tissue disorders (excl congenital),Musc,N
+92,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+92,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,3,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+92,4,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+93,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+93,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+94,1,Gastritis erosive,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+94,2,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+95,1,Bladder cancer,Bladder neoplasms malignant,Renal and urinary tract neoplasms malignant and unspecified,Neopl,N
+96,1,Bradycardia foetal,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+96,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+97,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+97,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+98,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+98,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+98,3,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+98,4,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+98,5,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+98,6,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+99,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+99,2,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+99,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+99,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+100,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+100,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+101,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+102,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+102,2,Groin pain,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+102,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+102,4,Testicular pain,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+103,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+104,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+104,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+105,1,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+106,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+106,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+107,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+108,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+109,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+109,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+110,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+111,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+111,2,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+112,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+113,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+114,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+114,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+114,3,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+114,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+114,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+115,1,Eosinophilic pneumonia,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+116,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+117,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+117,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+118,1,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+119,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+119,2,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+120,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+121,1,Actinic keratosis,Skin preneoplastic conditions NEC,Cornification and dystrophic skin disorders,Skin,N
+121,2,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+121,3,Skin papilloma,Skin neoplasms benign,Cutaneous neoplasms benign,Neopl,N
+122,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+123,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+124,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+125,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+126,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+126,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+127,1,Migraine,Migraine headaches,Headaches,Nerv,N
+127,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+127,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+128,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+129,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+130,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+130,2,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+131,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+132,1,Migraine,Migraine headaches,Headaches,Nerv,N
+133,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+133,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+133,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+134,1,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+134,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+135,1,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+135,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+136,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+137,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+138,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+138,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+139,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+139,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+140,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+140,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+140,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+140,4,Eructation,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+140,5,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+140,6,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+141,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+141,2,Hepatocellular injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+141,3,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+142,1,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+142,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+143,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+144,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+145,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+146,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+147,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+148,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+149,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+150,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+151,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+151,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+151,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+152,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+152,2,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+152,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+153,1,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+154,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+154,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+155,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+156,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+157,1,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+158,1,Superficial vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+159,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+160,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+161,1,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+162,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+163,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+164,1,Hangover,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+164,2,Hypoaesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+164,3,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+164,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+165,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+165,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+166,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+166,2,Headache,Headaches NEC,Headaches,Nerv,N
+167,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+167,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+167,3,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+167,4,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+167,5,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+167,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+167,7,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+167,8,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+168,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+168,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+169,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+169,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+169,3,Headache,Headaches NEC,Headaches,Nerv,N
+170,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,Y
+171,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+172,1,Superficial vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+173,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+174,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+174,2,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+175,1,Headache,Headaches NEC,Headaches,Nerv,N
+176,1,Lichenoid keratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+177,1,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+178,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+178,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+178,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+179,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+180,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+180,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+181,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+181,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+182,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+183,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+183,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+184,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+184,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+185,1,Henoch-Schonlein purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+185,2,Vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+186,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+187,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+188,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+188,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+189,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+189,2,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+190,1,Systemic lupus erythematosus,Lupus erythematosus (incl subtypes),Connective tissue disorders (excl congenital),Musc,N
+191,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+192,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+193,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+193,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+194,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+195,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+196,1,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+197,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+198,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+198,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+198,3,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+199,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,Y
+199,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+200,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+201,1,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+201,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+202,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+202,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+202,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+203,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+204,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+205,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+205,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+205,3,"Hallucination, auditory",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+206,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+206,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+207,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+208,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+208,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+208,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+208,4,Urine analysis abnormal,Urinalysis NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+209,1,Apallic syndrome,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+209,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+209,3,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+209,4,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+210,1,Tendonitis,Tendon disorders,"Tendon, ligament and cartilage disorders",Musc,N
+211,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+212,1,Peripheral sensory neuropathy,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+213,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+214,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+215,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+216,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+216,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+217,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+218,1,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+218,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+219,1,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+219,2,Prothrombin level decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+220,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+220,2,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+221,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+222,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+222,2,Vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+223,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+223,2,Prothrombin level decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+224,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+224,2,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+225,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+226,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+226,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+226,3,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+226,4,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+227,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+228,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+229,1,Arthropathy,Arthropathies NEC,Joint disorders,Musc,N
+230,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+230,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+231,1,Headache,Headaches NEC,Headaches,Nerv,N
+232,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+232,2,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+233,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+234,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+234,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+235,1,Superficial vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+236,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+236,2,Xerophthalmia,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+237,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+237,2,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+237,3,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+237,4,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+238,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+239,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+239,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+240,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+240,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+241,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+242,1,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+243,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+244,1,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+245,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+246,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+247,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+247,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+248,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+248,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+249,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+249,2,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+249,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+250,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+251,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+252,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+253,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+253,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+254,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+255,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+255,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+256,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+257,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+257,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+258,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+258,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+259,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+260,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+261,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+261,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+262,1,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+262,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+263,1,Carpal tunnel syndrome,Mononeuropathies,Peripheral neuropathies,Nerv,N
+264,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+265,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+265,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+266,1,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+267,1,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+267,2,Hypoglycaemia unawareness,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+268,1,Nail disorder,Nail and nail bed conditions (excl infections and infestations),Skin appendage conditions,Skin,N
+269,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+270,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+270,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+271,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+272,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+273,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+274,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+275,1,Vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+276,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+277,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+278,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+278,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+279,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+279,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+280,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+281,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+281,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+282,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+282,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+282,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+283,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+283,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+283,3,Parosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+283,4,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+284,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+284,2,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+284,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+285,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+286,1,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+287,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+288,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+289,1,Amenorrhoea,Menstruation with decreased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+289,2,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+290,1,Skin depigmentation,Hypopigmentation disorders,Pigmentation disorders,Skin,N
+291,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+292,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+293,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+294,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+294,2,Clonic convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+294,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+294,4,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+294,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+295,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+295,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+296,1,Failed trial of labour,Failed labour,Maternal complications of labour and delivery,Preg,N
+297,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+298,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+299,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+300,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+301,1,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+302,1,Affect lability,Affect alterations NEC,Mood disorders and disturbances NEC,Psych,N
+302,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+302,3,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+303,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+303,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+304,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+305,1,Asphyxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+305,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+305,3,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+305,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+306,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+307,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+307,2,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+307,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+308,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+309,1,Blindness transient,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+310,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+311,1,Hepatitis cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+312,1,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+312,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+313,1,Disseminated intravascular coagulation,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,Y
+313,2,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+314,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+315,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+316,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+316,2,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+317,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+317,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+318,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+318,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+319,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+319,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+320,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+320,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+321,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+322,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+322,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+322,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+323,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+324,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+325,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+326,1,Blindness transient,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+327,1,Intermittent claudication,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+328,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+329,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+330,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+331,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+332,1,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+333,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+333,2,Parosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+333,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+334,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+335,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+336,1,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+337,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+338,1,Malabsorption,Malabsorption syndromes,Malabsorption conditions,Gastr,N
+339,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+339,2,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+340,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+341,1,Gastric cancer,Gastric neoplasms malignant,Gastrointestinal neoplasms malignant and unspecified,Neopl,N
+342,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+342,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+342,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+342,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+342,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+343,1,Lichenoid keratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+344,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+345,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+346,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+346,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+347,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+347,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+348,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+349,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+350,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+351,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+351,2,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+352,1,Lichenoid keratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+353,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+354,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+355,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+355,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+356,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+356,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+356,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+356,4,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+357,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+357,2,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+358,1,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+359,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+359,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+360,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+361,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+361,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+362,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+363,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+364,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+365,1,Hyperbilirubinaemia,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+366,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+367,1,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+368,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+368,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+369,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+370,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+370,2,Cardio-respiratory arrest neonatal,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+370,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+370,4,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+370,5,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+370,6,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+370,7,Polyhydramnios,Amniotic fluid and cavity disorders of pregnancy NEC,"Placental, amniotic and cavity disorders (excl haemorrhages)",Preg,N
+371,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+371,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+371,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+372,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+373,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+373,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+374,1,Deafness neurosensory,Hearing losses,Hearing disorders,Ear,N
+375,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+376,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+376,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+376,3,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+377,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+378,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+378,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+379,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+380,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+380,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+381,1,Pigmentation disorder,Pigmentation changes NEC,Pigmentation disorders,Skin,N
+381,2,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+382,1,Headache,Headaches NEC,Headaches,Nerv,N
+382,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+383,1,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+384,1,Headache,Headaches NEC,Headaches,Nerv,N
+384,2,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+384,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+385,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+385,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+386,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+386,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+387,1,Gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+388,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+388,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+389,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+389,2,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+390,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+391,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+391,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+391,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+392,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+392,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+393,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+393,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+393,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+394,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+395,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+395,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+396,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+397,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+397,2,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+397,3,Bundle branch block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+397,4,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+397,5,Crepitations,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+397,6,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+397,7,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+397,8,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+397,9,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+397,10,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+398,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+399,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+399,2,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+399,3,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+400,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+400,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+400,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+401,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+402,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+403,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+404,1,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+404,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+404,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+405,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+406,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+407,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+407,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+408,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+409,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+410,1,Gravitational oedema,Oedema NEC,General system disorders NEC,Genrl,N
+411,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+411,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+412,1,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+412,2,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+413,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+413,2,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+414,1,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+415,1,Headache,Headaches NEC,Headaches,Nerv,N
+415,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+415,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+416,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+417,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+418,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+418,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+418,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+418,4,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+418,5,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+419,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+419,2,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+419,3,Perinatal brain damage,Neonatal disorders due to birth trauma (excl intracranial haemorrhages),Neonatal and perinatal conditions,Preg,Y
+419,4,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+420,1,Headache,Headaches NEC,Headaches,Nerv,N
+421,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+422,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+422,2,Hyperkinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+422,3,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+423,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+424,1,Penis disorder,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+425,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+426,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+427,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+428,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+429,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,Y
+430,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+430,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+431,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+431,2,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+432,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+433,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+433,2,Lymphocytic leukaemia,Leukaemias lymphocytic NEC,Leukaemias,Neopl,N
+434,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+435,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+436,1,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+436,2,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+437,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+438,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+438,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+439,1,Foetal growth restriction,Foetal growth complications,Foetal complications,Preg,N
+440,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+441,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+442,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+443,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+444,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+445,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+446,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+446,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+447,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+448,1,Apathy,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+448,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+448,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+449,1,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+450,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+450,2,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+450,3,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+450,4,Coma,Coma states,Neurological disorders NEC,Nerv,N
+450,5,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+450,6,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+450,7,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+450,8,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+450,9,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+451,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+451,2,Headache,Headaches NEC,Headaches,Nerv,N
+452,1,Peroneal nerve palsy,Mononeuropathies,Peripheral neuropathies,Nerv,N
+453,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+454,1,Necrotising colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+455,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+455,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+455,3,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+455,4,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+455,5,Hepatic necrosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+456,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+457,1,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+458,1,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+458,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+458,3,Rash pustular,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+459,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+460,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+461,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+462,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+463,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+464,1,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+465,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+466,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+467,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+468,1,Migraine,Migraine headaches,Headaches,Nerv,N
+469,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+470,1,Vitreous floaters,"Choroid and vitreous structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+471,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+471,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+471,3,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+471,4,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+472,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+472,2,Bundle branch block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+472,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+472,4,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+473,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+474,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+474,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+475,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+476,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+477,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+478,1,Salivary gland enlargement,Salivary gland enlargements,Salivary gland conditions,Gastr,N
+479,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+480,1,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+481,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+481,2,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+481,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+481,4,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+481,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+482,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+483,1,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+484,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+484,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+484,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+485,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+486,1,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+487,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+488,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+489,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+490,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+491,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+492,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+493,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+493,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+493,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+494,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+495,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+495,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+495,3,"Hallucination, auditory",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+496,1,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+496,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+497,1,Sinus arrest,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+497,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+498,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+499,1,Respiratory disorder neonatal,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,N
+500,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+500,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+501,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+501,2,Electrocardiogram T wave inversion,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+501,3,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+502,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+503,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+504,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+505,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+505,2,Coma,Coma states,Neurological disorders NEC,Nerv,N
+505,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+506,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+507,1,Atrioventricular block first degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+507,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+507,3,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+507,4,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+508,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+508,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+508,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+509,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+509,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+509,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+510,1,Corneal reflex decreased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+511,1,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+511,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+512,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+513,1,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+514,1,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+514,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+515,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+516,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+516,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+517,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+518,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+518,2,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+518,3,Gingival bleeding,Gingival haemorrhages,Dental and gingival conditions,Gastr,N
+518,4,Headache,Headaches NEC,Headaches,Nerv,N
+518,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+518,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+519,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+519,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+520,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+521,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+521,2,Drug level decreased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+521,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+521,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+521,5,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+522,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+522,2,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+523,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+524,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+524,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+524,3,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+524,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+525,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,Y
+526,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+527,1,Pemphigoid,Bullous conditions,Epidermal and dermal conditions,Skin,N
+528,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+529,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+530,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+530,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+531,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+531,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+532,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+532,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+533,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+533,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+533,3,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+533,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+533,5,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+534,1,Atrioventricular block first degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+534,2,Bundle branch block left,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+534,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+534,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+534,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+535,1,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+535,2,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+536,1,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+536,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+536,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+537,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+537,2,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+538,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+539,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+540,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+540,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+541,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+542,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+543,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+543,2,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+543,3,Ischaemic hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+543,4,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+544,1,Therapeutic product effect incomplete,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+545,1,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+546,1,Mastitis,Breast infections,Infections - pathogen unspecified,Infec,N
+547,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+547,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+547,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+547,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+547,5,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+547,6,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+547,7,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+548,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+548,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+549,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+550,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+551,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+551,2,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+551,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+551,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+551,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+551,6,Headache,Headaches NEC,Headaches,Nerv,N
+551,7,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+551,8,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+552,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+552,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+552,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+552,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+553,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+554,1,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+555,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+555,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+555,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+555,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+556,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+556,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+556,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+556,4,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+556,5,Sluggishness,Asthenic conditions,General system disorders NEC,Genrl,N
+556,6,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+556,7,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+557,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+557,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+558,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+558,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+559,1,Headache,Headaches NEC,Headaches,Nerv,N
+559,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+560,1,Epiretinal membrane,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+560,2,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+561,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+562,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+562,2,Cardiotoxicity,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+562,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+562,4,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+562,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+562,6,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+562,7,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+562,8,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+562,9,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+563,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+564,1,Palindromic rheumatism,Arthropathies NEC,Joint disorders,Musc,N
+565,1,Tubulointerstitial nephritis,Nephritis NEC,Nephropathies,Renal,N
+566,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+567,1,Disturbance in sexual arousal,Sexual arousal disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+567,2,Excessive masturbation,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+567,3,Nipple pain,Breast signs and symptoms,Breast disorders,Repro,N
+568,1,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+569,1,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+569,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+570,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+570,2,Food interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+571,1,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+572,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+573,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+573,2,Dermatomyositis,Connective tissue disorders,Epidermal and dermal conditions,Skin,N
+574,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+574,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+574,3,Headache,Headaches NEC,Headaches,Nerv,N
+574,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+574,5,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+574,6,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+574,7,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+574,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+574,9,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+574,10,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+575,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+576,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+576,2,Troponin increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+577,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+577,2,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+578,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+579,1,Metabolic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+579,2,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+579,3,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+579,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+580,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+580,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+580,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+581,1,Myasthenia gravis,Neuromuscular junction dysfunction,Neuromuscular disorders,Nerv,N
+581,2,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+582,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+583,1,Metabolic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+583,2,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+583,3,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+584,1,Haemorrhagic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+585,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+586,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+587,1,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+588,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+588,2,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+588,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+588,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+589,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+590,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+590,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+590,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+591,1,Cardiotoxicity,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+591,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+591,3,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+591,4,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+591,5,Electrocardiogram change,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+591,6,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+591,7,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+591,8,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+591,9,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+591,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+592,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+592,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+593,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+593,2,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+593,3,Bundle branch block right,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+593,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+593,5,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+593,6,Electrocardiogram ST segment elevation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+593,7,Electrocardiogram T wave inversion,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+593,8,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+593,9,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+593,10,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+594,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+594,2,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+595,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+596,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+596,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+597,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+598,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+599,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+600,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+600,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+600,3,Cardiovascular disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+600,4,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+600,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+601,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+602,1,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+603,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+604,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+605,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+605,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+605,3,Renal pain,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+606,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+606,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+606,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+607,1,Nasal discomfort,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+607,2,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+607,3,Throat tightness,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+608,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+608,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+609,1,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+610,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+611,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+612,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+612,2,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+613,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+614,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+614,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+615,1,Parasomnia,Parasomnias,Sleep disorders and disturbances,Psych,N
+615,2,Sleep talking,Parasomnias,Sleep disorders and disturbances,Psych,N
+615,3,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+616,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+617,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+617,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+617,3,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+617,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+617,5,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+617,6,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+618,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+618,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+618,3,Headache,Headaches NEC,Headaches,Nerv,N
+618,4,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+618,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+618,6,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+618,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+618,8,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+618,9,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+619,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+619,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+619,3,Myocardial depression,Myocardial disorders NEC,Myocardial disorders,Card,N
+620,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+620,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+620,3,Periventricular leukomalacia,Encephalopathies NEC,Encephalopathies,Nerv,Y
+620,4,Pregnancy,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+620,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+621,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+621,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+621,3,Drug level above therapeutic,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+621,4,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+621,5,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+621,6,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+622,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+622,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+622,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+623,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+623,2,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+623,3,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+624,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+625,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+625,2,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+625,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+625,4,Ischaemic hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+625,5,Mitral valve incompetence,Mitral valvular disorders,Cardiac valve disorders,Card,N
+626,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+626,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+626,3,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+627,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+627,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+627,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+628,1,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+628,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+629,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+629,2,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+629,3,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+630,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+630,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+631,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+632,1,Dyspnoea exertional,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+633,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+633,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+633,3,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+633,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+633,5,Headache,Headaches NEC,Headaches,Nerv,N
+634,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+635,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+635,2,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+635,3,Eosinophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+635,4,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+635,5,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+635,6,Red blood cell sedimentation rate increased,Haematological analyses NEC,Haematology investigations (incl blood groups),Inv,N
+636,1,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+636,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+637,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+637,2,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+637,3,Headache,Headaches NEC,Headaches,Nerv,N
+637,4,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+638,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+638,2,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+639,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+639,2,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+639,3,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+639,4,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+639,5,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+639,6,Drug level decreased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+639,7,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+639,8,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+639,9,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+639,10,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+639,11,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+639,12,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+639,13,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+639,14,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+639,15,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+640,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+640,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+640,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+640,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+641,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+642,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+642,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+643,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+643,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+644,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+644,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+644,3,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+645,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+646,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+646,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+646,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+647,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+647,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+647,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+648,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+648,2,Corneal deposits,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+648,3,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+648,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+648,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+648,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+648,7,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+649,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+649,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+650,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+650,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+650,3,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+650,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+650,5,Product administered to patient of inappropriate age,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+650,6,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+651,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+651,2,Wolff-Parkinson-White syndrome,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+652,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+652,2,Foetal distress syndrome,Foetal complications NEC,Foetal complications,Preg,N
+652,3,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+652,4,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+652,5,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+652,6,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+653,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+653,2,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+654,1,Abortion induced,Induced abortions,Obstetric and gynaecological therapeutic procedures,Surg,N
+654,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+655,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+655,2,Wolff-Parkinson-White syndrome,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+656,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+656,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+657,1,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+657,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+657,3,Nerve conduction studies abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+658,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+658,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+658,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+658,4,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+658,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+658,6,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+659,1,Acute respiratory distress syndrome,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+659,2,Carbon dioxide increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+659,3,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+659,4,Stupor,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+660,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+660,2,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+660,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+660,4,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+660,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+661,1,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+661,2,Inappropriate antidiuretic hormone secretion,Posterior pituitary disorders,Hypothalamus and pituitary gland disorders,Endo,N
+662,1,Cardiac fibrillation,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+663,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+663,2,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+663,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+664,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+664,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+665,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+665,2,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+665,3,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+665,4,Cardioactive drug level decreased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+665,5,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+665,6,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+665,7,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+665,8,Food interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+665,9,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+665,10,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+665,11,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+665,12,Posture abnormal,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+666,1,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+666,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+667,1,Tension headache,Headaches NEC,Headaches,Nerv,N
+667,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+668,1,Gestational hypertension,Hypertension associated disorders of pregnancy,Maternal complications of pregnancy,Preg,N
+668,2,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+669,1,Atrial septal defect,Cardiac septal defects congenital,Cardiac and vascular disorders congenital,Cong,N
+669,2,Disease recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+669,3,Foetal distress syndrome,Foetal complications NEC,Foetal complications,Preg,N
+669,4,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+669,5,Hydrops foetalis,Foetal complications NEC,Foetal complications,Preg,N
+669,6,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+670,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+670,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+670,3,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+670,4,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+670,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+671,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+671,2,Erythromelalgia,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+672,1,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+673,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+673,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+674,1,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+674,2,Bundle branch block right,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+674,3,Electrocardiogram ST segment elevation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+674,4,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+674,5,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+674,6,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+675,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+675,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+675,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+675,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+675,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+676,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+676,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+676,3,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+676,4,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+676,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+677,1,Cardiac output decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+677,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+677,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+678,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+678,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+678,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+679,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+679,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+679,3,Contraindication to medical treatment,Social issues NEC,Lifestyle issues,SocCi,N
+680,1,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+680,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+680,3,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+680,4,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+680,5,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+681,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+681,2,Cardiovascular disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+681,3,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+681,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+681,5,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+681,6,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+682,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+682,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+682,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+683,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+684,1,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+684,2,Bundle branch block right,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+684,3,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+684,4,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+684,5,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+684,6,Torsade de pointes,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+684,7,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+684,8,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+685,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+686,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+686,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+686,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+686,4,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+687,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+687,2,Sinus arrest,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+687,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+688,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+688,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+689,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+689,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+689,3,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+689,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+689,5,Pulseless electrical activity,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+690,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+691,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+691,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+691,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+692,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+692,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+692,3,Electrocardiogram QRS complex shortened,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+692,4,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+693,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+693,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+693,3,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+693,4,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+693,5,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+693,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+694,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+694,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+694,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+695,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+695,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+696,1,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+697,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+697,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+697,3,Oral mucosal erythema,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+697,4,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+697,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+697,6,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+697,7,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+697,8,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+697,9,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+698,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+699,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+699,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+699,3,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+699,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+700,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+700,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+701,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+701,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+701,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+702,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+702,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+702,3,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+702,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+702,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+702,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+703,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+704,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+704,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+704,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+704,4,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+704,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+704,6,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+705,1,Arterial thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+705,2,Gastrointestinal necrosis,Gastrointestinal necrosis and gangrene (excl gangrenous hernia),Gastrointestinal vascular conditions,Gastr,N
+705,3,Intestinal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+706,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+706,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+706,3,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+706,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+707,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+707,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+708,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+708,2,Oral mucosal blistering,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+709,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+709,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+710,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+710,2,Tachyarrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+711,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+712,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+713,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+713,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+714,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+715,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+715,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+716,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+716,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+716,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+716,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+716,5,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+717,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+718,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+718,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+718,3,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+719,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+720,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+721,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+721,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+721,3,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+722,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+722,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+723,1,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+724,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+724,2,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+724,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+724,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+725,1,Arterial occlusive disease,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+725,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+726,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+727,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+727,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+727,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+727,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+728,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+728,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+728,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+728,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+729,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+729,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+730,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+730,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+730,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+730,4,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+731,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+731,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+732,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+732,2,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+732,3,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+733,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+733,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+733,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+734,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+735,1,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+735,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+735,3,Product formulation issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+736,1,Vitiligo,Hypopigmentation disorders,Pigmentation disorders,Skin,N
+737,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+737,2,Joint effusion,Joint related signs and symptoms,Joint disorders,Musc,N
+737,3,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+737,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+737,5,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+737,6,Osteoarthritis,Osteoarthropathies,Joint disorders,Musc,N
+737,7,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+738,1,Acute respiratory distress syndrome,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+738,2,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+738,3,Stupor,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+739,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,Y
+739,2,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+739,3,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+739,4,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+739,5,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+739,6,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+739,7,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+739,8,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+739,9,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+739,10,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+739,11,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+739,12,Pericardial haemorrhage,Pericardial disorders NEC,Pericardial disorders,Card,N
+739,13,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+739,14,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+740,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+740,2,Low birth weight baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+740,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+740,4,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+740,5,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+741,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+741,2,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+742,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+742,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+743,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+743,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+743,3,Low birth weight baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+743,4,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+743,5,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+744,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+744,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+745,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+745,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+745,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+746,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+746,2,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+746,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+746,4,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+747,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+747,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+747,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+747,4,Wolff-Parkinson-White syndrome,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+748,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+748,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+748,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+749,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+749,2,Low birth weight baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+749,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+749,4,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+749,5,Wolff-Parkinson-White syndrome,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+750,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+750,2,Low birth weight baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+750,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+751,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+751,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+752,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+752,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+753,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+753,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+754,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+754,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+755,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+755,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+756,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+756,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+756,3,Wolff-Parkinson-White syndrome,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+757,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+757,2,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+758,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+758,2,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+758,3,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+759,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+759,2,Tachyarrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+760,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+760,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+760,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+761,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+762,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+762,2,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+762,3,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+762,4,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+762,5,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+762,6,Hypoaesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+762,7,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+763,1,Headache,Headaches NEC,Headaches,Nerv,N
+764,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+764,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+764,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+764,4,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+764,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+764,6,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+765,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+765,2,Bundle branch block right,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+765,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+765,4,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+765,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+765,6,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+766,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+766,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+766,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+767,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+767,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+768,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+769,1,Cardioactive drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+769,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+769,3,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+770,1,Electrocardiogram QRS complex abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+770,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+771,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+772,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+772,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+772,3,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+773,1,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+773,2,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+773,3,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+773,4,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+773,5,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+774,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+774,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+775,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+775,2,Drug eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+775,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,Y
+775,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+776,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+776,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+776,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+776,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+776,5,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+776,6,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+776,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+776,8,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+777,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+778,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+778,2,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+778,3,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+778,4,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+779,1,Increased tendency to bruise,Bleeding tendencies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+779,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+779,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+779,4,Vascular pain,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+780,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+780,2,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+780,3,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+780,4,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+781,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+781,2,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+781,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+781,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+781,5,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+781,6,Serratia infection,Serratia infections,Bacterial infectious disorders,Infec,N
+782,1,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+782,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+782,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+782,4,Normal newborn,Normal newborn status,"Pregnancy, labour, delivery and postpartum conditions",Preg,N
+783,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+783,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+784,1,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+784,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+784,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+784,4,Normal newborn,Normal newborn status,"Pregnancy, labour, delivery and postpartum conditions",Preg,N
+785,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+785,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+786,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+786,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+787,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+787,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+788,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+788,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+788,3,Psychomotor hyperactivity,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+788,4,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+789,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+789,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+790,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+790,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+790,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+790,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+790,5,Headache,Headaches NEC,Headaches,Nerv,N
+790,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+790,7,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+790,8,Urine output increased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+790,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+791,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+791,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+791,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+791,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+792,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+793,1,Brugada syndrome,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+793,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+794,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+794,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+795,1,Bacteraemia,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+795,2,Enterococcal infection,Enterococcal infections,Bacterial infectious disorders,Infec,N
+795,3,Escherichia infection,Escherichia infections,Bacterial infectious disorders,Infec,N
+795,4,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+795,5,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+795,6,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+795,7,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+795,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+795,9,Raoultella ornithinolytica infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+795,10,Serratia sepsis,Serratia infections,Bacterial infectious disorders,Infec,N
+795,11,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+796,1,Bronchopulmonary dysplasia,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,N
+796,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+796,3,Necrotising enterocolitis neonatal,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+796,4,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+796,5,Sepsis neonatal,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+797,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+797,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+797,3,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+798,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+798,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+798,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+798,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+798,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+798,6,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+798,7,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+798,8,Rest regimen,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+799,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+799,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+799,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+799,4,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+800,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+800,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+801,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+801,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+801,3,Paradoxical drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+801,4,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+802,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+802,2,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+803,1,Bundle branch block right,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+803,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+804,1,Heart rate variability decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+805,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+805,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+805,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+806,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+807,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+807,2,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+807,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+807,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+807,5,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+807,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+807,7,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+808,1,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+808,2,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+808,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+808,4,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+808,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+808,6,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+808,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+809,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+809,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+809,3,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+809,4,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+809,5,Gastroenteritis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+809,6,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+809,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+809,8,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+809,9,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+810,1,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+810,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+810,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+810,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+811,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+811,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+811,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+811,4,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+811,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+812,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+812,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+812,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+812,4,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+812,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+813,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+813,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+813,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+813,4,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+813,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+814,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+814,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+814,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+814,4,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+814,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+815,1,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+815,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+816,1,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+816,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+816,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+816,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+817,1,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+817,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+817,3,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+817,4,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+817,5,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+818,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+818,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+818,3,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+819,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+819,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+820,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+820,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+821,1,Clumsiness,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+821,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+822,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+822,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+823,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+823,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+824,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+824,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+824,3,Headache,Headaches NEC,Headaches,Nerv,N
+824,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+825,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+826,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+827,1,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+827,2,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+828,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+829,1,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+830,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+830,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+831,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+831,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+831,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+831,4,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+831,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+831,6,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+831,7,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+832,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+832,2,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+832,3,Floppy infant,Muscle tone abnormalities,Muscle disorders,Musc,N
+832,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+832,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+832,6,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+833,1,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+833,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+833,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+834,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+834,2,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+834,3,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+834,4,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+834,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+834,6,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+834,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+835,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+835,2,Electrocardiogram PR prolongation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+835,3,Electrocardiogram QRS complex abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+835,4,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+835,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+835,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+836,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+836,2,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+837,1,Haematochezia,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+837,2,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+837,3,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+837,4,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+838,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+839,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+839,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+839,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+840,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+840,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+841,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+842,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+842,2,Product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+842,3,Product use complaint,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+842,4,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+843,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+844,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+845,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+845,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+845,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+846,1,Penile haemorrhage,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+847,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+847,2,Cardiac flutter,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+847,3,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+848,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+849,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+849,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+849,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+850,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+850,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+850,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+851,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+851,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+851,3,Migraine,Migraine headaches,Headaches,Nerv,N
+851,4,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+852,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+852,2,Foetal heart rate abnormal,Foetal and neonatal diagnostic procedures,Foetal and neonatal investigations,Inv,N
+852,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+853,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+853,2,Foetal heart rate abnormal,Foetal and neonatal diagnostic procedures,Foetal and neonatal investigations,Inv,N
+853,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N

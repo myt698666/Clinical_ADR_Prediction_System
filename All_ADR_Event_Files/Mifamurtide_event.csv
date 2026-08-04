@@ -1,0 +1,273 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+1,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+2,1,Headache,Headaches NEC,Headaches,Nerv,N
+2,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+2,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+3,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+3,2,Headache,Headaches NEC,Headaches,Nerv,N
+3,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+3,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+4,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+4,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+4,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+5,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+6,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+6,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+7,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+7,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+7,3,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+7,4,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+8,1,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+8,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+8,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+8,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+8,5,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+8,6,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+9,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+9,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+10,1,Chemotherapeutic drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+11,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+11,2,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+11,3,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+12,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+13,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+13,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+13,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+13,4,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+13,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+14,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+14,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+14,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+14,4,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+14,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,6,Prothrombin time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+14,7,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+14,8,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+15,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+15,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+15,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+16,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+16,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+16,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+16,4,Prothrombin time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+16,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+16,6,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+17,1,Graft infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+17,2,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+17,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+18,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+18,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+19,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+19,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+19,3,Headache,Headaches NEC,Headaches,Nerv,N
+19,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+19,5,Myalgia,Muscle pains,Muscle disorders,Musc,N
+19,6,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+19,7,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+20,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+21,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+21,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+21,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+22,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+22,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+22,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+23,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+23,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+23,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+24,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+24,2,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+24,3,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+24,4,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+24,5,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+24,6,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+24,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+24,8,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+24,9,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+24,10,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+24,11,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+25,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+25,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+26,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+26,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+26,3,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+26,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+26,5,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+26,6,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+26,7,Neurological symptom,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+26,8,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+26,9,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+26,10,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+26,11,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+27,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+27,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+27,3,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+27,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+27,5,Metastases to heart,Metastases to specified sites,Metastases,Neopl,N
+27,6,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+27,7,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+27,8,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+28,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+28,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+28,3,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+28,4,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+28,5,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+28,6,Enteritis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+28,7,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+28,8,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+28,9,Small intestinal obstruction,Duodenal and small intestinal stenosis and obstruction,Gastrointestinal stenosis and obstruction,Gastr,N
+28,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+29,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+29,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+29,3,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,1,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+30,2,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+30,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+30,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+30,5,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+30,6,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+30,7,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+30,8,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+31,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+31,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+31,3,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+31,4,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+31,5,Grimacing,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+31,6,Headache,Headaches NEC,Headaches,Nerv,N
+31,7,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+31,8,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+31,9,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+31,10,Migraine,Migraine headaches,Headaches,Nerv,N
+31,11,Movement disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+31,12,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+31,13,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+31,14,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+31,15,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+31,16,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+31,17,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+31,18,Tic,Tic disorders,Changes in physical activity,Psych,N
+32,1,Blood pressure systolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+32,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+32,3,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+32,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+32,5,Piloerection,Pilar disorders NEC,Skin appendage conditions,Skin,N
+32,6,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+32,7,Wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+33,1,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+34,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+35,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+36,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+36,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+36,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+37,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+37,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+37,3,Peripheral circulatory failure,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+37,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+37,5,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+38,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+38,2,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+38,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+38,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+39,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+39,2,Myelosuppression,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+39,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+40,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+41,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+41,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+41,3,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+42,1,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+42,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+42,3,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+42,4,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+42,5,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+43,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+43,2,Demyelination,Demyelinating disorders NEC,Demyelinating disorders,Nerv,N
+44,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+45,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+45,2,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+45,3,Myelosuppression,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+45,4,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+45,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+45,6,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+46,1,Cardiotoxicity,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+46,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+47,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+47,2,Chemotherapeutic drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+47,3,Drug clearance decreased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+47,4,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+47,5,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+48,1,Osteosarcoma metastatic,Bone sarcomas,Skeletal neoplasms malignant and unspecified,Neopl,N
+49,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+49,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+49,3,Product administered to patient of inappropriate age,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+49,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+50,1,Infusion related reaction,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+51,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+51,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+52,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+52,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+53,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+53,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+53,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+53,4,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+53,5,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+53,6,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+53,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+53,8,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+53,9,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+54,1,Affect lability,Affect alterations NEC,Mood disorders and disturbances NEC,Psych,N
+54,2,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+54,3,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+54,4,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+54,5,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+54,6,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+54,7,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+54,8,Headache,Headaches NEC,Headaches,Nerv,N
+54,9,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+54,10,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+54,11,Leukoencephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+54,12,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+54,13,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+54,14,Paresis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+54,15,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+54,16,Quadriplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+55,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+56,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+56,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+56,3,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+56,4,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+57,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+58,1,Cardiac function test abnormal,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+58,2,Cardiotoxicity,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+58,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+59,1,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+60,1,Metastases to lung,Metastases to specified sites,Metastases,Neopl,Y
+61,1,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+61,2,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+62,1,Metastases to lung,Metastases to specified sites,Metastases,Neopl,Y
+63,1,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+64,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+65,1,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+66,1,Blood glucose decreased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+66,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+66,3,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+66,4,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+67,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+68,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+68,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+68,3,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+68,4,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+68,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+69,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+69,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+69,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+69,4,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+69,5,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+69,6,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+69,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+70,1,Cardiac murmur,Cardiac auscultatory investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+70,2,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+71,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+71,2,Headache,Headaches NEC,Headaches,Nerv,N
+71,3,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N

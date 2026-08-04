@@ -1,0 +1,584 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+1,2,Blood albumin decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+1,3,Headache,Headaches NEC,Headaches,Nerv,N
+1,4,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+1,5,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+1,6,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+1,7,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+1,8,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+2,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+2,2,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+2,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+2,4,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+2,5,Headache,Headaches NEC,Headaches,Nerv,N
+2,6,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+2,7,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+2,8,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+2,9,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+3,1,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+3,2,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+4,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+4,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+5,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+5,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+5,3,Hip fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+5,4,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+5,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+6,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+6,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+7,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+8,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+8,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+9,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+10,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+10,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+11,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+11,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+12,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+13,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+13,2,Faeces discoloured,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+13,3,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+13,4,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+13,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+13,6,Scleral discolouration,"Scleral structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+14,1,Child-Pugh-Turcotte score increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+14,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+14,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+15,1,Urticarial vasculitis,Urticarias,Angioedema and urticaria,Skin,N
+16,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+17,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+18,1,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+18,2,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+19,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+20,1,Abnormal weight gain,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+20,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+20,3,Headache,Headaches NEC,Headaches,Nerv,N
+20,4,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+20,5,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+20,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+21,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+22,1,Blood albumin decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+22,2,Nephropathy,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+23,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+24,1,Blood albumin decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+24,2,Nephropathy,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+24,3,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+25,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+25,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+25,3,Negative thoughts,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+26,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+27,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+27,2,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+28,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+29,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+29,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+29,3,Biliary dilatation,Structural and other bile duct disorders,Bile duct disorders,Hepat,N
+29,4,Cholestasis,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+29,5,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+29,6,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+29,7,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+29,8,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+29,9,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+29,10,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+29,11,Lung infiltration,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+29,12,Mucosal haemorrhage,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+29,13,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+29,14,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+29,15,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+29,16,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+29,17,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+30,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,2,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+30,3,Model for end stage liver disease score increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+31,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+32,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+33,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+34,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+34,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+34,3,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+35,1,Cholangitis,Bile duct infections and inflammations,Bile duct disorders,Hepat,N
+35,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+36,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+37,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+38,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+38,2,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+38,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+38,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+38,5,Remission not achieved,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+39,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+40,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+40,2,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+40,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+40,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+40,5,Remission not achieved,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+41,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+41,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+41,3,Biliary dilatation,Structural and other bile duct disorders,Bile duct disorders,Hepat,N
+41,4,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+41,5,Cholestasis,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+41,6,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+41,7,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+41,8,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+41,9,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+41,10,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+41,11,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+41,12,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+41,13,Lung infiltration,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+41,14,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+41,15,Mucosal haemorrhage,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+41,16,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+41,17,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+41,18,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+41,19,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+41,20,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+42,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+42,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+43,1,Small cell carcinoma,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+44,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+45,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+46,1,Liver transplant,Hepatic therapeutic procedures,Hepatobiliary therapeutic procedures,Surg,N
+46,2,Transplantation complication,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,Y
+47,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+48,1,Transplantation complication,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,Y
+49,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+50,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+50,2,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+50,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+50,4,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+51,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+51,2,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+51,3,Viral infection,Viral infections NEC,Viral infectious disorders,Infec,N
+52,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+52,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+53,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+53,2,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+53,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+53,4,Primary biliary cholangitis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+54,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+54,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+55,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+56,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+56,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+56,3,Transplant evaluation,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+57,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+58,1,Colostomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+58,2,Food refusal,Appetite disorders,Appetite and general nutritional disorders,Metab,Y
+58,3,Gastrointestinal procedural complication,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+58,4,Haemorrhoid operation,Anorectal therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+58,5,Haemorrhoids,Haemorrhoids and gastrointestinal varices (excl oesophageal),Gastrointestinal vascular conditions,Gastr,N
+58,6,Social avoidant behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+59,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+59,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+60,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+60,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+61,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+62,1,Carbuncle,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+62,2,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+62,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+63,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+64,1,Lung operation,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surg,N
+64,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+65,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+65,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+65,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+66,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+66,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+67,1,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+67,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+68,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+69,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+69,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+69,3,Scratch,Skin injuries NEC,Injuries NEC,Inj&P,N
+70,1,Loss of personal independence in daily activities,Disability issues,Lifestyle issues,SocCi,N
+70,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+71,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+72,1,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,Y
+73,1,Oesophageal varices haemorrhage,Gastric and oesophageal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+74,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+75,1,Hepatocellular carcinoma,Hepatic neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,Y
+76,1,Malignant melanoma,Skin melanomas (excl ocular),Skin neoplasms malignant and unspecified,Neopl,Y
+77,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+78,1,Breast cancer metastatic,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,Y
+79,1,Pneumonia aspiration,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+80,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+81,1,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+81,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+82,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+83,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,Y
+84,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+85,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+85,2,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+85,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+85,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+86,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+86,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+86,3,Positive airway pressure therapy,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+86,4,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+87,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+87,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+88,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+89,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+89,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+89,3,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+89,4,Rib fracture,Thoracic cage fractures and dislocations,Bone and joint injuries,Inj&P,N
+89,5,Sleep terror,Parasomnias,Sleep disorders and disturbances,Psych,N
+90,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+90,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+91,1,Back disorder,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+91,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+92,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+92,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+93,1,Blood bilirubin abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+93,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+94,1,Abnormal loss of weight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+94,2,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+95,1,Decreased activity,Asthenic conditions,General system disorders NEC,Genrl,N
+95,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+95,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+96,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+96,2,Migraine,Migraine headaches,Headaches,Nerv,N
+97,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+97,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+97,3,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+97,4,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+97,5,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+98,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+98,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+98,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+99,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+99,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+99,3,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+100,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+100,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+101,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+102,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+102,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+103,1,Headache,Headaches NEC,Headaches,Nerv,N
+104,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+104,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+104,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+105,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+105,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+106,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+106,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+107,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+107,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+107,3,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+107,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+108,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+109,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+109,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+110,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+111,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+112,1,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+112,2,Myopathy,Myopathies,Muscle disorders,Musc,N
+112,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+113,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+114,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+114,2,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+114,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+114,4,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+115,1,Chemotherapy,Chemotherapies,Therapeutic procedures and supportive care NEC,Surg,N
+115,2,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+116,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+116,2,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+117,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+117,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+118,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+119,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+120,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+121,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+122,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+123,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+124,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+125,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+126,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+127,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+127,2,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+127,3,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+127,4,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+127,5,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+128,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+128,2,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+129,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+129,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+130,1,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+131,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+132,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+133,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+134,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+134,2,Furuncle,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+134,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+134,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+134,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+134,6,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+135,1,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+135,2,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+136,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+137,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+137,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+138,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+139,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+140,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+141,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+142,1,Hepatic cancer,Hepatic neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,N
+143,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+143,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+144,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+145,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+145,2,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+146,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+146,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+146,3,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+147,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+148,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+148,2,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+148,3,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+148,4,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+149,1,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+149,2,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+150,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+150,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+151,1,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+151,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+152,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+153,1,Gastroenteritis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+154,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+155,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+156,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+157,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+158,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+159,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+160,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+160,2,Migraine,Migraine headaches,Headaches,Nerv,N
+160,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+161,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+162,1,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+162,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+162,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+163,1,Brain fog,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+163,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+163,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+163,4,Migraine,Migraine headaches,Headaches,Nerv,N
+163,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+163,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+164,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+164,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+165,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+165,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+165,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+166,1,Blood test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+167,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+167,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+168,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+169,1,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+170,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+170,2,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+170,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+171,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+172,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+172,2,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+172,3,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+172,4,Knee arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+172,5,Physiotherapy,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+173,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+174,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+174,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+175,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+176,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+176,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+176,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+176,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+176,5,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+176,6,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+176,7,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+176,8,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+176,9,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+177,1,Critical illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+178,1,Aortic aneurysm,Aortic aneurysms and dissections,Aneurysms and artery dissections,Vasc,N
+178,2,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+179,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+180,1,Accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+180,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+181,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+181,2,Cardiac dysfunction,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+181,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+182,1,Hepatic fibrosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+182,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+183,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+184,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+185,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+185,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+186,1,Coronavirus infection,Coronavirus infections,Viral infectious disorders,Infec,N
+187,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+188,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+188,2,Polymyalgia rheumatica,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+188,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+188,4,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+189,1,Product dispensing error,Product dispensing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+189,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+189,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+189,4,Refusal of treatment by patient,Social issues NEC,Lifestyle issues,SocCi,N
+189,5,Sensitisation,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+189,6,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+190,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+191,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+191,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+192,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+193,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+193,2,Cystitis,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+194,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+194,2,Treatment noncompliance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+195,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+195,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+196,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+197,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+198,1,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+198,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+199,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+200,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+200,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+200,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+201,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+202,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+203,1,Bedridden,Disability issues,Lifestyle issues,SocCi,N
+203,2,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+204,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+205,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+205,2,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+205,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+205,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+206,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+207,1,Thyroxine increased,Thyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+207,2,Tri-iodothyronine increased,Thyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+208,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+209,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+210,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+211,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+212,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+213,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+214,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+215,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+215,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+216,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+216,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+216,3,Scratch,Skin injuries NEC,Injuries NEC,Inj&P,N
+217,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+218,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+218,2,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+218,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+219,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+220,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+220,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+221,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+222,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+222,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+222,3,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+223,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+223,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+223,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+223,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+223,5,Skin haemorrhage,Skin haemorrhages,Skin vascular abnormalities,Skin,N
+224,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+225,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+226,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+226,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+227,1,Autoimmune hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+228,1,Autoimmune hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+229,1,Hepatic cancer,Hepatic neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,N
+230,1,Bedridden,Disability issues,Lifestyle issues,SocCi,N
+230,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+231,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+231,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+231,3,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+231,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+231,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+232,1,Cardiac pacemaker insertion,Cardiac device therapeutic procedures,Cardiac therapeutic procedures,Surg,N
+232,2,Complication associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+233,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+233,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+233,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+234,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+235,1,Gastric varices haemorrhage,Gastric and oesophageal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+236,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+236,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+236,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+237,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+237,2,Oesophageal carcinoma,Oesophageal neoplasms malignant,Gastrointestinal neoplasms malignant and unspecified,Neopl,N
+238,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+239,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+240,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+240,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+241,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+241,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+242,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+242,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+243,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+244,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+245,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+245,2,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+245,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+245,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+246,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+247,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+247,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+247,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+248,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+248,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+249,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+249,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+250,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+251,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+252,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+252,2,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+253,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+253,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+253,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+254,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+255,1,Blood test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+256,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+257,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+258,1,Cholecystitis infective,Hepatobiliary and spleen infections,Infections - pathogen unspecified,Infec,N
+258,2,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+258,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+259,1,Hepatic cancer,Hepatic neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,N
+260,1,Hip arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+260,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+261,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+262,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+262,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+262,3,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+262,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+262,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+263,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+263,2,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+264,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+265,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+265,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+265,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+266,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+266,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+266,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+267,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+267,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+267,3,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+268,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+268,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+268,3,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+268,4,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+268,5,Model for end stage liver disease score increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+268,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+268,7,Varices oesophageal,Oesophageal varices,Gastrointestinal vascular conditions,Gastr,N
+269,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+270,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+270,2,Therapy cessation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+271,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+272,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+272,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+272,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+272,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+273,1,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+273,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+273,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N

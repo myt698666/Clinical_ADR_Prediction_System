@@ -1,0 +1,295 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+1,2,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+1,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+1,4,Wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+2,1,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+3,1,Extradural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+3,2,Monoplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+3,3,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+4,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+5,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+5,2,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+5,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+5,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+5,5,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+5,6,Listless,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+6,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+6,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+6,3,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+6,4,Listless,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+6,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+7,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+7,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+8,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+8,2,Post procedural haemorrhage,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+9,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+9,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+10,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+10,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+11,1,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+11,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+12,1,Wound haemorrhage,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+13,1,Paraplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+13,2,Spinal cord haematoma,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+14,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+15,1,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+16,1,Small intestinal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+17,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+17,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+17,3,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+17,4,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+17,5,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+17,6,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+17,7,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+18,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+18,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+18,3,Hepatitis acute,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+18,4,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+18,5,Prothrombin time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+19,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+19,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+19,3,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+20,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+21,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+21,2,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+22,1,Splenic rupture,Abdominal and gastrointestinal injuries NEC,Injuries NEC,Inj&P,Y
+23,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+23,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+23,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+23,4,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+23,5,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+23,6,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+23,7,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+23,8,Thrombolysis,Vascular therapeutic procedures NEC,Vascular therapeutic procedures,Surg,N
+23,9,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+24,1,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+25,1,Duodenitis haemorrhagic,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+25,2,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+25,3,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+26,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+26,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+26,3,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+26,4,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+26,5,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,Y
+26,6,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+26,7,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+27,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+28,1,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+28,2,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+29,1,Blood thyroid stimulating hormone increased,Pituitary analyses anterior,Endocrine investigations (incl sex hormones),Inv,N
+29,2,Thyroid disorder,Thyroid disorders NEC,Thyroid gland disorders,Endo,N
+30,1,Cerebral mass effect,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+30,2,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+30,3,Subdural haemorrhage,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+31,1,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+31,2,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+31,3,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+32,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+32,2,Coronary artery occlusion,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+32,3,Coronary artery thrombosis,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+32,4,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+33,1,Hyperbilirubinaemia,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+33,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+34,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+35,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+35,2,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+35,3,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+36,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+37,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+37,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+37,3,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+38,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+39,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+39,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+40,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+40,2,Decubitus ulcer,Skin injuries and mechanical dermatoses,Epidermal and dermal conditions,Skin,N
+40,3,Extradural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+40,4,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+40,5,Left ventricular dysfunction,Myocardial disorders NEC,Myocardial disorders,Card,N
+40,6,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+40,7,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+40,8,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+40,9,Spinal cord compression,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+41,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+41,2,Extradural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+41,3,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+41,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+41,5,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+41,6,Spinal cord compression,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+41,7,Ulcer,Ulcers NEC,Tissue disorders NEC,Genrl,N
+42,1,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+43,1,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+43,2,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+44,1,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+44,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+44,3,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+45,1,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+46,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+46,2,Embolism venous,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+46,3,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+47,1,Abortion induced,Induced abortions,Obstetric and gynaecological therapeutic procedures,Surg,N
+47,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+48,1,Dandy-Walker syndrome,Cerebral disorders congenital,Neurological disorders congenital,Cong,N
+48,2,Fallot's tetralogy,Multiple cardiac abnormalities congenital,Cardiac and vascular disorders congenital,Cong,N
+48,3,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+49,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+49,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+50,1,Foetal death,Stillbirth and foetal death,Abortions and stillbirth,Preg,Y
+50,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+51,1,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+51,2,Preterm premature rupture of membranes,Maternal complications of pregnancy NEC,Maternal complications of pregnancy,Preg,N
+51,3,Umbilical cord prolapse,Umbilical cord complications,Neonatal and perinatal conditions,Preg,N
+52,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+52,2,Intensive care,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+52,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+53,1,Cerebral palsy,Cerebral disorders congenital,Neurological disorders congenital,Cong,N
+53,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+54,1,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+55,1,Abdominal wall haematoma,Abdominal wall conditions NEC,Abdominal hernias and other abdominal wall conditions,Gastr,N
+55,2,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+56,1,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+56,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+56,3,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+56,4,Pulmonary function test decreased,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+56,5,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+56,6,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+57,1,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+58,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+58,2,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+58,3,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+58,4,Hemiplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+59,1,Retroperitoneal haemorrhage,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,Y
+60,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+60,2,Respiratory tract haemorrhage,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+60,3,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+61,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+62,1,Needle issue,Device physical property and chemical issues,Device issues,Prod,N
+62,2,Removal of foreign body,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+63,1,Catheter site haemorrhage,Implant and catheter site reactions,Administration site reactions,Genrl,N
+63,2,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+63,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+63,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+64,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+65,1,Capillary fragility test,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+66,1,Capillary fragility test,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+67,1,Duodenitis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+67,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+67,3,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+67,4,Orthopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+67,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+67,6,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+67,7,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+68,1,Urticaria chronic,Urticarias,Angioedema and urticaria,Skin,N
+69,1,Capillary fragility test,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+70,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+70,2,Escherichia sepsis,Escherichia infections,Bacterial infectious disorders,Infec,N
+70,3,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+70,4,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+70,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+71,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+72,1,Gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+73,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+74,1,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+75,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+76,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+76,2,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+76,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+77,1,Headache,Headaches NEC,Headaches,Nerv,N
+78,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+78,2,Abdominal tenderness,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+78,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+78,4,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+78,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+78,6,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+78,7,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+78,8,Splenic rupture,Abdominal and gastrointestinal injuries NEC,Injuries NEC,Inj&P,N
+79,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+80,1,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+80,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+80,3,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+80,4,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+80,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+80,6,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+80,7,Refeeding syndrome,Metabolic disorders NEC,Metabolism disorders NEC,Metab,N
+80,8,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+80,9,Renal vascular thrombosis,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+80,10,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+81,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+81,2,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+81,3,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+82,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+83,1,Enlarged uvula,Oral soft tissue disorders NEC,Oral soft tissue conditions,Gastr,N
+83,2,Oral mucosal blistering,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+83,3,Oral mucosal erythema,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+84,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+84,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+84,3,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+84,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+85,1,Haemarthrosis,Arthropathies NEC,Joint disorders,Musc,N
+86,1,Duodenal ulcer,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+86,2,Gastric ulcer,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+86,3,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+86,4,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+87,1,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+88,1,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+89,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+89,2,Eczema impetiginous,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+89,3,Injection site cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+89,4,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+89,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+89,6,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+89,7,Type IV hypersensitivity reaction,Allergic conditions NEC,Allergic conditions,Immun,N
+89,8,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+90,1,Headache,Headaches NEC,Headaches,Nerv,N
+90,2,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+90,3,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+90,4,Reaction to excipient,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+91,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+91,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+91,3,Fibrin D dimer increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+91,4,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+91,5,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+91,6,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+91,7,Headache,Headaches NEC,Headaches,Nerv,N
+91,8,Headache,Headaches NEC,Headaches,Nerv,N
+91,9,Heparin-induced thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+91,10,Hypofibrinogenaemia,Coagulation factor deficiencies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+91,11,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+91,12,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+91,13,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+91,14,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+91,15,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+91,16,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+91,17,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+92,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+93,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+93,2,Haemothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+94,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+94,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+94,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+94,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+94,5,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+95,1,Cerebral venous sinus thrombosis,Cerebrovascular venous and sinus thrombosis,Central nervous system vascular disorders,Nerv,N
+95,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+95,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+95,4,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+96,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+97,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+98,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+98,2,Hypovolaemia,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+98,3,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,4,Pancreatitis haemorrhagic,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+98,5,Retroperitoneal haemorrhage,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,Y
+99,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+100,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+101,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+101,2,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+102,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+103,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+103,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+104,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+104,2,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+105,1,Haemorrhagic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+105,2,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+106,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N

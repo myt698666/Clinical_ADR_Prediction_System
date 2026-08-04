@@ -1,0 +1,54 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+1,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+1,3,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+2,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+2,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+3,1,Plasma cell myeloma,Plasma cell myelomas,Plasma cell neoplasms,Neopl,Y
+3,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+3,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+4,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,Y
+5,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+6,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+7,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+7,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+7,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+8,2,Haemophagocytic lymphohistiocytosis,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+8,3,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+8,4,Hepatic mass,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+8,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+8,6,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+8,7,Plasma cell myeloma,Plasma cell myelomas,Plasma cell neoplasms,Neopl,Y
+8,8,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+8,9,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+9,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+9,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+9,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+9,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+10,1,Basal cell carcinoma,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,Neopl,N
+10,2,Basal cell carcinoma,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,Neopl,N
+11,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+11,2,Metapneumovirus infection,Viral infections NEC,Viral infectious disorders,Infec,N
+11,3,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+12,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+12,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+13,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+13,2,Non-small cell lung cancer,Non-small cell neoplasms malignant of the respiratory tract cell type specified,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,Y
+14,1,Parainfluenzae virus infection,Parainfluenzae viral infections,Viral infectious disorders,Infec,N
+15,1,Hypopituitarism,Anterior pituitary hypofunction,Hypothalamus and pituitary gland disorders,Endo,N
+15,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+16,1,Hypopituitarism,Anterior pituitary hypofunction,Hypothalamus and pituitary gland disorders,Endo,N
+16,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+17,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+18,1,Metapneumovirus infection,Viral infections NEC,Viral infectious disorders,Infec,N
+18,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+19,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+20,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+20,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+20,3,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+20,4,Plasma cell myeloma,Plasma cell myelomas,Plasma cell neoplasms,Neopl,N
+21,1,Plasma cell myeloma,Plasma cell myelomas,Plasma cell neoplasms,Neopl,N
+22,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+22,2,Disease recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+22,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N

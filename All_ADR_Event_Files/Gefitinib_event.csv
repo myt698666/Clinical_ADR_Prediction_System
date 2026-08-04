@@ -1,0 +1,336 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+1,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+2,1,Ulcerative keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+2,2,Vocal cord paralysis,Vagus nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+3,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+4,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+4,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+4,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+5,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+5,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+6,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+6,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+7,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+7,2,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+7,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+8,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+8,3,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+8,4,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+8,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+8,6,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+8,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+8,8,Pleuritic pain,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+8,9,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+8,10,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+9,1,Venoocclusive liver disease,Hepatic vascular disorders,Hepatic and hepatobiliary disorders,Hepat,N
+10,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+10,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+10,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+10,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+11,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+12,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+13,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+13,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+13,3,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+14,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+15,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+15,2,Left ventricular failure,Left ventricular failures,Heart failures,Card,Y
+15,3,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+15,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+17,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+17,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+17,3,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+17,4,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+17,5,Hemiplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+17,6,Hepatic cyst,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+17,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+17,8,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+18,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+19,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+19,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+20,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+20,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+20,3,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+21,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+21,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+22,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+22,2,Cerebral ischaemia,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+22,3,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+22,4,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+22,5,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+22,6,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+22,7,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+22,8,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+22,9,Non-small cell lung cancer metastatic,Non-small cell neoplasms malignant of the respiratory tract cell type specified,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,Y
+22,10,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+23,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+24,1,Alopecia scarring,Alopecias,Skin appendage conditions,Skin,N
+24,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+24,3,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+24,4,Pyoderma,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+24,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+24,6,Rash pustular,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+24,7,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+25,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+25,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+25,3,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+25,4,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+25,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,6,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+26,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+26,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+27,1,Lower gastrointestinal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+28,1,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+29,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,1,Inflammatory marker increased,Chemistry analyses NEC,Protein and chemistry analyses NEC,Inv,N
+30,2,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+30,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+31,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+31,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+32,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+33,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+33,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+33,3,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+33,4,Transaminases increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+34,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+34,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+35,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+36,1,Breast cancer female,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+37,1,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,N
+37,2,Neoplasm progression,Neoplasms unspecified malignancy and site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,Y
+37,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+38,1,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+39,1,Neoplasm progression,Neoplasms unspecified malignancy and site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+40,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+40,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+40,3,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,N
+40,4,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+40,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+41,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+41,2,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+41,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+42,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+43,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+43,2,Lung neoplasm malignant,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,N
+44,1,Aspergillus infection,Aspergillus infections,Fungal infectious disorders,Infec,N
+44,2,Lung neoplasm malignant,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,Y
+45,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+45,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+45,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+46,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+46,2,Lung infiltration,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+46,3,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+46,4,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+47,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+47,2,Eosinophilia,Eosinophilic disorders,White blood cell disorders,Blood,N
+47,3,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+47,4,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+48,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+49,1,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+50,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+50,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+50,3,Metastases to bone,Metastases to specified sites,Metastases,Neopl,N
+50,4,Paraneoplastic syndrome,Paraneoplastic syndromes NEC,Neoplasm related morbidities,Neopl,N
+50,5,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+51,1,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+52,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+53,1,Pigmentation disorder,Pigmentation changes NEC,Pigmentation disorders,Skin,N
+53,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+54,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+55,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+55,2,Hypersensitivity pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+56,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+57,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+57,2,Amylase increased,Digestive enzymes,Gastrointestinal investigations,Inv,N
+57,3,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+58,1,Choroid melanoma,Ocular melanomas,Ocular neoplasms,Neopl,N
+58,2,Metastasis,Metastases to unknown and unspecified sites,Metastases,Neopl,N
+58,3,Serous retinal detachment,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+59,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+60,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,Y
+60,2,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+60,3,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+60,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+61,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+61,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+61,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+61,4,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+62,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+62,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+63,1,Blood calcium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+63,2,Blood magnesium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+63,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+63,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+63,5,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+64,1,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+65,1,Macrocytosis,Red blood cell abnormal findings NEC,Red blood cell disorders,Blood,N
+65,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+66,1,Fungal infection,Fungal infections NEC,Fungal infectious disorders,Infec,N
+66,2,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+66,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+67,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+68,1,Cystitis,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+68,2,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+68,3,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+68,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+68,5,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+69,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+70,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+71,1,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+72,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+73,1,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+74,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+74,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+74,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+75,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+75,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+75,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+75,4,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+75,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+76,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+76,2,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+76,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+76,4,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+77,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+78,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+78,2,EGFR gene mutation,Gene mutations and other alterations NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+78,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+78,4,Lower limb fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+78,5,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+79,1,Acute pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+79,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+79,3,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+79,4,Pulmonary congestion,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+79,5,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+79,6,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+79,7,Vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+80,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+80,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+80,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+81,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+81,2,Anisocoria,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+81,3,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+81,4,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+81,5,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+81,6,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+81,7,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+81,8,Genital haemorrhage,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+81,9,Genital injury,Reproductive system and breast injuries,Injuries NEC,Inj&P,N
+81,10,Genital pain,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+81,11,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+81,12,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+81,13,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+81,14,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+81,15,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+81,16,Scar,Skin injuries NEC,Injuries NEC,Inj&P,N
+81,17,Skin fissures,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+81,18,Skin haemorrhage,Skin haemorrhages,Skin vascular abnormalities,Skin,N
+81,19,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+81,20,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+82,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+82,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+82,3,Genital ulceration,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+82,4,Herpes virus infection,Herpes viral infections,Viral infectious disorders,Infec,N
+82,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+82,6,Vulvovaginal candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+82,7,Vulvovaginal pain,Vulvovaginal signs and symptoms,Vulvovaginal disorders (excl infections and inflammations),Repro,N
+83,1,Pseudomonas infection,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+83,2,Pulmonary haemorrhage,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+84,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+85,1,Brain neoplasm,Nervous system neoplasms unspecified malignancy NEC,Nervous system neoplasms malignant and unspecified NEC,Neopl,N
+85,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+85,3,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+85,4,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+85,5,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+86,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+86,2,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+86,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+87,1,Gastrointestinal carcinoma,Gastrointestinal neoplasms malignant NEC,Gastrointestinal neoplasms malignant and unspecified,Neopl,N
+88,1,Lymphadenopathy mediastinal,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+88,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+89,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+90,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+90,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+90,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+90,4,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+90,5,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+90,6,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+90,7,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+90,8,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+90,9,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+91,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+91,2,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+91,3,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+91,4,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+91,5,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+92,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+92,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+92,3,Hip fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+92,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+92,5,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+92,6,Metastases to bone,Metastases to specified sites,Metastases,Neopl,N
+92,7,Metastases to liver,Metastases to specified sites,Metastases,Neopl,N
+92,8,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+92,9,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+92,10,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+92,11,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+93,1,Bone disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+93,2,Metastases to liver,Metastases to specified sites,Metastases,Neopl,N
+93,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+93,4,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+94,1,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+94,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+94,3,Metastases to liver,Metastases to specified sites,Metastases,Neopl,N
+94,4,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,Y
+94,5,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+95,1,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,N
+95,2,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+96,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+96,2,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+97,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+97,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,1,Metastases to meninges,Metastases to specified sites,Metastases,Neopl,N
+99,1,Blood creatinine decreased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+99,2,Blood uric acid decreased,Metabolism tests NEC,"Metabolic, nutritional and blood gas investigations",Inv,N
+99,3,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+99,4,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,Y
+99,5,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+100,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+101,1,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+102,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+102,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+102,3,Heart failure with reduced ejection fraction,Left ventricular failures,Heart failures,Card,Y
+102,4,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+103,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+103,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+103,3,Paronychia,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+103,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+104,1,Metastases to bone,Metastases to specified sites,Metastases,Neopl,N
+105,1,Blood alkaline phosphatase abnormal,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+106,1,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+106,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+106,3,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+106,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+107,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+107,2,Drug effect less than expected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+107,3,Drug resistance mutation,Gene mutations and other alterations NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+107,4,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+107,5,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+107,6,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+107,7,Metastases to liver,Metastases to specified sites,Metastases,Neopl,N
+107,8,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+108,1,EGFR gene mutation,Gene mutations and other alterations NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+108,2,Impaired quality of life,Social issues NEC,Lifestyle issues,SocCi,N
+108,3,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+108,4,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+108,5,Metastases to pleura,Metastases to specified sites,Metastases,Neopl,N
+108,6,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+110,1,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+111,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+112,1,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+112,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+113,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N

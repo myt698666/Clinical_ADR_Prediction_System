@@ -1,0 +1,373 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Acute lymphocytic leukaemia,Leukaemias acute lymphocytic,Leukaemias,Neopl,N
+2,1,Plasma cell myeloma,Plasma cell myelomas,Plasma cell neoplasms,Neopl,N
+3,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+3,2,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+4,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+5,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+7,1,Vasospasm,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+8,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+9,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+10,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+11,1,Adrenal insufficiency,Adrenal cortical hypofunctions,Adrenal gland disorders,Endo,N
+12,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+13,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+14,1,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+15,1,Leukaemia,Leukaemias NEC,Leukaemias,Neopl,Y
+16,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+17,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+17,2,Myeloid leukaemia,Leukaemias myeloid NEC,Leukaemias,Neopl,Y
+17,3,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+17,4,Sideroblastic anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+17,5,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+18,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+19,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+19,2,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+19,3,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+19,4,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+20,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+21,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+22,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+22,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+23,1,Aplastic anaemia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+24,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+25,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+25,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+25,4,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+25,5,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+26,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+27,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+28,1,Acute myeloid leukaemia,Leukaemias acute myeloid,Leukaemias,Neopl,N
+29,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+30,1,Scleroderma,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,Y
+31,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+32,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+33,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+33,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+33,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+34,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+34,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+35,1,Myeloid leukaemia,Leukaemias myeloid NEC,Leukaemias,Neopl,Y
+36,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+36,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+36,3,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+37,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+38,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+38,2,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+39,1,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+39,2,Leukaemia,Leukaemias NEC,Leukaemias,Neopl,N
+40,1,Myeloid leukaemia,Leukaemias myeloid NEC,Leukaemias,Neopl,N
+41,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+41,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+41,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+41,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+42,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+43,1,Hypersensitivity pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+44,1,Hypersensitivity pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+45,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+46,1,Myeloid leukaemia,Leukaemias myeloid NEC,Leukaemias,Neopl,Y
+47,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+48,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+49,1,Myeloproliferative neoplasm,Myeloproliferative disorders (excl leukaemias),Haematopoietic neoplasms (excl leukaemias and lymphomas),Neopl,N
+50,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+51,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+52,1,Toxic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+53,1,Acute lymphocytic leukaemia recurrent,Leukaemias acute lymphocytic,Leukaemias,Neopl,Y
+53,2,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+53,3,Epstein-Barr virus infection reactivation,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+54,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+54,2,Toxic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+55,1,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+56,1,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+57,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+57,2,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+58,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+58,2,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+58,3,Post transplant lymphoproliferative disorder,Lymphoproliferative disorders NEC (excl leukaemias and lymphomas),Haematopoietic neoplasms (excl leukaemias and lymphomas),Neopl,N
+58,4,Stem cell transplant,Haematological therapeutic procedures NEC,Haematological and lymphoid tissue therapeutic procedures,Surg,N
+59,1,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+59,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+59,3,Epstein-Barr virus infection reactivation,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+60,1,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+60,2,Toxic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+61,1,Acute graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+61,2,Adenoviral hepatitis,Adenoviral infections,Viral infectious disorders,Infec,Y
+61,3,Evans syndrome,Anaemias haemolytic immune,Haemolyses and related conditions,Blood,N
+62,1,Acute graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+62,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+63,1,Cerebral aspergillosis,Aspergillus infections,Fungal infectious disorders,Infec,N
+64,1,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+65,1,Fontanelle bulging,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+65,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+66,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+67,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+67,2,Venoocclusive liver disease,Hepatic vascular disorders,Hepatic and hepatobiliary disorders,Hepat,N
+68,1,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+68,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+68,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+69,1,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,Y
+69,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+70,1,Perineal ulceration,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+70,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+71,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+72,1,Cystitis haemorrhagic,Bladder infections and inflammations,Bladder and bladder neck disorders (excl calculi),Renal,N
+72,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+73,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+73,2,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+73,3,Klebsiella infection,Klebsiella infections,Bacterial infectious disorders,Infec,N
+74,1,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+74,2,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+75,1,Bronchitis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+75,2,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+75,3,Microangiopathy,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+75,4,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+76,1,Bronchitis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+76,2,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+77,1,Graft versus host disease in gastrointestinal tract,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+77,2,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+77,3,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+78,1,Bacterial infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+78,2,Bronchitis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+78,3,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+79,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+79,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+79,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+80,1,Transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+81,1,Blood stem cell transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+81,2,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,Y
+82,1,Blood stem cell transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+83,1,Blood stem cell transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+84,1,Blood stem cell transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+85,1,Acute graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+85,2,Chronic graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+85,3,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+85,4,Post transplant lymphoproliferative disorder,Lymphoproliferative disorders NEC (excl leukaemias and lymphomas),Haematopoietic neoplasms (excl leukaemias and lymphomas),Neopl,N
+86,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+87,1,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+87,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+87,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+87,4,Streptococcal bacteraemia,Streptococcal infections,Bacterial infectious disorders,Infec,N
+87,5,Viral test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+88,1,Capillary leak syndrome,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+88,2,Chronic kidney disease,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+88,3,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+88,4,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+88,5,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+88,6,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+89,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+89,2,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+89,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+89,4,Gastroenteritis norovirus,Caliciviral infections,Viral infectious disorders,Infec,N
+89,5,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+89,6,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+89,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+90,1,Acute graft versus host disease in intestine,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+90,2,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+90,3,Chronic graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+90,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+91,1,Ewing's sarcoma,Bone sarcomas,Skeletal neoplasms malignant and unspecified,Neopl,N
+91,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+92,1,B precursor type acute leukaemia,Leukaemias acute lymphocytic,Leukaemias,Neopl,Y
+92,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+93,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+93,2,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+93,3,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+93,4,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+93,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+93,6,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+93,7,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+94,1,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+95,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+95,2,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+95,3,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+95,4,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+95,5,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+95,6,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+95,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+95,8,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+95,9,Venoocclusive disease,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+95,10,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+96,1,Meningitis,Central nervous system and spinal infections,Infections - pathogen unspecified,Infec,N
+96,2,Streptococcal bacteraemia,Streptococcal infections,Bacterial infectious disorders,Infec,N
+97,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+97,2,Dysbiosis,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+97,3,Fungal infection,Fungal infections NEC,Fungal infectious disorders,Infec,N
+97,4,Graft versus host disease in gastrointestinal tract,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+97,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+98,1,B precursor type acute leukaemia,Leukaemias acute lymphocytic,Leukaemias,Neopl,N
+98,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+98,3,Philadelphia positive acute lymphocytic leukaemia,Leukaemias acute lymphocytic,Leukaemias,Neopl,N
+99,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+99,2,Philadelphia positive acute lymphocytic leukaemia,Leukaemias acute lymphocytic,Leukaemias,Neopl,Y
+100,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+100,2,Juvenile chronic myelomonocytic leukaemia,Leukaemias chronic myeloid,Leukaemias,Neopl,Y
+100,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+101,1,Ewing's sarcoma,Bone sarcomas,Skeletal neoplasms malignant and unspecified,Neopl,N
+101,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+102,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+102,2,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+102,3,Gastroenteritis norovirus,Caliciviral infections,Viral infectious disorders,Infec,N
+102,4,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+102,5,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+102,6,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+102,7,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+102,8,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+102,9,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+102,10,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+102,11,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+102,12,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+102,13,Vaccination site inflammation,Vaccination site reactions,Administration site reactions,Genrl,N
+103,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+103,2,Guillain-Barre syndrome,Acute polyneuropathies,Peripheral neuropathies,Nerv,N
+103,3,Herpes zoster,Herpes viral infections,Viral infectious disorders,Infec,N
+103,4,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+103,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+103,6,Varicella zoster virus infection,Herpes viral infections,Viral infectious disorders,Infec,N
+104,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+104,2,BK virus infection,Polyomavirus infections,Viral infectious disorders,Infec,N
+104,3,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+104,4,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+104,5,Herpes zoster,Herpes viral infections,Viral infectious disorders,Infec,N
+104,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+104,7,Viral haemorrhagic cystitis,Viral infections NEC,Viral infectious disorders,Infec,N
+105,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+105,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+105,3,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+105,4,Serum amyloid A protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+106,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+106,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+106,3,Cardiac failure acute,Heart failures NEC,Heart failures,Card,N
+106,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+106,5,Inspiratory capacity decreased,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+106,6,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+106,7,Rales,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+107,1,Mycobacterium abscessus infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+107,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+107,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+107,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+107,5,Stenotrophomonas infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+108,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+108,2,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+108,3,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+109,1,Coronavirus infection,Coronavirus infections,Viral infectious disorders,Infec,N
+109,2,Mycobacterium abscessus infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+109,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+109,4,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+110,1,Coronavirus infection,Coronavirus infections,Viral infectious disorders,Infec,N
+110,2,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+110,3,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+110,4,Mycobacterium abscessus infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+110,5,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+110,6,Stenotrophomonas infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+110,7,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+111,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+111,2,Autoimmune haemolytic anaemia,Anaemias haemolytic immune,Haemolyses and related conditions,Blood,N
+111,3,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+111,4,Engraftment syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+111,5,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+111,6,Graft versus host disease in gastrointestinal tract,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+111,7,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+111,8,Posterior reversible encephalopathy syndrome,Encephalopathies NEC,Encephalopathies,Nerv,N
+112,1,Drug eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+113,1,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+113,2,Fungal infection,Fungal infections NEC,Fungal infectious disorders,Infec,N
+113,3,Graft versus host disease,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+114,1,Mycobacterium abscessus infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+114,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+114,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+114,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+114,5,Stenotrophomonas infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+115,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+115,2,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+115,3,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+115,4,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+115,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+115,6,Pneumonia viral,Viral infections NEC,Viral infectious disorders,Infec,N
+115,7,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+116,1,Abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+116,2,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+116,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+116,4,Staphylococcal bacteraemia,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+117,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+117,2,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+117,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+118,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+118,2,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+118,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+119,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+119,2,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+119,3,Micrococcal sepsis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+119,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+120,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+120,2,Capillary leak syndrome,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+120,3,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+120,4,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+120,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+120,6,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,Y
+120,7,Viraemia,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+121,1,Capillary leak syndrome,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+121,2,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+121,3,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+121,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+121,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+122,1,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+122,2,Graft versus host disease in gastrointestinal tract,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+123,1,Pseudostroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+124,1,Capillary leak syndrome,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+124,2,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+124,3,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+124,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+124,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+124,6,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+124,7,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+125,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+125,2,Capillary leak syndrome,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+125,3,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+125,4,Graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+125,5,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+125,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+125,7,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+125,8,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+125,9,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+125,10,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+125,11,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+125,12,Thrombotic microangiopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,Y
+125,13,Viraemia,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+126,1,Cytomegalovirus viraemia,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+126,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+126,3,Pneumonia viral,Viral infections NEC,Viral infectious disorders,Infec,N
+126,4,Product administered to patient of inappropriate age,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+126,5,Pulmonary haemorrhage,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,Y
+127,1,Pneumonia cytomegaloviral,Cytomegaloviral infections,Viral infectious disorders,Infec,Y
+128,1,Mycobacterial infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+128,2,Mycobacterium chelonae infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+129,1,Bacteraemia,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+129,2,Mycobacterium chelonae infection,Atypical mycobacterial infections,Mycobacterial infectious disorders,Infec,N
+129,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+129,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+129,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+129,6,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+130,1,Graft versus host disease in gastrointestinal tract,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+131,1,Acute graft versus host disease in skin,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+132,1,Autoimmune haemolytic anaemia,Anaemias haemolytic immune,Haemolyses and related conditions,Blood,N
+133,1,Congenital aplasia,Congenital disorders NEC,Congenital and hereditary disorders NEC,Cong,N
+133,2,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+133,3,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+134,1,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+134,2,Parvovirus infection,Parvoviral infections,Viral infectious disorders,Infec,N
+135,1,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+135,2,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+135,3,Parvovirus infection,Parvoviral infections,Viral infectious disorders,Infec,N
+136,1,Cytomegalovirus infection,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+137,1,Parvovirus infection,Parvoviral infections,Viral infectious disorders,Infec,N
+138,1,Epstein-Barr virus infection,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+138,2,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+138,3,Parvovirus infection,Parvoviral infections,Viral infectious disorders,Infec,N
+139,1,Human herpesvirus 6 infection,Herpes viral infections,Viral infectious disorders,Infec,N
+140,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+140,2,Pigmentation disorder,Pigmentation changes NEC,Pigmentation disorders,Skin,N
+140,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+140,4,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+140,5,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N

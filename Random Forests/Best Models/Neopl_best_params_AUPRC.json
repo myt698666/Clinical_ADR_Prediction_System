@@ -1,0 +1,23 @@
+{
+    "Psych": {
+        "n_estimators": 87,
+        "min_samples_split": 8,
+        "min_samples_leaf": 4,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Nerv": {
+        "n_estimators": 186,
+        "min_samples_split": 29,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Neopl": {
+        "n_estimators": 290,
+        "min_samples_split": 4,
+        "min_samples_leaf": 2,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    }
+}

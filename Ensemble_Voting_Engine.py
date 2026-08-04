@@ -1,0 +1,111 @@
+import pandas as pd
+import numpy as np
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from xgboost import XGBClassifier
+from sklearn.model_selection import StratifiedKFold
+from sklearn.metrics import f1_score, recall_score
+from sklearn.preprocessing import StandardScaler
+import matplotlib.pyplot as plt
+import warnings
+
+
+# --- 核心逻辑：MC-Dropout 不确定性分析 ---
+def predict_with_uncertainty(model, X_scaled, n_iter=20):
+    model.train()  # 开启 Dropout
+    preds = []
+    X_t = torch.tensor(X_scaled, dtype=torch.float32)
+    for _ in range(n_iter):
+        with torch.no_grad():
+            out = model(X_t)
+            preds.append(out.cpu().numpy())
+    preds = np.array(preds)
+    mean = preds.mean(axis=0)
+    std = preds.std(axis=0)
+    return mean, std
+
+
+def get_confidence_label(std, threshold=0.1):
+    return ["High Confidence" if s < threshold else "Low Confidence" for s in std]
+
+
+# --- 可视化模块 ---
+def plot_confidence_distribution(all_confidences):
+    high_count = all_confidences.count('High Confidence')
+    low_count = all_confidences.count('Low Confidence')
+    plt.figure(figsize=(8, 6))
+    bars = plt.bar(['High Confidence', 'Low Confidence'], [high_count, low_count], color=['#2ecc71', '#e74c3c'])
+    plt.title('Prediction Confidence Distribution', fontsize=14, fontweight='bold')
+    plt.ylabel('Number of Samples')
+    for bar in bars:
+        yval = bar.get_height()
+        plt.text(bar.get_x() + bar.get_width() / 2, yval + 1, yval, ha='center', va='bottom')
+    plt.savefig('Confidence_Distribution.png', dpi=300)
+    print("\n✨ [Visualization] Chart saved as 'Confidence_Distribution.png'.")
+    plt.show()
+
+
+# --- 主运行逻辑 ---
+warnings.filterwarnings('ignore')
+print("🛡️ [Integrated] Master Ensemble Engine with Uncertainty Quantification")
+
+# 加载数据
+try:
+    slim_df = pd.read_csv("STITCH_Identifiers/Slim_Fused_Feature_Matrix.csv", index_col=0)
+    vip_features = slim_df.columns.tolist()
+    inputs = pd.read_csv("STITCH_Identifiers/Ultimate_Fused_Feature_Matrix.csv", index_col='Matched Drug')
+    outputs = pd.read_csv("ADR_Summary/SOC_significance_matrix.csv")
+    merged_data = inputs.merge(outputs[['Drug', 'Neopl']], how='left', left_on=inputs.index, right_on='Drug').dropna()
+    X = merged_data[vip_features].values
+    y = merged_data['Neopl'].values.astype(int)
+except:
+    print("❌ Error: Load failed.")
+    exit()
+
+
+class ClinicalMLP(nn.Module):
+    def __init__(self, input_dim):
+        super(ClinicalMLP, self).__init__()
+        self.net = nn.Sequential(nn.Linear(input_dim, 256), nn.BatchNorm1d(256), nn.ReLU(), nn.Dropout(0.4),
+                                 nn.Linear(256, 1), nn.Sigmoid())
+
+    def forward(self, x): return self.net(x)
+
+
+skf = StratifiedKFold(n_splits=5, shuffle=True, random_state=42)
+res_ens = {'f1': [], 'rec': []}
+all_confidences = []
+device = torch.device("cpu")
+
+for fold, (train_idx, test_idx) in enumerate(skf.split(X, y), 1):
+    X_train, X_test = X[train_idx], X[test_idx]
+    y_train, y_test = y[train_idx], y[test_idx]
+    scaler = StandardScaler()
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
+
+    model = ClinicalMLP(X_train.shape[1]).to(device)
+    optimizer = optim.Adam(model.parameters(), lr=0.001)
+    criterion = nn.BCELoss()
+
+    # 简单训练
+    model.train()
+    X_t = torch.tensor(X_train_scaled, dtype=torch.float32)
+    y_t = torch.tensor(y_train, dtype=torch.float32).unsqueeze(1)
+    for _ in range(50):
+        optimizer.zero_grad()
+        criterion(model(X_t), y_t).backward()
+        optimizer.step()
+
+    # 分析
+    mean_preds, std = predict_with_uncertainty(model, X_test_scaled)
+    confidences = get_confidence_label(std)
+    all_confidences.extend(confidences)
+
+    pred_ens = (mean_preds >= 0.5).astype(int)
+    res_ens['f1'].append(f1_score(y_test, pred_ens, zero_division=0))
+    print(f"   ✨ Fold {fold} Analysis: {confidences.count('High Confidence')} High Confidence.")
+
+plot_confidence_distribution(all_confidences)
+print("\n🏆 Final Ensemble Report: Mean F1: {:.4f}".format(np.mean(res_ens['f1'])))

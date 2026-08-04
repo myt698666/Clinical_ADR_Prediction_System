@@ -1,0 +1,296 @@
+{
+    "Respiratory tract signs and symptoms": {
+        "n_estimators": 216,
+        "min_samples_split": 12,
+        "min_samples_leaf": 23,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Retina, choroid and vitreous haemorrhages and vascular disorders": {
+        "n_estimators": 153,
+        "min_samples_split": 27,
+        "min_samples_leaf": 28,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Salivary gland conditions": {
+        "n_estimators": 209,
+        "min_samples_split": 10,
+        "min_samples_leaf": 13,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "Schizophrenia and other psychotic disorders": {
+        "n_estimators": 120,
+        "min_samples_split": 13,
+        "min_samples_leaf": 35,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Seizures (incl subtypes)": {
+        "n_estimators": 25,
+        "min_samples_split": 15,
+        "min_samples_leaf": 20,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Sexual dysfunctions, disturbances and gender identity disorders": {
+        "n_estimators": 188,
+        "min_samples_split": 13,
+        "min_samples_leaf": 6,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "Sexual function and fertility disorders": {
+        "n_estimators": 165,
+        "min_samples_split": 13,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Skin and subcutaneous tissue disorders NEC": {
+        "n_estimators": 162,
+        "min_samples_split": 7,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Skin and subcutaneous tissue disorders congenital": {
+        "n_estimators": 88,
+        "min_samples_split": 39,
+        "min_samples_leaf": 7,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Skin appendage conditions": {
+        "n_estimators": 149,
+        "min_samples_split": 3,
+        "min_samples_leaf": 2,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Skin neoplasms malignant and unspecified": {
+        "n_estimators": 201,
+        "min_samples_split": 23,
+        "min_samples_leaf": 4,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Skin vascular abnormalities": {
+        "n_estimators": 227,
+        "min_samples_split": 15,
+        "min_samples_leaf": 4,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "Sleep disorders and disturbances": {
+        "n_estimators": 181,
+        "min_samples_split": 26,
+        "min_samples_leaf": 5,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Sleep disturbances (incl subtypes)": {
+        "n_estimators": 273,
+        "min_samples_split": 40,
+        "min_samples_leaf": 11,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Soft tissue neoplasms malignant and unspecified": {
+        "n_estimators": 248,
+        "min_samples_split": 27,
+        "min_samples_leaf": 8,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Somatic symptom and related disorders": {
+        "n_estimators": 76,
+        "min_samples_split": 9,
+        "min_samples_leaf": 12,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Spinal cord and nerve root disorders": {
+        "n_estimators": 295,
+        "min_samples_split": 29,
+        "min_samples_leaf": 10,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Spleen, lymphatic and reticuloendothelial system disorders": {
+        "n_estimators": 154,
+        "min_samples_split": 38,
+        "min_samples_leaf": 9,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Structural brain disorders": {
+        "n_estimators": 35,
+        "min_samples_split": 13,
+        "min_samples_leaf": 38,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Suicidal and self-injurious behaviours NEC": {
+        "n_estimators": 122,
+        "min_samples_split": 11,
+        "min_samples_leaf": 1,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Synovial and bursal disorders": {
+        "n_estimators": 263,
+        "min_samples_split": 19,
+        "min_samples_leaf": 3,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Tendon, ligament and cartilage disorders": {
+        "n_estimators": 94,
+        "min_samples_split": 33,
+        "min_samples_leaf": 1,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Testicular and epididymal disorders": {
+        "n_estimators": 259,
+        "min_samples_split": 24,
+        "min_samples_leaf": 6,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Thoracic disorders (excl lung and pleura)": {
+        "n_estimators": 159,
+        "min_samples_split": 13,
+        "min_samples_leaf": 10,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Thyroid gland disorders": {
+        "n_estimators": 44,
+        "min_samples_split": 38,
+        "min_samples_leaf": 32,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Tongue conditions": {
+        "n_estimators": 136,
+        "min_samples_split": 32,
+        "min_samples_leaf": 10,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Upper respiratory tract disorders (excl infections)": {
+        "n_estimators": 103,
+        "min_samples_split": 17,
+        "min_samples_leaf": 11,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Ureteric disorders": {
+        "n_estimators": 123,
+        "min_samples_split": 14,
+        "min_samples_leaf": 15,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Urethral disorders (excl calculi)": {
+        "n_estimators": 280,
+        "min_samples_split": 18,
+        "min_samples_leaf": 12,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Urinary tract signs and symptoms": {
+        "n_estimators": 190,
+        "min_samples_split": 8,
+        "min_samples_leaf": 12,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Urolithiases": {
+        "n_estimators": 152,
+        "min_samples_split": 20,
+        "min_samples_leaf": 13,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Uterine, pelvic and broad ligament disorders": {
+        "n_estimators": 35,
+        "min_samples_split": 33,
+        "min_samples_leaf": 23,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "Vascular disorders NEC": {
+        "n_estimators": 202,
+        "min_samples_split": 33,
+        "min_samples_leaf": 3,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Vascular haemorrhagic disorders": {
+        "n_estimators": 196,
+        "min_samples_split": 28,
+        "min_samples_leaf": 6,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Vascular hypertensive disorders": {
+        "n_estimators": 164,
+        "min_samples_split": 34,
+        "min_samples_leaf": 8,
+        "max_features": null,
+        "class_weight": null
+    },
+    "Vascular infections and inflammations": {
+        "n_estimators": 39,
+        "min_samples_split": 2,
+        "min_samples_leaf": 30,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Venous varices": {
+        "n_estimators": 13,
+        "min_samples_split": 5,
+        "min_samples_leaf": 27,
+        "max_features": "sqrt",
+        "class_weight": "balanced"
+    },
+    "Viral infectious disorders": {
+        "n_estimators": 223,
+        "min_samples_split": 22,
+        "min_samples_leaf": 3,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    },
+    "Vision disorders": {
+        "n_estimators": 215,
+        "min_samples_split": 19,
+        "min_samples_leaf": 14,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Vitamin related disorders": {
+        "n_estimators": 77,
+        "min_samples_split": 19,
+        "min_samples_leaf": 6,
+        "max_features": null,
+        "class_weight": "balanced"
+    },
+    "Vulvovaginal disorders (excl infections and inflammations)": {
+        "n_estimators": 224,
+        "min_samples_split": 17,
+        "min_samples_leaf": 6,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "White blood cell disorders": {
+        "n_estimators": 115,
+        "min_samples_split": 13,
+        "min_samples_leaf": 3,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    }
+}

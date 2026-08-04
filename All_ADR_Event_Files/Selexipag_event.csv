@@ -1,0 +1,132 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+1,2,Headache,Headaches NEC,Headaches,Nerv,N
+1,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+2,1,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+2,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+2,3,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+2,4,Transfusion,Blood and blood product treatment,Haematological and lymphoid tissue therapeutic procedures,Surg,N
+3,1,Concomitant disease aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+3,2,Right ventricular failure,Right ventricular failures,Heart failures,Card,N
+4,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+5,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+5,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+5,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+5,4,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+5,5,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+5,6,Hip arthroplasty,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+5,7,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+5,8,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,Y
+5,9,Scleroderma,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+6,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+6,2,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+7,1,Connective tissue disorder,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+7,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+7,3,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,Y
+8,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+8,2,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+9,1,Arterial rupture,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+9,2,Pericardial haemorrhage,Pericardial disorders NEC,Pericardial disorders,Card,Y
+10,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+10,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+10,3,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+10,4,Headache,Headaches NEC,Headaches,Nerv,N
+10,5,Myalgia,Muscle pains,Muscle disorders,Musc,N
+10,6,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+10,7,Vasculitis,Vasculitides NEC,Vascular infections and inflammations,Vasc,N
+11,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+11,2,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+11,3,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+11,4,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+12,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+12,2,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+13,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+13,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Artery dissection,Aneurysms and dissections non-site specific,Aneurysms and artery dissections,Vasc,Y
+15,1,Catheterisation cardiac,Cardiac imaging procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+15,2,Symptom recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+15,3,Walking distance test abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+16,1,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+16,2,Right ventricular failure,Right ventricular failures,Heart failures,Card,Y
+17,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+17,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+18,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+19,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+20,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+21,1,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+22,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+22,2,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+22,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+22,4,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+22,5,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+23,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+23,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+23,3,Hepatic arteriovenous malformation,Vascular anomalies congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+23,4,Hepatic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+23,5,Iron deficiency anaemia,Anaemia deficiencies,Anaemias nonhaemolytic and marrow depression,Blood,N
+24,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+24,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+25,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+25,2,Headache,Headaches NEC,Headaches,Nerv,N
+25,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+26,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+26,2,Migraine,Migraine headaches,Headaches,Nerv,N
+26,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+27,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+28,1,Learning disorder,Learning disorders,Cognitive and attention disorders and disturbances,Psych,N
+28,2,Product use complaint,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+29,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+29,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+29,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+29,4,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+30,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+30,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+30,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+31,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+31,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+32,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+32,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+32,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+32,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+32,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+32,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+33,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+33,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+33,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+33,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+33,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+33,6,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+34,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+35,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+35,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+35,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+36,1,Adverse reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+37,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+38,1,Lung transplant,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surg,N
+39,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+40,1,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+41,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+42,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+43,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+44,1,Haemoglobin,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+45,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+46,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+47,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+48,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+49,1,Anal incontinence,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+49,2,Atrial switch operation,Congenital cardiovascular anomaly therapeutic procedures,Cardiac therapeutic procedures,Surg,N
+49,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+50,1,Blood thyroid stimulating hormone decreased,Pituitary analyses anterior,Endocrine investigations (incl sex hormones),Inv,N
+50,2,Thyroxine increased,Thyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+51,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+51,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+51,3,Headache,Headaches NEC,Headaches,Nerv,N
+51,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+52,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+52,2,Aortic stenosis,Aortic necrosis and vascular insufficiency,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+52,3,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+52,4,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N

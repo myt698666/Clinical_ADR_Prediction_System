@@ -1,0 +1,460 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+1,2,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+1,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+1,4,Skin plaque,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+2,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+2,2,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+3,1,Alopecia scarring,Alopecias,Skin appendage conditions,Skin,N
+4,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+4,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+4,3,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+4,4,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+4,5,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+5,1,Bell's palsy,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+6,1,Oral candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+7,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+8,1,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+8,2,Lacunar stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+8,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+9,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+9,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+9,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+10,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+10,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+10,3,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+10,4,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+10,5,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+11,1,Colitis ulcerative,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+12,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+12,2,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+12,3,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+13,1,Sensation of foreign body,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+14,1,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+15,1,Basal cell carcinoma,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,Neopl,N
+15,2,Dysplastic naevus,Skin neoplasms benign,Cutaneous neoplasms benign,Neopl,N
+16,1,Flank pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+16,2,Lipoma,Soft tissue neoplasms benign NEC,Soft tissue neoplasms benign,Neopl,N
+16,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+17,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,Y
+18,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+18,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+18,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+19,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,Y
+20,1,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+20,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+21,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+21,2,Brain fog,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+21,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+21,4,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+21,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+21,6,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+22,1,Diarrhoea haemorrhagic,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+23,1,Apathy,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+23,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+23,3,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+23,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+24,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+24,2,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+25,1,Injection site cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+25,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+26,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+26,2,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+27,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+27,2,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+28,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+28,2,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+29,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+29,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+30,1,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+31,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+31,2,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+31,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+31,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+32,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+32,2,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+33,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+33,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+33,3,Skin warm,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+34,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+35,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+35,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+36,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+36,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+36,3,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+37,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+37,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+37,3,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+37,4,Injection site warmth,Injection site reactions,Administration site reactions,Genrl,N
+38,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+39,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+39,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+39,3,Conjunctival haemorrhage,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+39,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+39,5,Eye oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+39,6,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+39,7,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+39,8,Headache,Headaches NEC,Headaches,Nerv,N
+39,9,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+39,10,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+39,11,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+39,12,Injection site bruising,Injection site reactions,Administration site reactions,Genrl,N
+39,13,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+39,14,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+39,15,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+39,16,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+39,17,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+39,18,Myalgia,Muscle pains,Muscle disorders,Musc,N
+39,19,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+39,20,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+39,21,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+39,22,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+39,23,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+39,24,Semen viscosity decreased,Fertility analyses and other reproductive function procedures,Reproductive organ and breast investigations (excl hormone analyses),Inv,N
+39,25,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+39,26,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+39,27,Xanthopsia,Visual colour distortions,Vision disorders,Eye,N
+40,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+40,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+40,3,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+40,4,Headache,Headaches NEC,Headaches,Nerv,N
+40,5,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+40,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+40,7,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+40,8,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+40,9,Xanthopsia,Visual colour distortions,Vision disorders,Eye,N
+41,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+41,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+42,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+43,1,Colitis ulcerative,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+44,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+45,1,Headache,Headaches NEC,Headaches,Nerv,N
+46,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+46,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+46,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+47,1,Hepatic cirrhosis,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,N
+48,1,Vaginal haemorrhage,Vulvovaginal disorders NEC,Vulvovaginal disorders (excl infections and inflammations),Repro,N
+49,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,Y
+50,1,Colitis ulcerative,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+51,1,Gastroenteritis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+51,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+52,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+53,1,Thyroiditis subacute,Acute and chronic thyroiditis,Thyroid gland disorders,Endo,N
+54,1,Headache,Headaches NEC,Headaches,Nerv,N
+54,2,Injection site urticaria,Injection site reactions,Administration site reactions,Genrl,N
+54,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+54,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+54,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+55,1,Maternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+55,2,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+56,1,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+56,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+57,1,Dizziness postural,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+57,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+57,3,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+57,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+57,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+58,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+58,2,Headache,Headaches NEC,Headaches,Nerv,N
+58,3,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+59,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+59,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+59,3,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+59,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+59,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+60,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+60,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+61,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+61,2,Psoriatic arthropathy,Psoriatic arthropathies,Joint disorders,Musc,N
+61,3,Triple negative breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+62,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+63,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+63,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+63,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+63,4,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+63,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+63,6,Sjogren's syndrome,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+64,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+64,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+64,3,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+64,4,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+65,1,Therapeutic product effect incomplete,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+66,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+67,1,Central nervous system lesion,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+68,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+69,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+70,1,Acarodermatitis,Ectoparasitic infestations,Ectoparasitic disorders,Infec,N
+70,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+70,3,Muscular dystrophy,Non-site specific muscle disorders congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+71,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+71,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+71,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+72,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+72,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+72,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+73,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+74,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+75,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+75,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+75,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+76,1,Injection site haematoma,Injection site reactions,Administration site reactions,Genrl,N
+77,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+78,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+78,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+78,3,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+79,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+80,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+80,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+80,3,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+80,4,Injection site oedema,Injection site reactions,Administration site reactions,Genrl,N
+80,5,Injection site pruritus,Injection site reactions,Administration site reactions,Genrl,N
+80,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+81,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+81,2,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+81,3,Prescribed overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+82,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+82,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+82,3,Sensation of foreign body,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+83,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+83,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+84,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+85,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+85,2,Foreign body in throat,Chest and respiratory tract injuries NEC,Injuries NEC,Inj&P,N
+85,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+86,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+87,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+87,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+87,3,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+87,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+88,1,Breast cancer stage II,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+89,1,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+90,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+90,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+90,3,Williams syndrome,Cardiac valve disorders congenital,Cardiac and vascular disorders congenital,Cong,N
+91,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+92,1,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+93,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+94,1,Oral candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+94,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+95,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+95,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+95,3,Musculoskeletal pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+95,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+95,5,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+96,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+96,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+96,3,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+97,1,Oropharyngeal candidiasis,Candida infections,Fungal infectious disorders,Infec,N
+98,1,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+99,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+100,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+101,1,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+101,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+102,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+103,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+104,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+104,2,Injection site irritation,Injection site reactions,Administration site reactions,Genrl,N
+105,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+106,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+107,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+108,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+108,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+108,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+109,1,Arthropathy,Arthropathies NEC,Joint disorders,Musc,N
+109,2,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+109,3,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+109,4,Double stranded DNA antibody,Autoimmunity analyses,Immunology and allergy investigations,Inv,N
+109,5,Headache,Headaches NEC,Headaches,Nerv,N
+109,6,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+109,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+109,8,Osteoarthritis,Osteoarthropathies,Joint disorders,Musc,N
+109,9,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+109,10,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+109,11,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,12,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+109,13,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+109,14,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+109,15,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+110,1,Injection site mass,Injection site reactions,Administration site reactions,Genrl,N
+111,1,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+111,2,Enteritis,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+112,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+113,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+113,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+113,3,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+114,1,Ear infection,Ear infections,Infections - pathogen unspecified,Infec,N
+114,2,Lymphocele,Lymphangiopathies,Lymphatic vessel disorders,Vasc,N
+115,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+116,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+117,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+118,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+119,1,Spirochaetal infection,Treponema infections,Bacterial infectious disorders,Infec,N
+120,1,Diabetic ketoacidosis,Diabetic complications NEC,Diabetic complications,Metab,N
+121,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+122,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+122,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+122,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+122,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+123,1,Diverticulitis intestinal perforated,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+124,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+125,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+126,1,Faecal calprotectin,Faecal analyses NEC,Gastrointestinal investigations,Inv,N
+126,2,Frequent bowel movements,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+126,3,Proctalgia,Anal and rectal pains,Anal and rectal conditions NEC,Gastr,N
+127,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+128,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+129,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+130,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+130,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+131,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+132,1,Injection site bruising,Injection site reactions,Administration site reactions,Genrl,N
+133,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+134,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+135,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+136,1,Body tinea,Tinea infections,Fungal infectious disorders,Infec,N
+137,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+137,2,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+138,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+139,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+139,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+140,1,Fournier's gangrene,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,N
+141,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+141,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+141,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+141,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+141,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+141,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+141,7,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+142,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+142,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+142,3,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+142,4,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+142,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+142,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+143,1,Vitiligo,Hypopigmentation disorders,Pigmentation disorders,Skin,N
+144,1,Necrotising fasciitis,Muscle and soft tissue infections,Infections - pathogen unspecified,Infec,N
+145,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+145,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+146,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+147,1,No adverse event,Adverse effect absent,General system disorders NEC,Genrl,N
+148,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+149,1,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+150,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+151,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+151,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+152,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+153,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+153,2,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+153,3,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+153,4,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+153,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+154,1,Dizziness postural,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+154,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+154,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+155,1,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+156,1,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+157,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+158,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+159,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+160,1,Injection site discomfort,Injection site reactions,Administration site reactions,Genrl,N
+161,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+162,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+162,2,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+162,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+162,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+163,1,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+164,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+165,1,Herpes simplex,Herpes viral infections,Viral infectious disorders,Infec,N
+165,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+165,3,Psoriatic arthropathy,Psoriatic arthropathies,Joint disorders,Musc,N
+166,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+167,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+168,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+169,1,Injection site irritation,Injection site reactions,Administration site reactions,Genrl,N
+169,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+169,3,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+169,4,Injection site warmth,Injection site reactions,Administration site reactions,Genrl,N
+170,1,Change of bowel habit,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+170,2,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+171,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+172,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+173,1,Headache,Headaches NEC,Headaches,Nerv,N
+174,1,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+174,2,Migraine,Migraine headaches,Headaches,Nerv,N
+175,1,Accidental exposure to product,Accidental exposures to product,Medication errors and other product use errors and issues,Inj&P,N
+175,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+176,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+176,2,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+176,3,Folliculitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+176,4,Injection related reaction,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+176,5,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+176,6,Type IV hypersensitivity reaction,Allergic conditions NEC,Allergic conditions,Immun,N
+177,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+178,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+178,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+179,1,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+179,2,Twin pregnancy,Multiple pregnancies,"Pregnancy, labour, delivery and postpartum conditions",Preg,N
+180,1,Melanocytic naevus,Skin neoplasms benign,Cutaneous neoplasms benign,Neopl,N
+181,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+182,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+183,1,Hordeolum,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+184,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+184,2,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+185,1,Fungal infection,Fungal infections NEC,Fungal infectious disorders,Infec,N
+186,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+187,1,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+187,2,Shoulder fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+188,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+189,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+189,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+190,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+191,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+191,2,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+191,3,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+191,4,Injection site warmth,Injection site reactions,Administration site reactions,Genrl,N
+191,5,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+192,1,Ecchymosis,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+193,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+194,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+194,2,Psoriatic arthropathy,Psoriatic arthropathies,Joint disorders,Musc,N
+195,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+195,2,Headache,Headaches NEC,Headaches,Nerv,N
+195,3,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+195,4,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+196,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+196,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+196,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+197,1,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+198,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+199,1,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+200,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+201,1,Extra dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+201,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+201,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+202,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+203,1,Trigger finger,Tendon disorders,"Tendon, ligament and cartilage disorders",Musc,N
+204,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+205,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+206,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+206,2,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+207,1,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+208,1,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+209,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+209,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+210,1,Brain contusion,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+210,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+211,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+212,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+213,1,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+214,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+215,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+216,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+217,1,Lichen planus,Papulosquamous conditions,Epidermal and dermal conditions,Skin,N
+218,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+218,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+218,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+218,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+218,5,Skin warm,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+218,6,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+218,7,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+218,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N

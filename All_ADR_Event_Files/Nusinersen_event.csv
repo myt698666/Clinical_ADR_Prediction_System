@@ -1,0 +1,500 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+2,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+2,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+2,3,Rhinovirus infection,Rhinoviral infections,Viral infectious disorders,Infec,N
+3,1,Brain hypoxia,Central nervous system vascular disorders NEC,Central nervous system vascular disorders,Nerv,Y
+3,2,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+3,3,Bronchial secretion retention,Bronchial conditions NEC,Bronchial disorders (excl neoplasms),Resp,N
+3,4,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+3,5,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+3,6,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,N
+4,1,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+5,1,Coronavirus infection,Coronavirus infections,Viral infectious disorders,Infec,N
+5,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+5,3,Increased bronchial secretion,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+5,4,Lung consolidation,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+5,5,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+5,6,Poor peripheral circulation,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+5,7,Pseudomonas infection,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+5,8,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+6,1,Leukocytosis,Leukocytoses NEC,White blood cell disorders,Blood,N
+7,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+8,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+9,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+10,1,Blood lactic acid increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+11,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+12,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,Y
+12,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+12,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+12,4,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+12,5,Diabetic ketoacidosis,Diabetic complications NEC,Diabetic complications,Metab,N
+12,6,Hyperchloraemia,Chloride imbalance,Electrolyte and fluid balance conditions,Metab,N
+12,7,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+12,8,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+12,9,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+12,10,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+12,11,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+12,12,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+12,13,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,N
+12,14,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+12,15,Type 1 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+12,16,Ventricular dysfunction,Myocardial disorders NEC,Myocardial disorders,Card,N
+13,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+13,2,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+13,3,Angiopathy,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+13,4,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+13,5,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+13,6,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+13,7,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+13,8,Factor VIII deficiency,Coagulation disorders congenital,Blood and lymphatic system disorders congenital,Cong,N
+13,9,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+13,10,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+13,11,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+13,12,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+13,13,Papilloedema,Optic disc abnormalities NEC,"Ocular structural change, deposit and degeneration NEC",Eye,N
+13,14,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+13,15,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+13,16,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+13,17,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,N
+13,18,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+13,19,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+14,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+14,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+14,4,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+15,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+16,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+16,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+16,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+16,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+16,5,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+16,6,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+17,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+17,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,3,Rhinovirus infection,Rhinoviral infections,Viral infectious disorders,Infec,N
+18,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+18,2,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+19,1,Hypophagia,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+19,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+19,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+20,1,Blood glucose decreased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+20,2,Hypophagia,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+20,3,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+20,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+20,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+21,1,Blood glucose decreased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+21,2,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+21,3,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+21,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+21,5,Procedural vomiting,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+22,1,Migraine,Migraine headaches,Headaches,Nerv,N
+22,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+23,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+23,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+24,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+25,1,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+25,2,Pseudomonas infection,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+26,1,Hydrocephalus,Hydrocephalic conditions,Increased intracranial pressure and hydrocephalus,Nerv,N
+26,2,Nervous system cyst,Nervous system cysts and polyps,Nervous system neoplasms benign,Nerv,N
+27,1,Hair growth abnormal,Pilar disorders NEC,Skin appendage conditions,Skin,N
+27,2,Precocious puberty,Endocrine abnormalities of puberty,Endocrine disorders of gonadal function,Endo,N
+28,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+28,2,CSF white blood cell count increased,Cerebrospinal fluid tests (excl microbiology),"Neurological, special senses and psychiatric investigations",Inv,N
+28,3,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+29,1,Appendicitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+29,2,Gastroenteritis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+29,3,Joint dislocation,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+30,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+30,2,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+30,3,Polyuria,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+30,4,Renal tubular acidosis,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+30,5,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+31,1,COVID-19 pneumonia,Coronavirus infections,Viral infectious disorders,Infec,N
+31,2,Decreased immune responsiveness,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+31,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+31,5,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+31,6,Kidney infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+31,7,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+31,8,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+31,9,Prescribed underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+31,10,Pulmonary thrombosis,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+31,11,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+31,12,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+32,1,Blood potassium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+32,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+33,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+34,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+34,2,Phobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+34,3,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+34,4,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+35,1,Hypoventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+36,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+36,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+36,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+36,4,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+36,5,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+36,6,Hypovitaminosis,Vitamin deficiencies NEC,Vitamin related disorders,Metab,N
+36,7,Joint dislocation,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+36,8,Loss of personal independence in daily activities,Disability issues,Lifestyle issues,SocCi,N
+36,9,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+36,10,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+36,11,Musculoskeletal disorder,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+36,12,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+37,1,Anaesthetic complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+37,2,Procedural anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+37,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+38,1,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+39,1,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+40,1,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+41,1,Spinal disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+42,1,Prescribed underdose,Underdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+42,2,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+43,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+43,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+44,1,Bacterial disease carrier,Infectious disorders carrier,Ancillary infectious topics,Infec,N
+44,2,Bone density decreased,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Inv,N
+44,3,Cyclic vomiting syndrome,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+44,4,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+44,5,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+44,6,Foot fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+44,7,Joint dislocation,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+44,8,Osteopenia,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+44,9,Regurgitation,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+44,10,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+44,11,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+45,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+45,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+46,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+46,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+47,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+47,2,Stoma site discharge,Stoma complications,Procedural related injuries and complications NEC,Inj&P,N
+47,3,Stoma site erythema,Stoma complications,Procedural related injuries and complications NEC,Inj&P,N
+48,1,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+49,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+49,2,Eosinophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+49,3,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+49,4,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+49,5,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+49,6,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+50,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+50,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+51,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+51,2,Increased upper airway secretion,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+52,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+52,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+52,3,Motor dysfunction,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+52,4,Therapeutic product effect decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+52,5,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+53,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+53,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+53,3,Therapeutic response shortened,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+54,1,Headache,Headaches NEC,Headaches,Nerv,N
+54,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+54,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+55,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+55,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+55,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+56,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+57,1,Musculoskeletal procedural complication,Musculoskeletal procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+57,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+57,3,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+58,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+58,2,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+58,3,Joint dislocation,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+58,4,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+59,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+59,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+59,3,Muscle tightness,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+59,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+59,5,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+59,6,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+59,7,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+59,8,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+59,9,Urine ketone body present,Metabolism tests NEC,"Metabolic, nutritional and blood gas investigations",Inv,N
+60,1,Hypokinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+60,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+61,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+61,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+62,1,Inflammatory bowel disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+63,1,Paternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+64,1,Blood creatine decreased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+64,2,Mean cell haemoglobin concentration decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+64,3,Platelet count increased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+65,1,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+65,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+65,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+65,4,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+65,5,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,N
+66,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+67,1,Increased bronchial secretion,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+67,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+68,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+69,1,Spinal disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+70,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+70,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+70,3,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+70,4,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+70,5,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,Y
+71,1,Muscle contracture,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+71,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+72,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+73,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+73,2,Joint dislocation,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+73,3,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+74,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+75,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+75,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+76,1,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+77,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+77,2,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+77,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+77,4,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+78,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+78,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+79,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+79,2,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+80,1,Vessel puncture site bruise,Administration site reactions NEC,Administration site reactions,Genrl,N
+81,1,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+81,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+82,1,Spinal disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+83,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+83,2,Dysstasia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+83,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+83,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+83,5,Post-acute COVID-19 syndrome,Coronavirus infections,Viral infectious disorders,Infec,N
+83,6,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+84,1,Physical examination abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+84,2,Walking distance test abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+85,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+85,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+85,3,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+86,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+86,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+86,3,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+86,4,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+86,5,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+87,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+87,2,Enterovirus infection,Enteroviral infections NEC,Viral infectious disorders,Infec,N
+87,3,Rhinovirus infection,Rhinoviral infections,Viral infectious disorders,Infec,N
+88,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+89,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+89,2,Neurological examination abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+89,3,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+90,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+90,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+90,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+90,4,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+90,5,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+90,6,Loss of control of legs,Gait disturbances,General system disorders NEC,Genrl,N
+90,7,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+91,1,Xanthochromia,Cerebrospinal fluid tests (excl microbiology),"Neurological, special senses and psychiatric investigations",Inv,N
+92,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+92,2,Nephrocalcinosis,Renal lithiasis,Urolithiases,Renal,N
+92,3,Renal cyst,Renal neoplasms,Renal disorders (excl nephropathies),Renal,N
+93,1,Decubitus ulcer,Skin injuries and mechanical dermatoses,Epidermal and dermal conditions,Skin,N
+93,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+93,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+93,4,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+93,5,Increased bronchial secretion,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+93,6,Medical device site fibrosis,Complications associated with device NEC,Complications associated with device,Genrl,N
+93,7,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+93,8,Muscle tightness,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+93,9,Myalgia,Muscle pains,Muscle disorders,Musc,N
+93,10,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+93,11,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+94,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+94,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+95,1,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+95,2,Motor dysfunction,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+96,1,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+97,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+98,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+99,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+100,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+101,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+102,1,Neurological procedural complication,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+102,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+102,3,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+103,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+104,1,Von Willebrand's disease,Coagulation disorders congenital,Blood and lymphatic system disorders congenital,Cong,N
+105,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+105,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+106,1,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+107,1,Akinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+107,2,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+107,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+107,4,Parainfluenzae virus infection,Parainfluenzae viral infections,Viral infectious disorders,Infec,N
+107,5,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+107,6,Rhinovirus infection,Rhinoviral infections,Viral infectious disorders,Infec,N
+108,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+108,2,Ear discomfort,Ear disorders NEC,Aural disorders NEC,Ear,N
+108,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+108,4,Irritable bowel syndrome,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+108,5,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+108,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+108,7,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+108,8,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+108,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+109,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+109,2,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+110,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+111,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+111,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+111,3,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+112,1,Brain hypoxia,Central nervous system vascular disorders NEC,Central nervous system vascular disorders,Nerv,N
+112,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+112,3,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+112,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+113,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+114,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+115,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+115,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+116,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+117,1,Radicular pain,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+118,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+118,2,Parainfluenzae virus infection,Parainfluenzae viral infections,Viral infectious disorders,Infec,N
+118,3,Postresuscitation encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+119,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+120,1,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+120,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+120,3,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+120,4,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+121,1,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+122,1,CSF pressure decreased,Cerebrospinal fluid tests (excl microbiology),"Neurological, special senses and psychiatric investigations",Inv,N
+122,2,Headache,Headaches NEC,Headaches,Nerv,N
+122,3,Traumatic lumbar puncture,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+123,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+124,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+125,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+126,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+127,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+128,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+129,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+130,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+131,1,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+131,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+132,1,Injection site mass,Injection site reactions,Administration site reactions,Genrl,N
+133,1,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+133,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+134,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+135,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+135,2,Patella fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+136,1,Ankle fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+136,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+136,3,Ligament sprain,"Muscle, tendon and ligament injuries",Injuries NEC,Inj&P,N
+136,4,Motor dysfunction,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+137,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+137,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+138,1,Bulbar palsy,Mixed cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+138,2,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+138,3,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+138,4,Feeding intolerance,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metab,N
+138,5,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+139,1,Bulbar palsy,Mixed cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+140,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+141,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+142,1,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+143,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+144,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+145,1,Headache,Headaches NEC,Headaches,Nerv,N
+146,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+146,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+147,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+148,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+148,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+148,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+148,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+149,1,Device dislocation,Device issues NEC,Device issues,Prod,N
+150,1,Blood fibrinogen decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+150,2,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+150,3,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+150,4,Injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+151,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+152,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+153,1,Rib fracture,Thoracic cage fractures and dislocations,Bone and joint injuries,Inj&P,N
+154,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+154,2,Spinal muscular atrophy,Neurological disorders congenital NEC,Neurological disorders congenital,Cong,N
+155,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+156,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+157,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+158,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+158,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+159,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+159,2,Gastrostomy tube site complication,Stoma complications,Procedural related injuries and complications NEC,Inj&P,N
+159,3,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+159,4,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+160,1,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+161,1,Hydronephrosis,Renal obstructive disorders,Renal disorders (excl nephropathies),Renal,N
+161,2,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+162,1,Respiratory symptom,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,Resp,N
+163,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+163,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+163,3,Neonatal hypoxia,Neonatal hypoxic conditions,Neonatal respiratory disorders,Resp,N
+164,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+165,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+166,1,Therapeutic response shortened,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+167,1,Neurological procedural complication,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+168,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+169,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+169,2,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+169,3,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+170,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+170,2,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+170,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+171,1,Iron deficiency,Iron deficiencies,Iron and trace metal metabolism disorders,Metab,N
+171,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+172,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+172,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+172,3,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+172,4,Needle issue,Device physical property and chemical issues,Device issues,Prod,N
+173,1,Procedural anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+174,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+175,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+175,2,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+175,3,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+175,4,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+176,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+176,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+176,3,Respiratory tract infection viral,Viral infections NEC,Viral infectious disorders,Infec,N
+177,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+177,2,Therapeutic response shortened,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+178,1,Procedural anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+179,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,Y
+180,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+181,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+182,1,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+183,1,Gastrointestinal infection,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+183,2,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+184,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+185,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+185,2,Headache,Headaches NEC,Headaches,Nerv,N
+185,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+186,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+187,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+188,1,Radicular pain,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+189,1,Investigation abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+190,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+190,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+190,3,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+191,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+191,2,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+191,3,Wound cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+192,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+193,1,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+194,1,Nephroblastoma,Renal neoplasms malignant,Renal and urinary tract neoplasms malignant and unspecified,Neopl,N
+195,1,Post procedural infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+196,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+197,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+197,2,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+198,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+198,2,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+199,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+199,2,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+200,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+201,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+201,2,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+202,1,Post lumbar puncture syndrome,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+202,2,Procedural vomiting,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+203,1,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N

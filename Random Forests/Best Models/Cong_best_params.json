@@ -1,0 +1,23 @@
+{
+    "Blood": {
+        "n_estimators": 247,
+        "min_samples_split": 16,
+        "min_samples_leaf": 6,
+        "max_features": "log2",
+        "class_weight": null
+    },
+    "Card": {
+        "n_estimators": 31,
+        "min_samples_split": 10,
+        "min_samples_leaf": 18,
+        "max_features": "sqrt",
+        "class_weight": null
+    },
+    "Cong": {
+        "n_estimators": 120,
+        "min_samples_split": 26,
+        "min_samples_leaf": 29,
+        "max_features": "log2",
+        "class_weight": "balanced"
+    }
+}

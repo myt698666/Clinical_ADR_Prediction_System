@@ -1,0 +1,90 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+2,1,Device occlusion,Device malfunction events NEC,Device issues,Prod,Y
+3,1,Coronary artery occlusion,Coronary artery disorders NEC,Coronary artery disorders,Card,Y
+4,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+5,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,Y
+6,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+6,2,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+7,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+7,2,Coronary artery dissection,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+7,3,Coronary artery thrombosis,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+8,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+8,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+9,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+9,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+10,1,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+10,2,Mental disorder due to a general medical condition,Mental disorders due to a general medical condition NEC,Psychiatric disorders NEC,Psych,N
+11,1,Coronary artery thrombosis,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+11,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+11,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+11,4,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+11,5,Puncture site haemorrhage,Administration site reactions NEC,Administration site reactions,Genrl,N
+11,6,Subdural haemorrhage,Cerebral injuries NEC,Injuries NEC,Inj&P,Y
+12,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+13,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+13,2,Electrocardiogram ST segment elevation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+13,3,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+14,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+15,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+15,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+16,1,Puncture site haemorrhage,Administration site reactions NEC,Administration site reactions,Genrl,N
+17,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+18,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+19,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,Y
+20,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+20,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+20,3,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+20,4,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+20,5,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+20,6,Pupil fixed,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+21,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+22,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+22,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+23,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+23,2,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+24,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+25,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+26,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+27,1,Coronary artery dissection,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+27,2,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+28,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+28,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+29,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+30,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+30,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+31,1,Coronary artery occlusion,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+31,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+32,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+32,2,Electrocardiogram ST segment elevation,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+32,3,Vascular stent thrombosis,Vascular complications associated with device,Complications associated with device,Genrl,N
+33,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+34,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+35,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+36,1,Catheter site haemorrhage,Implant and catheter site reactions,Administration site reactions,Genrl,N
+37,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+37,2,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+37,3,Vascular stent thrombosis,Vascular complications associated with device,Complications associated with device,Genrl,N
+38,1,Catheter site haemorrhage,Implant and catheter site reactions,Administration site reactions,Genrl,N
+38,2,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+39,1,Thrombosis in device,Device malfunction events NEC,Device issues,Prod,N
+40,1,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+41,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,Y
+41,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+41,3,Peripheral ischaemia,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+42,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+43,1,Coagulation time shortened,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+43,2,Device related thrombosis,Vascular complications associated with device,Complications associated with device,Genrl,N
+44,1,Vascular stent thrombosis,Vascular complications associated with device,Complications associated with device,Genrl,N
+45,1,Cerebral thrombosis,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+46,1,Vascular stent thrombosis,Vascular complications associated with device,Complications associated with device,Genrl,N
+47,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+47,2,Contraindication to medical treatment,Social issues NEC,Lifestyle issues,SocCi,N
+48,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+48,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+48,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+49,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+49,2,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+50,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+51,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+51,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N

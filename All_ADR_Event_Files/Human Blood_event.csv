@@ -1,0 +1,48 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,Y
+2,1,Acute respiratory distress syndrome,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+2,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+2,3,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+2,4,Lung infiltration,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+2,5,Rales,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+2,6,Transfusion-related acute lung injury,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+3,1,Transfusion-related acute lung injury,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+4,1,False positive investigation result,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+5,1,Acute haemolytic transfusion reaction,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+5,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+5,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+5,4,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+5,5,Haemoglobinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+5,6,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+5,7,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+5,8,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+5,9,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+6,1,Transfusion-related circulatory overload,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+7,1,Haemolytic transfusion reaction,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,Y
+8,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+8,2,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+8,3,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+8,4,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+8,5,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+8,6,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+8,7,Transfusion-related circulatory overload,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+9,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,N
+10,1,Acute respiratory distress syndrome,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+10,2,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+10,3,Transfusion-related acute lung injury,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+11,1,Acute respiratory distress syndrome,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+11,2,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+11,3,Transfusion-associated dyspnoea,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+11,4,Transfusion-related acute lung injury,Transfusion related complications,Procedural related injuries and complications NEC,Inj&P,N
+12,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+13,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+14,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+15,1,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+15,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+15,3,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+15,4,Resuscitation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+16,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+16,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+16,3,Immune system disorder,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+16,4,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+16,5,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N

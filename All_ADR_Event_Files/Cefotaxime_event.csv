@@ -1,0 +1,540 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+2,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+3,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,Y
+4,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+4,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+4,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+5,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+6,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+7,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+8,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+9,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+10,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+11,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+12,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+13,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+14,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+15,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+16,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+16,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+17,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+17,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+18,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+19,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+20,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+20,2,Anosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+20,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+21,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+21,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+21,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+21,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+21,5,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+22,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+23,1,Neonatal respiratory arrest,Neonatal hypoxic conditions,Neonatal respiratory disorders,Resp,N
+24,1,Aplastic anaemia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+25,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+25,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+25,3,Tubulointerstitial nephritis,Nephritis NEC,Nephropathies,Renal,N
+26,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+27,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+28,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+29,1,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+30,1,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+31,1,Clostridium test,Bacteria identification and serology (excl mycobacteria),Microbiology and serology investigations,Inv,N
+32,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+33,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+34,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+35,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+35,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+35,3,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+35,4,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+36,1,Myelosuppression,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+37,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+37,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+38,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+39,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+40,1,Coombs negative haemolytic anaemia,Anaemias haemolytic NEC,Haemolyses and related conditions,Blood,N
+41,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+42,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+43,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+43,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+43,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+43,4,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+44,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+45,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+46,1,Intracranial pressure increased,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+47,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+47,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+47,3,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+47,4,Headache,Headaches NEC,Headaches,Nerv,N
+47,5,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+48,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+48,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+49,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+49,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+50,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+50,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+51,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+52,1,Rash morbilliform,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+53,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+53,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+53,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+53,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+54,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+55,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+56,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+57,1,Oliguria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+58,1,Infectious mononucleosis,Epstein-Barr viral infections,Viral infectious disorders,Infec,N
+58,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+59,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+60,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+61,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+62,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+63,1,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+63,2,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+64,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+65,1,Aplastic anaemia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+65,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+66,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+67,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+67,2,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+68,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+68,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+68,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+69,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+69,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+70,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+71,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+72,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+73,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+74,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+75,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+76,1,Nephropathy toxic,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+77,1,Coombs positive haemolytic anaemia,Anaemias haemolytic immune,Haemolyses and related conditions,Blood,N
+78,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+79,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+80,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+80,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+81,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+81,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+82,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+82,2,Vasospasm,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+83,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+84,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+84,2,Tubulointerstitial nephritis,Nephritis NEC,Nephropathies,Renal,N
+85,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+86,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+87,1,Haemolytic anaemia,Anaemias haemolytic NEC,Haemolyses and related conditions,Blood,N
+88,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+89,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+90,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+90,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+90,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+90,4,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+91,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+91,2,Glossitis,Tongue disorders,Tongue conditions,Gastr,N
+91,3,Parosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+92,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+93,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+93,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+94,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+95,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+96,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+97,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+98,1,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+98,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+98,3,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+98,4,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+99,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+100,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+100,2,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+100,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+100,4,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+101,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+101,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+102,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+103,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+104,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+105,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+106,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+107,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+107,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+108,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+109,1,Intracranial pressure increased,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+109,2,Papilloedema,Optic disc abnormalities NEC,"Ocular structural change, deposit and degeneration NEC",Eye,N
+110,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+111,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+111,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+112,1,Migraine,Migraine headaches,Headaches,Nerv,N
+113,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+114,1,Guillain-Barre syndrome,Acute polyneuropathies,Peripheral neuropathies,Nerv,N
+115,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+116,1,Deafness transitory,Hearing losses,Hearing disorders,Ear,N
+117,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+117,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+118,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+118,2,Glossitis,Tongue disorders,Tongue conditions,Gastr,N
+119,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+119,2,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,Y
+120,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+121,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+122,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+123,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+124,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+124,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+125,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+126,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+126,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+126,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+127,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+127,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+128,1,Cystitis haemorrhagic,Bladder infections and inflammations,Bladder and bladder neck disorders (excl calculi),Renal,N
+129,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+130,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+131,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+131,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+131,3,Stupor,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+132,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+133,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+134,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+135,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+136,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+136,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+136,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+137,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+137,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+138,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+139,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+140,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+141,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+142,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+143,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+144,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+145,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+145,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+146,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+146,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+147,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+147,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+148,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+148,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+149,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+150,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+150,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+151,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+152,1,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+152,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+153,1,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+154,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,Y
+155,1,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+156,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+156,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+157,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+158,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+158,2,Renal tubular necrosis,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+159,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+159,2,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+159,3,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+160,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+161,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+161,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+162,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+162,2,Headache,Headaches NEC,Headaches,Nerv,N
+163,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+164,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+165,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+166,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+167,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+167,2,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+168,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+169,1,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+169,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+170,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+171,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+172,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+173,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+174,1,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+175,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+176,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+176,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+177,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+178,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+179,1,Intravascular haemolysis,Haemolyses NEC,Haemolyses and related conditions,Blood,N
+179,2,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+179,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+179,4,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+180,1,Cutaneous vasculitis,Skin vasculitides,Skin vascular abnormalities,Skin,N
+180,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+181,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+181,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+181,3,Lip oedema,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+181,4,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+182,1,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+183,1,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+183,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+183,3,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+184,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+185,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+185,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+185,3,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+186,1,Abnormal faeces,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+186,2,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+186,3,Hyperbilirubinaemia,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+186,4,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+186,5,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+186,6,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+187,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+188,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+189,1,Bone marrow failure,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+190,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+190,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+191,1,Cardio-respiratory arrest neonatal,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+191,2,Tonic convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+192,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+193,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+194,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+195,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+196,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+197,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+198,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+198,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+199,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+199,2,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,Y
+200,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+201,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+201,2,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+202,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+203,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+204,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+205,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+206,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+207,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+207,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+208,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+208,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+208,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+208,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+209,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+210,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+211,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+212,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+213,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+214,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+215,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+216,1,Von Willebrand's disease,Coagulation disorders congenital,Blood and lymphatic system disorders congenital,Cong,N
+217,1,Clostridium difficile colitis,Clostridia infections,Bacterial infectious disorders,Infec,Y
+218,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+219,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+220,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+220,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+221,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+221,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+221,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+222,1,Expired product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+223,1,Congenital hypothyroidism,Thyroid disorders congenital,Endocrine disorders congenital,Cong,N
+223,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+224,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+224,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+225,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+226,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+227,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+228,1,Aplasia pure red cell,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+229,1,Encephalitis,Central nervous system and spinal infections,Infections - pathogen unspecified,Infec,N
+229,2,Infarction,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+229,3,Osteomyelitis,Bone and joint infections,Infections - pathogen unspecified,Infec,N
+229,4,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+229,5,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+230,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+231,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+231,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+231,3,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+232,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+232,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+233,1,Toxic skin eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+234,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+234,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+234,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+234,4,Tonic convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+235,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+236,1,Eyelid oedema,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+237,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+237,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+237,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+237,4,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+238,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+238,2,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+238,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+238,4,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+239,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+239,2,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+240,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+241,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+241,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+241,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+241,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+241,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+242,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+242,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+242,3,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+242,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+242,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+242,6,Throat tightness,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+243,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+244,1,Activated partial thromboplastin time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+244,2,Bleeding time abnormal,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+244,3,Blood fibrinogen abnormal,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+244,4,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+244,5,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+244,6,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+244,7,Thrombin time abnormal,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+245,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+245,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+245,3,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+246,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+247,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+247,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+248,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+248,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+249,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+249,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+249,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+249,4,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+249,5,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+250,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+250,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+250,3,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+251,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+252,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+252,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+253,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+253,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+253,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+253,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+254,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+254,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+255,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+256,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+256,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+256,3,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+256,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+256,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+257,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+257,2,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+257,3,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+257,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+257,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+257,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+258,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+258,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+258,3,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+259,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+259,2,Anuria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+259,3,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+259,4,Blood potassium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+259,5,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+259,6,Glomerular filtration rate decreased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+259,7,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+259,8,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+259,9,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+259,10,Renal infarct,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+259,11,Renal tubular necrosis,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+259,12,Urine albumin/creatinine ratio abnormal,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+260,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+261,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+261,2,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+262,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+263,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+263,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+264,1,Myelosuppression,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+265,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+265,2,Papule,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+265,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+266,1,Haemolysis,Haemolyses NEC,Haemolyses and related conditions,Blood,N
+267,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+268,1,Encephalitis,Central nervous system and spinal infections,Infections - pathogen unspecified,Infec,N
+268,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+269,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+269,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+269,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+270,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+270,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+271,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+271,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+272,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+273,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+274,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+275,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+276,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+277,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+278,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+279,1,Injection site extravasation,Injection site reactions,Administration site reactions,Genrl,N
+280,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+281,1,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+281,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+281,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+282,1,Apnoeic attack,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+282,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+282,3,Decerebrate posture,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+283,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+283,2,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+283,3,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+283,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+284,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+284,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+285,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+285,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+286,1,Eosinophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+286,2,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+286,3,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+286,4,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+286,5,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+287,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+288,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+289,1,Drug reaction with eosinophilia and systemic symptoms,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+289,2,Enterococcal infection,Enterococcal infections,Bacterial infectious disorders,Infec,N
+289,3,Eosinophilia,Eosinophilic disorders,White blood cell disorders,Blood,N
+289,4,Inflammatory marker increased,Chemistry analyses NEC,Protein and chemistry analyses NEC,Inv,N
+289,5,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+289,6,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+289,7,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+290,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+290,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+291,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+291,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+292,1,Clostridium difficile infection,Clostridia infections,Bacterial infectious disorders,Infec,N
+293,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+294,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+294,2,Neurotoxicity,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+294,3,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+295,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+296,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+296,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+296,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+296,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+296,5,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+297,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+298,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+299,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+300,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+301,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+301,2,Fever neonatal,Febrile disorders,Body temperature conditions,Genrl,N
+301,3,Hepatosplenomegaly neonatal,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+301,4,Hyperbilirubinaemia neonatal,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+301,5,Inflammatory marker increased,Chemistry analyses NEC,Protein and chemistry analyses NEC,Inv,N
+301,6,Leukocytosis,Leukocytoses NEC,White blood cell disorders,Blood,N
+301,7,Pantoea agglomerans infection,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+301,8,Pleocytosis,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+301,9,Respiratory disorder neonatal,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,N
+301,10,Thrombocytopenia neonatal,Thrombocytopenias,Platelet disorders,Blood,N
+302,1,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+303,1,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+303,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+303,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+303,4,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+304,1,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+304,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+304,3,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+305,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+306,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+306,2,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N

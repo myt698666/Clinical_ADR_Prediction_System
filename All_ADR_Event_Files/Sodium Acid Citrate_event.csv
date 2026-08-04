@@ -1,0 +1,191 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+2,1,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+3,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+4,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+5,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+7,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+8,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+9,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+10,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+11,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+12,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+13,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+13,2,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+13,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+14,1,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+15,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+16,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+16,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+17,1,Blood potassium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+17,2,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+18,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+18,2,Fanconi syndrome,Renal disorders congenital,Renal and urinary tract disorders congenital,Cong,N
+18,3,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+18,4,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+18,5,Nephrogenic diabetes insipidus,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+19,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+19,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+20,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+21,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+21,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+22,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+22,2,Diarrhoea haemorrhagic,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+22,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+23,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+23,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+23,3,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+24,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+24,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+24,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+24,4,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+25,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+26,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+26,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+27,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+27,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+27,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+28,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+28,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+28,3,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+28,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+28,5,Tongue discolouration,Tongue signs and symptoms,Tongue conditions,Gastr,N
+29,1,Brain abscess,Central nervous system and spinal infections,Infections - pathogen unspecified,Infec,N
+29,2,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+29,3,Brain oedema,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+29,4,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+29,5,Deafness,Hearing losses,Hearing disorders,Ear,N
+29,6,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+29,7,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+29,8,Intracranial pressure increased,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+29,9,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+29,10,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+29,11,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+29,12,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+29,13,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+30,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+30,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+31,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+31,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+31,3,Hypopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+31,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+31,5,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+32,1,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+32,2,Symptom masked,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+33,1,Helminthic infection,Helminthic infections NEC,Helminthic disorders,Infec,N
+34,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+35,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,1,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+36,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+36,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+37,1,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+37,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+38,1,Acne,Acnes,Skin appendage conditions,Skin,N
+39,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+39,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+40,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+40,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+41,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+41,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+41,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+41,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+42,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+43,1,Product preparation error,Product preparation errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+44,1,Hyperchlorhydria,Gastrointestinal mucosal dystrophies and secretion disorders,Gastrointestinal conditions NEC,Gastr,N
+44,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+44,3,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+45,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+45,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+45,3,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+45,4,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+46,1,Stress,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+47,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+47,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+48,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+49,1,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+49,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+50,1,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+50,2,Drug effective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+50,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+50,4,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+51,1,Urine output increased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+52,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+53,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+53,2,Short-bowel syndrome,Malabsorption syndromes,Malabsorption conditions,Gastr,N
+54,1,Blood electrolytes decreased,Water and electrolyte analyses NEC,"Water, electrolyte and mineral investigations",Inv,N
+54,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+55,1,Disability,Disability issues,Lifestyle issues,SocCi,N
+55,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+55,3,Injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+55,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+55,5,Patella fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+55,6,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+56,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+56,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+57,1,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+57,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+57,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+58,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+58,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+58,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+59,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+60,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+61,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+61,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+62,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+62,2,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+62,3,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+62,4,Short-bowel syndrome,Malabsorption syndromes,Malabsorption conditions,Gastr,N
+63,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+63,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+63,3,Immobile,Disability issues,Lifestyle issues,SocCi,N
+64,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+64,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+64,3,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+64,4,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+64,5,Intermittent claudication,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+64,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+64,7,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+64,8,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+64,9,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+64,10,Vascular graft,Vascular therapeutic procedures NEC,Vascular therapeutic procedures,Surg,N
+65,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+66,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+67,1,Product prescribing issue,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+68,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+68,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+68,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+68,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+69,1,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+69,2,Stress,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+70,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+70,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+70,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+71,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+71,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+72,1,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+72,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+72,3,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+73,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+73,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+73,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+73,4,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+73,5,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+74,1,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+75,1,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+75,2,Product solubility abnormal,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+75,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+76,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+77,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+78,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+78,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+79,1,Gastrointestinal sounds abnormal,Abdominal findings abnormal,Gastrointestinal signs and symptoms,Gastr,N
+79,2,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+80,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+80,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+81,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+82,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+83,1,Colitis,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+83,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N

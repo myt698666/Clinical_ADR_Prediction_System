@@ -1,0 +1,746 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,Y
+2,1,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+2,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+3,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+3,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+4,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+4,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+4,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+5,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+5,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+5,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,1,Atrial septal defect,Cardiac septal defects congenital,Cardiac and vascular disorders congenital,Cong,Y
+7,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+7,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+8,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+9,1,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+10,1,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+11,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+12,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+13,1,Cardio-respiratory arrest neonatal,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+14,1,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+15,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+15,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+15,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+15,4,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+15,5,Hypoventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+15,6,Oxygen saturation increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+15,7,Pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+15,8,Pulmonary arterial pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+15,9,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+15,10,Right ventricular failure,Right ventricular failures,Heart failures,Card,N
+15,11,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+16,1,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+16,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+16,3,Slow response to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+17,1,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+17,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+18,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+18,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,Y
+19,1,Pustule,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+19,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+20,1,Bronchitis,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+20,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+20,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+21,1,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+21,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+21,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+22,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+22,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+22,3,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+22,4,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+22,5,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,Y
+22,6,Retinal haemorrhage,Retinal bleeding and vascular disorders (excl retinopathy),"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+22,7,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+23,1,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+23,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+24,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+24,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+24,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+26,1,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+26,2,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+26,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+26,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+27,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+27,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+28,1,Blood bilirubin abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+28,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+29,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+29,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+29,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+29,4,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+29,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+29,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+29,7,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+30,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+31,1,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+32,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+33,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+34,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+34,2,Drug eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+34,3,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+34,4,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+34,5,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+34,6,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+34,7,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+34,8,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+34,9,Supraventricular extrasystoles,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+35,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+36,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+37,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+37,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+38,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+38,2,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+38,3,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+38,4,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+38,5,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+38,6,Heart disease congenital,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,Y
+38,7,Hypertrophic cardiomyopathy,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+38,8,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+38,9,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+38,10,Noonan syndrome,Musculoskeletal disorders congenital NEC,Musculoskeletal and connective tissue disorders congenital,Cong,N
+38,11,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+38,12,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+39,1,Apallic syndrome,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+39,2,Muscle spasticity,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+39,3,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+40,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+40,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+41,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+41,2,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+42,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+43,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+44,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+44,2,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+44,3,Regurgitation,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+45,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+45,2,Pneumonia staphylococcal,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+46,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+46,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+46,3,Respiratory tract infection viral,Viral infections NEC,Viral infectious disorders,Infec,N
+47,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+48,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+49,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,Y
+50,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+51,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+52,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+53,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+53,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+54,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+54,2,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+54,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+54,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+55,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+55,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+55,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+56,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+56,2,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+57,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+58,1,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+58,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+59,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+59,2,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+59,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+59,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+59,5,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+60,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+60,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+61,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+61,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+62,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+62,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+63,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+63,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+64,1,Rales,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+64,2,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+64,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+64,4,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+64,5,Use of accessory respiratory muscles,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,Resp,N
+65,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+65,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+66,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+66,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+67,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+68,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,Y
+69,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+69,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+70,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+70,2,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+70,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+70,4,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+70,5,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+70,6,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+70,7,Rhinovirus infection,Rhinoviral infections,Viral infectious disorders,Infec,N
+71,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+71,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+71,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+71,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+71,5,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+71,6,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+71,7,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+71,8,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+71,9,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+71,10,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+71,11,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+71,12,Vaccination failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+72,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+72,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+73,1,Viral infection,Viral infections NEC,Viral infectious disorders,Infec,N
+74,1,Viral infection,Viral infections NEC,Viral infectious disorders,Infec,N
+75,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+76,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+76,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+77,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+77,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+78,1,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+79,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+79,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+80,1,Hydrocephalus,Hydrocephalic conditions,Increased intracranial pressure and hydrocephalus,Nerv,N
+80,2,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+81,1,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+82,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+82,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+83,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+83,2,Oxygen therapy,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+83,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+84,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+85,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+86,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+86,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+86,3,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+87,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+88,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+89,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+90,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+91,1,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+91,2,Osteogenesis imperfecta,Non-site specific bone disorders congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+92,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+93,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+94,1,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+94,2,Mouth haemorrhage,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+94,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+95,1,Intestinal obstruction,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastr,Y
+96,1,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+97,1,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+97,2,Septic shock,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+98,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+98,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+98,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,4,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,5,Increased upper airway secretion,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+98,6,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+99,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+99,2,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+99,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+100,1,Oxygen consumption increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+100,2,Parainfluenzae virus infection,Parainfluenzae viral infections,Viral infectious disorders,Infec,N
+100,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+100,4,Pseudomonas infection,Pseudomonal infections,Bacterial infectious disorders,Infec,N
+100,5,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+101,1,Influenza A virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+101,2,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+102,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+102,2,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+103,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+103,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+104,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+105,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+106,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+107,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+108,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+109,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+110,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+111,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+112,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+113,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+114,1,Anoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+114,2,Breath holding,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+114,3,Foaming at mouth,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+114,4,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+115,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+116,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+117,1,Lung consolidation,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+117,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+117,3,Tympanic membrane perforation,Tympanic membrane disorders (excl infections),Middle ear disorders (excl congenital),Ear,N
+118,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+119,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+119,2,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+119,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+119,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+120,1,Hepatocellular carcinoma,Hepatic neoplasms malignant,Hepatobiliary neoplasms malignant and unspecified,Neopl,N
+121,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+122,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+122,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+122,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+123,1,Adenovirus infection,Adenoviral infections,Viral infectious disorders,Infec,N
+123,2,Adenovirus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+123,3,Haemophilus test positive,Bacteria identification and serology (excl mycobacteria),Microbiology and serology investigations,Inv,N
+123,4,Pneumonia haemophilus,Haemophilus infections,Bacterial infectious disorders,Infec,N
+123,5,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+123,6,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+124,1,Cyanosis neonatal,Neonatal hypoxic conditions,Neonatal respiratory disorders,Resp,N
+124,2,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+124,3,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+124,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+125,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+126,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+127,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+128,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+129,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+130,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+130,2,Infantile spitting up,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+130,3,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+130,4,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+130,5,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+130,6,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+131,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+132,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+133,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+133,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+133,3,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+133,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+133,5,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+133,6,Selective eating disorder,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+133,7,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+134,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+135,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+135,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+136,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+137,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+138,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+139,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+140,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+141,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+142,1,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+142,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+143,1,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+143,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+144,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+145,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+146,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+147,1,Haemophilus infection,Haemophilus infections,Bacterial infectious disorders,Infec,N
+147,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+147,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+148,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+149,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+149,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+149,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+149,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+149,5,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+149,6,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+149,7,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+149,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+150,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+150,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+151,1,Febrile convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+151,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+152,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+152,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+153,1,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+153,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+154,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+155,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+156,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+157,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+158,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+159,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+160,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+161,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+162,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+163,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+164,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+165,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+166,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+167,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+168,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+169,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+170,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+171,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+172,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+173,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+173,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+174,1,Congenital pulmonary artery anomaly,Arterial disorders congenital,Cardiac and vascular disorders congenital,Cong,N
+174,2,Congenital pulmonary valve atresia,Cardiac valve disorders congenital,Cardiac and vascular disorders congenital,Cong,N
+174,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+174,4,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+174,5,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+174,6,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+174,7,Ventricular septal defect,Cardiac septal defects congenital,Cardiac and vascular disorders congenital,Cong,N
+174,8,Viral rash,Viral infections NEC,Viral infectious disorders,Infec,N
+175,1,Bronchopulmonary dysplasia,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,Y
+175,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+176,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+177,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,Y
+178,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+179,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+180,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+180,2,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+180,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+181,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+182,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+183,1,Apnoeic attack,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+183,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+183,3,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+184,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+185,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+185,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+185,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+185,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+185,5,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+186,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+186,2,Parainfluenzae virus infection,Parainfluenzae viral infections,Viral infectious disorders,Infec,N
+186,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+187,1,Bronchopulmonary dysplasia,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,N
+187,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+188,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+188,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+189,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+189,2,Oxygen consumption increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+189,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+189,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+190,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+190,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+190,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+191,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+191,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+191,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+192,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+192,2,Mechanical ventilation,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+192,3,Oxygen saturation abnormal,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+192,4,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+193,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+193,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+194,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+195,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+196,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+197,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+198,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+199,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+200,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+201,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+202,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+203,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+204,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+205,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+205,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+206,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+207,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+207,2,Treatment failure,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+208,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+209,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+210,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+210,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+211,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+211,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+211,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+212,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+212,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+213,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+213,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+214,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+215,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+215,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+215,3,Upper respiratory tract infection,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+215,4,Upper respiratory tract infection,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+215,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+216,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+217,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+218,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+218,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+219,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+219,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+219,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+219,4,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+220,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+220,2,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+220,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+221,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+221,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+222,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+223,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+223,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+224,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+224,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+225,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+225,2,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+226,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+227,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+228,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+228,2,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+228,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+229,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+229,2,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+229,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+230,1,Febrile convulsion,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+230,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+231,1,Daydreaming,Cognitive and attention disorders and disturbances NEC,Cognitive and attention disorders and disturbances,Psych,N
+231,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+231,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+231,4,Screaming,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+231,5,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+232,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+232,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+233,1,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+233,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+233,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+234,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+235,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+236,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+236,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+237,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+237,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+238,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+239,1,Hypophagia,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+239,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+239,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+239,4,Urine output decreased,Urinary tract function analyses NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+240,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+241,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+242,1,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+243,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+244,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+244,2,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+245,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+245,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+246,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+247,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+248,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+249,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+250,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+250,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+251,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+251,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+252,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+252,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+253,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+253,2,Skin warm,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+254,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+254,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+255,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+255,2,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+256,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+257,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+258,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+259,1,Atrioventricular septal defect,Cardiac septal defects congenital,Cardiac and vascular disorders congenital,Cong,N
+259,2,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+259,3,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+259,4,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+259,5,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+259,6,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+259,7,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+260,1,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+260,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+260,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+260,4,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+261,1,Bronchitis,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+262,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+263,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+264,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+265,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+265,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+266,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+267,1,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+267,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+268,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+269,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+270,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+271,1,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+272,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,Y
+273,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+273,2,Costello syndrome,Musculoskeletal disorders congenital NEC,Musculoskeletal and connective tissue disorders congenital,Cong,N
+273,3,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+273,4,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+274,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+275,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+275,2,Oxygen therapy,Respiratory tract therapeutic procedures NEC,Respiratory tract therapeutic procedures,Surg,N
+276,1,Adverse event,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+276,2,Sudden infant death syndrome,Death and sudden death,Fatal outcomes,Genrl,Y
+277,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+277,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+278,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+278,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+278,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+279,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+279,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+279,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+280,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+281,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+282,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+282,2,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+283,1,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+283,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+283,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+284,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+285,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+286,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+286,2,Floppy infant,Muscle tone abnormalities,Muscle disorders,Musc,N
+286,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+287,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+288,1,Feeding disorder,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+288,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+288,3,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+289,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+289,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+290,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+290,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+290,3,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+291,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+292,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+293,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+294,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+294,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+294,3,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+295,1,Coronary artery bypass,Arterial therapeutic procedures (excl aortic),Vascular therapeutic procedures,Surg,N
+296,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+297,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+298,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+299,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+300,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+300,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+301,1,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+301,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+302,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+303,1,Barth syndrome,Inborn errors of lipid metabolism,Metabolic and nutritional disorders congenital,Cong,N
+304,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+305,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+306,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+307,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+308,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+309,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+309,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+309,3,Hypoplastic left heart syndrome,Cardiac hypoplasias congenital,Cardiac and vascular disorders congenital,Cong,Y
+309,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+310,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+311,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+311,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+311,3,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+312,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+312,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+312,3,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+313,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+313,2,Metabolic disorder,Metabolic disorders NEC,Metabolism disorders NEC,Metab,Y
+314,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+314,2,Feeding disorder,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+314,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+315,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+316,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+317,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+318,1,Heart disease congenital,Cardiac disorders congenital NEC,Cardiac and vascular disorders congenital,Cong,N
+318,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+319,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+320,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+320,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+321,1,General symptom,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+321,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+322,1,Apnoeic attack,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+323,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+324,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+325,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+325,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+325,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+326,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+326,2,Vaccine breakthrough infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+327,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+328,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+329,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+330,1,Bronchiolitis,Viral infections NEC,Viral infectious disorders,Infec,N
+331,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+331,2,Respiratory tract infection viral,Viral infections NEC,Viral infectious disorders,Infec,N
+332,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+333,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+333,2,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+333,3,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+334,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+334,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+335,1,Hyperpyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+336,1,Injection site abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+336,2,Septic shock,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+337,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+338,1,Injection site haemorrhage,Injection site reactions,Administration site reactions,Genrl,N
+338,2,Ulcer,Ulcers NEC,Tissue disorders NEC,Genrl,N
+338,3,Vasculitic rash,Skin vasculitides,Skin vascular abnormalities,Skin,N
+339,1,Cardiac dysfunction,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+339,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+339,3,Heart valve incompetence,Cardiac valve disorders NEC,Cardiac valve disorders,Card,N
+339,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+339,5,Right atrial dilatation,Myocardial disorders NEC,Myocardial disorders,Card,N
+339,6,Viral infection,Viral infections NEC,Viral infectious disorders,Infec,N
+339,7,Weight gain poor,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+340,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+340,2,Coronary artery dilatation,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+340,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+341,1,Apnoea test abnormal,Respiratory and pulmonary function diagnostic procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+341,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+341,3,Neonatal hypoxia,Neonatal hypoxic conditions,Neonatal respiratory disorders,Resp,N
+342,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+342,2,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+342,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+342,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+343,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+344,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+345,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+345,2,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+345,3,Livedo reticularis,Skin vasomotor conditions,Skin vascular abnormalities,Skin,N
+345,4,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+346,1,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+347,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+348,1,Respiratory syncytial virus test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+349,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+350,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+350,2,Gastroenteritis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+350,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+351,1,Infantile vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+352,1,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+353,1,Prophylaxis of nausea and vomiting,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+354,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+354,2,Vaccination site swelling,Vaccination site reactions,Administration site reactions,Genrl,N
+355,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+356,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+357,1,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+357,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+358,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+358,2,Respiratory symptom,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,Resp,N
+358,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+359,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+360,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+360,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+360,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+360,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+360,5,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+361,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+362,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+363,1,Viral infection,Viral infections NEC,Viral infectious disorders,Infec,Y
+364,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+365,1,Respiratory syncytial virus bronchiolitis,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+366,1,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+366,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+367,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+367,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+368,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+368,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+369,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+369,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+370,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+370,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+371,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+371,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+372,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+372,2,Respiratory syncytial virus infection,Respiratory syncytial viral infections,Viral infectious disorders,Infec,N
+373,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+374,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+375,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+375,2,Petit mal epilepsy,Absence seizures,Seizures (incl subtypes),Nerv,N
+375,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+376,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+376,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+377,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+377,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+378,1,Respiratory rate decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+379,1,Livedo reticularis,Skin vasomotor conditions,Skin vascular abnormalities,Skin,N
+379,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+380,1,Injury associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+380,2,Needle issue,Device physical property and chemical issues,Device issues,Prod,N
+381,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+381,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N

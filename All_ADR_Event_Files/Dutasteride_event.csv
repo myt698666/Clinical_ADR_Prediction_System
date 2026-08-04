@@ -1,0 +1,738 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+2,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+2,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+3,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+3,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+3,3,Feeling of body temperature change,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+3,4,Headache,Headaches NEC,Headaches,Nerv,N
+4,1,Hair disorder,Pilar disorders NEC,Skin appendage conditions,Skin,N
+4,2,Headache,Headaches NEC,Headaches,Nerv,N
+4,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+4,4,Mood swings,Fluctuating mood symptoms,Mood disorders and disturbances NEC,Psych,N
+4,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+5,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+5,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+5,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+6,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+7,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+8,1,Pelvic pain,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+9,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+9,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+10,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+10,2,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+10,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+11,1,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+12,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+12,2,Glioblastoma multiforme,Glial tumours malignant,Nervous system neoplasms malignant and unspecified NEC,Neopl,N
+12,3,Heart rate abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+13,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+14,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+15,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+16,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+16,2,Headache,Headaches NEC,Headaches,Nerv,N
+16,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+16,4,Toothache,Dental pain and sensation disorders,Dental and gingival conditions,Gastr,N
+17,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+18,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+19,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+20,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+20,2,Headache,Headaches NEC,Headaches,Nerv,N
+20,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+21,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+21,2,Scrotal swelling,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+22,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+22,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+23,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+24,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+24,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+25,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+26,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+27,1,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+28,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+28,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+28,3,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+28,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+29,1,Semen discolouration,Spermatogenesis and semen disorders,Sexual function and fertility disorders,Repro,N
+30,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+30,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+31,1,Hyperkeratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+32,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+33,1,Hair growth abnormal,Pilar disorders NEC,Skin appendage conditions,Skin,N
+34,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+34,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+35,1,Vasculitic rash,Skin vasculitides,Skin vascular abnormalities,Skin,N
+36,1,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+37,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+37,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+37,3,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+38,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+38,2,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+38,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+39,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+40,1,Nipple pain,Breast signs and symptoms,Breast disorders,Repro,N
+41,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+42,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+42,2,Urethral pain,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+43,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+43,2,Ejaculation failure,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+43,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+43,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+44,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+44,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+45,1,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+46,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+46,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+47,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+49,1,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+50,1,Prostatic haemorrhage,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Repro,N
+51,1,Dermatitis exfoliative,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+52,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+53,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+54,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+54,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+55,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+55,2,Body mass index increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+56,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+57,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+58,1,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+59,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+60,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+61,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+62,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+62,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+62,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+63,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+64,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+65,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+66,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+67,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+67,2,Penile oedema,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+67,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+68,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+68,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+68,3,Haematochezia,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+69,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+70,1,Dry throat,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+70,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+70,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+71,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+72,1,Erythema of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+72,2,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+73,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+74,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+74,2,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+75,1,Acute myeloid leukaemia,Leukaemias acute myeloid,Leukaemias,Neopl,Y
+75,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+75,3,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+75,4,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+76,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+76,2,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+77,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+78,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+79,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+80,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+81,1,Cirrhosis alcoholic,Hepatic fibrosis and cirrhosis,Hepatic and hepatobiliary disorders,Hepat,Y
+81,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+81,3,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+81,4,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+82,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+82,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+83,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+83,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+84,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+85,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+86,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+86,2,Penis disorder,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+86,3,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+87,1,Phimosis,Male reproductive tract disorders congenital,Reproductive tract and breast disorders congenital,Cong,N
+88,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+88,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+89,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+89,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+89,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+90,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+91,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+92,1,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+92,2,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+92,3,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+93,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+94,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+94,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+94,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+95,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+96,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+97,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+97,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+98,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+99,1,Phimosis,Male reproductive tract disorders congenital,Reproductive tract and breast disorders congenital,Cong,N
+100,1,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+100,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+100,3,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+101,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+102,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+103,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+103,2,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+104,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+104,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+104,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+104,4,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+104,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+104,6,Hypopituitarism,Anterior pituitary hypofunction,Hypothalamus and pituitary gland disorders,Endo,N
+105,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+106,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+107,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+107,2,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+108,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+108,2,Neoplasm,Neoplasms unspecified malignancy and site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+109,1,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+109,2,Breast swelling,Breast signs and symptoms,Breast disorders,Repro,N
+109,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+110,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+111,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+111,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+111,3,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+111,4,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+112,1,Headache,Headaches NEC,Headaches,Nerv,N
+113,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+113,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+113,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+114,1,Anal incontinence,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+114,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+114,3,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+114,4,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+115,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+115,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+115,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+115,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+116,1,Intestinal ulcer,Intestinal ulcers and perforation NEC,Gastrointestinal ulceration and perforation,Gastr,N
+116,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+117,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+118,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+119,1,Gingival hypertrophy,"Gingival disorders, signs and symptoms NEC",Dental and gingival conditions,Gastr,N
+119,2,Periodontal disease,Dental disorders NEC,Dental and gingival conditions,Gastr,N
+120,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+121,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+122,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+122,2,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+122,3,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+123,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+123,2,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+123,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+123,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+123,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+123,6,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+123,7,Functional gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+123,8,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+123,9,Mood swings,Fluctuating mood symptoms,Mood disorders and disturbances NEC,Psych,N
+123,10,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+124,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+124,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+125,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+125,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+125,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+126,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+127,1,Breast cancer male,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+127,2,Breast swelling,Breast signs and symptoms,Breast disorders,Repro,N
+128,1,Arrhythmia supraventricular,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+128,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+129,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+130,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+130,2,Salivary hyposecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+131,1,Ear swelling,Ear disorders NEC,Aural disorders NEC,Ear,N
+132,1,Peyronie's disease,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+133,1,Major depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+134,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+135,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+135,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+135,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+136,1,Abdominal mass,Abdominal findings abnormal,Gastrointestinal signs and symptoms,Gastr,N
+136,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+136,3,Gastric cancer,Gastric neoplasms malignant,Gastrointestinal neoplasms malignant and unspecified,Neopl,N
+136,4,Metastases to liver,Metastases to specified sites,Metastases,Neopl,N
+137,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+137,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+138,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+139,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+139,2,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+139,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+139,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+140,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+140,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+140,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+140,4,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+140,5,Vascular dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+141,1,Blood pressure abnormal,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+141,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+141,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+142,1,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+142,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+142,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+142,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+142,5,Suspected transmission of an infectious agent via product,Infectious transmissions,Ancillary infectious topics,Infec,N
+143,1,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+143,2,Semen volume decreased,Fertility analyses and other reproductive function procedures,Reproductive organ and breast investigations (excl hormone analyses),Inv,N
+144,1,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+144,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+144,3,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+144,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+144,5,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+145,1,Male reproductive tract disorder,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+146,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+147,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+148,1,Dark circles under eyes,Ocular disorders NEC,Eye disorders NEC,Eye,N
+148,2,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+148,3,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+148,4,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+148,5,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+148,6,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+149,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+150,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+151,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+152,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+152,2,Groin pain,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+152,3,Testis discomfort,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+153,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+154,1,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+154,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+155,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+155,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+156,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+156,2,Exposure via body fluid,Pathways and sources of exposure,"Exposures, chemical injuries and poisoning",Inj&P,N
+156,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+157,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+158,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+158,2,Anhedonia,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+158,3,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+158,4,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+158,5,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+158,6,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+158,7,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+158,8,Deja vu,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+158,9,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+158,10,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+158,11,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+158,12,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,13,Economic problem,Economic circumstances,Economic and housing issues,SocCi,N
+158,14,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+158,15,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+158,16,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+158,17,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+158,18,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+158,19,Incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,20,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+158,21,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+158,22,Loss of employment,Employment issues,Economic and housing issues,SocCi,N
+158,23,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+158,24,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+158,25,Muscle strain,"Muscle, tendon and ligament injuries",Injuries NEC,Inj&P,N
+158,26,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+158,27,Neglect of personal appearance,Psychiatric symptoms NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+158,28,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+158,29,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+158,30,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+158,31,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+158,32,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+158,33,Social anxiety disorder,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+158,34,Social avoidant behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+158,35,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+158,36,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+158,37,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+158,38,Terminal dribbling,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,39,Tonsillitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+158,40,Urinary tract disorder,Genital and urinary tract disorders NEC,Genitourinary tract disorders NEC,Renal,N
+158,41,Urine flow decreased,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,42,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+159,1,Headache,Headaches NEC,Headaches,Nerv,N
+160,1,Headache,Headaches NEC,Headaches,Nerv,N
+160,2,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+160,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+161,1,Candida infection,Candida infections,Fungal infectious disorders,Infec,N
+161,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+161,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+161,4,Glossodynia,Tongue signs and symptoms,Tongue conditions,Gastr,N
+161,5,Lip dry,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+161,6,Oral mucosal blistering,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+161,7,Pemphigoid,Bullous conditions,Epidermal and dermal conditions,Skin,N
+161,8,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+161,9,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+162,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+162,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+162,3,Headache,Headaches NEC,Headaches,Nerv,N
+163,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+163,2,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+163,3,Prostate cancer,Prostatic neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+164,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+165,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+165,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+165,3,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+166,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+166,2,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+166,3,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+167,1,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+168,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+168,2,Synovial cyst,Synovial disorders,Synovial and bursal disorders,Musc,N
+169,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+170,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+170,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+171,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+171,2,Breast mass,Breast disorders NEC,Breast disorders,Repro,N
+171,3,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+172,1,Atrioventricular dissociation,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+172,2,Blood pressure systolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+172,3,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+172,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+172,5,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+172,6,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+172,7,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+172,8,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+172,9,Polyuria,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+172,10,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+172,11,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+173,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+174,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+175,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+175,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+176,1,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+176,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+176,3,Sensitive skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+176,4,Skin plaque,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+177,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+177,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+177,3,Localised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+177,4,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+177,5,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+178,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+178,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+178,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+178,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+179,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+180,1,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+181,1,Abnormal weight gain,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+181,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+181,3,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+181,4,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+181,5,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+181,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+182,1,Ejaculation failure,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+183,1,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+183,2,Breast mass,Breast disorders NEC,Breast disorders,Repro,N
+184,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+184,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+185,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+185,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+186,1,Floppy iris syndrome,Eye and ear procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+187,1,Seborrhoeic dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+187,2,Skin haemorrhage,Skin haemorrhages,Skin vascular abnormalities,Skin,N
+187,3,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+187,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+187,5,Wound secretion,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+188,1,Hyperkeratosis,Hyperkeratoses,Cornification and dystrophic skin disorders,Skin,N
+189,1,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+189,2,Prostate cancer,Prostatic neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+189,3,Prostatomegaly,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Repro,N
+189,4,Urine flow decreased,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+190,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+191,1,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+191,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+191,3,Urinary hesitation,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+192,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+192,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+193,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+194,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+194,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+194,3,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+195,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+196,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+197,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+197,2,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+198,1,Blood testosterone increased,Reproductive hormone analyses,Endocrine investigations (incl sex hormones),Inv,N
+198,2,Sex hormone binding globulin increased,Reproductive hormone analyses,Endocrine investigations (incl sex hormones),Inv,N
+199,1,Testicular pain,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+199,2,Testicular swelling,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+200,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+200,2,Prostatic specific antigen increased,Cell marker analyses,Cytogenetic investigations and genetic analyses,Inv,N
+200,3,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+201,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+201,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+202,1,Genitals enlarged,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+202,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+202,3,Testicular pain,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+203,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+203,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+203,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+203,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+204,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+204,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+204,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+204,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+205,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+206,1,Enuresis,Psychiatric elimination disorders,Psychiatric disorders NEC,Psych,N
+207,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+207,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+207,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+207,4,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+208,1,Breast cancer male,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+209,1,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+209,2,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+210,1,Neoplasm,Neoplasms unspecified malignancy and site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+210,2,Skin cancer,Skin neoplasms malignant and unspecified (excl melanoma),Skin neoplasms malignant and unspecified,Neopl,N
+211,1,Postprandial hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+212,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+212,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+213,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+214,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+214,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+215,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+216,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+217,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+218,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+219,1,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+219,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+220,1,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+221,1,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+222,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+222,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+222,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+223,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+223,2,Treatment noncompliance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+224,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+224,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+225,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+225,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+225,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+226,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+226,2,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+227,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+227,2,Apathy,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+227,3,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+227,4,Bone loss,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+227,5,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+227,6,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+227,7,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+227,8,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+227,9,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+227,10,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+227,11,Skin odour abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+228,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+229,1,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+229,2,Sensitive skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+229,3,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+230,1,Autism spectrum disorder,Pervasive developmental disorders NEC,Developmental disorders NEC,Psych,N
+230,2,Paternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+230,3,Reproductive tract disorder,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+230,4,Trisomy 21,Autosomal chromosomal abnormalities,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+231,1,Anorectal discomfort,Anal and rectal signs and symptoms,Anal and rectal conditions NEC,Gastr,N
+231,2,Proctalgia,Anal and rectal pains,Anal and rectal conditions NEC,Gastr,N
+231,3,Testicular mass,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+232,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+232,2,Anal incontinence,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+232,3,Scrotal dermatitis,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+232,4,Scrotal irritation,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+232,5,Testicular swelling,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+232,6,Urinary hesitation,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+232,7,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+233,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+233,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+234,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+234,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+234,3,Dizziness postural,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+234,4,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+235,1,Affect lability,Affect alterations NEC,Mood disorders and disturbances NEC,Psych,N
+235,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+235,3,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+235,4,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+235,5,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+235,6,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+236,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+236,2,Oesophagogastrectomy,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+237,1,Breast mass,Breast disorders NEC,Breast disorders,Repro,N
+237,2,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+237,3,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+238,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+238,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+238,3,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+238,4,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+238,5,Retrograde ejaculation,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+239,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+239,2,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+239,3,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+240,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+241,1,Ejaculation failure,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+241,2,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+241,3,Testicular pain,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+241,4,Testicular swelling,Testicular and epididymal disorders NEC,Testicular and epididymal disorders,Repro,N
+242,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+242,2,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+243,1,Abnormal weight gain,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+244,1,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+245,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+245,2,Abnormal weight gain,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+245,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+245,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+245,5,Gender dysphoria,Sexual and gender identity disorders NEC,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+245,6,Muscle tightness,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+245,7,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+245,8,Myalgia,Muscle pains,Muscle disorders,Musc,N
+245,9,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+245,10,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+245,11,Stress,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+246,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+246,2,Ejaculation failure,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+247,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+247,2,Intention tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+247,3,Muscle contractions involuntary,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+247,4,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+248,1,Disturbance in sexual arousal,Sexual arousal disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+248,2,Ejaculation failure,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+248,3,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+249,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+250,1,Phimosis,Male reproductive tract disorders congenital,Reproductive tract and breast disorders congenital,Cong,N
+251,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+251,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+251,3,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+251,4,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+251,5,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+251,6,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+251,7,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+251,8,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+251,9,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+251,10,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+251,11,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+251,12,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+251,13,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+251,14,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+251,15,Hair growth abnormal,Pilar disorders NEC,Skin appendage conditions,Skin,N
+251,16,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+251,17,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+251,18,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+251,19,Libido disorder,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+251,20,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+251,21,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+251,22,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+251,23,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+251,24,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+251,25,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+251,26,Penile size reduced,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+251,27,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+251,28,Prostatic specific antigen increased,Cell marker analyses,Cytogenetic investigations and genetic analyses,Inv,N
+251,29,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+251,30,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+251,31,Sexual dysfunction,Sexual function and fertility disorders NEC,Sexual function and fertility disorders,Repro,N
+251,32,Skin papilloma,Skin neoplasms benign,Cutaneous neoplasms benign,Neopl,N
+251,33,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+251,34,Weight loss poor,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+252,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+252,2,Prostate cancer,Prostatic neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+253,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+253,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+253,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+253,4,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+253,5,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+253,6,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+254,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+255,1,Nail disorder,Nail and nail bed conditions (excl infections and infestations),Skin appendage conditions,Skin,N
+255,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+255,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+256,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+256,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+256,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+257,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+257,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+258,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+258,2,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+258,3,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+258,4,Asthenopia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+258,5,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+258,6,Deafness,Hearing losses,Hearing disorders,Ear,N
+258,7,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+258,8,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+258,9,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+258,10,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+258,11,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+258,12,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+258,13,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+258,14,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+258,15,Limb discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+258,16,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+258,17,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+258,18,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+258,19,Therapeutic product effect decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+258,20,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+259,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+259,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+259,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+259,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+259,5,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+259,6,Limb discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+259,7,Loss of personal independence in daily activities,Disability issues,Lifestyle issues,SocCi,N
+259,8,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+259,9,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+259,10,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+260,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+261,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+261,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+261,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+261,4,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+262,1,Headache,Headaches NEC,Headaches,Nerv,N
+263,1,Antimicrobial susceptibility test resistant,Microbiology and serology tests NEC,Microbiology and serology investigations,Inv,N
+263,2,Drug dispensed to wrong patient,Product dispensing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,3,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+263,4,Expired product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,5,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+263,6,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+263,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+263,8,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+263,9,Minimum inhibitory concentration,Microbiology and serology tests NEC,Microbiology and serology investigations,Inv,N
+263,10,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+263,11,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,12,Product dispensing error,Product dispensing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,13,Product storage error,Product storage errors and issues in the product use system,Medication errors and other product use errors and issues,Inj&P,N
+263,14,Therapeutic response delayed,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+263,15,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+263,16,Wrong patient received product,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,17,Wrong patient received product,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,18,Wrong product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+264,1,Breast disorder,Breast disorders NEC,Breast disorders,Repro,N
+265,1,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+265,2,Depression suicidal,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+265,3,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+265,4,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+265,5,Penile necrosis,Penile disorders NEC (excl erection and ejaculation),Penile and scrotal disorders (excl infections and inflammations),Repro,N
+266,1,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+266,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+267,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+268,1,Epididymitis,Male reproductive tract infections,Infections - pathogen unspecified,Infec,N
+269,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+270,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+270,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+270,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+271,1,Breast cancer,Breast and nipple neoplasms malignant,Breast neoplasms malignant and unspecified (incl nipple),Neopl,N
+272,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+273,1,Pulmonary congestion,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+274,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+275,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+276,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+276,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+276,3,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+276,4,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+276,5,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+276,6,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+276,7,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+276,8,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+276,9,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+276,10,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+276,11,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+276,12,Myalgia,Muscle pains,Muscle disorders,Musc,N
+276,13,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+276,14,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+277,1,Hypotrichosis,Alopecias,Skin appendage conditions,Skin,N
+278,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+278,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+279,1,Change of bowel habit,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+279,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+279,3,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+280,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+281,1,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+281,2,Skin odour abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N

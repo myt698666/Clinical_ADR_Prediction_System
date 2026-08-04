@@ -1,0 +1,777 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+2,1,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+3,1,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+4,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+4,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+4,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+5,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+6,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+6,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+6,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+7,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+7,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+7,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+8,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+8,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+9,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+9,2,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+9,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+10,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+11,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+11,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+11,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+12,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+12,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+13,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+14,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+14,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+14,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+15,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+16,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+16,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+16,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+17,1,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+18,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+19,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+19,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+20,1,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+21,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+22,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+22,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+22,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+23,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+24,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+25,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+25,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+26,1,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+27,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+28,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+29,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+29,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+30,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+30,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+30,3,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+31,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+32,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+33,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+34,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+35,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+36,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+37,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+38,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+39,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+40,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+40,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+41,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+42,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+42,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+43,1,Proctitis,Rectal inflammations NEC,Gastrointestinal inflammatory conditions,Gastr,N
+44,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+45,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+46,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+47,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+48,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+49,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+50,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+50,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+51,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+52,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+52,2,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+52,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+53,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+54,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+55,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+55,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+55,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+55,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+55,5,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+56,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+57,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+58,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+58,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+58,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+58,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+58,5,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+59,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+60,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+61,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+62,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+62,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+63,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+64,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+64,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+64,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+65,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+66,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+66,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+67,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+67,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+68,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+69,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+69,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+70,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+71,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+72,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+73,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+74,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+75,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+75,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+76,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+77,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+78,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+79,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+80,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+80,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+81,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+82,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+83,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+84,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+84,2,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+85,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+85,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+86,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+86,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+87,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+88,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+89,1,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+90,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+91,1,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+92,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+93,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+93,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+94,1,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+95,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+95,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+96,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+97,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+97,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+98,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+98,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+99,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+99,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+100,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+101,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+102,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+103,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+104,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+105,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+106,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+107,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+108,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+108,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+108,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+109,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+109,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+109,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+110,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+111,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+112,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+112,2,Skin hypertrophy,Skin hyperplasias and hypertrophies,Cornification and dystrophic skin disorders,Skin,N
+113,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+113,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+114,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+114,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+115,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+116,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+117,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+117,2,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+118,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+119,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+120,1,Erythema induratum,Tuberculous infections,Mycobacterial infectious disorders,Infec,N
+120,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+121,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+122,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+123,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+124,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+124,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+125,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+126,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+127,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+127,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+128,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+128,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+129,1,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+130,1,Urticaria contact,Urticarias,Angioedema and urticaria,Skin,N
+131,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+131,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+132,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+132,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+133,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+134,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+135,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+136,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+137,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+138,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+138,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+139,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+140,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+141,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+142,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+143,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+143,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+144,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+145,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+145,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+145,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+145,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+146,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+147,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+148,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+148,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+149,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+149,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+150,1,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+151,1,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+152,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+153,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+154,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+155,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+156,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+156,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+156,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+157,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+158,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+159,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+160,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+161,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+162,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+163,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+164,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+164,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+164,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+165,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+166,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+166,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+166,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+167,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+167,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+168,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+169,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+170,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+170,2,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+170,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+171,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+171,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+172,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+173,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+174,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+175,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+175,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+175,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+176,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+177,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+178,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+179,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+180,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+181,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+182,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+183,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+184,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+185,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+186,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+186,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+187,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+188,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+188,2,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+189,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+190,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+191,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+192,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+192,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+193,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+194,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+195,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+195,2,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+196,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+197,1,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+198,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+198,2,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+199,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+200,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+201,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+202,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+203,1,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+204,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+205,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+206,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+207,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+208,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+208,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+209,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+210,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+211,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+212,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+213,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+214,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+215,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+216,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+217,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+218,1,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+218,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+219,1,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+219,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+220,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+220,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+220,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+221,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+222,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+223,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+224,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+225,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+226,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+226,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+227,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+228,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+228,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+228,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+229,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+230,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+231,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+231,2,Skin hyperpigmentation,Hyperpigmentation disorders,Pigmentation disorders,Skin,N
+232,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+232,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+232,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+233,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+234,1,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+235,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+236,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+237,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+238,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+238,2,Type I hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+239,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+240,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+240,2,Laryngeal oedema,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+240,3,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+241,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+242,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+242,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+243,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+244,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+245,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+245,2,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+246,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+247,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+248,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+249,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+250,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+251,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+252,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+253,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+254,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+255,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+256,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+257,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+258,1,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+259,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+260,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+261,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+262,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+263,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+264,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+265,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+265,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+266,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+267,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+268,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+269,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+270,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+270,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+270,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+270,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+271,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+272,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+273,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+274,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+275,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+276,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+277,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+278,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+279,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+279,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+279,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+280,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+280,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+281,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+282,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+283,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+284,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+285,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+285,2,Mesenteric lymphadenitis,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+286,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+287,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+288,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+289,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+289,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+290,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+291,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+292,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+293,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+294,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+294,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+295,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+295,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+295,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+296,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+297,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+298,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+299,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+300,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+301,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+302,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+302,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+303,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+304,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+304,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+305,1,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+306,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+307,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+307,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+307,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+308,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+309,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+310,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+310,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+311,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+312,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+312,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+313,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+314,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+314,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+315,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+315,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+316,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+316,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+317,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+317,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+318,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+319,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+319,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+320,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+321,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+321,2,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+321,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+322,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+322,2,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+323,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+323,2,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+323,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+324,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+325,1,Erythema induratum,Tuberculous infections,Mycobacterial infectious disorders,Infec,N
+326,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+327,1,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+328,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+329,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+330,1,Urticaria contact,Urticarias,Angioedema and urticaria,Skin,N
+331,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+332,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+333,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+334,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+335,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+336,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+337,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+338,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+339,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+340,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+341,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+342,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+342,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+343,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+344,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+344,2,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+345,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+346,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+346,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+347,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+348,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+349,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+349,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+349,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+350,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+350,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+351,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+352,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+352,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+353,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+354,1,Application site inflammation,Application site reactions,Administration site reactions,Genrl,N
+354,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+355,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+355,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+355,3,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+356,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+356,2,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+357,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+358,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+359,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+359,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+360,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+361,1,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+361,2,Rash vesicular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+362,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+363,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+363,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+363,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+364,1,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+365,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+366,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+367,1,Erythema induratum,Tuberculous infections,Mycobacterial infectious disorders,Infec,N
+368,1,Application site urticaria,Application site reactions,Administration site reactions,Genrl,N
+368,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+369,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+370,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+371,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+372,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+372,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+373,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+374,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+375,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+376,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+377,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+378,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+378,2,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+378,3,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+379,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+379,2,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+380,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+381,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+381,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+381,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+382,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+382,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+383,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+383,2,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+384,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+384,2,Application site inflammation,Application site reactions,Administration site reactions,Genrl,N
+384,3,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+385,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+385,2,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+385,3,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+386,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+386,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+386,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+387,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+387,2,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+388,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+388,2,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+388,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+389,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+389,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+390,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+390,2,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+391,1,Endophthalmitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+391,2,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+392,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+393,1,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+394,1,Localised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+395,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+395,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+396,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+396,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+396,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+397,1,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+397,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+398,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+398,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+398,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+399,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+399,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+400,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+400,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+400,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+401,1,Burns second degree,Thermal burns,Injuries by physical agents,Inj&P,N
+401,2,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+402,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+402,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+403,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+403,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+404,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+404,2,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+404,3,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+404,4,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+404,5,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+404,6,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+404,7,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+404,8,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+404,9,Vasodilatation,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+405,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+405,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+405,3,Headache,Headaches NEC,Headaches,Nerv,N
+405,4,Hypoaesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+405,5,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+405,6,Type I hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+406,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+406,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+406,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+406,4,Type I hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+407,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+407,2,Skin oedema,Skin vascular conditions NEC,Skin vascular abnormalities,Skin,N
+408,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+409,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+409,2,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+409,3,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+409,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+410,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+410,2,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+410,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+411,1,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+411,2,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+411,3,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+412,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+413,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+413,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+413,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+413,4,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+414,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+415,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+415,2,Skin haemorrhage,Skin haemorrhages,Skin vascular abnormalities,Skin,N
+416,1,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+417,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+418,1,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+418,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+419,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+419,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+419,3,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+419,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+419,5,Sinus arrhythmia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+419,6,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+420,1,Accidental exposure to product,Accidental exposures to product,Medication errors and other product use errors and issues,Inj&P,N
+420,2,Chemical burns of eye,Chemical injuries,"Exposures, chemical injuries and poisoning",Inj&P,N
+420,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+420,4,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+420,5,Language disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+420,6,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+420,7,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+421,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+421,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+421,3,Sinus arrhythmia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+421,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+421,5,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+422,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+423,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+424,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+424,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+425,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+425,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+426,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+426,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+427,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+427,2,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+428,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+428,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+428,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+428,4,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+429,1,Application site hypoaesthesia,Application site reactions,Administration site reactions,Genrl,N
+429,2,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+430,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+430,2,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+431,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+432,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+433,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+434,1,Application site bruise,Application site reactions,Administration site reactions,Genrl,N
+434,2,Application site burn,Application site reactions,Administration site reactions,Genrl,N
+434,3,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+434,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+434,5,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+435,1,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+435,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+436,1,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+437,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+437,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+438,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+439,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+440,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+440,2,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+441,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+441,2,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+441,3,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+442,1,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+443,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+444,1,Application site burn,Application site reactions,Administration site reactions,Genrl,N
+444,2,Application site dryness,Application site reactions,Administration site reactions,Genrl,N
+444,3,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+444,4,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+444,5,Application site scab,Application site reactions,Administration site reactions,Genrl,N
+445,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+446,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+446,2,Application site pruritus,Application site reactions,Administration site reactions,Genrl,N
+446,3,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+447,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+448,1,Administration site urticaria,Administration site reactions NEC,Administration site reactions,Genrl,N
+449,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+450,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+450,2,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+451,1,Application site burn,Application site reactions,Administration site reactions,Genrl,N
+451,2,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+451,3,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+452,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+453,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+454,1,Application site burn,Application site reactions,Administration site reactions,Genrl,N
+455,1,Application site inflammation,Application site reactions,Administration site reactions,Genrl,N
+455,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+455,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+456,1,Chemical burn,Chemical injuries,"Exposures, chemical injuries and poisoning",Inj&P,N
+457,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+457,2,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+458,1,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+459,1,Chemical burn of skin,Chemical injuries,"Exposures, chemical injuries and poisoning",Inj&P,N
+459,2,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+460,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+460,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+461,1,Administration site swelling,Administration site reactions NEC,Administration site reactions,Genrl,N
+461,2,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+461,3,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+462,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+463,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+463,2,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+463,3,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+463,4,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+463,5,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+463,6,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+463,7,Fear of injection,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+463,8,Phobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+464,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+464,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+464,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+464,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+465,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+465,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+466,1,Administration site erythema,Administration site reactions NEC,Administration site reactions,Genrl,N
+467,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+468,1,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+468,2,Application site vesicles,Application site reactions,Administration site reactions,Genrl,N
+469,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+470,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+471,1,Administration site erythema,Administration site reactions NEC,Administration site reactions,Genrl,N
+472,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+472,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+472,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+473,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+473,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+473,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+474,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+474,2,Papule,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+475,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+476,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+476,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+476,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+477,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+477,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+478,1,Application site burn,Application site reactions,Administration site reactions,Genrl,N
+478,2,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+478,3,Application site warmth,Application site reactions,Administration site reactions,Genrl,N
+478,4,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+478,5,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+478,6,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+479,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+479,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+480,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+480,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+480,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+481,1,Thermal burns of eye,Thermal burns,Injuries by physical agents,Inj&P,N
+482,1,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+482,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+483,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+484,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+484,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+485,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+486,1,Application site pain,Application site reactions,Administration site reactions,Genrl,N

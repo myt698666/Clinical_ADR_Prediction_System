@@ -1,0 +1,36 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Disseminated intravascular coagulation,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+2,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+3,1,Activated partial thromboplastin time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+3,2,Multimorbidity,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+3,3,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+4,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+4,2,Haemorrhagic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+4,3,Hemiplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+4,4,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+5,1,Complication associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+5,2,Prostatic obstruction,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Repro,N
+5,3,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,Y
+6,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+7,1,Expired product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+7,2,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+7,3,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+8,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+8,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,Y
+8,3,Resuscitation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+9,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+9,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+9,3,Electrocardiogram T wave inversion,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+10,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+11,1,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+12,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+13,1,Thrombosis,Non-site specific embolism and thrombosis,Embolism and thrombosis,Vasc,Y
+14,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+15,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+15,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+16,1,Gaze palsy,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+16,2,Ischaemic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+16,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+16,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+16,5,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+17,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y

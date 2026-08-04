@@ -1,0 +1,71 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+2,1,Injection site urticaria,Injection site reactions,Administration site reactions,Genrl,N
+3,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+4,1,Hypertransaminasaemia,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+5,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+5,2,Electrocardiogram change,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+5,3,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+5,4,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+5,5,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,Y
+5,6,Troponin increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+6,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+7,1,ADAMTS13 activity decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+7,2,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+7,3,Infusion site haemorrhage,Infusion site reactions,Administration site reactions,Genrl,N
+7,4,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+7,5,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+7,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Cerebral artery occlusion,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+8,2,Headache,Headaches NEC,Headaches,Nerv,N
+8,3,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+8,4,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+8,5,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+9,1,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+10,1,Hospice care,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+11,1,Coronary artery disease,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+11,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+11,3,Mitral valve incompetence,Mitral valvular disorders,Cardiac valve disorders,Card,N
+11,4,Mitral valve prolapse,Mitral valvular disorders,Cardiac valve disorders,Card,N
+11,5,Pericardial effusion,Pericardial disorders NEC,Pericardial disorders,Card,N
+11,6,Thrombotic thrombocytopenic purpura,Thrombocytopenias,Platelet disorders,Blood,N
+12,1,COVID-19 pneumonia,Coronavirus infections,Viral infectious disorders,Infec,N
+12,2,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+12,3,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+12,4,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+12,5,Pulmonary haemorrhage,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,Y
+12,6,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+12,7,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+13,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+13,2,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+13,3,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+13,4,Hemianopia homonymous,Neurologic visual problems NEC,Neurological disorders of the eye,Nerv,N
+13,5,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+13,6,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+13,7,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+13,8,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+14,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+14,2,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+14,3,Intraventricular haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+14,4,Subdural haemorrhage,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+15,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+15,2,Cerebral infarction,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+15,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+15,4,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+15,5,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+15,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+15,7,Subarachnoid haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+16,1,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+17,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+18,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+19,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+20,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+20,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+20,3,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+20,4,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+20,5,Thrombotic thrombocytopenic purpura,Thrombocytopenias,Platelet disorders,Blood,N
+21,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+21,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+22,1,Injection site hypersensitivity,Injection site reactions,Administration site reactions,Genrl,N
+23,1,Disease recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+23,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N

@@ -1,0 +1,73 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+2,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+2,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+2,3,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+2,4,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+3,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+4,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+4,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+4,3,Status epilepticus,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+5,1,Alcohol interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+5,2,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+5,3,Sedation complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+6,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+6,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+7,1,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+8,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+8,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+9,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+10,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+11,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+12,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+12,2,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+12,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+12,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+14,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+15,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+16,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+16,2,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+16,3,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,1,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+18,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+19,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+20,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+20,2,Tooth injury,Abdominal and gastrointestinal injuries NEC,Injuries NEC,Inj&P,N
+21,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+22,1,Petit mal epilepsy,Absence seizures,Seizures (incl subtypes),Nerv,N
+23,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+23,2,Myoclonic epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+23,3,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+24,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+25,1,Tonic clonic movements,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+26,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+27,1,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+28,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+28,2,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+29,1,Therapeutic product effect incomplete,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+30,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+30,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+30,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+31,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+31,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+32,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+32,2,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+32,3,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+32,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+33,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+33,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+34,1,Brain hypoxia,Central nervous system vascular disorders NEC,Central nervous system vascular disorders,Nerv,Y
+34,2,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+35,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+35,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+35,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+35,4,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+35,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+35,6,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+35,7,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+35,8,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+36,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+36,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+36,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+36,4,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N

@@ -1,0 +1,497 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+2,1,Headache,Headaches NEC,Headaches,Nerv,N
+3,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+3,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+4,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+4,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+5,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+5,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+6,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+6,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+6,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+7,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+7,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+8,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+9,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+9,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+9,3,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+10,1,Headache,Headaches NEC,Headaches,Nerv,N
+11,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+11,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+12,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+12,2,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+12,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+13,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+14,1,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+14,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+15,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+15,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+16,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+16,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+17,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+17,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+18,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+18,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+18,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+19,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+19,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+20,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+20,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+21,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+21,2,Menstruation delayed,Menstruation with decreased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+22,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+22,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+23,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+23,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+23,3,Headache,Headaches NEC,Headaches,Nerv,N
+23,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+23,5,Shunt occlusion,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+23,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+24,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+24,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+25,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+26,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+27,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+28,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+28,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+28,3,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+28,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,5,Weight gain poor,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+29,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+29,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+29,3,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+29,4,Livedo reticularis,Skin vasomotor conditions,Skin vascular abnormalities,Skin,N
+30,1,Infusion related reaction,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+31,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+31,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+32,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+33,1,Adenoidectomy,Tonsillar therapeutic procedures,Head and neck therapeutic procedures,Surg,N
+33,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+34,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+34,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+34,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+35,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+35,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+36,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+36,2,Foaming at mouth,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+36,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+36,4,Petit mal epilepsy,Absence seizures,Seizures (incl subtypes),Nerv,N
+36,5,Staring,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+37,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+38,1,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+38,2,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+39,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+40,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+41,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+41,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+41,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+41,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+41,5,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+41,6,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+42,1,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+42,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+42,3,Sleep apnoea syndrome,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+43,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+43,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+44,1,Adenoidectomy,Tonsillar therapeutic procedures,Head and neck therapeutic procedures,Surg,N
+44,2,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+44,3,Catheter site discolouration,Implant and catheter site reactions,Administration site reactions,Genrl,N
+44,4,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+44,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+44,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+45,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+46,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+47,1,Hand deformity,Extremity deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+47,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+47,3,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+47,4,Spinal disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+48,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+48,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+49,1,Hernia,Hernias NEC,General system disorders NEC,Genrl,N
+50,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+50,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+51,1,Shunt occlusion,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+51,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+52,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+52,2,Pelvic mass,Mass conditions NEC,Tissue disorders NEC,Genrl,N
+52,3,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+53,1,Shunt infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+54,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+54,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+54,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+54,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+55,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+55,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+55,3,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+55,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+55,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+56,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+56,2,Gastroenteritis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+56,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+56,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+56,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+56,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+57,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+58,1,Ear infection,Ear infections,Infections - pathogen unspecified,Infec,N
+59,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+59,2,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+59,3,Tonsillitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+60,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+60,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+60,3,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+60,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+60,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+61,1,Tonsillectomy,Tonsillar therapeutic procedures,Head and neck therapeutic procedures,Surg,N
+62,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+62,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+63,1,Catheter site erythema,Implant and catheter site reactions,Administration site reactions,Genrl,N
+63,2,Personality change,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+63,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+63,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+64,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+64,2,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+64,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+65,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+65,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+65,3,Lip discolouration,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+65,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+65,5,Sleep apnoea syndrome,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+66,1,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+66,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+66,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+67,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+67,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+67,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+67,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+67,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+67,6,Sleep apnoea syndrome,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+67,7,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+67,8,Tracheal haemorrhage,Respiratory tract and thoracic cavity procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+68,1,Carpal tunnel decompression,Peripheral nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surg,N
+68,2,Catheter management,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+68,3,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+68,4,Catheter site swelling,Implant and catheter site reactions,Administration site reactions,Genrl,N
+68,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+68,6,Wound,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+68,7,Wound complication,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+69,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+69,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+69,3,Upper limb fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+70,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+70,2,Tracheostomy,Tracheal therapeutic procedures,Respiratory tract therapeutic procedures,Surg,N
+71,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+72,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+73,1,Neck surgery,"Head, neck and oral cavity therapeutic procedures NEC",Head and neck therapeutic procedures,Surg,N
+74,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+74,2,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+74,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+75,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+76,1,Catheter site erythema,Implant and catheter site reactions,Administration site reactions,Genrl,N
+76,2,Catheter site swelling,Implant and catheter site reactions,Administration site reactions,Genrl,N
+76,3,Catheter site warmth,Implant and catheter site reactions,Administration site reactions,Genrl,N
+77,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+77,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+78,1,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+78,2,Limb operation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+78,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+78,4,Oropharyngeal surgery,"Head, neck and oral cavity therapeutic procedures NEC",Head and neck therapeutic procedures,Surg,N
+79,1,Knee deformity,Extremity deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+80,1,Oral herpes,Herpes viral infections,Viral infectious disorders,Infec,N
+80,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+81,1,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+82,1,Spinal cord compression,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+83,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+83,2,Hypermetropia,Refractive and accommodative disorders,Vision disorders,Eye,N
+84,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+85,1,Mitral valve incompetence,Mitral valvular disorders,Cardiac valve disorders,Card,N
+86,1,Inguinal hernia,Inguinal hernias,Abdominal hernias and other abdominal wall conditions,Gastr,N
+87,1,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+88,1,Umbilical hernia,Umbilical hernias,Abdominal hernias and other abdominal wall conditions,Gastr,N
+89,1,Headache,Headaches NEC,Headaches,Nerv,N
+90,1,Scoliosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+91,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+92,1,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+92,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+93,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+93,2,Neck injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+94,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+94,2,Knee operation,Joint therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+95,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+96,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+97,1,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+97,2,Catheter site haemorrhage,Implant and catheter site reactions,Administration site reactions,Genrl,N
+97,3,Catheter site oedema,Implant and catheter site reactions,Administration site reactions,Genrl,N
+97,4,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+98,1,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+99,1,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+100,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+100,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+101,1,Administration site irritation,Administration site reactions NEC,Administration site reactions,Genrl,N
+102,1,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+102,2,Catheter site swelling,Implant and catheter site reactions,Administration site reactions,Genrl,N
+103,1,Excessive cerumen production,External ear disorders NEC,External ear disorders (excl congenital),Ear,N
+103,2,Groin pain,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+104,1,Shunt occlusion,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+104,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+105,1,Carpal tunnel syndrome,Mononeuropathies,Peripheral neuropathies,Nerv,N
+105,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+106,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+106,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+107,1,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+108,1,Infusion site pruritus,Infusion site reactions,Administration site reactions,Genrl,N
+109,1,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+110,1,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+111,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+112,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+112,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+113,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+113,2,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+113,3,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+113,4,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+113,5,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+113,6,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+113,7,Fear of injection,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+113,8,Phobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+114,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+114,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+115,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+115,2,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+116,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+117,1,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+117,2,Device breakage,Device physical property and chemical issues,Device issues,Prod,N
+118,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+118,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+119,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+119,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+120,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+121,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+122,1,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+122,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+123,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+123,2,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+124,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+125,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+125,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+126,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+127,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+127,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+128,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+128,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+129,1,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+130,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+131,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+131,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+132,1,Arthropod bite,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+132,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+132,3,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+133,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+134,1,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+134,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+135,1,Otorrhoea,Ear disorders NEC,Aural disorders NEC,Ear,N
+135,2,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+135,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+135,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+136,1,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+136,2,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+137,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+137,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+137,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+138,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+138,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+138,3,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+139,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+139,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+140,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+140,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+141,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+142,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+143,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+143,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+143,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+144,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+144,2,Limb injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+145,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+146,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+147,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+148,1,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+148,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+148,3,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+148,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+149,1,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+149,2,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+150,1,Phaeohyphomycosis,Fungal infections NEC,Fungal infectious disorders,Infec,N
+151,1,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+152,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+152,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+152,3,Nasal flaring,Respiratory signs and symptoms NEC,Respiratory tract signs and symptoms,Resp,N
+152,4,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+152,5,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+152,6,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+153,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+153,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+154,1,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+155,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+155,2,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+155,3,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+155,4,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+156,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+156,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+156,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+156,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+157,1,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+157,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+157,3,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+158,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+158,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+158,3,Tearfulness,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+159,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+159,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+160,1,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+161,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+161,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+161,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+161,4,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+161,5,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+162,1,Varicella,Herpes viral infections,Viral infectious disorders,Infec,N
+163,1,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+163,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+163,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+164,1,Upper respiratory tract infection,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+165,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+166,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+166,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+166,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+166,4,Spinal disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+167,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+167,2,Wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+168,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+168,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+169,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+170,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+171,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+172,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+173,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+174,1,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+175,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+175,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+175,3,Device occlusion,Device malfunction events NEC,Device issues,Prod,N
+175,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+176,1,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+176,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+177,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+178,1,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+179,1,Blood pressure abnormal,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+179,2,Heart rate abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+179,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+180,1,Oral herpes,Herpes viral infections,Viral infectious disorders,Infec,N
+181,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+181,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+182,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+183,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+183,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+184,1,Intermenstrual bleeding,Menstruation and uterine bleeding NEC,Menstrual cycle and uterine bleeding disorders,Repro,N
+184,2,Menstruation irregular,Menstruation and uterine bleeding NEC,Menstrual cycle and uterine bleeding disorders,Repro,N
+185,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+185,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+185,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+186,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+187,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+187,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+188,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+189,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+190,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+191,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+192,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+193,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+194,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+194,2,Tonsillectomy,Tonsillar therapeutic procedures,Head and neck therapeutic procedures,Surg,N
+195,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+195,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+196,1,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+197,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+197,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+198,1,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+199,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+199,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+200,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+201,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+201,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+202,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+203,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+204,1,Headache,Headaches NEC,Headaches,Nerv,N
+204,2,Infusion site pruritus,Infusion site reactions,Administration site reactions,Genrl,N
+204,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+205,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+205,2,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+206,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+206,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+207,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+207,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+207,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+208,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+208,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+208,3,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+209,1,Discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+209,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+209,3,Granuloma,Inflammations,General system disorders NEC,Genrl,N
+209,4,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+209,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+209,6,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+209,7,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+210,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+210,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+210,3,Heat illness,Heat injuries (excl thermal burns),Injuries by physical agents,Inj&P,N
+210,4,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+210,5,Product storage error,Product storage errors and issues in the product use system,Medication errors and other product use errors and issues,Inj&P,N
+210,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+211,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+212,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+212,2,Respiratory rate increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+213,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+214,1,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+214,2,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+214,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+215,1,Catheter site bruise,Implant and catheter site reactions,Administration site reactions,Genrl,N
+216,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+217,1,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+218,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+219,1,Otorrhoea,Ear disorders NEC,Aural disorders NEC,Ear,N
+219,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+220,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+220,2,Discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+220,3,Ear infection,Ear infections,Infections - pathogen unspecified,Infec,N
+220,4,Ear swelling,Ear disorders NEC,Aural disorders NEC,Ear,N
+220,5,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+220,6,Furuncle,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+220,7,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+220,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+220,9,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+221,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+222,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+223,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+224,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+225,1,Headache,Headaches NEC,Headaches,Nerv,N
+226,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+227,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+228,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+229,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+230,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+231,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+232,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+233,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+234,1,Skin sensitisation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+235,1,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+235,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+236,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+237,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+238,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+238,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+238,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+238,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+238,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+238,6,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+238,7,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+238,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N

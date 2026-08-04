@@ -1,0 +1,945 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Headache,Headaches NEC,Headaches,Nerv,N
+2,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+2,2,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+3,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+3,2,Headache,Headaches NEC,Headaches,Nerv,N
+4,1,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+4,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+4,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+4,4,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+5,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+5,2,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+5,3,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+5,4,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+5,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+6,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+7,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+8,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+9,1,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+9,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+10,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+10,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+11,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+11,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+11,3,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+12,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+12,2,Keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+13,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+13,2,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+13,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,4,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+13,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+14,2,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+14,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+15,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+15,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+15,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+15,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+15,5,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+15,6,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+15,7,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+16,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+16,2,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+16,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+16,4,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+17,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+17,2,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+17,3,Headache,Headaches NEC,Headaches,Nerv,N
+17,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+17,5,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+18,1,Headache,Headaches NEC,Headaches,Nerv,N
+19,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+19,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+19,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+19,4,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+19,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+19,6,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+20,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+21,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+21,2,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+22,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+23,1,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+24,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+24,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+24,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+24,4,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+25,1,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+26,1,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+26,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+27,1,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+28,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+28,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+29,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+30,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+31,1,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+31,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+31,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+31,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+32,1,Allergy to chemicals,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+32,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+32,3,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+32,4,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+32,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+32,6,Sensitive skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+32,7,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+32,8,Temperature intolerance,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+33,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+34,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+34,2,Headache,Headaches NEC,Headaches,Nerv,N
+34,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+34,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+35,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+35,2,Dyspnoea exertional,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+35,3,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+36,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+37,1,Blindness transient,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+38,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+39,1,Headache,Headaches NEC,Headaches,Nerv,N
+39,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+39,3,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+39,4,Libido increased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+39,5,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+39,6,Migraine,Migraine headaches,Headaches,Nerv,N
+39,7,Mood swings,Fluctuating mood symptoms,Mood disorders and disturbances NEC,Psych,N
+40,1,Drug half-life increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+40,2,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+40,3,Organic erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+40,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+40,5,Sexual dysfunction,Sexual function and fertility disorders NEC,Sexual function and fertility disorders,Repro,N
+41,1,Cystitis,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+42,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+42,2,Abnormal sensation in eye,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+42,3,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+42,4,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+42,5,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+43,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+43,2,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+44,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+44,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+44,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+44,4,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+45,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+45,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+45,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+45,4,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+45,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+45,6,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+45,7,Scrotal oedema,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+46,1,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+47,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+47,2,Localised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+47,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+48,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+49,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+49,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+50,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+51,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+51,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+51,3,Intraocular pressure fluctuation,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+51,4,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+51,5,Optic nerve cupping,Optic disc abnormalities NEC,"Ocular structural change, deposit and degeneration NEC",Eye,N
+51,6,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+52,1,Iridocyclitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+53,1,Blood pressure systolic decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+53,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+53,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+53,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+53,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+53,6,Headache,Headaches NEC,Headaches,Nerv,N
+53,7,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+53,8,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+54,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+54,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+54,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+54,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+55,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+55,2,Circumstance or information capable of leading to medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+55,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+55,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+56,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+56,2,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+56,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+56,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+56,5,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+56,6,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+57,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+57,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+58,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+58,2,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+58,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+59,1,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+60,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+60,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+60,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+60,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+60,5,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+60,6,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+60,7,Parkinson's disease,Parkinson's disease and parkinsonism,Movement disorders (incl parkinsonism),Nerv,N
+60,8,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+60,9,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+61,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+61,2,Eye operation,Eye therapeutic procedures NEC,Eye therapeutic procedures,Surg,N
+61,3,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+61,4,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+61,5,Intraocular pressure test,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+62,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+62,2,Iris neovascularisation,Iris and ciliary body bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+62,3,Retinal haemorrhage,Retinal bleeding and vascular disorders (excl retinopathy),"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+62,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+63,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+64,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+65,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+66,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+66,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+66,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+66,4,Headache,Headaches NEC,Headaches,Nerv,N
+66,5,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+66,6,Metamorphopsia,Visual disorders NEC,Vision disorders,Eye,N
+66,7,Migraine,Migraine headaches,Headaches,Nerv,N
+66,8,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+66,9,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+67,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+67,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+67,3,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+68,1,Decreased activity,Asthenic conditions,General system disorders NEC,Genrl,N
+68,2,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+68,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+69,1,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+69,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+69,3,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+69,4,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+69,5,Tearfulness,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+69,6,Thinking abnormal,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+70,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+70,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+70,3,Eyelid margin crusting,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+70,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+70,5,Lacrimation decreased,Lacrimation disorders,Eye disorders NEC,Eye,N
+70,6,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+70,7,Nasal dryness,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+70,8,Ocular discomfort,Ocular disorders NEC,Eye disorders NEC,Eye,N
+70,9,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+70,10,Raynaud's phenomenon,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+70,11,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+70,12,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+71,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+72,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+72,2,Eye operation,Eye therapeutic procedures NEC,Eye therapeutic procedures,Surg,N
+72,3,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+72,4,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+72,5,Intraocular pressure test abnormal,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+73,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+74,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+74,2,Anosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+74,3,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+75,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+75,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+75,3,Product formulation issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+75,4,Reaction to preservatives,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+75,5,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+76,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+76,2,Aphthous ulcer,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+77,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+77,2,Pleuritic pain,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+78,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+79,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+80,1,Colitis ischaemic,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+81,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+82,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+82,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+83,1,Eye contusion,Eye injuries NEC,Injuries NEC,Inj&P,N
+84,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+84,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+84,3,Lip dry,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+84,4,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+84,5,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+84,6,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+84,7,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+85,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+85,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+86,1,Malignant hypertension,Accelerated and malignant hypertension,Vascular hypertensive disorders,Vasc,N
+86,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+87,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+87,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+87,3,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+87,4,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+87,5,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+87,6,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+87,7,Gastrointestinal motility disorder,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+87,8,Headache,Headaches NEC,Headaches,Nerv,N
+87,9,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+87,10,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+87,11,Mouth haemorrhage,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+87,12,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+87,13,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+87,14,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+87,15,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+87,16,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+87,17,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+87,18,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+87,19,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+87,20,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+88,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+88,2,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+88,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+88,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+89,1,Atrioventricular block complete,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+89,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+89,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+90,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+91,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+91,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+92,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+92,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+92,3,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+92,4,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+93,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+94,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+95,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+96,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+96,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+97,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+98,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+99,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+99,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+99,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+99,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+99,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+99,6,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+99,7,Tension,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+99,8,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+100,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+101,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+102,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+102,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+102,3,Erythema of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+102,4,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+102,5,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+102,6,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+102,7,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+102,8,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+103,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+104,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+105,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+106,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+106,2,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+106,3,Corneal thickening,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+106,4,Eye injury,Eye injuries NEC,Injuries NEC,Inj&P,N
+106,5,Keratic precipitates,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+106,6,Keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+106,7,Product container issue,Product packaging issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+106,8,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+106,9,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+107,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+107,2,Gastrointestinal tract irritation,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+107,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+108,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+108,2,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+108,3,Headache,Headaches NEC,Headaches,Nerv,N
+109,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+109,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+109,3,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+109,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+109,5,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+110,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+110,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+110,3,Product delivery mechanism issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+111,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+111,2,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+112,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+112,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+113,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+113,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+113,3,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+113,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+114,1,Catarrh,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+114,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+114,3,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+114,4,Upper-airway cough syndrome,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+115,1,Abnormal sensation in eye,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+115,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+116,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+116,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+117,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+117,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+117,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+117,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+117,5,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+118,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+118,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+118,3,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+118,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+119,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+119,2,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+119,3,Iritis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+119,4,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+119,5,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+120,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+120,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+120,3,Skin warm,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+121,1,Aphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+121,2,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+122,1,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+122,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+122,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+123,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+124,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+124,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+124,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+124,4,Sputum increased,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+125,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+125,2,Fear,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+125,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+125,4,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+125,5,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+126,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+126,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+126,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+126,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+126,5,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+126,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+126,7,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+127,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+127,2,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+127,3,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+127,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+127,5,Sclerectomy,Corneal and scleral therapeutic procedures,Eye therapeutic procedures,Surg,N
+128,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+128,2,Ocular discomfort,Ocular disorders NEC,Eye disorders NEC,Eye,N
+129,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+129,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+130,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+130,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+130,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+131,1,Lip pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+132,1,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+132,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+133,1,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+133,2,Eyelid margin crusting,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+133,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+133,4,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+133,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+134,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+135,1,Iridocyclitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+136,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+136,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+136,3,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+136,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+136,5,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+137,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+137,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+137,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+138,1,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+139,1,Chromatopsia,Visual colour distortions,Vision disorders,Eye,N
+139,2,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+139,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+139,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+140,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+141,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+141,2,Liquid product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+141,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+142,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+142,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+142,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+143,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+144,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+144,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+144,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+145,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+145,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+146,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+146,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+147,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+148,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+149,1,Headache,Headaches NEC,Headaches,Nerv,N
+150,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+150,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+150,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+150,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+150,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+151,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+151,2,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+151,3,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+151,4,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+152,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+152,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+152,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+153,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+154,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+154,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+154,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+154,4,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+155,1,Eye colour change,"Iris and ciliary body structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+155,2,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+155,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+155,4,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+156,1,Anterior chamber fibrin,Chambers (anterior and posterior) and lens infections and inflammations,"Ocular infections, irritations and inflammations",Eye,N
+156,2,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+156,3,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+156,4,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+156,5,Deep anterior chamber of the eye,"Anterior chamber structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+156,6,Device deposit issue,Device physical property and chemical issues,Device issues,Prod,N
+156,7,Flat anterior chamber of eye,"Anterior chamber structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+156,8,Lens dislocation,"Lens structural change, deposit and degeneration (excl cataracts)","Anterior eye structural change, deposit and degeneration",Eye,N
+156,9,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+156,10,Pupil fixed,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+156,11,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+157,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+157,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+157,3,Illusion,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+157,4,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+157,5,Thinking abnormal,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+158,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+159,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+159,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+160,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+160,2,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+160,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+160,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+160,5,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+161,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+161,2,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+161,3,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+161,4,Deafness,Hearing losses,Hearing disorders,Ear,N
+161,5,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+161,6,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+161,7,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+161,8,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+161,9,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+161,10,Headache,Headaches NEC,Headaches,Nerv,N
+161,11,Hypothalamo-pituitary disorder,Hypothalamic and pituitary disorders NEC,Hypothalamus and pituitary gland disorders,Endo,N
+161,12,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+161,13,Negative thoughts,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+162,1,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+162,2,Ocular discomfort,Ocular disorders NEC,Eye disorders NEC,Eye,N
+162,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+162,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+163,1,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+163,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+164,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+164,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+164,3,Headache,Headaches NEC,Headaches,Nerv,N
+164,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+165,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+165,2,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+165,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+165,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+165,5,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+165,6,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+165,7,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+165,8,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+165,9,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+166,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+167,1,Odynophagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+167,2,Oral blood blister,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+168,1,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+168,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+169,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+169,2,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+169,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+169,4,Stress,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+169,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+169,6,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+170,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+171,1,Blood urine present,Urinalysis NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+171,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+172,1,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+172,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+172,3,Otorrhoea,Ear disorders NEC,Aural disorders NEC,Ear,N
+172,4,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+172,5,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+172,6,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+173,1,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+173,2,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+174,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+175,1,Keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+176,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+176,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+176,3,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+176,4,Sluggishness,Asthenic conditions,General system disorders NEC,Genrl,N
+176,5,Urine odour abnormal,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+177,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+177,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+177,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+178,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+179,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+180,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+180,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+180,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+180,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+181,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+181,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+181,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+181,4,Frequent bowel movements,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+181,5,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+182,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+182,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+182,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+182,4,Headache,Headaches NEC,Headaches,Nerv,N
+182,5,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+182,6,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+183,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+183,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+183,3,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+184,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+184,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+184,3,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+184,4,Headache,Headaches NEC,Headaches,Nerv,N
+184,5,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+184,6,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+184,7,Hypopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+184,8,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+184,9,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+184,10,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+184,11,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+184,12,Reaction to preservatives,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+185,1,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+185,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+186,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+187,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+187,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+187,3,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+187,4,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+187,5,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+187,6,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+188,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+188,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+188,3,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+189,1,Oral blood blister,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+189,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+190,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+190,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+191,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+191,2,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+192,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+192,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+192,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+192,4,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+193,1,Essential tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+194,1,Migraine,Migraine headaches,Headaches,Nerv,N
+195,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+195,2,Headache,Headaches NEC,Headaches,Nerv,N
+196,1,Intraocular pressure test abnormal,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+196,2,Optic neuropathy,Visual pathway disorders,Vision disorders,Eye,N
+196,3,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+197,1,Dry throat,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+197,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+197,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+197,4,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+197,5,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+197,6,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+198,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+198,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+198,3,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+198,4,Parosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+199,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+200,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+200,2,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+200,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+200,4,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+200,5,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+200,6,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+200,7,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+200,8,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+200,9,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+200,10,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+200,11,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+200,12,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+200,13,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+200,14,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+200,15,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+200,16,Retinal injury,Eye injuries NEC,Injuries NEC,Inj&P,N
+201,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+201,2,Headache,Headaches NEC,Headaches,Nerv,N
+201,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+201,4,Open angle glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+201,5,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+202,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+203,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+203,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+203,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+203,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+203,5,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+204,1,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+204,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+205,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+205,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+205,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+205,4,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+206,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+206,2,Local reaction,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+207,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+207,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+207,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+208,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+209,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+209,2,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+210,1,Eyelid irritation,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+210,2,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+211,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+212,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+212,2,Product container issue,Product packaging issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+213,1,Choroidal effusion,"Choroid and vitreous structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+213,2,Uveitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+214,1,Epiretinal membrane,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+214,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+215,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+215,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+216,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+216,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+216,3,Asthenopia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+216,4,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+216,5,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+216,6,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+216,7,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+216,8,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+216,9,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+216,10,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+216,11,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+216,12,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+216,13,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+216,14,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+216,15,Headache,Headaches NEC,Headaches,Nerv,N
+216,16,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+216,17,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+216,18,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+216,19,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+216,20,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+216,21,Sensation of foreign body,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+216,22,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+216,23,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+216,24,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+216,25,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+217,1,Ulcerative keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+218,1,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+219,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+220,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+220,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+220,3,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+220,4,Increased viscosity of upper respiratory secretion,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+220,5,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+220,6,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+221,1,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+222,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+222,2,Product contamination,Product contamination and sterility issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+223,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+223,2,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+223,3,Kidney infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+223,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+224,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+224,2,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+224,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+224,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+224,5,Thyroid disorder,Thyroid disorders NEC,Thyroid gland disorders,Endo,N
+225,1,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+225,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+226,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+226,2,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+226,3,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+226,4,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+226,5,Immune system disorder,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+226,6,Lung disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+226,7,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+226,8,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+226,9,Oropharyngeal discomfort,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+226,10,Rales,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+226,11,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+226,12,Sinus pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+226,13,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+226,14,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+227,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+227,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+228,1,Product delivery mechanism issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+228,2,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+228,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+229,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+229,2,Eye ulcer,Ocular disorders NEC,Eye disorders NEC,Eye,N
+229,3,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+229,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+230,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+231,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+231,2,Gastrointestinal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+231,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+231,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+231,5,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+231,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+232,1,Eye ulcer,Ocular disorders NEC,Eye disorders NEC,Eye,N
+233,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+233,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+234,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+234,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+235,1,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+236,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+236,2,Anosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+236,3,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+237,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+237,2,Glare,Visual disorders NEC,Vision disorders,Eye,N
+237,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+238,1,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+238,2,Product delivery mechanism issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+238,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+239,1,Vascular dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+240,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+240,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+240,3,Eye ulcer,Ocular disorders NEC,Eye disorders NEC,Eye,N
+240,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+241,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+241,2,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+241,3,Packaging design issue,Product packaging issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+242,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+242,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+243,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+244,1,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+244,2,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+245,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+245,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+246,1,Iridocyclitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+246,2,Iridocyclitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+247,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+247,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+247,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+247,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+247,5,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+247,6,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+248,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+248,2,Bladder pain,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+248,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+249,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+250,1,Ocular surface disease,Ocular disorders NEC,Eye disorders NEC,Eye,N
+251,1,Asthenopia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+251,2,Liquid product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+252,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+252,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+253,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+254,1,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+254,2,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+255,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+256,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+256,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+257,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+257,2,Product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+257,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+258,1,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+258,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+259,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+260,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+260,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+260,3,Hyperaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+260,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+260,5,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+261,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+261,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+262,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+262,2,Periorbital swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+262,3,Product supply issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+262,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+263,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+263,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+263,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+263,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+264,1,Asthenopia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+264,2,Ocular discomfort,Ocular disorders NEC,Eye disorders NEC,Eye,N
+264,3,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+265,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+265,2,Hyphaema,Eye injuries NEC,Injuries NEC,Inj&P,N
+266,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+266,2,Poor quality product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+266,3,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+266,4,Reaction to preservatives,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+267,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+267,2,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+267,3,Seasonal allergy,Atopic disorders,Allergic conditions,Immun,N
+267,4,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+268,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+268,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+269,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+270,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+270,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+271,1,Ocular discomfort,Ocular disorders NEC,Eye disorders NEC,Eye,N
+272,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+272,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+273,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+273,2,Keratopathy,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+273,3,Punctate keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+273,4,Tear break up time decreased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+273,5,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+274,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+274,2,Keratopathy,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+274,3,Punctate keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+274,4,Tear break up time decreased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+274,5,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+275,1,Drug therapeutic incompatibility,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+275,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+276,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+276,2,Keratopathy,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+276,3,Punctate keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+276,4,Tear break up time decreased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+276,5,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+277,1,Headache,Headaches NEC,Headaches,Nerv,N
+277,2,Intraocular pressure test abnormal,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+277,3,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+277,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+278,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+278,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+278,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+278,4,Polyarthritis,Arthropathies NEC,Joint disorders,Musc,N
+278,5,Polychondritis,Cartilage disorders,"Tendon, ligament and cartilage disorders",Musc,N
+278,6,Scleritis,"Scleral infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+278,7,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+279,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+279,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+280,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+280,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+281,1,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+281,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+282,1,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+282,2,Product supply issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+282,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+283,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+283,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+283,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+283,4,Thermal burns of eye,Thermal burns,Injuries by physical agents,Inj&P,N
+284,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+284,2,Product supply issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+284,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+285,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+286,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+286,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+286,3,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+287,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+288,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+288,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+289,1,Product container issue,Product packaging issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+289,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+290,1,Expired product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+290,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+290,3,Product container issue,Product packaging issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+290,4,Product storage error,Product storage errors and issues in the product use system,Medication errors and other product use errors and issues,Inj&P,N
+291,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+291,2,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+292,1,Blood pressure diastolic decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+292,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+292,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+292,4,Product use complaint,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+292,5,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+292,6,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+293,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+293,2,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+294,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+294,2,Headache,Headaches NEC,Headaches,Nerv,N
+294,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+295,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+295,2,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+295,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+295,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+295,5,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+295,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+295,7,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+295,8,Tension headache,Headaches NEC,Headaches,Nerv,N
+296,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+296,2,Depression suicidal,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+297,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+298,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+299,1,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N

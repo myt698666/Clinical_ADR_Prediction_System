@@ -1,0 +1,82 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+2,1,Impaired healing,Healing abnormal NEC,Tissue disorders NEC,Genrl,N
+3,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+3,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+4,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+5,1,Eye infection bacterial,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+6,1,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+7,1,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+7,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+8,1,Coagulation time prolonged,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+9,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+10,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+11,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+12,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+12,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+13,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+14,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+15,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+15,2,Rash morbilliform,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,1,Pseudomembranous colitis,Clostridia infections,Bacterial infectious disorders,Infec,N
+17,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+17,2,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+18,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+18,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+18,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+18,4,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+18,5,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+18,6,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+18,7,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+19,1,Erythema multiforme,Bullous conditions,Epidermal and dermal conditions,Skin,N
+19,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+19,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+20,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+20,2,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+20,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+20,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+20,5,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+20,6,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+20,7,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+20,8,Shock,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+20,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+21,1,Hypercapnia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+21,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+21,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+22,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+22,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+23,1,Drug reaction with eosinophilia and systemic symptoms,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+23,2,Hypertransaminasaemia,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+24,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+24,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+24,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+24,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+26,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+26,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+27,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+28,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+28,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+29,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+29,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+29,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+29,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+30,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+30,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+31,2,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+31,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+32,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+33,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+33,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+33,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+34,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+34,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+34,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N

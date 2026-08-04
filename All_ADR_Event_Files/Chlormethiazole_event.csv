@@ -1,0 +1,706 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+2,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+2,2,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+3,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+3,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+4,1,Conjunctival irritation,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+4,2,Nasal discomfort,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+5,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+6,1,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+7,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+8,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+8,2,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+9,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+9,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+9,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+10,1,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+10,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+10,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+11,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+11,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+12,1,Laryngeal oedema,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+12,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+12,3,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+13,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+13,2,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+14,1,Amputation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+14,2,Diverticulitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+14,3,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+15,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+15,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+16,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+17,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+17,2,Headache,Headaches NEC,Headaches,Nerv,N
+17,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+17,4,Sinus pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+18,1,Aplastic anaemia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+19,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+19,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+20,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+20,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+21,1,Drug withdrawal convulsions,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+22,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+22,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+22,3,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+23,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+23,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+24,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+24,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+26,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+26,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+26,3,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+27,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+28,1,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+29,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+29,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+30,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+30,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+30,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+30,4,Laryngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+30,5,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+31,1,Acne,Acnes,Skin appendage conditions,Skin,N
+32,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+32,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+33,1,Headache,Headaches NEC,Headaches,Nerv,N
+33,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+34,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+35,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+36,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+37,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+38,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+38,2,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+38,3,Nasal obstruction,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+39,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+39,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+39,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+39,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+40,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+41,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+42,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+42,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+43,1,Choreoathetosis,Choreiform movements,Movement disorders (incl parkinsonism),Nerv,N
+43,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+44,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+45,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+46,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+47,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+48,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+49,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+50,1,Headache,Headaches NEC,Headaches,Nerv,N
+50,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+50,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+51,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+52,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+52,2,Headache,Headaches NEC,Headaches,Nerv,N
+52,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+53,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+54,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+55,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+56,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+57,1,Headache,Headaches NEC,Headaches,Nerv,N
+58,1,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+59,1,Headache,Headaches NEC,Headaches,Nerv,N
+60,1,Headache,Headaches NEC,Headaches,Nerv,N
+61,1,Headache,Headaches NEC,Headaches,Nerv,N
+62,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+62,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+63,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+63,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+64,1,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+64,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+65,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+66,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+66,2,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+67,1,Hepatosplenomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+67,2,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+67,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+67,4,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+68,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+69,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+70,1,Mastitis,Breast infections,Infections - pathogen unspecified,Infec,N
+71,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+72,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+73,1,Superficial vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+74,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+74,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+74,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+74,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+75,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+75,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+76,1,Headache,Headaches NEC,Headaches,Nerv,N
+77,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+78,1,Cheyne-Stokes respiration,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+79,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+79,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+79,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+79,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+80,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+81,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+81,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+82,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+83,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+84,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+85,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+86,1,Headache,Headaches NEC,Headaches,Nerv,N
+86,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+87,1,Headache,Headaches NEC,Headaches,Nerv,N
+87,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+88,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+88,2,Headache,Headaches NEC,Headaches,Nerv,N
+89,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+90,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+91,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+92,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+93,1,Headache,Headaches NEC,Headaches,Nerv,N
+94,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+95,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+95,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+95,3,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+96,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+96,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+97,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+98,1,Headache,Headaches NEC,Headaches,Nerv,N
+98,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+99,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+100,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+100,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+101,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+102,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+102,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+102,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+103,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+104,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+104,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+104,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+105,1,Drug withdrawal convulsions,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+106,1,Drug withdrawal convulsions,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+107,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+108,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+108,2,Petit mal epilepsy,Absence seizures,Seizures (incl subtypes),Nerv,N
+109,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+109,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+110,1,Headache,Headaches NEC,Headaches,Nerv,N
+110,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+111,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+112,1,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+113,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+114,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+115,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+115,2,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+116,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+116,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+116,3,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+117,1,Headache,Headaches NEC,Headaches,Nerv,N
+117,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+118,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+119,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+119,2,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+119,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+120,1,Poisoning,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,Y
+121,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+121,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+122,1,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+123,1,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+124,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+124,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+124,3,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+125,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+126,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+127,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+127,2,Inhibitory drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+128,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+128,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+129,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+129,2,Headache,Headaches NEC,Headaches,Nerv,N
+130,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+130,2,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+131,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+131,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+131,3,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+132,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+132,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+132,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+133,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+133,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+134,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+134,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+134,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+135,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+135,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+136,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+137,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+137,2,Anosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+138,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+139,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+139,2,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+140,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+140,2,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+141,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+142,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+143,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+143,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+144,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+144,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+145,1,Vaginal infection,Female reproductive tract infections,Infections - pathogen unspecified,Infec,N
+146,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+147,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+148,1,Drug withdrawal convulsions,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+149,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+150,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+151,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+151,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+151,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+151,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+152,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+153,1,Headache,Headaches NEC,Headaches,Nerv,N
+153,2,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+154,1,Dermatitis exfoliative,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+155,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+155,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+156,1,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+157,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+157,2,Tardive dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+158,1,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+159,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+159,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+160,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+160,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+161,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+161,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+162,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+162,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+163,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+163,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+164,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+165,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+166,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+166,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+166,3,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+167,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+168,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+169,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+169,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+170,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+171,1,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+172,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+172,2,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+173,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+174,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+175,1,Headache,Headaches NEC,Headaches,Nerv,N
+175,2,Lacrimation disorder,Lacrimation disorders,Eye disorders NEC,Eye,N
+175,3,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+176,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+176,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+177,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+178,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+178,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+178,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+178,4,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+178,5,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+179,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+179,2,Headache,Headaches NEC,Headaches,Nerv,N
+179,3,Strabismus,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+180,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+181,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+182,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+182,2,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+182,3,Euphoric mood,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+182,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+183,1,Deafness transitory,Hearing losses,Hearing disorders,Ear,N
+184,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+185,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+185,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+185,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+186,1,Granulocytopenia,Neutropenias,White blood cell disorders,Blood,N
+187,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+188,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+188,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+189,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,N
+189,2,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+190,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+190,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+190,3,Headache,Headaches NEC,Headaches,Nerv,N
+190,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+191,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+192,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+192,2,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+193,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+193,2,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+194,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+194,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+194,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+194,4,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+195,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+196,1,Accommodation disorder,Refractive and accommodative disorders,Vision disorders,Eye,N
+196,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+196,3,Headache,Headaches NEC,Headaches,Nerv,N
+196,4,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+197,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+198,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+199,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+199,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+199,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+199,4,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+200,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+200,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+200,3,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+201,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+201,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+202,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+203,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+203,2,Headache,Headaches NEC,Headaches,Nerv,N
+203,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+204,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+204,2,Headache,Headaches NEC,Headaches,Nerv,N
+204,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+205,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+205,2,Headache,Headaches NEC,Headaches,Nerv,N
+205,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+206,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+206,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+206,3,Xerophthalmia,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+207,1,Headache,Headaches NEC,Headaches,Nerv,N
+208,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+209,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+210,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+210,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+211,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+212,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+213,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+214,1,Muscle spasticity,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+215,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+216,1,Drug withdrawal convulsions,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+217,1,Headache,Headaches NEC,Headaches,Nerv,N
+217,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+218,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+218,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+219,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+220,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+221,1,Headache,Headaches NEC,Headaches,Nerv,N
+222,1,Rosacea,Rosaceas,Skin appendage conditions,Skin,N
+223,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+223,2,Headache,Headaches NEC,Headaches,Nerv,N
+223,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+224,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+224,2,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+225,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+226,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+227,1,Headache,Headaches NEC,Headaches,Nerv,N
+227,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+228,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+228,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+229,1,Headache,Headaches NEC,Headaches,Nerv,N
+229,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+230,1,Headache,Headaches NEC,Headaches,Nerv,N
+231,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+232,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+233,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+233,2,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+233,3,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+233,4,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+234,1,Headache,Headaches NEC,Headaches,Nerv,N
+235,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+236,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+237,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+238,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+239,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+239,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+239,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+239,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+240,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+240,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+240,3,Headache,Headaches NEC,Headaches,Nerv,N
+240,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+241,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+241,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+241,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+242,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+242,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+243,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+244,1,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,Y
+245,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+245,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+246,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+246,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+247,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+247,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+247,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+247,4,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+247,5,Headache,Headaches NEC,Headaches,Nerv,N
+247,6,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+247,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+247,8,Photophobia,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+247,9,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+247,10,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+248,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+249,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+250,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+250,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+250,3,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+251,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+252,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+253,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+254,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+255,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+255,2,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+256,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+256,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+257,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+258,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+258,2,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+259,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+260,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+261,1,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+261,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+262,1,Catatonia,Decreased physical activity levels,Changes in physical activity,Psych,N
+263,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+264,1,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+265,1,Headache,Headaches NEC,Headaches,Nerv,N
+265,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+266,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+266,2,Headache,Headaches NEC,Headaches,Nerv,N
+266,3,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+267,1,Apnoeic attack,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+268,1,Headache,Headaches NEC,Headaches,Nerv,N
+268,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+269,1,Headache,Headaches NEC,Headaches,Nerv,N
+269,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+270,1,Headache,Headaches NEC,Headaches,Nerv,N
+270,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+271,1,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,Y
+272,1,Headache,Headaches NEC,Headaches,Nerv,N
+272,2,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+272,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+273,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+274,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+274,2,Glossitis,Tongue disorders,Tongue conditions,Gastr,N
+274,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+274,4,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+275,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+275,2,Coma,Coma states,Neurological disorders NEC,Nerv,N
+275,3,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+276,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+277,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+277,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+277,3,Headache,Headaches NEC,Headaches,Nerv,N
+277,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+277,5,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+277,6,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+277,7,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+278,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+279,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+280,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+280,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+281,1,Migraine,Migraine headaches,Headaches,Nerv,N
+281,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+282,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+283,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+284,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+284,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+285,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+285,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+285,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+286,1,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+286,2,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+287,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+287,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+288,1,Headache,Headaches NEC,Headaches,Nerv,N
+288,2,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+288,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+288,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+289,1,Reversible airways obstruction,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,Y
+289,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+290,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+290,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+290,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+291,1,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+292,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+292,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+293,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+294,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+294,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+295,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+296,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+297,1,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+297,2,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+298,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+298,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+299,1,Headache,Headaches NEC,Headaches,Nerv,N
+300,1,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+301,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+302,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+303,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+303,2,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+304,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+305,1,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,Y
+306,1,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+307,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+307,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+307,3,Hyperkinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+308,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+308,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+308,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+309,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+310,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+310,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+311,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+311,2,Headache,Headaches NEC,Headaches,Nerv,N
+311,3,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+311,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+312,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+312,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+312,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+313,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+313,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+313,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+313,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+314,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+314,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+314,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+315,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+315,2,Gravitational oedema,Oedema NEC,General system disorders NEC,Genrl,N
+315,3,Headache,Headaches NEC,Headaches,Nerv,N
+315,4,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+316,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+316,2,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+317,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+317,2,Headache,Headaches NEC,Headaches,Nerv,N
+317,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+318,1,Renal cancer,Renal neoplasms malignant,Renal and urinary tract neoplasms malignant and unspecified,Neopl,N
+319,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+319,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+319,3,Euphoric mood,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+319,4,Headache,Headaches NEC,Headaches,Nerv,N
+320,1,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+320,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+320,3,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+321,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+322,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+323,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+323,2,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+323,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+323,4,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+323,5,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+324,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+324,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+325,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+325,2,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+326,1,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+327,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+327,2,Headache,Headaches NEC,Headaches,Nerv,N
+327,3,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+327,4,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+328,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+329,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+330,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+331,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+331,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+332,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+332,2,Headache,Headaches NEC,Headaches,Nerv,N
+332,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+333,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+334,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+334,2,Headache,Headaches NEC,Headaches,Nerv,N
+335,1,Aplastic anaemia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,Y
+336,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+337,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+337,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+338,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+338,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+338,3,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+339,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+339,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+340,1,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+341,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+341,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+342,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+342,2,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+342,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+343,1,Gangrene,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+344,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+345,1,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+346,1,Thrombocytosis,Thrombocytoses,Platelet disorders,Blood,N
+347,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,Y
+347,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+348,1,Aspiration,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,Y
+349,1,Abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+349,2,Diverticulitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+349,3,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+349,4,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+350,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+351,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+351,2,Headache,Headaches NEC,Headaches,Nerv,N
+351,3,Nasal pruritus,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+351,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+351,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+351,6,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+352,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+352,2,Nasal discomfort,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+353,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,Y
+354,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+355,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+355,2,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+356,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+356,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+356,3,Screaming,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+356,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+357,1,Acidosis,Mixed acid-base disorders,Acid-base disorders,Metab,N
+358,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+359,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+360,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+360,2,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+360,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+361,1,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+362,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,Y
+362,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+363,1,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+364,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+365,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+365,2,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+365,3,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+366,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+366,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+367,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+367,2,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+367,3,Nasal discomfort,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+368,1,Alcohol use,Alcohol product use,Lifestyle issues,SocCi,N
+368,2,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+368,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+368,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+369,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+369,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+369,3,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+369,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+370,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+370,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+370,3,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+370,4,Euphoric mood,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+370,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+371,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+371,2,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+371,3,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+371,4,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+372,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+372,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+372,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+372,4,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+372,5,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+373,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+373,2,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+373,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+374,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+374,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+374,3,Hyperacusis,Hyperacusia,Hearing disorders,Ear,N
+374,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+374,5,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+374,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+374,7,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+374,8,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+375,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+375,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+376,1,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+377,1,Accidental exposure to product,Accidental exposures to product,Medication errors and other product use errors and issues,Inj&P,N
+377,2,Occupational exposure to product,Occupational exposures,"Exposures, chemical injuries and poisoning",Inj&P,N
+377,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N

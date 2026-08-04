@@ -1,0 +1,135 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+1,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+2,1,Adverse event,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+3,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+4,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+4,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+4,3,Therapy change,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+5,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+5,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+6,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+6,2,Nephropathy toxic,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+7,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+7,2,Nephropathy toxic,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+8,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+8,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+8,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,4,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+8,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+9,1,Skin fissures,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+9,2,Skin toxicity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+10,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+10,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+10,3,Headache,Headaches NEC,Headaches,Nerv,N
+10,4,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+10,5,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+10,6,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+11,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+11,2,Lung opacity,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+11,3,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+11,4,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+11,5,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+11,6,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+11,7,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+11,8,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+12,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+12,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+12,3,Osteonecrosis of jaw,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+12,4,Sinus disorder,Paranasal sinus disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+12,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+13,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+13,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+13,3,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+13,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+13,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+15,1,Decreased activity,Asthenic conditions,General system disorders NEC,Genrl,N
+15,2,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+15,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+15,4,Gastrointestinal motility disorder,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+15,5,Increased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+15,6,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+15,7,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+16,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+16,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+16,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+16,4,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+17,1,Loss of personal independence in daily activities,Disability issues,Lifestyle issues,SocCi,N
+17,2,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+18,1,Cushingoid,Adrenal cortical hyperfunctions,Adrenal gland disorders,Endo,N
+18,2,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+18,3,Myopathy,Myopathies,Muscle disorders,Musc,N
+18,4,Neurological symptom,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+18,5,Radiotherapy,Radiotherapies site unspecified,Therapeutic procedures and supportive care NEC,Surg,N
+18,6,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+18,7,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+18,8,Wheelchair user,Disability issues,Lifestyle issues,SocCi,N
+19,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+20,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+21,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+22,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+23,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+23,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+23,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+23,4,Early satiety,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+23,5,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+23,6,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+23,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+23,8,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+23,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+24,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+24,2,Penile ulceration,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+24,3,Phimosis,Male reproductive tract disorders congenital,Reproductive tract and breast disorders congenital,Cong,N
+25,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+25,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+25,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+27,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+28,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+29,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+30,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+31,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+32,1,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+33,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+34,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+34,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+35,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+35,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+35,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+35,4,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+36,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+36,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+36,3,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+36,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+36,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,6,Rhinalgia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+37,1,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+38,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+38,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+39,1,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+40,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+41,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+42,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+42,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+42,3,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+42,4,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+43,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+43,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+43,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+43,4,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+43,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+44,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+44,2,Palmar-plantar erythrodysaesthesia syndrome,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+45,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+45,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+45,3,Metastases to central nervous system,Metastases to specified sites,Metastases,Neopl,N
+46,1,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+47,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+47,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+48,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,2,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+48,3,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+49,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+50,1,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+51,1,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N

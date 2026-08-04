@@ -1,0 +1,118 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+2,1,Blood pressure systolic decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+2,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+2,3,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+3,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+4,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+5,1,Nodal arrhythmia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+6,1,Adrenal haemorrhage,Adrenal gland disorders NEC,Adrenal gland disorders,Endo,N
+6,2,Septic shock,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+7,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+8,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+9,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+10,1,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+11,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+11,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+11,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+12,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+12,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+12,3,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+12,4,Electrocardiogram ST segment depression,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+13,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+13,2,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+13,3,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+14,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+14,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+14,3,Electrocardiogram ST segment depression,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+14,4,Ventricular extrasystoles,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+15,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+15,2,Laryngospasm,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+15,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,1,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+17,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+17,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+18,1,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+19,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+19,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+19,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+20,1,Blood calcium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+20,2,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+20,3,Blood phosphorus increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+20,4,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+20,5,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+20,6,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+21,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+21,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+21,3,Laryngospasm,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+22,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+22,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+22,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+22,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+22,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+22,6,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+23,1,Device interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+23,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+23,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+24,1,Device failure,Device issues NEC,Device issues,Prod,N
+24,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+24,3,Unwanted awareness during anaesthesia,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+25,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+25,2,Intracranial pressure increased,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+25,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+26,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+26,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+26,3,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+26,4,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+26,5,Respiratory acidosis,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+26,6,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+27,1,Device malfunction,Device malfunction events NEC,Device issues,Prod,N
+27,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+27,3,Light anaesthesia,Anaesthesia and allied procedures,Therapeutic procedures and supportive care NEC,Surg,N
+28,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+28,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+29,1,Anaesthetic complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+29,2,Device issue,Device issues NEC,Device issues,Prod,N
+29,3,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+29,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+30,1,Drug delivery system malfunction,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+30,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+30,3,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+30,4,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+31,1,Hyperthermia malignant,Body temperature altered,Body temperature conditions,Genrl,N
+32,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+32,2,Procedural nausea,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+32,3,Procedural vomiting,Gastrointestinal and hepatobiliary procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+32,4,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+33,1,Anaesthetic complication cardiac,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+33,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+34,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+34,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+34,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+35,1,Hyperthermia malignant,Body temperature altered,Body temperature conditions,Genrl,N
+36,1,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+37,1,Hepatotoxicity,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+38,1,Accelerated hypertension,Accelerated and malignant hypertension,Vascular hypertensive disorders,Vasc,N
+38,2,Atrial tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+38,3,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+39,1,Postoperative respiratory failure,Respiratory tract and thoracic cavity procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+40,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+40,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+40,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+41,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+42,1,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+42,2,Eosinophilia,Eosinophilic disorders,White blood cell disorders,Blood,N
+42,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+43,1,Blood lactic acid increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+43,2,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+43,3,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+44,1,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+44,2,Gaze palsy,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+44,3,HIV-associated neurocognitive disorder,Retroviral infections,Viral infectious disorders,Infec,N
+44,4,Hepatitis B,Hepatitis virus infections,Viral infectious disorders,Infec,N
+44,5,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+44,6,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+44,7,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+45,1,Drug-induced liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+46,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+47,1,Hyperthermia malignant,Body temperature altered,Body temperature conditions,Genrl,N

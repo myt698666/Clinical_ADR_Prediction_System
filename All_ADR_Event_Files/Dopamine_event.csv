@@ -1,0 +1,93 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+1,2,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+1,3,Oliguria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+1,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+2,1,Injection site necrosis,Injection site reactions,Administration site reactions,Genrl,N
+2,2,Vasospasm,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+3,1,Peripheral ischaemia,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,Y
+4,1,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+4,2,Prothrombin level decreased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+5,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+5,2,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+5,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+6,1,Necrosis,Necrosis NEC,Tissue disorders NEC,Genrl,N
+6,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+6,3,Skin necrosis,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+6,4,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+7,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+8,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+9,1,Dry gangrene,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+9,2,Peripheral ischaemia,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+10,1,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+11,1,Chronic fatigue syndrome,Asthenic conditions,General system disorders NEC,Genrl,N
+12,1,Blood pressure fluctuation,Blood pressure disorders NEC,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+12,2,Device malfunction,Device malfunction events NEC,Device issues,Prod,N
+12,3,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+13,1,Akinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+13,2,Areflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+13,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+13,4,Pupil fixed,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+13,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+14,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+14,2,Optic ischaemic neuropathy,Optic nerve bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+14,3,Retinal artery occlusion,Retinal bleeding and vascular disorders (excl retinopathy),"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+15,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+16,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+16,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+17,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+17,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+17,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+17,4,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+17,5,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+17,6,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,7,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+17,8,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+17,9,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+17,10,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+17,11,Oliguria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+17,12,Orthopnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,13,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+17,14,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+17,15,Vasodilatation,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+18,1,Angle closure glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+19,1,Administration site extravasation,Administration site reactions NEC,Administration site reactions,Genrl,N
+19,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+19,3,Induration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+19,4,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+19,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+20,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+20,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+20,3,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+20,4,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+21,1,Product preparation issue,Product preparation errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+21,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+22,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+22,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+22,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+22,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+22,5,Scrotal oedema,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+22,6,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+23,1,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+23,2,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+23,3,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+23,4,Pupillary reflex impaired,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+24,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+25,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+25,2,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+25,3,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+26,1,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+26,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+27,1,Gangrene,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+27,2,Limb amputation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+28,1,Gangrene,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+28,2,Limb amputation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+29,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+29,2,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+29,3,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+29,4,Neurological symptom,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+29,5,Neuromyopathy,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+29,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+29,7,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+29,8,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+29,9,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N

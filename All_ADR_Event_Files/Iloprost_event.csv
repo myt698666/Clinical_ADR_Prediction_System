@@ -1,0 +1,395 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+1,2,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+1,3,Left ventricular dilatation,Myocardial disorders NEC,Myocardial disorders,Card,N
+1,4,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+2,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+2,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+2,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+2,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+3,1,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+3,2,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+4,1,Cerebral atrophy,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+4,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+4,3,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+4,4,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+4,5,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+4,6,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+4,7,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+4,8,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+5,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+5,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+5,3,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+6,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+6,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+6,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+7,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+8,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+8,2,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+9,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+10,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+11,1,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+11,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+12,1,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+12,2,Lymphoma,Lymphomas unspecified NEC,Lymphomas NEC,Neopl,N
+13,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+13,2,Death,Death and sudden death,Fatal outcomes,Genrl,N
+14,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+14,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+14,3,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+14,4,Gangrene,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+14,5,Ischaemia,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+14,6,Sclerodactylia,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+14,7,Telangiectasia,Telangiectasia and related conditions,Skin vascular abnormalities,Skin,N
+15,1,Leg amputation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+16,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+17,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+17,2,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+18,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+19,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+20,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+20,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+21,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+21,2,Headache,Headaches NEC,Headaches,Nerv,N
+21,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+22,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+22,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+22,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+22,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+22,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+22,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+23,1,VIth nerve paralysis,Eye movement disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+24,1,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+24,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+24,3,Lung infiltration,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+24,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+25,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+25,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+26,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+27,1,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,Y
+28,1,Interstitial lung disease,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,Y
+28,2,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+29,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+29,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+30,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+30,2,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+30,3,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+31,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+31,2,Peripheral artery thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+31,3,Peripheral ischaemia,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+31,4,Subclavian artery thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+32,1,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,Y
+33,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+33,2,Trismus,Muscle tone abnormalities,Muscle disorders,Musc,N
+34,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+34,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+34,3,Haemoperitoneum,Peritoneal and retroperitoneal haemorrhages,Peritoneal and retroperitoneal conditions,Gastr,N
+34,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+34,5,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+35,1,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+36,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+37,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+37,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+37,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+37,4,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+37,5,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+37,6,Mood altered,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+37,7,Pulmonary arterial hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+37,8,Right ventricular failure,Right ventricular failures,Heart failures,Card,N
+37,9,Sudden cardiac death,Death and sudden death,Fatal outcomes,Genrl,Y
+38,1,Adrenocortical insufficiency acute,Adrenal cortical hypofunctions,Adrenal gland disorders,Endo,N
+38,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+38,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+39,1,Chemotherapy,Chemotherapies,Therapeutic procedures and supportive care NEC,Surg,N
+40,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+40,2,Blindness unilateral,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+40,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+40,4,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+40,5,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+40,6,Optic ischaemic neuropathy,Optic nerve bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+41,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+41,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+42,1,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+42,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+43,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+43,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+43,3,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+43,4,Headache,Headaches NEC,Headaches,Nerv,N
+43,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+44,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+44,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+44,3,Haemoptysis,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+44,4,Pulseless electrical activity,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+44,5,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+45,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+45,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+45,3,Treatment noncompliance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+46,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+47,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+48,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+49,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+50,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+50,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+51,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+52,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+52,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+53,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+53,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+53,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+54,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+55,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+55,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+56,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+57,1,Headache,Headaches NEC,Headaches,Nerv,N
+57,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+57,3,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+58,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+58,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+58,3,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+58,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+59,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+59,2,Drug delivery system malfunction,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+59,3,Gait inability,Gait disturbances,General system disorders NEC,Genrl,N
+59,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+59,5,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+60,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+60,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+60,3,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+60,4,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+60,5,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+60,6,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+60,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+60,8,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+61,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+61,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+61,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+62,1,Disease recurrence,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+62,2,Infected skin ulcer,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+62,3,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+63,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+63,2,Hip fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+63,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+63,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+64,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+64,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+64,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+64,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+65,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+65,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+65,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+66,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+66,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+66,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+67,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+67,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+67,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+68,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+68,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+69,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+69,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+69,3,Surgery,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+69,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+70,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+70,2,Nerve injury,Nerve injuries NEC,Injuries NEC,Inj&P,N
+70,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+70,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+71,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+72,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+73,1,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+74,1,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+75,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+75,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+76,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+76,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+76,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+76,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+77,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+77,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+77,3,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+77,4,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+77,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+77,6,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+77,7,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+78,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+79,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+80,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+81,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+81,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+81,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+81,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+82,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+82,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+83,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+83,2,Organ transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+84,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+84,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+84,3,Product administered to patient of inappropriate age,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+85,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+86,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+87,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+87,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+88,1,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+89,1,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+90,1,Device alarm issue,Device information output issues,Device issues,Prod,N
+90,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+91,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+92,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+92,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+93,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+93,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+93,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+94,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+94,2,Headache,Headaches NEC,Headaches,Nerv,N
+95,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+95,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+95,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+96,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+97,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+98,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+98,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+99,1,Intestinal strangulation,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastr,N
+100,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+101,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+101,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+101,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+102,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+103,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+103,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+103,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+103,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+104,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+104,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+104,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+105,1,Device infusion issue,Device malfunction events NEC,Device issues,Prod,N
+105,2,Vascular device occlusion,Vascular complications associated with device,Complications associated with device,Genrl,N
+106,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+106,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+106,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+107,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+108,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+109,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+110,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+111,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+112,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+113,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+114,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+115,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+115,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+115,3,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+116,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+117,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+118,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+119,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+120,1,Organ transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+121,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+122,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+123,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+124,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+125,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+125,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+125,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+126,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+127,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+128,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+129,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+130,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+131,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+132,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+132,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+133,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+133,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+133,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+134,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+135,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+136,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+137,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+138,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+139,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+140,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+140,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+141,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+142,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+143,1,Lung transplant,Bronchial and pulmonary therapeutic procedures,Respiratory tract therapeutic procedures,Surg,N
+144,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+145,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+146,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+146,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+146,3,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+147,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+148,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+149,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+150,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+151,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+152,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+153,1,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+154,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+155,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+156,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+156,2,Product dose omission in error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+157,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+158,1,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+158,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+158,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+159,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+159,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+160,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+161,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+162,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+163,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+163,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+164,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+164,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+165,1,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+165,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+166,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+166,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+167,1,Hospice care,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+167,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+168,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+168,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+168,3,Pulmonary thrombosis,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+169,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+170,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+171,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+171,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+171,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+172,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+172,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+173,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+174,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+175,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+176,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+177,1,Blood pressure systolic decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+177,2,Headache,Headaches NEC,Headaches,Nerv,N
+178,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+179,1,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+179,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+179,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+179,4,Premature delivery,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+180,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+181,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+181,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+181,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+182,1,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+182,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+182,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+183,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+184,1,Micturition urgency,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+185,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+185,2,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+185,3,Infusion site reaction,Infusion site reactions,Administration site reactions,Genrl,N
+185,4,Infusion site warmth,Infusion site reactions,Administration site reactions,Genrl,N
+186,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+187,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+188,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+189,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+190,1,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+190,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+191,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+192,1,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+192,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+193,1,Pneumocystis jirovecii pneumonia,Pneumocystis infections,Fungal infectious disorders,Infec,N
+194,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N

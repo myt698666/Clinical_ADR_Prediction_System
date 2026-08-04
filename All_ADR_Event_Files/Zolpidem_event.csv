@@ -1,0 +1,988 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+1,2,Hypoaesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+1,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+2,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+3,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+3,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+3,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+4,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+4,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+5,1,Inappropriate antidiuretic hormone secretion,Posterior pituitary disorders,Hypothalamus and pituitary gland disorders,Endo,N
+6,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+6,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+7,1,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+7,2,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+7,3,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+8,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+9,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+9,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+9,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+9,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+10,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+10,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+10,3,Headache,Headaches NEC,Headaches,Nerv,N
+11,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+11,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+11,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+12,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+12,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+12,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+12,4,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+13,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+14,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+14,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+14,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+15,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+16,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+17,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+17,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+18,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+18,2,Panic reaction,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+19,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+19,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+20,1,Headache,Headaches NEC,Headaches,Nerv,N
+21,1,Headache,Headaches NEC,Headaches,Nerv,N
+21,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+22,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+23,1,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+24,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+25,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+26,1,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+27,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+27,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+28,2,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+29,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+30,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+31,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+31,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+31,3,Headache,Headaches NEC,Headaches,Nerv,N
+32,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+33,1,Headache,Headaches NEC,Headaches,Nerv,N
+34,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+34,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+34,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+35,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+35,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+36,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+37,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+37,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+37,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+38,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+38,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+38,3,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+39,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+39,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+40,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+41,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+41,2,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+41,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+41,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+41,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+41,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+42,1,Headache,Headaches NEC,Headaches,Nerv,N
+42,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+42,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+43,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+43,2,Headache,Headaches NEC,Headaches,Nerv,N
+43,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+44,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+44,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+44,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+44,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+45,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+45,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+45,3,Headache,Headaches NEC,Headaches,Nerv,N
+45,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+46,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+46,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+46,3,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+46,4,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+46,5,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+47,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+48,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+48,3,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+49,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+50,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+51,1,Seborrhoeic dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+52,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+53,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+54,1,Dermatitis exfoliative,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+55,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+56,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+56,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+57,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+58,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+59,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+59,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+60,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+60,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+61,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+61,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+61,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+61,4,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+62,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+63,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+64,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+64,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+65,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+66,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+66,2,Headache,Headaches NEC,Headaches,Nerv,N
+66,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+66,4,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+66,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+67,1,Parotid gland enlargement,Salivary gland enlargements,Salivary gland conditions,Gastr,N
+68,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+68,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+69,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+69,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+70,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+70,2,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+71,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+71,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+71,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+72,1,Headache,Headaches NEC,Headaches,Nerv,N
+73,1,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+73,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+74,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+74,2,Feeling drunk,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+74,3,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+75,1,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+75,2,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+76,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+76,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+77,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+77,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+77,3,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+78,1,Illusion,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+79,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+79,2,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+80,1,Bell's palsy,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+81,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+82,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+83,1,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+84,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+85,1,Dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+86,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+86,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+86,3,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+87,1,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+88,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+89,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+89,2,Headache,Headaches NEC,Headaches,Nerv,N
+90,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+91,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+92,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+92,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,3,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+92,4,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+93,1,Psychomotor hyperactivity,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+94,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+94,2,Extensor plantar response,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+94,3,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+94,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+94,5,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+94,6,Pupillary reflex impaired,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+94,7,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+95,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+95,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+96,1,Illusion,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+96,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+97,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+98,1,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+99,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+99,2,Fracture,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+100,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+101,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+102,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+102,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+103,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+103,2,"Hallucinations, mixed",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+103,3,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+104,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+104,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+104,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+104,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+105,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+105,2,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+105,3,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+106,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+107,1,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+108,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+108,2,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+108,3,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+108,4,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+108,5,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+108,6,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+109,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+110,1,Hemivertebra,Musculoskeletal and connective tissue disorders of spine congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+110,2,Talipes,Musculoskeletal and connective tissue disorders of limbs congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+111,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+112,1,Congenital musculoskeletal disorder of limbs,Musculoskeletal and connective tissue disorders of limbs congenital,Musculoskeletal and connective tissue disorders congenital,Cong,N
+113,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+113,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+113,3,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+113,4,Headache,Headaches NEC,Headaches,Nerv,N
+113,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+114,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+114,2,Headache,Headaches NEC,Headaches,Nerv,N
+114,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+114,4,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+114,5,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+114,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+115,1,Headache,Headaches NEC,Headaches,Nerv,N
+116,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+116,2,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+116,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+116,4,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+116,5,Drug tolerance increased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+116,6,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+116,7,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+116,8,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+116,9,Psychomotor skills impaired,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+116,10,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+116,11,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+116,12,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+116,13,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+117,1,Agoraphobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+117,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+117,3,Drug tolerance increased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+117,4,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+117,5,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+117,6,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+118,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+119,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+120,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+121,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,Y
+121,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+122,1,Clumsiness,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+122,2,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+122,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+123,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+123,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+123,3,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+123,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+124,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+125,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+125,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+126,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+126,2,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+127,1,Application site rash,Application site reactions,Administration site reactions,Genrl,N
+127,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+128,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+128,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+129,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+129,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+130,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+130,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+130,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+130,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+131,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+131,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+132,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+132,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+133,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+133,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+133,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+133,4,Headache,Headaches NEC,Headaches,Nerv,N
+133,5,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+134,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+135,1,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+136,1,Hypotonia neonatal,Muscle tone abnormalities,Muscle disorders,Musc,N
+136,2,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+137,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+137,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+137,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+138,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+139,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+140,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+141,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+142,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+143,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+144,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+144,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+144,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+145,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+145,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+145,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+145,4,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+145,5,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+146,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+147,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+147,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+147,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+148,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+148,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+149,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+149,2,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+149,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+150,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+150,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+150,3,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+151,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+152,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+152,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+153,1,Automatism,Stereotypies and automatisms,Changes in physical activity,Psych,N
+154,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+154,2,"Hallucinations, mixed",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+154,3,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+155,1,Automatism,Stereotypies and automatisms,Changes in physical activity,Psych,N
+155,2,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+156,1,Drug withdrawal syndrome neonatal,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+156,2,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+157,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+157,2,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+157,3,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+157,4,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+158,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+158,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+158,3,Dissociative disorder,Dissociative states,Dissociative disorders,Psych,N
+159,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+159,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+160,1,Body temperature decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+160,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+160,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+160,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+161,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+161,2,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+162,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+163,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+164,1,Inappropriate affect,Affect alterations NEC,Mood disorders and disturbances NEC,Psych,N
+165,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+165,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+166,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+166,2,Limb discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+166,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+167,1,Developmental delay,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+168,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+169,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+169,2,Illusion,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+170,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+170,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+170,3,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+170,4,Pulmonary congestion,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+171,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+171,2,Headache,Headaches NEC,Headaches,Nerv,N
+171,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+172,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+172,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+172,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+173,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+173,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+173,3,Drug abuser,Drug and chemical abuse,Lifestyle issues,SocCi,N
+173,4,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+173,5,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+173,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+174,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+175,1,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+176,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+177,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+177,2,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+178,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+179,1,Hangover,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+179,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+179,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+180,1,Automatism,Stereotypies and automatisms,Changes in physical activity,Psych,N
+181,1,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+182,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+182,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+182,3,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+182,4,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+182,5,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+182,6,Eating disorder,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+182,7,Feeling drunk,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+182,8,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+182,9,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+182,10,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+182,11,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+183,1,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+184,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+184,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+184,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+185,1,Binge eating,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+185,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+185,3,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+186,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+187,1,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+188,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+188,2,Immobile,Disability issues,Lifestyle issues,SocCi,N
+188,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+188,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+188,5,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+188,6,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+188,7,Panic disorder,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+189,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+189,2,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+190,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+190,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+190,3,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+191,1,Dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+192,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+192,2,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+193,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+193,2,Antisocial behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+193,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+193,4,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+193,5,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+193,6,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+193,7,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+193,8,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+193,9,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+194,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+195,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+195,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+195,3,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+195,4,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+195,5,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+195,6,Depressive symptom,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+195,7,Dissociation,Dissociative states,Dissociative disorders,Psych,N
+195,8,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+195,9,Drug tolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+195,10,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+195,11,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+195,12,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+195,13,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+195,14,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+195,15,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+195,16,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+196,1,Dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+197,1,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+197,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+198,1,Abulia,Psychiatric symptoms NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+198,2,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+198,3,Patient elopement,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+199,1,Learning disorder,Learning disorders,Cognitive and attention disorders and disturbances,Psych,N
+200,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+200,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+201,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+201,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+202,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+203,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+203,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+203,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+203,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+203,5,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+204,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+205,1,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+206,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+207,1,Chronic fatigue syndrome,Asthenic conditions,General system disorders NEC,Genrl,N
+207,2,Chronic fatigue syndrome,Asthenic conditions,General system disorders NEC,Genrl,N
+207,3,Dissociative disorder,Dissociative states,Dissociative disorders,Psych,N
+207,4,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+207,5,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+207,6,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+208,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+209,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+209,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+209,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+209,4,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+209,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+209,6,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+209,7,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+209,8,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+209,9,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+209,10,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+209,11,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+209,12,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+209,13,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+210,1,Chronic fatigue syndrome,Asthenic conditions,General system disorders NEC,Genrl,N
+210,2,Dissociative disorder,Dissociative states,Dissociative disorders,Psych,N
+210,3,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+210,4,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+210,5,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+210,6,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+210,7,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+210,8,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+211,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+211,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+211,3,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+212,1,Delirium,Deliria,Deliria (incl confusion),Psych,N
+212,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+213,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+213,2,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+213,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+213,4,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+213,5,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+214,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+214,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+214,3,Delirium,Deliria,Deliria (incl confusion),Psych,N
+214,4,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+214,5,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+214,6,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+214,7,Hypersomnia,Narcolepsy and hypersomnia,Sleep disturbances (incl subtypes),Nerv,N
+214,8,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+215,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+216,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+217,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+218,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+218,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+219,1,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+219,2,Therapeutic product effect delayed,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+220,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+220,2,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+220,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+220,4,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+220,5,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+220,6,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+220,7,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+220,8,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+220,9,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+220,10,Psychomotor retardation,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+220,11,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+220,12,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+220,13,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+221,1,Agoraphobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+221,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+221,3,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+221,4,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+221,5,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+221,6,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+221,7,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+222,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+222,2,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+223,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+223,2,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+223,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+223,4,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+223,5,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+224,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+224,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+224,3,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+224,4,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+225,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+225,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+226,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+226,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+226,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+226,4,Hostility,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+226,5,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+227,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+227,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+228,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+228,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+228,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+228,4,Dyspraxia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+228,5,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+228,6,Motor dysfunction,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+228,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+229,1,Nipple pain,Breast signs and symptoms,Breast disorders,Repro,N
+230,1,Automatism,Stereotypies and automatisms,Changes in physical activity,Psych,N
+230,2,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+231,1,Congenital cystic kidney disease,Renal disorders congenital,Renal and urinary tract disorders congenital,Cong,N
+231,2,Pulmonary hypoplasia,Pulmonary and bronchial disorders congenital,Respiratory disorders congenital,Cong,N
+231,3,Renal dysplasia,Renal disorders congenital,Renal and urinary tract disorders congenital,Cong,N
+231,4,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,Y
+231,5,Ureteric dilatation,Ureteric disorders NEC,Ureteric disorders,Renal,N
+231,6,Urethral valves,Renal and urinary tract disorders congenital NEC,Renal and urinary tract disorders congenital,Cong,N
+231,7,Urinary tract obstruction,Genital and urinary tract disorders NEC,Genitourinary tract disorders NEC,Renal,N
+232,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+232,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+232,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+232,4,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+233,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+233,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+233,3,Electric shock sensation,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+233,4,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+233,5,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+234,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+234,2,Drug abuser,Drug and chemical abuse,Lifestyle issues,SocCi,N
+235,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+235,2,Drug abuser,Drug and chemical abuse,Lifestyle issues,SocCi,N
+236,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+236,2,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+237,1,Blood glucose fluctuation,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+237,2,Blood pressure fluctuation,Blood pressure disorders NEC,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+237,3,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+237,4,Drooling,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+237,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+237,6,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+237,7,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+237,8,Headache,Headaches NEC,Headaches,Nerv,N
+237,9,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+237,10,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+237,11,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+237,12,Movement disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+237,13,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+237,14,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+237,15,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+237,16,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+238,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+238,2,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+239,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+239,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+239,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+239,4,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+240,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+241,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+241,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+241,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+241,4,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+242,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+242,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+243,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+243,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+243,3,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+244,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+245,1,Extra dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+245,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+245,3,Wrong product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+246,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+246,2,Delirium,Deliria,Deliria (incl confusion),Psych,N
+246,3,Dementia Alzheimer's type,Alzheimer's disease (incl subtypes),Mental impairment disorders,Nerv,N
+247,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+248,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,Y
+249,1,Adjustment disorder with depressed mood,Adjustment disorders,Adjustment disorders (incl subtypes),Psych,N
+250,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+250,2,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+251,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+252,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+252,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+252,3,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+252,4,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+252,5,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+253,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+254,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+255,1,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+255,2,"Hallucinations, mixed",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+256,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+257,1,Hepatosplenic T-cell lymphoma,Adult T-cell lymphomas/leukaemias,Lymphomas non-Hodgkin's T-cell,Neopl,Y
+258,1,Drug withdrawal syndrome neonatal,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+258,2,Feeding disorder,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+258,3,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+258,4,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+258,5,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+258,6,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+258,7,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+258,8,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+258,9,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+258,10,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+258,11,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+258,12,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+258,13,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+258,14,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+258,15,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+259,1,Drug withdrawal syndrome neonatal,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+259,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+259,3,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+260,1,Drug withdrawal syndrome neonatal,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+260,2,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+260,3,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+260,4,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+260,5,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+260,6,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+261,1,Drug withdrawal syndrome neonatal,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+261,2,Exposure via breast milk,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+261,3,Feeding disorder,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+261,4,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+261,5,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+261,6,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+261,7,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+261,8,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+261,9,Respiratory tract infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+261,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+261,11,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+262,1,Sexually inappropriate behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+262,2,Sleep-related eating disorder,Parasomnias,Sleep disorders and disturbances,Psych,N
+262,3,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+262,4,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+263,1,Drug abuse,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+263,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+263,3,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+263,4,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+264,1,Hyporesponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+264,2,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+264,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+264,4,Parkinson's disease,Parkinson's disease and parkinsonism,Movement disorders (incl parkinsonism),Nerv,N
+265,1,Electrocardiogram J wave,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+265,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+265,3,Hyporesponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+265,4,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+265,5,Sinus bradycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+266,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+266,2,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+267,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+267,2,Electrocardiogram J wave,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+267,3,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+267,4,Hyporesponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+267,5,Hypothermia,Body temperature altered,Body temperature conditions,Genrl,N
+267,6,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+267,7,Sinus bradycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+268,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+268,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+268,3,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+268,4,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+268,5,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+268,6,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+268,7,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+269,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+270,1,Atrial tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+271,1,Dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+271,2,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+271,3,Intentional product use issue,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+271,4,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+272,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+272,2,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+272,3,Headache,Headaches NEC,Headaches,Nerv,N
+272,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+272,5,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+273,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+274,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+274,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+274,3,Anhedonia,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+274,4,Anorgasmia,Orgasmic disorders and disturbances,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+274,5,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+274,6,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+274,7,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+274,8,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+274,9,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+274,10,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+274,11,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+274,12,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+274,13,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+274,14,Emotional disorder,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+274,15,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+274,16,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+274,17,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+274,18,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+274,19,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+274,20,Loss of libido,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+274,21,Mental impairment,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+274,22,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+275,1,Abnormal sleep-related event,Parasomnias,Sleep disorders and disturbances,Psych,N
+275,2,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+275,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+275,4,Sleep sex,Parasomnias,Sleep disorders and disturbances,Psych,N
+275,5,Sleep-related eating disorder,Parasomnias,Sleep disorders and disturbances,Psych,N
+275,6,Somnambulism,Parasomnias,Sleep disorders and disturbances,Psych,N
+276,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+276,2,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+276,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+276,4,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+276,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+276,6,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+276,7,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+276,8,Rebound effect,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+277,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+277,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+277,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+278,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+278,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+278,3,Femoral neck fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+279,1,Angle closure glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+279,2,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+279,3,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+279,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+279,5,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+279,6,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+280,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+281,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+281,2,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+281,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+282,1,Personality change,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+283,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+283,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+283,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+283,4,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+283,5,Indifference,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+283,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+283,7,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+283,8,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+284,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+284,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+284,3,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+284,4,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+284,5,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+284,6,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+284,7,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+284,8,Product taste abnormal,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+284,9,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+284,10,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+285,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+285,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+285,3,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+285,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+286,1,Accidental overdose,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+286,2,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+286,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+286,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+286,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+286,6,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+286,7,Renal pain,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+287,1,Fear,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+287,2,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+288,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+289,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+290,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+291,1,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+292,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+293,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+293,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+294,1,Counterfeit product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+294,2,Sedation complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+294,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+295,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+295,2,Delusion,Delusional symptoms,Disturbances in thinking and perception,Psych,N
+295,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+295,4,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+295,5,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+295,6,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+295,7,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+296,1,Affective disorder,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+297,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+297,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+297,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+298,1,Tongue biting,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+299,1,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+299,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+299,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+300,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+300,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+300,3,Headache,Headaches NEC,Headaches,Nerv,N
+300,4,Injection site swelling,Injection site reactions,Administration site reactions,Genrl,N
+300,5,Myalgia,Muscle pains,Muscle disorders,Musc,N
+300,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+300,7,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+300,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+301,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+301,2,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+301,3,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+301,4,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+301,5,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+302,1,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+303,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+303,2,Product taste abnormal,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+304,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+305,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+305,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+305,3,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+305,4,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+305,5,Thinking abnormal,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+306,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+306,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+306,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+306,4,Intentional product use issue,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+306,5,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+306,6,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+307,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+308,1,Extra dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+308,2,Incorrect product administration duration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+309,1,Breath holding,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+309,2,Nodule,Mass conditions NEC,Tissue disorders NEC,Genrl,N
+309,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+309,4,Periarthritis,Joint related disorders NEC,Joint disorders,Musc,N
+309,5,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+309,6,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+310,1,Breath holding,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+310,2,Nodule,Mass conditions NEC,Tissue disorders NEC,Genrl,N
+310,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+310,4,Periarthritis,Joint related disorders NEC,Joint disorders,Musc,N
+310,5,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+310,6,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+311,1,Narcolepsy,Narcolepsy and hypersomnia,Sleep disturbances (incl subtypes),Nerv,N
+312,1,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+313,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+313,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+313,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+314,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+315,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+315,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+315,3,Pneumonia aspiration,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+315,4,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+316,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+316,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+316,3,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+316,4,Emotional disorder,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+316,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+316,6,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+316,7,Personality disorder,Personality disorders NEC,Personality disorders and disturbances in behaviour,Psych,N
+316,8,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+316,9,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+316,10,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+317,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+318,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+318,2,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+318,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+318,4,Pneumonia aspiration,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+318,5,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+319,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+319,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+319,3,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+319,4,Emotional disorder,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+319,5,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+319,6,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+319,7,Personality disorder,Personality disorders NEC,Personality disorders and disturbances in behaviour,Psych,N
+319,8,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+319,9,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+319,10,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+320,1,Headache,Headaches NEC,Headaches,Nerv,N
+320,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+320,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+320,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+321,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+321,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+321,3,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+322,1,Antidepressant drug clearance increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+323,1,Impaired quality of life,Social issues NEC,Lifestyle issues,SocCi,N
+324,1,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+325,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+325,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+325,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+325,4,Product dispensing error,Product dispensing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+326,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+326,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+327,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+328,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+328,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+328,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+328,4,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+329,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+329,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+329,3,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+329,4,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+330,1,Antipsychotic drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+330,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+331,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+332,1,"Hallucinations, mixed",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+333,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+333,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+334,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+334,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+334,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+334,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+335,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+335,2,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+336,1,Apnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+336,2,Atrial septal defect,Cardiac septal defects congenital,Cardiac and vascular disorders congenital,Cong,N
+336,3,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+336,4,Coma,Coma states,Neurological disorders NEC,Nerv,N
+336,5,Eating disorder,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+336,6,Foetal arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+336,7,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+336,8,Foetal heart rate abnormal,Foetal and neonatal diagnostic procedures,Foetal and neonatal investigations,Inv,N
+336,9,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+336,10,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+336,11,Hypotonia neonatal,Muscle tone abnormalities,Muscle disorders,Musc,N
+336,12,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+336,13,Muscle tone disorder,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+336,14,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+336,15,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+336,16,Tremor neonatal,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+337,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+338,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+339,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+339,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+340,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+341,1,Product formulation issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+341,2,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+341,3,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+342,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+342,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+343,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+343,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+343,3,Headache,Headaches NEC,Headaches,Nerv,N
+343,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+344,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+344,2,Product physical issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+345,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N

@@ -1,0 +1,916 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+1,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+1,3,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+2,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+2,2,Retinal disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+3,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+3,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+3,3,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+4,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+4,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+4,3,Musculoskeletal pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+5,1,Administration site extravasation,Administration site reactions NEC,Administration site reactions,Genrl,N
+5,2,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+5,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+5,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+5,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+5,6,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+5,7,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+6,1,Flat affect,Affect alterations NEC,Mood disorders and disturbances NEC,Psych,N
+7,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+7,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+8,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+8,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+8,3,Intercepted medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+8,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+9,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+9,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+9,3,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+9,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+10,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+10,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+10,3,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+10,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+11,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+12,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+13,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+14,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+14,2,Hip fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+15,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+16,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+16,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+16,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+17,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+18,1,Blood electrolytes decreased,Water and electrolyte analyses NEC,"Water, electrolyte and mineral investigations",Inv,N
+18,2,Blood sodium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+18,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+18,4,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+18,5,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+18,6,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+18,7,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+19,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+19,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+19,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+19,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+19,5,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+20,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+20,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+20,3,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+20,4,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+20,5,Incoherent,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+20,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+20,7,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+20,8,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+21,1,Blood potassium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+21,2,Device dislocation,Device issues NEC,Device issues,Prod,N
+21,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+21,4,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+21,5,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+21,6,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+22,1,Amyloidosis,Amyloidoses,Immune disorders NEC,Immun,Y
+23,1,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+23,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+23,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+24,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+25,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+25,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+26,1,Cardiac pacemaker insertion,Cardiac device therapeutic procedures,Cardiac therapeutic procedures,Surg,N
+26,2,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+26,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+27,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+28,1,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+28,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+28,3,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+29,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+29,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+29,3,Toe operation,Limb therapeutic procedures,Bone and joint therapeutic procedures,Surg,N
+30,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+30,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+31,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+31,2,Head injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+32,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+33,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+34,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+34,2,Blood pressure systolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+34,3,Logorrhoea,Speech and language usage disturbances,Communication disorders and disturbances,Psych,N
+34,4,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+34,5,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+35,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+35,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+36,1,COVID-19 immunisation,Immunisations,Therapeutic procedures and supportive care NEC,Surg,N
+36,2,Sciatica,Lumbar spinal cord and nerve root disorders,Spinal cord and nerve root disorders,Nerv,N
+37,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+37,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+37,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+37,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+38,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+38,2,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+39,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+40,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+40,2,Infusion site urticaria,Infusion site reactions,Administration site reactions,Genrl,N
+40,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+41,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+42,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+43,1,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+43,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+44,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+44,2,Heart rate variability increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+45,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+46,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+47,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+48,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+48,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+48,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+49,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+50,1,Sudden onset of sleep,Sleep disturbances NEC,Sleep disturbances (incl subtypes),Nerv,N
+51,1,Functional gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+51,2,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+52,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+52,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+53,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+53,2,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+54,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+54,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+54,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+54,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+54,5,Trigeminal neuralgia,Trigeminal disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+55,1,Benign lung neoplasm,Respiratory tract and pleural neoplasms benign NEC,Respiratory and mediastinal neoplasms benign (excl mesotheliomas),Neopl,N
+55,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+55,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+55,4,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+55,5,Petechiae,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+55,6,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+55,7,Pulmonary mass,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+55,8,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+56,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+57,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+57,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+57,3,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+57,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+57,5,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+57,6,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+58,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+59,1,Migraine,Migraine headaches,Headaches,Nerv,N
+60,1,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+60,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+61,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+62,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+62,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+63,1,Upper respiratory tract infection,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+64,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+64,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+64,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+64,4,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+65,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+65,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+65,3,Food refusal,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+65,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+66,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+67,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+67,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+67,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+68,1,Therapy change,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+68,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+69,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+69,2,Infusion site discomfort,Infusion site reactions,Administration site reactions,Genrl,N
+69,3,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+69,4,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+70,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+70,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+70,3,Motor dysfunction,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+70,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+70,5,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+70,6,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+71,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+72,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+73,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+73,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+74,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+74,2,Cardiac pacemaker evaluation,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+74,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+74,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+74,5,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+74,6,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+75,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+76,1,Complication associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+76,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+76,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+77,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+77,2,Ear disorder,Ear disorders NEC,Aural disorders NEC,Ear,N
+78,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+78,2,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+78,3,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+79,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+79,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+79,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+79,4,Spinal pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+80,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+81,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+82,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+82,2,Intercepted product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+82,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+83,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+84,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+84,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+85,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+85,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+85,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+85,4,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+86,1,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+86,2,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+86,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+87,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+87,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+87,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+88,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+88,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+88,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+89,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+89,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+89,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+89,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+90,1,Early satiety,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+90,2,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+90,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+90,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+91,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+92,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+92,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+93,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+94,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+94,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+95,1,Amyloidosis,Amyloidoses,Immune disorders NEC,Immun,N
+95,2,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+96,1,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+96,2,Reflux gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+97,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+98,1,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+99,1,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+99,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+100,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+101,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+101,2,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+102,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+102,2,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,3,Skin lesion removal,Skin lesion excisions,Skin and subcutaneous tissue therapeutic procedures,Surg,N
+103,1,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+103,2,Infusion site infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+103,3,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+103,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+104,1,Cardiac disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+104,2,Cardiac pacemaker replacement,Cardiac device therapeutic procedures,Cardiac therapeutic procedures,Surg,N
+104,3,Complication associated with device,Complications associated with device NEC,Complications associated with device,Genrl,N
+104,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+105,1,Ear infection,Ear infections,Infections - pathogen unspecified,Infec,N
+106,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+106,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+106,3,Migraine,Migraine headaches,Headaches,Nerv,N
+106,4,Ophthalmic migraine,Migraine headaches,Headaches,Nerv,N
+106,5,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+107,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+107,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+108,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+108,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+108,3,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+108,4,Furuncle,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+108,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+109,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+109,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+109,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+109,4,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+109,5,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+109,6,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+109,7,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+109,8,Upper limb fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+110,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+110,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+111,1,Ear infection,Ear infections,Infections - pathogen unspecified,Infec,N
+112,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+113,1,Infusion site haemorrhage,Infusion site reactions,Administration site reactions,Genrl,N
+114,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+114,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+114,3,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+114,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+115,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+115,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+116,1,Headache,Headaches NEC,Headaches,Nerv,N
+116,2,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+116,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+117,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+117,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+117,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+118,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+119,1,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+119,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+120,1,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+120,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+121,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+122,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+122,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+122,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+123,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+123,2,Lip pruritus,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+123,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+123,4,Product preparation issue,Product preparation errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+123,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+123,6,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+124,1,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+125,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+125,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+126,1,Lung neoplasm malignant,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,N
+126,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+127,1,Alcohol use,Alcohol product use,Lifestyle issues,SocCi,N
+127,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+127,3,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+128,1,Pelvic pain,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+129,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+129,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+129,3,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+130,1,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+130,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+131,1,Dysstasia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+131,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+131,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+132,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+132,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+132,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+133,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+134,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+134,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+134,3,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+135,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+135,2,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+135,3,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+136,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+136,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+137,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+137,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+137,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+137,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+138,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+138,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+139,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+140,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+140,2,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+141,1,Eye contusion,Eye injuries NEC,Injuries NEC,Inj&P,N
+141,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+141,3,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+142,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+142,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+143,1,Infusion site haemorrhage,Infusion site reactions,Administration site reactions,Genrl,N
+144,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+144,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+145,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+145,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+146,1,Infusion site mass,Infusion site reactions,Administration site reactions,Genrl,N
+146,2,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+146,3,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+147,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+147,2,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+147,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+148,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+148,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+148,3,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+148,4,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+149,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+150,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+151,1,Injection site mass,Injection site reactions,Administration site reactions,Genrl,N
+151,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+152,1,Eye infection,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+153,1,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+153,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+153,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+154,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+154,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+155,1,Food refusal,Appetite disorders,Appetite and general nutritional disorders,Metab,Y
+156,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+156,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+156,3,Stress,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+157,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+158,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+158,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+158,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+158,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+158,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+158,6,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+158,7,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+159,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+160,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+160,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+160,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+161,1,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+162,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+163,1,Spinal pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+164,1,Discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+164,2,Infusion site discomfort,Infusion site reactions,Administration site reactions,Genrl,N
+164,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+164,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+165,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+166,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+166,2,Blood pressure systolic decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+166,3,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+166,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+167,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+168,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+168,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+169,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+169,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+170,1,Choking,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+171,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+171,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+172,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+172,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+173,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+173,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+173,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+174,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+174,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+174,3,Pelvic pain,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+175,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+176,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+177,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+178,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+178,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+179,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+179,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+179,3,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+179,4,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+179,5,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+180,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+180,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+180,3,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+181,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+181,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+181,3,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+182,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+182,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+183,1,Face injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+183,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+184,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+184,2,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+185,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+185,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+185,3,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+185,4,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+185,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+185,6,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+185,7,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+186,1,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+186,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+187,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+187,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+187,3,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+187,4,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+187,5,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+187,6,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+187,7,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+187,8,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+187,9,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+187,10,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+187,11,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+187,12,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+187,13,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+187,14,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+188,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+188,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+189,1,Carpal tunnel decompression,Peripheral nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surg,N
+190,1,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+190,2,Skin haemorrhage,Skin haemorrhages,Skin vascular abnormalities,Skin,N
+191,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+192,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+192,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+192,3,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+192,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+193,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+193,2,Fluid retention,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+193,3,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+194,1,Carpal tunnel decompression,Peripheral nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surg,N
+194,2,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+194,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+194,4,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+194,5,Wound infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+194,6,Wound secretion,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+195,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+195,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+196,1,Blood urine present,Urinalysis NEC,Renal and urinary tract investigations and urinalyses,Inv,N
+196,2,Cyst,Mass conditions NEC,Tissue disorders NEC,Genrl,N
+196,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+196,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+196,5,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+196,6,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+196,7,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+196,8,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+196,9,Tooth loss,Tooth missing,Dental and gingival conditions,Gastr,N
+196,10,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+197,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+197,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+197,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+198,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+198,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+199,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+200,1,Chronic obstructive pulmonary disease,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+200,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+200,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+201,1,Malnutrition,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+201,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+201,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+201,4,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+202,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+203,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+203,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+204,1,Carpal tunnel decompression,Peripheral nerve therapeutic procedures,"Nervous system, skull and spine therapeutic procedures",Surg,N
+205,1,Biopsy,Histopathology procedures NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+205,2,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+206,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+206,2,Dizziness postural,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+206,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+206,4,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+206,5,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+207,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+208,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+208,2,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+209,1,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+210,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+211,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+211,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+211,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+211,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+212,1,Intercepted product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+212,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+212,3,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+212,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+213,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+213,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+214,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+215,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+215,2,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+216,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+216,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+217,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+217,2,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+217,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+218,1,Limb injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+218,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+219,1,Cardiac pacemaker insertion,Cardiac device therapeutic procedures,Cardiac therapeutic procedures,Surg,N
+219,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+219,3,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+220,1,Device dislocation,Device issues NEC,Device issues,Prod,N
+220,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+220,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+220,4,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+221,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+221,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+221,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+221,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+222,1,Gastrointestinal infection,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+223,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+223,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+223,3,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+223,4,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+224,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+225,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+226,1,Ankle fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+226,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+226,3,Functional gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+226,4,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+226,5,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+227,1,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+228,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+228,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+229,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+229,2,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+229,3,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+229,4,Intentional dose omission,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+229,5,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+230,1,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+231,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+232,1,Volvulus,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastr,N
+232,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+233,1,Diverticulitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+234,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+235,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+235,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+235,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+235,4,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+236,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+237,1,Cataract operation,Lens therapeutic procedures,Eye therapeutic procedures,Surg,N
+238,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+238,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+238,3,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+239,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+239,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+239,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+240,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+240,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+241,1,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+242,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+243,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+243,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+243,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+243,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+243,5,Prostate cancer,Prostatic neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+243,6,Rales,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+243,7,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+244,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+245,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+245,2,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+245,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+245,4,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+246,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+246,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+247,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+248,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+248,2,Dyspnoea exertional,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+249,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+249,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+249,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+250,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+250,2,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+251,1,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+252,1,Decubitus ulcer,Skin injuries and mechanical dermatoses,Epidermal and dermal conditions,Skin,N
+253,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+253,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+254,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+254,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+254,3,Cardiac amyloidosis,Cardiomyopathies,Myocardial disorders,Card,N
+254,4,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+254,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+254,6,Dysstasia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+254,7,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+254,8,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+255,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+256,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+257,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+258,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+259,1,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+260,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+260,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+260,3,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+260,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+261,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+261,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+261,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+261,4,Tooth infection,Dental and oral soft tissue infections,Infections - pathogen unspecified,Infec,N
+262,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+262,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+262,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+262,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+263,1,Headache,Headaches NEC,Headaches,Nerv,N
+264,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+264,2,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+264,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+264,4,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+264,5,Localised infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+264,6,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+264,7,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+264,8,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+265,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+265,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+266,1,Dyspnoea exertional,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+266,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+266,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+267,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+268,1,Bowel movement irregularity,Gastrointestinal dyskinetic disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+268,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+268,3,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+269,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+269,2,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+269,3,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+269,4,Needle issue,Device physical property and chemical issues,Device issues,Prod,N
+269,5,Product administration error,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+270,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+271,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+272,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+272,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+272,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+272,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+272,5,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+273,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+274,1,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+274,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+275,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+275,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+275,3,Oesophageal stenosis,Oesophageal stenosis and obstruction,Gastrointestinal stenosis and obstruction,Gastr,N
+275,4,Post-acute COVID-19 syndrome,Coronavirus infections,Viral infectious disorders,Infec,N
+275,5,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+276,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+277,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+277,2,Intestinal mass,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+277,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+278,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+279,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+280,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+281,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+281,2,Infusion related reaction,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+281,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+281,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+282,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+283,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+284,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+284,2,SARS-CoV-2 test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+285,1,Infusion site erythema,Infusion site reactions,Administration site reactions,Genrl,N
+285,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+286,1,Hypervolaemia,Total fluid volume increased,Electrolyte and fluid balance conditions,Metab,N
+286,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+286,3,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+287,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+287,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+288,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+289,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+289,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+289,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+289,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+290,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+290,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+291,1,Infusion site haemorrhage,Infusion site reactions,Administration site reactions,Genrl,N
+292,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+293,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+293,2,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+293,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+293,4,Spinal pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+293,5,Spinal stenosis,Spine and neck deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+294,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+294,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+294,3,Infusion site nodule,Infusion site reactions,Administration site reactions,Genrl,N
+294,4,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+294,5,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+295,1,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+295,2,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+295,3,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+295,4,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+296,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+296,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+297,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+297,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+297,3,Chronic obstructive pulmonary disease,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+297,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+298,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+298,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+299,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+300,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+300,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+301,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+301,2,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+301,3,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+302,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+302,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+303,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+304,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+305,1,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+305,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+306,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+306,2,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+306,3,Palliative care,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+307,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+307,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+308,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+308,2,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+308,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+308,4,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+308,5,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+309,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+309,2,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+310,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+311,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+311,2,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+312,1,Migraine,Migraine headaches,Headaches,Nerv,N
+313,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+314,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+314,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+314,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+314,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+315,1,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+316,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+316,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+317,1,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+317,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+318,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+319,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+319,2,Poor venous access,Non-site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+320,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+320,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+320,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+321,1,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+321,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+321,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+321,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+321,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+322,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+323,1,Gastrointestinal infection,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+323,2,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+323,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+324,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+325,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+326,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+326,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+327,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+328,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+328,2,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+328,3,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+328,4,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+329,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+329,2,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+330,1,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+331,1,Incorrect dose administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+331,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+331,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+332,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+332,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+333,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+334,1,Infusion site extravasation,Infusion site reactions,Administration site reactions,Genrl,N
+334,2,Infusion site swelling,Infusion site reactions,Administration site reactions,Genrl,N
+334,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+335,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+335,2,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+335,3,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+335,4,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+335,5,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+336,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+337,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+338,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+338,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+339,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+339,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+340,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+341,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+341,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+341,3,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+342,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+342,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+343,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+344,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+344,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+345,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+346,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+347,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+348,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+348,2,Oral pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+348,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+348,4,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+349,1,Device infusion issue,Device malfunction events NEC,Device issues,Prod,N
+349,2,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+349,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+350,1,Device malfunction,Device malfunction events NEC,Device issues,Prod,N
+350,2,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+350,3,Product administration interrupted,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+350,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+351,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+351,2,Device issue,Device issues NEC,Device issues,Prod,N
+351,3,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+351,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+351,5,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+352,1,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+352,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+353,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+354,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+355,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+355,2,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+356,1,Adverse reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+357,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+357,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+357,3,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+358,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+358,2,Inappropriate schedule of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+359,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+359,2,Product distribution issue,Product distribution and storage issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+360,1,Parosmia,Olfactory nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+361,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+362,1,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+363,1,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+364,1,COVID-19,Coronavirus infections,Viral infectious disorders,Infec,N
+364,2,Cystitis,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+364,3,Lower respiratory tract infection,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+364,4,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+365,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+366,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+367,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+368,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+369,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+370,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+371,1,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+372,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+373,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+374,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+374,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+375,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+376,1,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+376,2,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+377,1,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+378,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+378,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+379,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+380,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+381,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+381,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+382,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+382,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+383,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+384,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+385,1,Gastric ulcer haemorrhage,Gastric ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+386,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+387,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+387,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+388,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+388,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+389,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N

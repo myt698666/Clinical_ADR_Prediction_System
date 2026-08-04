@@ -1,0 +1,322 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+2,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+3,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+3,2,Corneal opacity,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+3,3,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+4,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+4,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+4,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+4,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+5,1,Sinus arrest,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+6,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+6,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+7,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+8,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+9,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+10,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+10,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+10,3,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+10,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+10,5,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+10,6,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+10,7,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+10,8,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+10,9,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+10,10,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+10,11,Respiratory acidosis,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+10,12,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+10,13,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+10,14,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+11,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+11,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+11,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+11,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+12,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+12,2,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+13,1,Superficial vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+14,1,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+14,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+15,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+15,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+15,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+15,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+15,5,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+16,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+16,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+16,3,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+16,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+17,1,Ear swelling,Ear disorders NEC,Aural disorders NEC,Ear,N
+17,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+17,3,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+17,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+18,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+18,2,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+18,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+18,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+18,5,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+18,6,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+18,7,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+18,8,Hyperpyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+18,9,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+18,10,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+18,11,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+19,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+20,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+20,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+20,3,Pneumothorax,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+21,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+21,2,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+22,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+22,2,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+22,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+22,4,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+23,1,Cerebral disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+23,2,Clonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+23,3,Diabetes insipidus,Posterior pituitary disorders,Hypothalamus and pituitary gland disorders,Endo,N
+23,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+23,5,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+23,6,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+23,7,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+23,8,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+23,9,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+23,10,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+24,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+25,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+25,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+25,3,Mental status changes,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+26,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+26,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+26,3,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+26,4,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+27,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+27,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+27,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+27,4,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+27,5,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+27,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+28,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+28,2,Status epilepticus,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+28,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+29,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+29,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+30,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+30,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+30,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+31,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+32,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+32,2,Akathisia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+32,3,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+32,4,Blood phosphorus increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+32,5,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+32,6,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+32,7,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+32,8,Extensor plantar response,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+32,9,Hyperparathyroidism,Hyperparathyroid disorders,Parathyroid gland disorders,Endo,N
+32,10,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+32,11,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+32,12,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+32,13,Pupillary reflex impaired,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+32,14,Pupillary reflex impaired,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+32,15,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+32,16,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+32,17,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+32,18,Staring,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+32,19,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+32,20,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+33,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+33,2,Alkalosis,Metabolic alkaloses,Acid-base disorders,Metab,N
+33,3,Blood pressure systolic increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+33,4,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+33,5,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+33,6,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+33,7,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+33,8,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+33,9,Gaze palsy,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+33,10,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+33,11,Mental status changes postoperative,Neurological and psychiatric procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+33,12,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+33,13,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+33,14,PCO2 increased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+33,15,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+33,16,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+33,17,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+34,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+34,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+34,3,Disinhibition,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+34,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+34,5,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+35,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+35,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+35,3,Disinhibition,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+35,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+35,5,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+36,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+36,2,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+36,3,Clonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+36,4,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+36,5,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+36,6,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+36,7,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+36,8,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+36,9,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+36,10,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+37,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+37,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+38,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+38,2,Secretion discharge,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+38,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+38,4,Skin irritation,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+39,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+40,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+40,2,Tryptase increased,Immunology analyses NEC,Immunology and allergy investigations,Inv,N
+41,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+42,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+42,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+42,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+42,4,Extensor plantar response,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+42,5,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+42,6,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+42,7,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+42,8,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+43,1,Delirium,Deliria,Deliria (incl confusion),Psych,N
+43,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+43,3,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+43,4,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+43,5,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+43,6,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+44,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+44,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+44,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+45,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+45,2,Coma scale abnormal,Neurologic diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+45,3,Pupil fixed,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+45,4,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+45,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+46,1,Neurotoxicity,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+46,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+47,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+47,2,Neurotoxicity,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+47,3,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+48,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+48,2,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+49,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+49,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+49,3,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+50,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+51,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+51,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+51,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+52,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+52,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+53,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+53,2,Wound complication,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+54,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+54,2,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+54,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+54,4,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+54,5,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+54,6,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+54,7,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+54,8,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+54,9,Respiratory distress,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+54,10,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+54,11,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+54,12,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+55,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+56,1,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+57,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+57,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+58,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+58,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+58,3,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+59,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+60,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+61,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+62,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+62,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+62,3,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+62,4,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+62,5,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+62,6,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+62,7,Muscle tone disorder,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+62,8,Neurotoxicity,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+62,9,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,Y
+63,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+64,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+64,2,Infusion site pain,Infusion site reactions,Administration site reactions,Genrl,N
+64,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+64,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+65,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+66,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+66,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+66,3,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+67,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+68,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+69,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+70,1,Catheter site pain,Implant and catheter site reactions,Administration site reactions,Genrl,N
+70,2,Product preparation error,Product preparation errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+71,1,Chromaturia,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+71,2,Haemolytic anaemia,Anaemias haemolytic NEC,Haemolyses and related conditions,Blood,N
+71,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+71,4,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+72,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+72,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+72,3,Delirium,Deliria,Deliria (incl confusion),Psych,N
+72,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+72,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+72,6,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+72,7,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+72,8,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+73,1,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+74,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+75,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+76,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+76,2,Clonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+76,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+76,4,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+76,5,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+76,6,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+76,7,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+76,8,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+77,1,Clonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+77,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+78,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+79,1,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+79,2,Haemolytic anaemia,Anaemias haemolytic NEC,Haemolyses and related conditions,Blood,N
+79,3,Hyperbilirubinaemia,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+79,4,Methaemoglobinaemia,Haematological disorders,Haematological disorders NEC,Blood,N
+79,5,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+80,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+81,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+82,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+83,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+84,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+85,1,Administration site extravasation,Administration site reactions NEC,Administration site reactions,Genrl,N
+86,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+86,2,Cardiovascular disorder,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+87,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+87,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+88,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+89,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+90,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+91,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+92,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+92,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+93,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+94,1,Injection site injury,Injection site reactions,Administration site reactions,Genrl,N
+94,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+94,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+94,4,Testicular injury,Reproductive system and breast injuries,Injuries NEC,Inj&P,N
+95,1,Injection site injury,Injection site reactions,Administration site reactions,Genrl,N
+95,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+95,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+95,4,Testicular injury,Reproductive system and breast injuries,Injuries NEC,Inj&P,N
+96,1,Accidental exposure to product,Accidental exposures to product,Medication errors and other product use errors and issues,Inj&P,N
+96,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+97,1,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+98,1,Extravasation,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+98,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+99,1,Labelled drug-disease interaction issue,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+99,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N

@@ -1,0 +1,955 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Jaundice hepatocellular,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+2,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+3,1,Cataract subcapsular,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+3,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+4,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+5,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+6,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+6,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+6,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+6,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+6,5,Red blood cell sedimentation rate increased,Haematological analyses NEC,Haematology investigations (incl blood groups),Inv,N
+7,1,Axonal neuropathy,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+8,1,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+8,2,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+8,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+8,4,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+8,5,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+9,1,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+9,2,Hepatitis acute,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+9,3,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+10,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+11,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+12,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+12,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+13,1,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+14,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+14,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+14,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+15,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+16,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+17,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+17,2,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+18,1,Lenticular opacities,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+19,1,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+20,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+20,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+20,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+21,1,Gouty arthritis,Crystal arthropathic disorders,Joint disorders,Musc,N
+22,1,Idiopathic pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+23,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+23,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+24,1,Axonal neuropathy,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+25,1,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+26,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+27,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+28,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+29,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+29,2,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+29,3,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+29,4,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+29,5,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+29,6,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+30,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+30,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+30,3,Myositis-like syndrome,Muscle infections and inflammations,Muscle disorders,Musc,N
+31,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+32,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+32,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+32,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+32,4,Tendon rupture,"Muscle, tendon and ligament injuries",Injuries NEC,Inj&P,N
+33,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+33,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+33,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+34,1,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+35,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+35,2,Headache,Headaches NEC,Headaches,Nerv,N
+36,1,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+36,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+37,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+37,2,Cardiac failure acute,Heart failures NEC,Heart failures,Card,N
+37,3,Dermatomyositis,Connective tissue disorders,Epidermal and dermal conditions,Skin,N
+37,4,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+38,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+39,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+39,2,Tendon rupture,"Muscle, tendon and ligament injuries",Injuries NEC,Inj&P,N
+40,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+41,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+42,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+42,2,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+43,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+44,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+44,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+44,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+45,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+45,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+46,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+46,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+46,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+47,1,Lenticular opacities,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+48,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+48,2,Tearfulness,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+49,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+50,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+50,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+50,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+51,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+52,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+53,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+53,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+54,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+54,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+54,3,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+55,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+56,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+57,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+57,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+57,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+58,1,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+59,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+59,2,Polymyalgia rheumatica,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+60,1,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+61,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+62,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+63,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+63,2,Orchitis,Male reproductive tract infections,Infections - pathogen unspecified,Infec,N
+63,3,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+64,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+64,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+65,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+65,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+66,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+66,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+66,3,Myopathy,Myopathies,Muscle disorders,Musc,N
+67,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+68,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+68,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+69,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+70,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+70,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+71,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+71,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+71,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+72,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+73,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+74,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+74,2,Myopathy,Myopathies,Muscle disorders,Musc,N
+74,3,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+75,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+75,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+75,3,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+75,4,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+75,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+75,6,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+75,7,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+76,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+76,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+76,3,Tongue spasm,Tongue signs and symptoms,Tongue conditions,Gastr,N
+77,1,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+78,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+79,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+79,2,Fibromyalgia,Muscle pains,Muscle disorders,Musc,N
+79,3,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+80,1,Hyperacusis,Hyperacusia,Hearing disorders,Ear,N
+80,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+81,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+81,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+81,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+81,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+81,5,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+82,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+82,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+82,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+83,1,Headache,Headaches NEC,Headaches,Nerv,N
+83,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+84,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+85,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+86,1,Agoraphobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+86,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+87,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+87,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+87,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+87,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+88,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+88,2,Headache,Headaches NEC,Headaches,Nerv,N
+88,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+88,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+88,5,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+88,6,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+89,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+89,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+89,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+90,1,Hiccups,Lower respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+91,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+92,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+93,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+94,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+95,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+96,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+96,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+96,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+96,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+97,1,Breast discharge,Breast signs and symptoms,Breast disorders,Repro,N
+98,1,Polymyositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+99,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+99,2,Headache,Headaches NEC,Headaches,Nerv,N
+99,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+100,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+101,1,Headache,Headaches NEC,Headaches,Nerv,N
+101,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+101,3,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+101,4,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+102,1,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+102,2,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+103,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+103,2,Eructation,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+104,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+105,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+105,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+106,1,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+107,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+107,2,Headache,Headaches NEC,Headaches,Nerv,N
+108,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+109,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+109,2,Headache,Headaches NEC,Headaches,Nerv,N
+109,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+109,4,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+110,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+110,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+111,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+111,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+111,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+111,4,Scleritis,"Scleral infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+112,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+113,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+114,1,Headache,Headaches NEC,Headaches,Nerv,N
+115,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+115,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+116,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+116,2,Migraine,Migraine headaches,Headaches,Nerv,N
+116,3,Photopsia,Visual disorders NEC,Vision disorders,Eye,N
+117,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+118,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+118,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+118,3,Headache,Headaches NEC,Headaches,Nerv,N
+119,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+119,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+119,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+120,1,"Hallucination, auditory",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+121,1,Headache,Headaches NEC,Headaches,Nerv,N
+121,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+122,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+122,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+123,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+123,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+124,1,Hypoacusis,Hearing losses,Hearing disorders,Ear,N
+125,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+125,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+126,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+127,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+128,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+128,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+129,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+129,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+130,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+130,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+131,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+132,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+132,2,Influenza,Influenza viral infections,Viral infectious disorders,Infec,N
+132,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+132,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+133,1,Catarrh,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+133,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+133,3,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+134,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+135,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+136,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+137,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+138,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+138,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+139,1,Migraine,Migraine headaches,Headaches,Nerv,N
+139,2,Migraine with aura,Migraine headaches,Headaches,Nerv,N
+140,1,Diplopia,Visual disorders NEC,Vision disorders,Eye,N
+141,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+142,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+143,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+143,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+143,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+143,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+144,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+145,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+145,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+146,1,Breath odour,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+147,1,Hepatitis acute,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+148,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+148,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+148,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+149,1,Headache,Headaches NEC,Headaches,Nerv,N
+149,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+150,1,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+151,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+152,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+153,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+154,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+154,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+155,1,Headache,Headaches NEC,Headaches,Nerv,N
+155,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+156,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+157,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+158,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+158,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+159,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+160,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+161,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+162,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+162,2,Headache,Headaches NEC,Headaches,Nerv,N
+162,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+163,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+164,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+165,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+166,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+167,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+167,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+167,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+168,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+168,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+168,3,Panic disorder,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+168,4,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+169,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+170,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+171,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+171,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+171,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+172,1,Retinal detachment,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+173,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+174,1,Phlebitis superficial,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+175,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+175,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+176,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+176,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+176,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+177,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+178,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+179,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+180,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+181,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+181,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+182,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+183,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+184,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+184,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+184,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+185,1,Carpal tunnel syndrome,Mononeuropathies,Peripheral neuropathies,Nerv,N
+186,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+187,1,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+188,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+189,1,Polymyalgia rheumatica,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+190,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+191,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+192,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+193,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+193,2,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+193,3,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+194,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+194,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+194,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+195,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+196,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+196,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+196,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+196,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+197,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+197,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+197,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+198,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+199,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+199,2,Headache,Headaches NEC,Headaches,Nerv,N
+199,3,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+199,4,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+200,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+200,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+200,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+201,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+202,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+202,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+203,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+203,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+204,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+204,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+204,3,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+205,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+206,1,Headache,Headaches NEC,Headaches,Nerv,N
+206,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+207,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+207,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+208,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+209,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+209,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+209,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+210,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+210,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+210,3,Headache,Headaches NEC,Headaches,Nerv,N
+210,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+210,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+211,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+212,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+213,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+214,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+215,1,Migraine,Migraine headaches,Headaches,Nerv,N
+216,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+216,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+216,3,Headache,Headaches NEC,Headaches,Nerv,N
+217,1,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+218,1,Headache,Headaches NEC,Headaches,Nerv,N
+218,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+218,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+218,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+219,1,Headache,Headaches NEC,Headaches,Nerv,N
+220,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+220,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+221,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+222,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+223,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+224,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+225,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+225,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+226,1,Headache,Headaches NEC,Headaches,Nerv,N
+226,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+226,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+227,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+227,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+228,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+229,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+230,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+230,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+230,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+230,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+231,1,Headache,Headaches NEC,Headaches,Nerv,N
+231,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+232,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+233,1,Headache,Headaches NEC,Headaches,Nerv,N
+233,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+233,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+234,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+234,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+235,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+235,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+236,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+237,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+238,1,Breast pain,Breast signs and symptoms,Breast disorders,Repro,N
+239,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+239,2,Osteoarthritis,Osteoarthropathies,Joint disorders,Musc,N
+240,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+241,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+242,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+243,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+243,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+244,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+245,1,Myopathy,Myopathies,Muscle disorders,Musc,N
+246,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+247,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+248,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+249,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+249,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+249,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+250,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+250,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+251,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+251,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+252,1,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+253,1,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+253,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+253,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+254,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+255,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+255,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+256,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+256,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+256,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+257,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+257,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+258,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+259,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+259,2,Headache,Headaches NEC,Headaches,Nerv,N
+260,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+260,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+260,3,Frequent bowel movements,Gastrointestinal spastic and hypermotility disorders,Gastrointestinal motility and defaecation conditions,Gastr,N
+261,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+261,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+261,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+262,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+262,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+263,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+264,1,Ruptured cerebral aneurysm,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+265,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+266,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+266,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+267,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+267,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+268,1,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+268,2,Oesophageal haemorrhage,Gastric and oesophageal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+269,1,Headache,Headaches NEC,Headaches,Nerv,N
+269,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+270,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+271,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+272,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+272,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+272,3,Headache,Headaches NEC,Headaches,Nerv,N
+273,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+274,1,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+275,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+276,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+277,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+278,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+279,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+279,2,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+280,1,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+281,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+282,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+282,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+282,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+283,1,Coordination abnormal,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+283,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+283,3,Headache,Headaches NEC,Headaches,Nerv,N
+284,1,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+285,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+285,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+286,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+286,2,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+287,1,Headache,Headaches NEC,Headaches,Nerv,N
+288,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+289,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+290,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+290,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+290,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+291,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+292,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+292,2,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+292,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+292,4,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+293,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+293,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+294,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+294,2,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+295,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+296,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+296,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+297,1,Headache,Headaches NEC,Headaches,Nerv,N
+298,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+299,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+299,2,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+299,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+299,4,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+300,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+301,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+301,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+302,1,Joint effusion,Joint related signs and symptoms,Joint disorders,Musc,N
+302,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+303,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+303,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+304,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+304,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+305,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+306,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+307,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+307,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+307,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+308,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+309,1,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+310,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+311,1,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+312,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+313,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+313,2,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+314,1,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+314,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+314,3,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+315,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+316,1,Migraine,Migraine headaches,Headaches,Nerv,N
+317,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+317,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+317,3,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+318,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+319,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+320,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+321,1,Headache,Headaches NEC,Headaches,Nerv,N
+321,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+322,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+323,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+324,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+324,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+325,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+326,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+327,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+327,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+328,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+329,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+329,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+329,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+329,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+330,1,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+331,1,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+332,1,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+333,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+333,2,Keratosis follicular,Skin and subcutaneous tissue disorders congenital NEC,Skin and subcutaneous tissue disorders congenital,Cong,N
+334,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+334,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+334,3,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+334,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+335,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+335,2,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+335,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+335,4,Myopathy,Myopathies,Muscle disorders,Musc,N
+336,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+336,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+337,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+337,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+337,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+338,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+338,2,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+338,3,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+339,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+339,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+340,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+341,1,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+342,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+342,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+342,3,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+342,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+342,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+343,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+343,2,Headache,Headaches NEC,Headaches,Nerv,N
+343,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+344,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+344,2,Headache,Headaches NEC,Headaches,Nerv,N
+345,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+346,1,Guillain-Barre syndrome,Acute polyneuropathies,Peripheral neuropathies,Nerv,N
+347,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+348,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+349,1,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+349,2,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+350,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+351,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+352,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+352,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+352,3,Headache,Headaches NEC,Headaches,Nerv,N
+353,1,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+353,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+354,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+355,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+356,1,Dermatitis exfoliative,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+357,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+358,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+359,1,Amblyopia,Amblyopic vision impairment,Vision disorders,Eye,N
+360,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+360,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+361,1,Urine flow decreased,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+362,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+362,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+362,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+362,4,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+363,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+364,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+364,2,Headache,Headaches NEC,Headaches,Nerv,N
+364,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+365,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+365,2,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+365,3,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+366,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+366,2,Headache,Headaches NEC,Headaches,Nerv,N
+366,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+366,4,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+367,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+367,2,Psoriatic arthropathy,Psoriatic arthropathies,Joint disorders,Musc,N
+368,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+369,1,Headache,Headaches NEC,Headaches,Nerv,N
+369,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+370,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+370,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+371,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+372,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+372,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+373,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+373,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+374,1,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+374,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+375,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+376,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+377,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+377,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+377,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+377,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+378,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+378,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+378,3,Headache,Headaches NEC,Headaches,Nerv,N
+378,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+378,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+379,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+380,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+381,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+381,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+381,3,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+381,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+382,1,Anorectal discomfort,Anal and rectal signs and symptoms,Anal and rectal conditions NEC,Gastr,N
+383,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+383,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+383,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+384,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+384,2,Headache,Headaches NEC,Headaches,Nerv,N
+384,3,Incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+384,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+384,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+385,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+386,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+386,2,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+386,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+387,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+387,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+388,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+389,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+389,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+390,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+391,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+392,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+392,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+393,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+394,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+394,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+395,1,Headache,Headaches NEC,Headaches,Nerv,N
+396,1,Corneal deposits,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+397,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+398,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+399,1,Headache,Headaches NEC,Headaches,Nerv,N
+399,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+399,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+399,4,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+400,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+400,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+401,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+402,1,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+403,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+404,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+404,2,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+404,3,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+404,4,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+404,5,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+404,6,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+404,7,Myalgia,Muscle pains,Muscle disorders,Musc,N
+404,8,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+405,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+405,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+406,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+406,2,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+407,1,Foetal disorder,Foetal complications NEC,Foetal complications,Preg,N
+408,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+409,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+410,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+411,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+411,2,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+412,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+413,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+414,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+415,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+416,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+416,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+417,1,Agranulocytosis,Neutropenias,White blood cell disorders,Blood,Y
+418,1,Headache,Headaches NEC,Headaches,Nerv,N
+418,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+418,3,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+419,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+420,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+421,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+422,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+422,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+423,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+423,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+424,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+424,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+425,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+426,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+426,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+427,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+428,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+428,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+429,1,Acute sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+429,2,Conjunctivitis allergic,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+429,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+429,4,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+430,1,Rhinitis allergic,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+431,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+432,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+432,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+433,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+434,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+435,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+435,2,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+435,3,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+436,1,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+436,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+437,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+437,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+438,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+438,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+439,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+439,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+439,3,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+439,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+439,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+440,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+440,2,Myopathy,Myopathies,Muscle disorders,Musc,N
+441,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+441,2,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+441,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+442,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+443,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+444,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+444,2,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+445,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+445,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+446,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+447,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+448,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+449,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+450,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+451,1,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+452,1,Monoplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+453,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+453,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+454,1,Joint stiffness,Joint related signs and symptoms,Joint disorders,Musc,N
+455,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+456,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+456,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+457,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+457,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+457,3,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+457,4,Hair colour changes,Pilar disorders NEC,Skin appendage conditions,Skin,N
+457,5,Libido decreased,Sexual desire disorders,"Sexual dysfunctions, disturbances and gender identity disorders",Psych,N
+457,6,Memory impairment,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+458,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+458,2,Headache,Headaches NEC,Headaches,Nerv,N
+459,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+460,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+460,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+460,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+461,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+461,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+462,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+463,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+464,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+465,1,Chloasma,Hyperpigmentation disorders,Pigmentation disorders,Skin,N
+465,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+465,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+465,4,Skin hyperpigmentation,Hyperpigmentation disorders,Pigmentation disorders,Skin,N
+466,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+467,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+468,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+468,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+468,3,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+468,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+469,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+470,1,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+471,1,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+472,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+473,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+474,1,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+475,1,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+476,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+476,2,Non-cardiac chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+477,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+477,2,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+477,3,Oliguria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+477,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+478,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+478,2,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+478,3,Orchitis,Male reproductive tract infections,Infections - pathogen unspecified,Infec,N
+479,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+480,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+480,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+481,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+482,1,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+483,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+483,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+483,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+484,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+484,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+485,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+485,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+486,1,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+487,1,Gout,Disorders of purine metabolism,Purine and pyrimidine metabolism disorders,Metab,N
+488,1,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+488,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+489,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+489,2,Xanthopsia,Visual colour distortions,Vision disorders,Eye,N
+490,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+491,1,Headache,Headaches NEC,Headaches,Nerv,N
+491,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+491,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+492,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+493,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+494,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+494,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+494,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+494,4,Headache,Headaches NEC,Headaches,Nerv,N
+494,5,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+494,6,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+495,1,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+495,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+495,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+496,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+496,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+496,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+496,4,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+497,1,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+498,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+499,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+500,1,Cataract,Cataract conditions,"Anterior eye structural change, deposit and degeneration",Eye,N
+501,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+502,1,Diabetes mellitus inadequate control,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+502,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+503,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+503,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+504,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+504,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+505,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+505,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+505,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+506,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+506,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+506,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+507,1,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+507,2,Muscle disorder,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+508,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+508,2,Gamma-glutamyltransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+509,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+509,2,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+509,3,Carpal tunnel syndrome,Mononeuropathies,Peripheral neuropathies,Nerv,N
+509,4,Conjunctivitis allergic,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+509,5,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+509,6,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+509,7,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+509,8,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+509,9,Feeling cold,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+509,10,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+509,11,Hepatocellular injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+509,12,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+509,13,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+509,14,Myalgia,Muscle pains,Muscle disorders,Musc,N
+509,15,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+509,16,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+509,17,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+509,18,Psoriatic arthropathy,Psoriatic arthropathies,Joint disorders,Musc,N
+509,19,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+509,20,Rhinorrhoea,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+509,21,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+509,22,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+509,23,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+509,24,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+509,25,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+510,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+510,2,Congenital anomaly,Congenital disorders NEC,Congenital and hereditary disorders NEC,Cong,N
+510,3,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+510,4,Premature labour,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+511,1,Congenital anomaly,Congenital disorders NEC,Congenital and hereditary disorders NEC,Cong,N
+511,2,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+512,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N

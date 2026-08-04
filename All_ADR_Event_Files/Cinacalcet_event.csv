@@ -1,0 +1,564 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+1,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+1,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+2,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+2,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+3,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+4,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+5,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+5,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+7,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+7,2,Gastrointestinal tract irritation,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+8,1,Brain neoplasm malignant,Central nervous system neoplasms malignant NEC,Nervous system neoplasms malignant and unspecified NEC,Neopl,N
+8,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+9,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+9,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+9,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+9,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+10,1,Blood calcium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+10,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+10,3,Gastrointestinal tract irritation,Gastrointestinal inflammatory disorders NEC,Gastrointestinal inflammatory conditions,Gastr,N
+11,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+11,2,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+11,3,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+11,4,Lipase abnormal,Digestive enzymes,Gastrointestinal investigations,Inv,N
+11,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+11,6,Treatment noncompliance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+11,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+12,1,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+13,1,Blood calcium abnormal,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+13,2,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+13,3,Hypercalcaemic nephropathy,Nephropathies and tubular disorders NEC,Nephropathies,Renal,Y
+13,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+14,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+15,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+16,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+17,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+18,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+18,2,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+19,1,Nephrotic syndrome,Glomerulonephritis and nephrotic syndrome,Nephropathies,Renal,N
+19,2,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+20,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+21,1,Blood parathyroid hormone increased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+22,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+23,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+23,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+23,3,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+24,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+24,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+25,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+25,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+26,1,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+26,2,Cardiac failure,Heart failures NEC,Heart failures,Card,Y
+26,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+26,4,Myocardial ischaemia,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+26,5,Proteinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+27,1,Dilated cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+27,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+27,3,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+27,4,Left ventricular dysfunction,Myocardial disorders NEC,Myocardial disorders,Card,N
+28,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+29,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+30,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+30,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+31,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+32,1,Hypophosphataemia,Phosphorus metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+33,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+33,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+34,1,Malnutrition,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+34,2,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,Y
+34,3,Peripheral vascular disorder,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+34,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+35,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+35,2,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+35,3,Haemorrhage intracranial,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+35,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+37,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+37,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+38,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+39,1,Blood calcium abnormal,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+39,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+40,1,Abdominal hernia,Abdominal hernias NEC,Abdominal hernias and other abdominal wall conditions,Gastr,N
+40,2,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+40,3,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+40,4,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+40,5,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+40,6,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+40,7,Hepatic cyst,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+40,8,Jaundice cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+40,9,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+40,10,Peritoneal disorder,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+40,11,Pleural effusion,Pneumothorax and pleural effusions NEC,Pleural disorders,Resp,N
+40,12,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+40,13,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+41,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+42,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+43,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+44,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+44,2,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+45,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+45,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+45,3,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+46,1,Fungal infection,Fungal infections NEC,Fungal infectious disorders,Infec,N
+46,2,Pityriasis rosea,Papulosquamous conditions,Epidermal and dermal conditions,Skin,N
+46,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+46,4,Rubber sensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+47,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+47,2,Diarrhoea haemorrhagic,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+48,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+48,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+49,1,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+50,1,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+50,2,Inappropriate antidiuretic hormone secretion,Posterior pituitary disorders,Hypothalamus and pituitary gland disorders,Endo,N
+51,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+52,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+52,2,Cardiogenic shock,Heart failures NEC,Heart failures,Card,N
+52,3,Cardiovascular insufficiency,Cardiac disorders NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+52,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+52,5,Dyspnoea paroxysmal nocturnal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+52,6,Electrocardiogram QRS complex prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+52,7,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+52,8,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+52,9,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+52,10,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+53,1,Blood calcium decreased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+53,2,Cerebral small vessel ischaemic disease,Central nervous system vascular disorders NEC,Central nervous system vascular disorders,Nerv,N
+53,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+53,4,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+53,5,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+54,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+55,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+55,2,Anger,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+55,3,Mood swings,Fluctuating mood symptoms,Mood disorders and disturbances NEC,Psych,N
+56,1,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+57,1,Fracture,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+57,2,Vitamin D deficiency,Fat soluble vitamin deficiencies and disorders,Vitamin related disorders,Metab,N
+58,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+59,1,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+59,2,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+60,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+60,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+60,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+60,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+60,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+60,6,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+61,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+61,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+62,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+62,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+62,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+62,4,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+63,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+63,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+64,1,Non-cardiac chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+65,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+66,1,Blood calcium abnormal,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+66,2,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+66,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+66,4,Parathyroid tumour malignant,Endocrine neoplasms malignant and unspecified NEC,Endocrine neoplasms malignant and unspecified,Neopl,Y
+67,1,Non-cardiac chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+68,1,Affective disorder,Mood disorders NEC,Mood disorders and disturbances NEC,Psych,N
+68,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+68,3,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+69,1,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+70,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+70,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+71,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+72,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+72,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+72,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+73,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+74,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+75,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+75,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+75,3,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+76,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+76,2,Dilated cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+76,3,Renal vein thrombosis,Renal vascular and ischaemic conditions,Renal disorders (excl nephropathies),Renal,N
+76,4,Transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+77,1,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+78,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+78,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+79,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+80,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+81,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+82,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+82,2,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+83,1,Aspiration,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+83,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+84,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+84,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+85,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+85,2,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+86,1,Blood parathyroid hormone increased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+86,2,Gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+86,3,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+87,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+87,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+88,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+89,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+89,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+90,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+90,2,Metastases to bone,Metastases to specified sites,Metastases,Neopl,N
+91,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+91,2,Therapeutic product effect incomplete,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+92,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+93,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,Y
+93,2,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+93,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+93,4,Parathyroid disorder,Parathyroid disorders NEC,Parathyroid gland disorders,Endo,N
+94,1,Blood parathyroid hormone decreased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+94,2,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+95,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+96,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+97,1,Blood calcium abnormal,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+97,2,Blood parathyroid hormone abnormal,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+97,3,Renal transplant,Renal therapeutic procedures,Renal and urinary tract therapeutic procedures,Surg,N
+98,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+98,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+98,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+98,4,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+98,5,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+98,6,Normal newborn,Normal newborn status,"Pregnancy, labour, delivery and postpartum conditions",Preg,N
+99,1,Blood parathyroid hormone decreased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+99,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+99,3,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+100,1,Malignant neoplasm progression,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+100,2,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+100,3,Metastases to bone,Metastases to specified sites,Metastases,Neopl,N
+100,4,Metastases to lung,Metastases to specified sites,Metastases,Neopl,N
+100,5,Normal newborn,Normal newborn status,"Pregnancy, labour, delivery and postpartum conditions",Preg,N
+101,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+101,2,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+102,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+103,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+103,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+104,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+104,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+104,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+105,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+106,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+106,2,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+106,3,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+106,4,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+107,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+107,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+108,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+108,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+108,3,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+109,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+110,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+111,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+111,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+112,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+113,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+113,2,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+114,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+115,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+115,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+115,3,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+116,1,Infected skin ulcer,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+116,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+116,3,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,Y
+117,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+118,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+118,2,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+118,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+119,1,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+120,1,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+120,2,Infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+121,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+121,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+122,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+122,2,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+123,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+123,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+123,3,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+124,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+125,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+125,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+125,3,Neck exploration,"Head, neck and oral cavity therapeutic procedures NEC",Head and neck therapeutic procedures,Surg,N
+125,4,Parathyroid disorder,Parathyroid disorders NEC,Parathyroid gland disorders,Endo,N
+126,1,Blood parathyroid hormone decreased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+127,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+127,2,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+128,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+129,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+130,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+130,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+130,3,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+131,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+132,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+132,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+133,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+134,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+134,2,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+135,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+135,2,Transplant,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+136,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+137,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+138,1,Dementia,Dementia (excl Alzheimer's type),Mental impairment disorders,Nerv,N
+138,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+139,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+140,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+141,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+142,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+142,2,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+142,3,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+142,4,Delirium,Deliria,Deliria (incl confusion),Psych,N
+142,5,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+142,6,Pneumonia aspiration,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,Y
+143,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+144,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+144,2,Malnutrition,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+145,1,Bone density decreased,Musculoskeletal and soft tissue imaging procedures,Musculoskeletal and soft tissue investigations (excl enzyme tests),Inv,N
+145,2,Pelvic deformity,Trunk deformities,Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+145,3,Spinal fracture,Spinal fractures and dislocations,Bone and joint injuries,Inj&P,N
+146,1,Benign prostatic hyperplasia,Prostatic neoplasms and hypertrophy,Prostatic disorders (excl infections and inflammations),Repro,N
+146,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+147,1,Brain hypoxia,Central nervous system vascular disorders NEC,Central nervous system vascular disorders,Nerv,N
+147,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+148,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+149,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+150,1,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+150,2,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+150,3,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+151,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+152,1,Drug intolerance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+152,2,Hungry bone syndrome,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+152,3,Parathyroid tumour benign,Endocrine neoplasms benign NEC,Endocrine neoplasms benign,Neopl,N
+152,4,Polydipsia,Fluid intake increased,Electrolyte and fluid balance conditions,Metab,N
+152,5,Polyuria,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+153,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+153,2,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+154,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+154,2,Endocrine disorder,Endocrine disorders NEC,Endocrine and glandular disorders NEC,Endo,N
+155,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+155,2,Staring,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+155,3,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+156,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+157,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+158,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+158,2,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+159,1,Tooth loss,Tooth missing,Dental and gingival conditions,Gastr,N
+160,1,Blood parathyroid hormone increased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+160,2,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+160,3,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+160,4,Pathological fracture,Fractures NEC,Fractures,Musc,N
+161,1,Blood parathyroid hormone increased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+161,2,Femur fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+161,3,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+161,4,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+162,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+163,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+164,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+164,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+165,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+166,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+167,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+168,1,Parathyroidectomy,Parathyroid gland therapeutic procedures,Endocrine gland therapeutic procedures,Surg,N
+169,1,Gastrostomy,Gastric therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+169,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+170,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+170,2,Endocrine disorder,Endocrine disorders NEC,Endocrine and glandular disorders NEC,Endo,N
+170,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+171,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+172,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,Y
+173,1,Delusion,Delusional symptoms,Disturbances in thinking and perception,Psych,N
+173,2,"Hallucinations, mixed",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+173,3,Hypervigilance,Psychiatric symptoms NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+173,4,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+174,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+175,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+175,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+175,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+175,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+176,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+177,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+177,2,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+178,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+178,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+179,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+179,2,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+179,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+179,4,Renal disorder,Renal disorders NEC,Renal disorders (excl nephropathies),Renal,N
+179,5,Therapeutic product effect incomplete,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+180,1,Neoplasm malignant,Neoplasms malignant site unspecified NEC,Miscellaneous and site unspecified neoplasms malignant and unspecified,Neopl,N
+181,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+182,1,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+182,2,Pancreatitis relapsing,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+182,3,Therapeutic response unexpected,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+183,1,Chapped lips,Oral soft tissue disorders NEC,Oral soft tissue conditions,Gastr,N
+183,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+184,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+184,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+184,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+185,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+185,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+186,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+187,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+188,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+189,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+189,2,Headache,Headaches NEC,Headaches,Nerv,N
+189,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+190,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+191,1,Gastrointestinal tube insertion,Gastrointestinal therapeutic procedures NEC,Gastrointestinal therapeutic procedures,Surg,N
+192,1,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+193,1,Blood parathyroid hormone increased,Parathyroid analyses,Endocrine investigations (incl sex hormones),Inv,N
+193,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+194,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+195,1,Product use complaint,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+195,2,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+195,3,Therapy interrupted,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+196,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+196,2,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+196,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+197,1,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,N
+197,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+197,3,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+198,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+198,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+199,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+200,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+201,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+201,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+202,1,Procedural pain,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+202,2,Renal transplant failure,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+203,1,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+204,1,Back disorder,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+205,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+205,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+205,3,Headache,Headaches NEC,Headaches,Nerv,N
+205,4,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+205,5,Myalgia,Muscle pains,Muscle disorders,Musc,N
+205,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+205,7,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+206,1,Chondrocalcinosis,Crystal arthropathic disorders,Joint disorders,Musc,N
+207,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+207,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+207,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+207,4,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+207,5,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+207,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+208,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+209,1,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+210,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+211,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+211,2,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+211,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+212,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+212,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+212,3,Headache,Headaches NEC,Headaches,Nerv,N
+212,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+212,5,Product substitution issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+213,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+213,2,Glucose-6-phosphate dehydrogenase deficiency,Inborn errors of carbohydrate metabolism (excl glucose),Metabolic and nutritional disorders congenital,Cong,N
+214,1,Glucose-6-phosphate dehydrogenase deficiency,Inborn errors of carbohydrate metabolism (excl glucose),Metabolic and nutritional disorders congenital,Cong,N
+215,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+216,1,Blood calcium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+216,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+216,3,Drug effective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+216,4,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+216,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+217,1,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+217,2,Hypomagnesaemia,Magnesium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+218,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+219,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+220,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+220,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+221,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+222,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+223,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+224,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+225,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+225,2,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+225,3,Nephrocalcinosis,Renal lithiasis,Urolithiases,Renal,N
+225,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+225,5,Renal impairment,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+226,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+227,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+227,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+227,3,Headache,Headaches NEC,Headaches,Nerv,N
+227,4,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+227,5,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+227,6,Myalgia,Muscle pains,Muscle disorders,Musc,N
+227,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+228,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+228,2,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+228,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+228,4,Hypercalcaemia of malignancy,Ectopic endocrine disorders,Neoplastic and ectopic endocrinopathies,Endo,N
+228,5,Liver injury,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+228,6,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+228,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+228,8,Small cell lung cancer metastatic,Respiratory tract small cell carcinomas,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,N
+228,9,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+228,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+229,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+230,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+231,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+232,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+232,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+233,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+234,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+235,1,Renal transplant,Renal therapeutic procedures,Renal and urinary tract therapeutic procedures,Surg,N
+236,1,Parathyroid tumour benign,Endocrine neoplasms benign NEC,Endocrine neoplasms benign,Neopl,N
+237,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+237,2,Dehydration,Total fluid volume decreased,Electrolyte and fluid balance conditions,Metab,N
+237,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+237,4,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+237,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+238,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+239,1,Beta haemolytic streptococcal infection,Streptococcal infections,Bacterial infectious disorders,Infec,N
+239,2,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+239,3,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+239,4,Injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+239,5,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+239,6,Polyomavirus-associated nephropathy,Polyomavirus infections,Viral infectious disorders,Infec,N
+239,7,Septic shock,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+239,8,Transplant dysfunction,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+239,9,Wound dehiscence,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+240,1,Beta haemolytic streptococcal infection,Streptococcal infections,Bacterial infectious disorders,Infec,N
+240,2,Calciphylaxis,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+240,3,Injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+240,4,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+240,5,Polyomavirus-associated nephropathy,Polyomavirus infections,Viral infectious disorders,Infec,N
+240,6,Septic shock,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+240,7,Transplant dysfunction,Transplantation complications,Procedural related injuries and complications NEC,Inj&P,N
+240,8,Wound dehiscence,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+241,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+242,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+243,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+244,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+245,1,Hypercalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+245,2,Parathyroid tumour benign,Endocrine neoplasms benign NEC,Endocrine neoplasms benign,Neopl,N
+245,3,Therapy non-responder,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+246,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+247,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+248,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+249,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+250,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+251,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+252,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+253,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+254,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+255,1,Drug effective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+255,2,Drug ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+255,3,Hypophosphataemia,Phosphorus metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+255,4,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+255,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+255,6,Pneumocystis jirovecii pneumonia,Pneumocystis infections,Fungal infectious disorders,Infec,N
+255,7,Vitamin D decreased,Vitamin analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+256,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+257,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+258,1,Renal transplant,Renal therapeutic procedures,Renal and urinary tract therapeutic procedures,Surg,N
+259,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+260,1,Death,Death and sudden death,Fatal outcomes,Genrl,N
+261,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+262,1,Therapy change,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+263,1,Product availability issue,Product supply and availability issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+263,2,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+264,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N

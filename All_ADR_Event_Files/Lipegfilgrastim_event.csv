@@ -1,0 +1,69 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+1,2,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+1,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+2,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+2,2,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+2,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+3,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+4,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+4,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+5,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+5,2,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+6,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+7,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+7,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+8,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+9,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+9,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+9,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+10,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+10,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+10,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+11,1,CSF granulocyte count,Cerebrospinal fluid tests (excl microbiology),"Neurological, special senses and psychiatric investigations",Inv,N
+11,2,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+12,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+12,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+12,3,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+12,4,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+12,5,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+13,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+13,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+14,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+14,2,Neutropenic sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+15,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+16,1,Febrile neutropenia,Neutropenias,White blood cell disorders,Blood,N
+17,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+18,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+19,1,Adverse event,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+19,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+20,1,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+21,1,Injection site rash,Injection site reactions,Administration site reactions,Genrl,N
+22,1,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+22,2,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+22,3,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+22,4,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+22,5,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+22,6,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+22,7,Platelet count increased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+22,8,Platelet count increased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+22,9,Seminoma,Testicular neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+22,10,Testicular germ cell cancer metastatic,Testicular neoplasms malignant,Reproductive neoplasms male malignant and unspecified,Neopl,N
+22,11,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+23,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+23,2,Embolic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+23,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+23,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+23,5,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+24,1,Device malfunction,Device malfunction events NEC,Device issues,Prod,N
+24,2,Product dose omission issue,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+25,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+25,2,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+25,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+25,4,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+25,5,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+25,6,Headache,Headaches NEC,Headaches,Nerv,N
+25,7,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+25,8,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+25,9,Productive cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+25,10,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N

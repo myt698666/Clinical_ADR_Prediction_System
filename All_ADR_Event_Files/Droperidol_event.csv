@@ -1,0 +1,479 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+2,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+3,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+4,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+5,1,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+6,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+6,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+6,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+7,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+8,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+8,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+8,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+9,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+10,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+10,2,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+10,3,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+10,4,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+10,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+10,6,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+11,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+12,1,Epilepsy,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+13,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+13,2,Metabolic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+13,3,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+14,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+15,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+15,2,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+15,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+15,4,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+16,1,Hypomania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+17,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+17,2,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+18,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+18,2,Nervous system disorder,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+19,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,Y
+19,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+20,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+21,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+22,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+23,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+24,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+25,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+25,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+26,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+27,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+27,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+28,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+29,1,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+29,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+30,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+30,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+31,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+31,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+31,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+32,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+32,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+33,1,Akathisia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+34,1,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+34,2,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+34,3,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+35,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+36,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+37,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+37,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+37,3,Tongue discolouration,Tongue signs and symptoms,Tongue conditions,Gastr,N
+37,4,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+38,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+39,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+39,2,Movement disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+40,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+40,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+41,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+42,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+43,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+44,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+45,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,Y
+46,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+46,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+47,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+48,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+49,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+50,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+50,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+51,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+52,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+53,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+53,2,Locked-in syndrome,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+54,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+55,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+56,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+57,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+58,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+59,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+59,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+60,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+61,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+62,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+63,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+63,2,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+63,3,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+64,1,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+65,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+66,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+66,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+67,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+68,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+69,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+70,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+70,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+71,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+71,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+72,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+73,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+73,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+74,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+75,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+76,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+77,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+77,2,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+78,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+78,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+78,3,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+79,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+80,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+81,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+82,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+82,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+83,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+84,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+85,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+85,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+86,1,Hyperprolactinaemia,Anterior pituitary hyperfunction,Hypothalamus and pituitary gland disorders,Endo,N
+86,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+86,3,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+87,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+88,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+88,2,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+88,3,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+89,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+90,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+91,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+91,2,Sedation complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+92,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+93,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+94,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+94,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+95,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+96,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+97,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+98,1,Akathisia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+99,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+100,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+100,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+100,3,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+100,4,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+101,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,Y
+102,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+103,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+104,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+105,1,Apnoeic attack,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+106,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+106,2,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+107,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+107,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+107,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+108,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+109,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+109,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+110,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+110,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+111,1,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+112,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+113,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+114,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+115,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+116,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+117,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+118,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+118,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+119,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+120,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+120,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+121,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+122,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+123,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+124,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+125,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+125,2,Lymphopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+125,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+126,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+127,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+127,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+128,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+129,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+129,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+130,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+131,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+132,1,Acute respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+133,1,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+133,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+134,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+134,2,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+135,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+136,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+137,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+137,2,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+138,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+139,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+139,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+139,3,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+140,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+141,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+142,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+142,2,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+143,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+143,2,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+144,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+144,2,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+144,3,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+145,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+145,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+146,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+146,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+147,1,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+148,1,Galactorrhoea,Lactation disorders,Breast disorders,Repro,N
+149,1,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+149,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+150,1,Asphyxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,Y
+150,2,Aspiration,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+151,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,Y
+152,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+153,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,Y
+154,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+155,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+156,1,Anencephaly,Cerebral disorders congenital,Neurological disorders congenital,Cong,N
+157,1,Ejaculation disorder,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+157,2,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+158,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+159,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+159,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+159,3,Laryngeal oedema,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+159,4,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+159,5,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+160,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+161,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+162,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+163,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+164,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+165,1,Cytogenetic abnormality,Chromosomal abnormalities NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+166,1,Cardiopulmonary failure,Heart failures NEC,Heart failures,Card,Y
+167,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+168,1,Platelet count increased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+168,2,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+169,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+170,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+171,1,Disseminated intravascular coagulation,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+171,2,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,Y
+171,3,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+172,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+172,2,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+172,3,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+172,4,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+173,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+174,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+175,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+176,1,Hypotonia neonatal,Muscle tone abnormalities,Muscle disorders,Musc,N
+176,2,Poor feeding infant,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+176,3,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+177,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+177,2,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+178,1,Gastroenteritis viral,Viral infections NEC,Viral infectious disorders,Infec,N
+178,2,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+179,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+180,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+180,2,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+181,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+182,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+182,2,Coma,Coma states,Neurological disorders NEC,Nerv,N
+182,3,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,N
+183,1,Gestational diabetes,Pregnancy complicated by maternal disorders,Maternal complications of pregnancy,Preg,N
+183,2,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+184,1,Apallic syndrome,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+184,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+185,1,Apallic syndrome,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+185,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+185,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+185,4,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+186,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+186,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+186,3,Toxic encephalopathy,Encephalopathies toxic and metabolic,Encephalopathies,Nerv,N
+186,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+187,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+187,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+187,3,Respiratory arrest,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+188,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,Y
+189,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+190,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+190,2,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+191,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+191,2,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+191,3,Gaze palsy,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+191,4,Grimacing,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+191,5,Muscle spasticity,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+191,6,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+191,7,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+191,8,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+192,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+193,1,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+194,1,Locked-in syndrome,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+195,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+195,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+195,3,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+195,4,Autoimmune disorder,Autoimmune disorders NEC,Autoimmune disorders,Immun,N
+195,5,Benign hydatidiform mole,Reproductive neoplasms female benign NEC,Reproductive neoplasms female benign,Neopl,N
+195,6,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+195,7,Bone erosion,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+195,8,Chemical poisoning,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+195,9,Cytogenetic abnormality,Chromosomal abnormalities NEC,"Chromosomal abnormalities, gene alterations and gene variants",Cong,N
+195,10,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+195,11,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+195,12,Drug exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+195,13,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+195,14,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+195,15,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+195,16,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+195,17,Immune system disorder,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+195,18,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+195,19,Intentional self-injury,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+195,20,Intentional self-injury,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+195,21,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+195,22,Jaw disorder,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+195,23,Joint destruction,Joint related disorders NEC,Joint disorders,Musc,N
+195,24,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+195,25,Movement disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+195,26,Muscle atrophy,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+195,27,Musculoskeletal discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+195,28,Myalgia,Muscle pains,Muscle disorders,Musc,N
+195,29,Myelopathy,Spinal cord and nerve root disorders NEC,Spinal cord and nerve root disorders,Nerv,N
+195,30,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+195,31,Osteoarthritis,Osteoarthropathies,Joint disorders,Musc,N
+195,32,Osteoarthritis,Osteoarthropathies,Joint disorders,Musc,N
+195,33,Osteochondritis,Cartilage disorders,"Tendon, ligament and cartilage disorders",Musc,N
+195,34,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+195,35,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+195,36,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+195,37,Reproductive tract disorder,Reproductive tract disorders NEC (excl neoplasms),Reproductive tract disorders NEC,Repro,N
+195,38,Rheumatoid arthritis,Rheumatoid arthropathies,Joint disorders,Musc,N
+195,39,Self-destructive behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+195,40,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+195,41,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+195,42,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+195,43,Victim of child abuse,Crime victims,Legal issues,SocCi,N
+196,1,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+196,2,Maternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+196,3,Respiratory disorder neonatal,Newborn respiratory disorders NEC,Neonatal respiratory disorders,Resp,N
+197,1,Blindness transient,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+197,2,Learning disability,Learning disorders,Cognitive and attention disorders and disturbances,Psych,N
+198,1,Cleft palate,Palate disorders congenital,Gastrointestinal tract disorders congenital,Cong,N
+198,2,Maternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+198,3,Otospondylomegaepiphyseal dysplasia,Musculoskeletal disorders congenital NEC,Musculoskeletal and connective tissue disorders congenital,Cong,N
+199,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+199,2,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+199,3,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+199,4,Protrusion tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+199,5,Tongue spasm,Tongue signs and symptoms,Tongue conditions,Gastr,N
+199,6,Urinary incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+200,1,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+200,2,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+200,3,Self-destructive behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+200,4,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+200,5,Victim of child abuse,Crime victims,Legal issues,SocCi,N
+201,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+201,2,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+201,3,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+201,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+202,1,Cleft palate,Palate disorders congenital,Gastrointestinal tract disorders congenital,Cong,N
+202,2,Maternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+202,3,Otospondylomegaepiphyseal dysplasia,Musculoskeletal disorders congenital NEC,Musculoskeletal and connective tissue disorders congenital,Cong,N
+203,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+204,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+204,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+204,3,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+205,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+205,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+205,3,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+206,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+206,2,Electrocardiogram T wave inversion,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+206,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+207,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+208,1,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+209,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+209,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+209,3,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+209,4,Joint stiffness,Joint related signs and symptoms,Joint disorders,Musc,N
+209,5,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+210,1,Altered state of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+210,2,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+210,3,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+210,4,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+210,5,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+210,6,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+210,7,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+210,8,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+210,9,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+210,10,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+210,11,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+210,12,Sinus rhythm,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+211,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+211,2,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+212,1,Posture abnormal,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+213,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+214,1,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+214,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+214,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+215,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+216,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+217,1,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+218,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+218,2,Emotional distress,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+218,3,Hypervigilance,Psychiatric symptoms NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+218,4,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+218,5,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+218,6,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+218,7,Thirst,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+219,1,Blood pressure abnormal,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+219,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+219,3,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+219,4,Staring,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+219,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+220,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+220,2,Delirium,Deliria,Deliria (incl confusion),Psych,N
+220,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+220,4,Miosis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+220,5,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+221,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+221,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+221,3,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+221,4,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+221,5,Delusion,Delusional symptoms,Disturbances in thinking and perception,Psych,N
+221,6,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+221,7,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+221,8,Fear of death,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+221,9,"Hallucination, auditory",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+221,10,Heart rate decreased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+221,11,Hospitalisation,Therapeutic procedures NEC,Therapeutic procedures and supportive care NEC,Surg,N
+221,12,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+221,13,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+221,14,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+221,15,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+221,16,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+221,17,Overweight,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+221,18,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+221,19,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+221,20,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+221,21,Psychotic symptom,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+221,22,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+221,23,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+221,24,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+221,25,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+221,26,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+221,27,Vulvovaginal rash,Vulvovaginal signs and symptoms,Vulvovaginal disorders (excl infections and inflammations),Repro,N
+222,1,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+222,2,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+222,3,Oculogyric crisis,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+222,4,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+223,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+223,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+223,3,Muscle rigidity,Muscle tone abnormalities,Muscle disorders,Musc,N
+223,4,Myoglobinuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+223,5,Neuroleptic malignant syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+223,6,Opisthotonus,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+223,7,Sinus arrhythmia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+223,8,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+223,9,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+224,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+224,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+224,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+225,1,Heat stroke,Heat injuries (excl thermal burns),Injuries by physical agents,Inj&P,Y

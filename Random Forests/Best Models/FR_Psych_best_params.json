@@ -1,0 +1,74 @@
+[
+    {
+        "Iteration": 1,
+        "Number of Features": 3287,
+        "ROC AUC": 0.8916551406177962,
+        "Best Parameters": {
+            "n_estimators": 106,
+            "min_samples_split": 24,
+            "min_samples_leaf": 4,
+            "max_features": "sqrt",
+            "class_weight": "balanced"
+        }
+    },
+    {
+        "Iteration": 2,
+        "Number of Features": 1643,
+        "ROC AUC": 0.8907330567081605,
+        "Best Parameters": {
+            "n_estimators": 213,
+            "min_samples_split": 14,
+            "min_samples_leaf": 4,
+            "max_features": "log2",
+            "class_weight": null
+        }
+    },
+    {
+        "Iteration": 3,
+        "Number of Features": 821,
+        "ROC AUC": 0.8748271092669434,
+        "Best Parameters": {
+            "n_estimators": 220,
+            "min_samples_split": 2,
+            "min_samples_leaf": 35,
+            "max_features": null,
+            "class_weight": null
+        }
+    },
+    {
+        "Iteration": 4,
+        "Number of Features": 410,
+        "ROC AUC": 0.9236975564776394,
+        "Best Parameters": {
+            "n_estimators": 85,
+            "min_samples_split": 36,
+            "min_samples_leaf": 24,
+            "max_features": "sqrt",
+            "class_weight": "balanced"
+        }
+    },
+    {
+        "Iteration": 5,
+        "Number of Features": 205,
+        "ROC AUC": 0.8022130013831259,
+        "Best Parameters": {
+            "n_estimators": 114,
+            "min_samples_split": 16,
+            "min_samples_leaf": 33,
+            "max_features": "sqrt",
+            "class_weight": "balanced"
+        }
+    },
+    {
+        "Iteration": 6,
+        "Number of Features": 102,
+        "ROC AUC": 0.8075149838635316,
+        "Best Parameters": {
+            "n_estimators": 174,
+            "min_samples_split": 13,
+            "min_samples_leaf": 32,
+            "max_features": "sqrt",
+            "class_weight": "balanced"
+        }
+    }
+]

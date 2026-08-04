@@ -1,0 +1,88 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,Y
+2,1,Bacterial sepsis,Bacterial infections NEC,Bacterial infectious disorders,Infec,Y
+2,2,Fungaemia,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+3,1,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+3,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+4,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+4,2,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+4,3,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+5,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+6,1,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+6,2,Blood albumin decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+6,3,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+7,1,Critical illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+7,2,Minimum inhibitory concentration increased,Microbiology and serology tests NEC,Microbiology and serology investigations,Inv,N
+7,3,Renal tubular acidosis,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+8,1,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+8,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+8,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+9,1,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+9,2,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+10,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+10,2,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+10,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+11,1,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+11,2,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,Y
+11,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+12,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+12,2,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+12,3,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+13,1,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+14,1,Insulin-like growth factor decreased,Endocrine analyses and imaging NEC,Endocrine investigations (incl sex hormones),Inv,N
+14,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+15,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+15,2,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+16,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+17,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,2,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+17,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+17,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+17,5,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+18,1,Cystitis klebsiella,Klebsiella infections,Bacterial infectious disorders,Infec,N
+18,2,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+19,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+19,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+19,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+19,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+20,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+20,2,Intentional product use issue,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+20,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+21,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+21,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+21,3,Disease progression,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+21,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+21,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+21,6,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+22,1,Cytomegalovirus infection reactivation,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+23,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+23,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+23,3,Product administered to patient of inappropriate age,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+24,1,Drug reaction with eosinophilia and systemic symptoms,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+24,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+24,3,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+25,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+26,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+27,1,Osteomyelitis,Bone and joint infections,Infections - pathogen unspecified,Infec,N
+27,2,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+28,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+28,2,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+28,3,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+28,4,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+28,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,6,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,Y
+28,7,Pulseless electrical activity,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+29,1,Enterobacter bacteraemia,Enterobacter infections,Bacterial infectious disorders,Infec,N
+29,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+29,3,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+29,4,Product use issue,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+30,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+31,1,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+32,1,Drug eruption,Dermatitis ascribed to specific agent,Epidermal and dermal conditions,Skin,N
+33,1,Drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+34,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+35,1,Multiple-drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+36,1,Multiple-drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+37,1,Multiple-drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+38,1,Multiple-drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+39,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y

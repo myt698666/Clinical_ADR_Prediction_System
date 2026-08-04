@@ -1,0 +1,937 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+2,1,Respiratory failure,Respiratory failures (excl neonatal),Respiratory disorders NEC,Resp,Y
+3,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+3,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+3,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+4,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+5,1,Sinus tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+6,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+6,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+6,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+7,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+8,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+9,1,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+9,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+10,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+10,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+11,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+11,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+11,3,Headache,Headaches NEC,Headaches,Nerv,N
+12,1,Illusion,Perception disturbances NEC,Disturbances in thinking and perception,Psych,N
+12,2,Persecutory delusion,Delusional symptoms,Disturbances in thinking and perception,Psych,N
+13,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+14,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+15,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+16,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+17,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+17,3,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+17,4,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+18,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+19,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+19,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+20,1,Headache,Headaches NEC,Headaches,Nerv,N
+20,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+20,3,Personality change,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+20,4,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+20,5,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+21,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+21,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+22,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+23,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+24,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+25,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+25,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+26,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+27,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+28,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+29,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+30,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+31,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+31,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+31,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+32,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+32,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+32,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+33,1,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+33,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+33,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+33,4,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+34,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+34,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+34,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+34,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+35,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+35,2,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+35,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+35,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+36,1,Galactorrhoea,Lactation disorders,Breast disorders,Repro,N
+37,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+37,2,Alcohol interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+38,1,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+39,1,Dissociation,Dissociative states,Dissociative disorders,Psych,N
+40,1,Headache,Headaches NEC,Headaches,Nerv,N
+41,1,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+41,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+42,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+43,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+43,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+43,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+44,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+44,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+44,3,Paranoid personality disorder,Personality disorders with eccentric behaviour (Cluster A),Personality disorders and disturbances in behaviour,Psych,N
+45,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+45,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+45,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+45,4,Headache,Headaches NEC,Headaches,Nerv,N
+46,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+47,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+48,1,Chest crushing,Chest and respiratory tract injuries NEC,Injuries NEC,Inj&P,N
+49,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+49,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+49,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+49,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+49,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+50,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+51,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+52,1,Dermatitis allergic,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+53,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+54,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+55,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+55,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+56,1,Completed suicide,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,Y
+56,2,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+57,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+57,2,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+57,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+57,4,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+57,5,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+57,6,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+58,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+59,1,Migraine,Migraine headaches,Headaches,Nerv,N
+60,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+61,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+61,2,Dysarthria,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+61,3,Feeling drunk,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+61,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+62,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+62,2,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+63,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+63,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+63,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+63,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+63,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+64,1,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+64,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+64,3,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+65,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+66,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+67,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+67,2,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+68,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+69,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+70,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+71,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+72,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+72,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+73,1,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+73,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+74,1,Abnormal behaviour,Abnormal behaviour NEC,Psychiatric and behavioural symptoms NEC,Psych,N
+74,2,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+74,3,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+74,4,"Hallucination, auditory",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+74,5,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+75,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+75,2,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+75,3,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+76,1,Biliary obstruction,Obstructive bile duct disorders (excl neoplasms),Bile duct disorders,Hepat,N
+76,2,Cholelithiasis,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+76,3,Liver disorder,Hepatic and hepatobiliary disorders NEC,Hepatic and hepatobiliary disorders,Hepat,N
+76,4,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+77,1,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+77,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+78,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+78,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+78,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+78,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+79,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+79,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+80,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+80,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+81,1,Platelet disorder,Platelet disorders NEC,Platelet disorders,Blood,N
+81,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+82,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+82,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+82,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+83,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+83,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+83,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+84,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+84,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+84,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+85,1,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+86,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+86,2,Headache,Headaches NEC,Headaches,Nerv,N
+86,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+87,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+87,2,Headache,Headaches NEC,Headaches,Nerv,N
+87,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+88,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+89,1,Abortion,Abortions not specified as induced or spontaneous,Abortions and stillbirth,Preg,N
+90,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+90,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+91,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+92,1,Hyperacusis,Hyperacusia,Hearing disorders,Ear,N
+93,1,Headache,Headaches NEC,Headaches,Nerv,N
+93,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+93,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+94,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+94,2,Headache,Headaches NEC,Headaches,Nerv,N
+95,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+95,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+95,3,Headache,Headaches NEC,Headaches,Nerv,N
+95,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+96,1,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+96,2,Headache,Headaches NEC,Headaches,Nerv,N
+96,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+96,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+97,1,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+97,2,Headache,Headaches NEC,Headaches,Nerv,N
+98,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+99,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+99,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+100,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+100,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+101,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+102,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+102,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+103,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+104,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+105,1,Headache,Headaches NEC,Headaches,Nerv,N
+106,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+106,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+107,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+107,2,Gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+108,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+109,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+110,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+111,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+111,2,Headache,Headaches NEC,Headaches,Nerv,N
+111,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+111,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+112,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+113,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+114,1,Headache,Headaches NEC,Headaches,Nerv,N
+114,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+115,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+116,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+117,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+117,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+118,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+119,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+120,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+121,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+122,1,Headache,Headaches NEC,Headaches,Nerv,N
+123,1,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+124,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+124,2,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+125,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+125,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+125,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+126,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+127,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+128,1,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+129,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+129,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+130,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+130,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+131,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+131,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+132,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+133,1,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+134,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+134,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+134,3,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+135,1,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+136,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+136,2,Depersonalisation/derealisation disorder,Dissociative states,Dissociative disorders,Psych,N
+136,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+137,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+137,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+137,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+138,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+138,2,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+139,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+140,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+140,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+141,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+141,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+142,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+142,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+142,3,Thinking abnormal,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+143,1,Psychotic disorder,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+144,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+144,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+145,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+146,1,Hyperreflexia,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+146,2,Hypertonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+146,3,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+147,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+147,2,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+148,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+149,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+150,1,Headache,Headaches NEC,Headaches,Nerv,N
+150,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+151,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+152,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+152,2,Headache,Headaches NEC,Headaches,Nerv,N
+152,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+153,1,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+153,2,Headache,Headaches NEC,Headaches,Nerv,N
+153,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+154,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+154,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+154,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+155,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+156,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+156,2,Headache,Headaches NEC,Headaches,Nerv,N
+156,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+157,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+157,2,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+157,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+157,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+158,1,Headache,Headaches NEC,Headaches,Nerv,N
+159,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+159,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+160,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+161,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+162,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+162,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+162,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+163,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+164,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+165,1,Headache,Headaches NEC,Headaches,Nerv,N
+166,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+166,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+166,3,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+166,4,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+166,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+167,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+167,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+167,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+168,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+169,1,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+170,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+170,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+171,1,Micturition disorder,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+172,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+172,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+173,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+174,1,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+175,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+176,1,Dupuytren's contracture,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+176,2,Headache,Headaches NEC,Headaches,Nerv,N
+176,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+177,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+178,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+179,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+179,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+180,1,Headache,Headaches NEC,Headaches,Nerv,N
+180,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+181,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+182,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+183,1,Headache,Headaches NEC,Headaches,Nerv,N
+184,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+185,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+186,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+187,1,Headache,Headaches NEC,Headaches,Nerv,N
+187,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+187,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+188,1,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+189,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+190,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+190,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+191,1,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+191,2,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+192,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+192,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+193,1,Headache,Headaches NEC,Headaches,Nerv,N
+193,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+194,1,Paralysis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+195,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+196,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+196,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+197,1,Headache,Headaches NEC,Headaches,Nerv,N
+198,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+198,2,Headache,Headaches NEC,Headaches,Nerv,N
+199,1,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+200,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+200,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+201,1,Blepharitis,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+202,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+202,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+203,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+204,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+204,2,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+205,1,Headache,Headaches NEC,Headaches,Nerv,N
+206,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+206,2,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+206,3,Headache,Headaches NEC,Headaches,Nerv,N
+207,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+207,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+208,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+209,1,Pharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+210,1,Pharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+211,1,Headache,Headaches NEC,Headaches,Nerv,N
+212,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+213,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+213,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+214,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+215,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+215,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+216,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+217,1,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+217,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+217,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+217,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+218,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+218,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+219,1,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+220,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+221,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+221,2,Headache,Headaches NEC,Headaches,Nerv,N
+221,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+221,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+222,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+222,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+222,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+222,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+223,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+223,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+224,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+224,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+224,3,Headache,Headaches NEC,Headaches,Nerv,N
+224,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+225,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+225,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+225,3,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+225,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+225,5,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+226,1,Headache,Headaches NEC,Headaches,Nerv,N
+227,1,Hyperkinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+228,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+228,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+229,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+229,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+230,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+230,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+230,3,Pruritus genital,Reproductive tract signs and symptoms NEC,Reproductive tract disorders NEC,Repro,N
+230,4,Rash morbilliform,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+231,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+231,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+232,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+232,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+232,3,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+233,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+233,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+233,3,Headache,Headaches NEC,Headaches,Nerv,N
+233,4,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+234,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+235,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+236,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+237,1,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+238,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+239,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+239,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+240,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+240,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+241,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+241,2,Headache,Headaches NEC,Headaches,Nerv,N
+242,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+242,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+243,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+243,2,Disorientation,Confusion and disorientation,Deliria (incl confusion),Psych,N
+243,3,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+244,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+245,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+246,1,Disturbance in attention,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+246,2,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+246,3,Thinking abnormal,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+247,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+247,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+248,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+249,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+250,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+251,1,Headache,Headaches NEC,Headaches,Nerv,N
+252,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+252,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+252,3,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+253,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+254,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+254,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+254,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+255,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+256,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+256,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+256,3,Headache,Headaches NEC,Headaches,Nerv,N
+257,1,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+257,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+257,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+257,4,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+258,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+258,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+258,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+258,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+259,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+259,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+259,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+260,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+260,2,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+261,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+262,1,Headache,Headaches NEC,Headaches,Nerv,N
+262,2,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+263,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+263,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+264,1,Headache,Headaches NEC,Headaches,Nerv,N
+264,2,Tongue oedema,Tongue signs and symptoms,Tongue conditions,Gastr,N
+265,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+265,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+266,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+267,1,Headache,Headaches NEC,Headaches,Nerv,N
+267,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+267,3,Tongue disorder,Tongue disorders,Tongue conditions,Gastr,N
+268,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+268,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+268,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+269,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+269,2,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+269,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+270,1,Hyperbilirubinaemia,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+271,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+272,1,Blood thyroid stimulating hormone increased,Pituitary analyses anterior,Endocrine investigations (incl sex hormones),Inv,N
+272,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+272,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+272,4,Thyroid disorder,Thyroid disorders NEC,Thyroid gland disorders,Endo,N
+273,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+274,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+274,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+274,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+275,1,Extrapyramidal disorder,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+276,1,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+277,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+277,2,Headache,Headaches NEC,Headaches,Nerv,N
+277,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+278,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+278,2,Micturition disorder,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+279,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+279,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+280,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+280,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+281,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+281,2,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+282,1,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+282,2,Urinary retention,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+283,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+283,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+284,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+284,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+284,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+285,1,Headache,Headaches NEC,Headaches,Nerv,N
+286,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+286,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+286,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+287,1,Headache,Headaches NEC,Headaches,Nerv,N
+288,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+289,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+289,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+289,3,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+289,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+289,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+290,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+291,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+291,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+292,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+293,1,Ataxia,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+293,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+294,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+294,2,Headache,Headaches NEC,Headaches,Nerv,N
+295,1,Delusion,Delusional symptoms,Disturbances in thinking and perception,Psych,N
+295,2,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+295,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+296,1,Gravitational oedema,Oedema NEC,General system disorders NEC,Genrl,N
+297,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+297,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+297,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+298,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+298,2,Headache,Headaches NEC,Headaches,Nerv,N
+298,3,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+298,4,Nervousness,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+299,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+300,1,Headache,Headaches NEC,Headaches,Nerv,N
+300,2,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+300,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+301,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+302,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+302,2,Headache,Headaches NEC,Headaches,Nerv,N
+303,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+304,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+305,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+306,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+307,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+307,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+307,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+308,1,Headache,Headaches NEC,Headaches,Nerv,N
+308,2,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+309,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+309,2,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+310,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+310,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+311,1,Leukopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+311,2,Thrombocytopenia,Thrombocytopenias,Platelet disorders,Blood,N
+312,1,Coma,Coma states,Neurological disorders NEC,Nerv,N
+312,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+312,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+313,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+313,2,Headache,Headaches NEC,Headaches,Nerv,N
+313,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+314,1,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+315,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+315,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+316,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+317,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+318,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+318,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+319,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+319,2,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+320,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+321,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+322,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+322,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+323,1,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+324,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+325,1,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+326,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+327,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+328,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+328,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+329,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+329,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+329,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+330,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+331,1,Psoriasis,Psoriatic conditions,Epidermal and dermal conditions,Skin,N
+331,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+332,1,Drug dependence,Substance related and addictive disorders,Psychiatric disorders NEC,Psych,N
+333,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+334,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+334,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+334,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+335,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+336,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+336,2,Headache,Headaches NEC,Headaches,Nerv,N
+336,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+337,1,Headache,Headaches NEC,Headaches,Nerv,N
+337,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+338,1,Ear pain,Ear disorders NEC,Aural disorders NEC,Ear,N
+339,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+340,1,Therapeutic response decreased,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+341,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+341,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+341,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+341,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+341,5,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+342,1,Adjustment disorder with depressed mood,Adjustment disorders,Adjustment disorders (incl subtypes),Psych,N
+343,1,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+344,1,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+345,1,Headache,Headaches NEC,Headaches,Nerv,N
+345,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+345,3,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+345,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+346,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+346,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+346,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+347,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+348,1,Hemiplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+349,1,Migraine,Migraine headaches,Headaches,Nerv,N
+349,2,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+350,1,Hypersensitivity pneumonitis,Lower respiratory tract inflammatory and immunologic conditions,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+351,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+352,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+353,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+353,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+354,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+354,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+355,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+356,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+357,1,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+357,2,Iritis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+358,1,Aggression,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+359,1,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+360,1,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,Y
+361,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+362,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+362,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+362,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+363,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+363,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+363,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+363,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+364,1,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+364,2,Sleep disorder,Sleep disorders NEC,Sleep disorders and disturbances,Psych,N
+365,1,Mania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+366,1,Hallucination,Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+367,1,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+368,1,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+369,1,Increased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+369,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+369,3,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+370,1,Headache,Headaches NEC,Headaches,Nerv,N
+371,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+372,1,Visual field defect,Visual field disorders,Vision disorders,Eye,N
+373,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+374,1,Septic rash,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+375,1,Blood lactate dehydrogenase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+375,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+376,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+377,1,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+377,2,Prostatic disorder,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Repro,N
+378,1,Headache,Headaches NEC,Headaches,Nerv,N
+378,2,Intracranial pressure increased,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+378,3,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+379,1,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+380,1,Dystonia,Dystonias,Movement disorders (incl parkinsonism),Nerv,N
+380,2,Torticollis,Muscle tone abnormalities,Muscle disorders,Musc,N
+381,1,Headache,Headaches NEC,Headaches,Nerv,N
+381,2,Idiopathic intracranial hypertension,Increased intracranial pressure disorders,Increased intracranial pressure and hydrocephalus,Nerv,N
+381,3,Papilloedema,Optic disc abnormalities NEC,"Ocular structural change, deposit and degeneration NEC",Eye,N
+381,4,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+381,5,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+382,1,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+383,1,Lip pain,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+383,2,Petit mal epilepsy,Absence seizures,Seizures (incl subtypes),Nerv,N
+384,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+385,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+386,1,Depressed level of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+386,2,Hyponatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+387,1,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+388,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+388,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+388,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+389,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+389,2,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+389,3,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+389,4,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+389,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+390,1,Systemic lupus erythematosus,Lupus erythematosus (incl subtypes),Connective tissue disorders (excl congenital),Musc,N
+391,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+392,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+392,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+392,3,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+392,4,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+393,1,Colostomy,Large intestine therapeutic procedures,Gastrointestinal therapeutic procedures,Surg,N
+393,2,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+393,3,Intestinal obstruction,Gastrointestinal stenosis and obstruction NEC,Gastrointestinal stenosis and obstruction,Gastr,N
+394,1,Ageusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+394,2,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+394,3,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+394,4,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+394,5,Night sweats,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+395,1,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+395,2,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+395,3,Poor sucking reflex,Abnormal reflexes,Neurological disorders NEC,Nerv,N
+395,4,Selective eating disorder,Eating disorders NEC,Eating disorders and disturbances,Psych,N
+395,5,Tachypnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+396,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+396,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+397,1,Feeling jittery,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+397,2,Hypocalcaemia,Calcium metabolism disorders,"Bone, calcium, magnesium and phosphorus metabolism disorders",Metab,N
+397,3,Neonatal seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+398,1,Myoclonus,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+399,1,Blood urea abnormal,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+399,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+399,3,Drug level increased,Therapeutic drug monitoring analyses,Toxicology and therapeutic drug monitoring,Inv,N
+400,1,Bedridden,Disability issues,Lifestyle issues,SocCi,N
+400,2,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+400,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+400,4,Headache,Headaches NEC,Headaches,Nerv,N
+400,5,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+400,6,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+400,7,Mydriasis,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+400,8,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+400,9,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+401,1,Cardiac death,Death and sudden death,Fatal outcomes,Genrl,Y
+401,2,Diabetes mellitus inadequate control,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+401,3,Generalised anxiety disorder,Anxiety disorders NEC,Anxiety disorders and symptoms,Psych,N
+402,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+403,1,Parkinsonism,Parkinson's disease and parkinsonism,Movement disorders (incl parkinsonism),Nerv,N
+404,1,Glaucoma,Glaucomas (excl congenital),Glaucoma and ocular hypertension,Eye,N
+405,1,Intentional overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+405,2,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+406,1,Acute psychosis,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+406,2,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+406,3,Gastrointestinal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+407,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+407,2,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+407,3,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+408,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+408,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+409,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+409,2,Dysphoria,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+409,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+409,4,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+410,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+410,2,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+410,3,Headache,Headaches NEC,Headaches,Nerv,N
+410,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+410,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+410,6,Withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+411,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+411,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+411,3,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+411,4,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+411,5,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+411,6,Dissociation,Dissociative states,Dissociative disorders,Psych,N
+411,7,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+411,8,Hypomania,Mood alterations with manic symptoms,Manic and bipolar mood disorders and disturbances,Psych,N
+411,9,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+411,10,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+411,11,Muscle contractions involuntary,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+411,12,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+411,13,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+411,14,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+411,15,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+411,16,Psychomotor hyperactivity,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+411,17,Pupil fixed,Pupil disorders,Ocular neuromuscular disorders,Eye,N
+411,18,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+412,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+412,2,Headache,Headaches NEC,Headaches,Nerv,N
+412,3,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+412,4,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+412,5,Overdose,Overdoses NEC,Overdoses and underdoses NEC,Inj&P,N
+412,6,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+412,7,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+412,8,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+413,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+413,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+413,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+413,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+413,5,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+413,6,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+413,7,Headache,Headaches NEC,Headaches,Nerv,N
+413,8,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+413,9,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+413,10,Speech disorder,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+413,11,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+414,1,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+414,2,Priapism,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+414,3,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+415,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+415,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+415,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+416,1,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+416,2,Oesophagitis,Oesophagitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+417,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+418,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+419,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+420,1,Blood creatine phosphokinase increased,Skeletal and cardiac muscle analyses,Enzyme investigations NEC,Inv,N
+420,2,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+420,3,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+421,1,Partial seizures,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+422,1,Abnormal dreams,Parasomnias,Sleep disorders and disturbances,Psych,N
+422,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+422,3,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+422,4,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+422,5,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+422,6,Product prescribing error,Product prescribing errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+422,7,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+423,1,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+423,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+424,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+425,1,Acute psychosis,Psychotic disorder NEC,Schizophrenia and other psychotic disorders,Psych,N
+425,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+426,1,Blood alcohol increased,Toxicology laboratory analyses,Toxicology and therapeutic drug monitoring,Inv,N
+426,2,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+426,3,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+426,4,Mobility decreased,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+427,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+427,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+428,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+428,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+428,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+428,4,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+429,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+429,2,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+430,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+430,2,Headache,Headaches NEC,Headaches,Nerv,N
+430,3,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+430,4,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+431,1,Bone pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+431,2,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+431,3,Musculoskeletal chest pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+431,4,Myalgia,Muscle pains,Muscle disorders,Musc,N
+431,5,Spinal pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+432,1,Drug withdrawal syndrome,Withdrawal and rebound effects,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+432,2,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+432,3,General physical health deterioration,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+432,4,Mental disorder,Mental disorders NEC,Psychiatric disorders NEC,Psych,N
+432,5,Wrong technique in product usage process,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+433,1,"Hallucination, visual",Hallucinations (excl sleep-related),Disturbances in thinking and perception,Psych,N
+434,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+435,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+435,2,Akathisia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+435,3,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+435,4,Suicidal behaviour,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+435,5,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+436,1,Interstitial granulomatous dermatitis,Granulomatous and deep cutaneous inflammatory conditions,Epidermal and dermal conditions,Skin,N
+437,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+437,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+438,1,Interstitial granulomatous dermatitis,Granulomatous and deep cutaneous inflammatory conditions,Epidermal and dermal conditions,Skin,N
+439,1,Blood copper increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+439,2,Blood oestrogen increased,Reproductive hormone analyses,Endocrine investigations (incl sex hormones),Inv,N
+440,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+441,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+441,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+441,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+441,4,Headache,Headaches NEC,Headaches,Nerv,N
+441,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+442,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+443,1,Suicidal ideation,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+444,1,Intentional product misuse,Intentional product misuses,Off label uses and intentional product misuses/use issues,Inj&P,N
+444,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+445,1,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+445,2,Blood pressure fluctuation,Blood pressure disorders NEC,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+445,3,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+445,4,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+445,5,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+445,6,Delirium,Deliria,Deliria (incl confusion),Psych,N
+445,7,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+445,8,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+445,9,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+445,10,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+445,11,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+445,12,Muscle contractions involuntary,Neuromuscular disorders NEC,Neuromuscular disorders,Nerv,N
+445,13,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+445,14,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+445,15,Postural orthostatic tachycardia syndrome,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+445,16,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+446,1,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+447,1,Intrusive thoughts,Thinking disturbances,Disturbances in thinking and perception,Psych,N
+448,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+448,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+448,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+449,1,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+450,1,Respiratory depression,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+451,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+451,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+451,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+451,4,Panic attack,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+451,5,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+452,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+452,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+453,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+453,2,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+453,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+454,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+454,2,Serotonin syndrome,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+455,1,Endocarditis,Cardiac infections,Infections - pathogen unspecified,Infec,N

@@ -1,0 +1,749 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+1,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+1,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+2,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+2,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+2,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+2,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+2,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+3,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+4,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+4,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+4,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+5,1,Conjunctivitis allergic,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+5,2,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+5,3,Panic reaction,Panic attacks and disorders,Anxiety disorders and symptoms,Psych,N
+6,1,Pulmonary embolism,Pulmonary thrombotic and embolic conditions,Pulmonary vascular disorders,Resp,N
+7,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+7,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+8,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+8,2,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+8,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+9,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+10,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+10,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+11,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+12,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+12,2,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+13,1,Cleft palate,Palate disorders congenital,Gastrointestinal tract disorders congenital,Cong,N
+14,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+14,2,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+15,1,Skin lesion,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+16,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+17,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+18,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+18,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+19,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+19,2,Nasal pruritus,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+19,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+20,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+21,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+22,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+23,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+24,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+24,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+24,3,Nystagmus,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+24,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+25,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+26,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+27,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+28,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+29,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+30,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+30,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+31,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+31,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+31,3,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+31,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+32,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+32,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+32,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+32,4,Incontinence,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+32,5,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+32,6,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+32,7,Pulse abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+32,8,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+32,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+33,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+34,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+34,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+35,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+36,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+36,2,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+37,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+37,2,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+38,1,Conjunctival hyperaemia,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+38,2,Corneal oedema,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+39,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+40,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+40,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+41,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+42,1,Deafness,Hearing losses,Hearing disorders,Ear,N
+42,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+43,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+43,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+43,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+44,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+44,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+45,1,Asthma,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+45,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+45,3,Vertigo,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+46,1,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+46,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+46,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+47,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+47,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+47,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+48,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+48,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+48,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+49,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+50,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+50,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+50,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+50,4,Pulse abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+51,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+51,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+51,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+51,4,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+52,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+52,2,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+53,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+53,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+53,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+54,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+55,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+56,1,Dermatitis,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+57,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+57,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+58,1,Eye inflammation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+59,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+59,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+60,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+61,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+61,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+62,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+63,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+63,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+64,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+65,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+65,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+66,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+66,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+67,1,Urticaria chronic,Urticarias,Angioedema and urticaria,Skin,N
+68,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+68,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+68,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+69,1,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+69,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+70,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+70,2,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+70,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+71,1,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+71,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+72,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+72,2,Pain in jaw,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+72,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+73,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+73,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+74,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+75,1,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+75,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+75,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+75,4,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+75,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+75,6,Restlessness,Increased physical activity levels,Changes in physical activity,Psych,N
+76,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+77,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+77,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+77,3,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+77,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+78,1,Conjunctivitis,Eye and eyelid infections,Infections - pathogen unspecified,Infec,N
+79,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+79,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+79,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+79,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+80,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+81,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+82,1,Haematoma,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+82,2,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+82,3,Neuritis,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+82,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+82,5,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+82,6,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+83,1,Vital dye staining cornea present,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+84,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+84,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+84,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+85,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+85,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+86,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+86,2,Sudden death,Death and sudden death,Fatal outcomes,Genrl,Y
+87,1,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+88,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+88,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+89,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+89,2,Conjunctivitis allergic,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+90,1,Body temperature increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+90,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+90,3,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+91,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+91,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+91,3,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+92,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+92,2,Cardiopulmonary failure,Heart failures NEC,Heart failures,Card,Y
+92,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+92,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+93,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+94,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+95,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+95,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+95,3,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+95,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+95,5,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+96,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+97,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+98,1,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+99,1,Keratopathy,"Corneal structural change, deposit and degeneration","Anterior eye structural change, deposit and degeneration",Eye,N
+99,2,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+100,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+101,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+102,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+103,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+103,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+104,1,Laryngeal oedema,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+105,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+105,2,Cold sweat,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+105,3,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+105,4,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+105,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+106,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+106,2,Headache,Headaches NEC,Headaches,Nerv,N
+106,3,Laryngeal oedema,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+106,4,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+106,5,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+107,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+108,1,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+108,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+108,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+109,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+110,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+111,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+112,1,Skin necrosis,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+113,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+114,1,Bronchospasm,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+114,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+114,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+115,1,Thrombophlebitis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+116,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+116,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+116,3,Pulse abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+116,4,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+117,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,Y
+118,1,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+119,1,Injection site reaction,Injection site reactions,Administration site reactions,Genrl,N
+120,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+121,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+121,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+122,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+122,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+123,1,Atrioventricular block second degree,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+123,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+124,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+125,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+125,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+125,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+125,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+126,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+127,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+128,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+128,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+128,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+129,1,Arthropathy,Arthropathies NEC,Joint disorders,Musc,N
+129,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+130,1,Headache,Headaches NEC,Headaches,Nerv,N
+130,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+130,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+131,1,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+132,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+132,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+133,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+133,2,Headache,Headaches NEC,Headaches,Nerv,N
+133,3,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+133,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+133,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+133,6,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+134,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+135,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+136,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+137,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+137,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+138,1,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+139,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+139,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+140,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+141,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+141,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+142,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+142,2,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+142,3,Blood pressure fluctuation,Blood pressure disorders NEC,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+142,4,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+142,5,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+142,6,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+142,7,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+142,8,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+142,9,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+142,10,Mouth swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+142,11,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+142,12,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+142,13,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+143,1,Electrocardiogram abnormal,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+143,2,Hypotonia,Muscle tone abnormal,Neuromuscular disorders,Nerv,N
+143,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+143,4,Pulse abnormal,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+143,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+144,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+144,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+145,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+145,2,Cyanosis,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+145,3,Restless legs syndrome,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+145,4,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+145,5,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+146,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+146,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+147,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+147,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+147,3,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+147,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+148,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+149,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+150,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+151,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+152,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+153,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+153,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+154,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+155,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+155,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+156,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+156,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+157,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+157,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+157,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+158,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+159,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+159,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+160,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+160,2,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+160,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+160,4,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+160,5,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+160,6,Stridor,"Laryngeal spasm, oedema and obstruction",Upper respiratory tract disorders (excl infections),Resp,N
+161,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+161,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+162,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+162,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+163,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+163,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+164,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+164,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+165,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+165,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+166,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+166,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+167,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+167,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+168,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+168,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+169,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+169,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+170,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+170,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+171,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+171,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+171,3,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+172,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+172,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+173,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+173,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+173,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+173,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+174,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+174,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+175,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+176,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+176,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+177,1,Acne,Acnes,Skin appendage conditions,Skin,N
+177,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+178,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+178,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+178,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+179,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+180,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+181,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+182,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+183,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+183,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+184,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+184,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+184,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+184,4,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+185,1,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+185,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+185,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+185,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+186,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+187,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+187,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+188,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+189,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+189,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+190,1,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+190,2,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+191,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+192,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+193,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+193,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+193,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+194,1,Oral pruritus,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+194,2,Swollen tongue,Tongue signs and symptoms,Tongue conditions,Gastr,N
+195,1,Oral pruritus,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+196,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+196,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+197,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+197,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+197,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+198,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+198,2,Muscle tightness,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+198,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+198,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+199,1,Hyperkalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+199,2,Stevens-Johnson syndrome,Bullous conditions,Epidermal and dermal conditions,Skin,N
+200,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+201,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+201,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+202,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+203,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+204,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+204,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+205,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+205,2,Illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+205,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+206,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+206,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+207,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+208,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+208,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+209,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+209,2,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+209,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+210,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+210,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+211,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+212,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+212,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+213,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+213,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+213,3,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+214,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+214,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+215,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+216,1,Abortion spontaneous,Abortions spontaneous,Abortions and stillbirth,Preg,N
+217,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+218,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+218,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+218,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+219,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+219,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+220,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+220,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+221,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+221,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+222,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+223,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+224,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+224,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+225,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+225,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+226,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+226,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+226,3,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+227,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+227,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+228,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+228,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+229,1,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+229,2,Skin reaction,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+229,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+230,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+231,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+232,1,Choking sensation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+232,2,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+232,3,Incorrect route of product administration,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+232,4,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+233,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+233,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+234,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+235,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+235,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+236,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+236,2,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+236,3,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+236,4,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+237,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+237,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+238,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+238,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+239,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+240,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+241,1,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+241,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+241,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+241,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+242,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+242,2,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+243,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+243,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+244,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+244,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+245,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+245,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+245,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+246,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+247,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+247,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+247,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+248,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+249,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+250,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+250,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+251,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+252,1,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+253,1,Throat tightness,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+254,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+254,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+255,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+256,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+256,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+257,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+258,1,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+259,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+259,2,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+259,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+260,1,Ear pruritus,Ear disorders NEC,Aural disorders NEC,Ear,N
+260,2,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+261,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+262,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+262,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+262,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+263,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+264,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+265,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+266,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+267,1,Amnesia,Memory loss (excl dementia),Mental impairment disorders,Nerv,N
+267,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+267,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+267,4,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+268,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+268,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+268,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+269,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+269,2,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+269,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+270,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+270,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+271,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+271,2,Oxygen saturation decreased,Blood gas and acid base analyses,"Metabolic, nutritional and blood gas investigations",Inv,N
+271,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+271,4,Yellow skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+272,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+273,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+274,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+275,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+275,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+276,1,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+276,2,Product colour issue,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+276,3,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+277,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+277,2,Oral pruritus,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+277,3,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+278,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+278,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+278,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+279,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+279,2,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+279,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+280,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+280,2,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+281,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+281,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+282,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+283,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+283,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+283,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+284,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+285,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+286,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+287,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+288,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+288,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+288,3,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+288,4,Punctate keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+288,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+289,1,Corneal disorder,Corneal disorders NEC,Eye disorders NEC,Eye,N
+289,2,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+289,3,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+289,4,Punctate keratitis,"Corneal infections, oedemas and inflammations","Ocular infections, irritations and inflammations",Eye,N
+289,5,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+290,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+291,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+292,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+292,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+292,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+293,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+293,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+294,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+295,1,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+296,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+296,2,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+296,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+296,4,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+296,5,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+297,1,Injection site urticaria,Injection site reactions,Administration site reactions,Genrl,N
+298,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+298,2,Application site inflammation,Application site reactions,Administration site reactions,Genrl,N
+298,3,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+299,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,Y
+299,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+300,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+301,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+302,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+302,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+303,1,Nasopharyngitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+303,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+304,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+304,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+305,1,Catheter site discharge,Implant and catheter site reactions,Administration site reactions,Genrl,N
+305,2,Yellow skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+306,1,Corneal bleeding,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+306,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+307,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+307,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+307,3,Incoherent,Speech and language abnormalities,Neurological disorders NEC,Nerv,N
+307,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+307,5,Pulse absent,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+307,6,Unresponsive to stimuli,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+308,1,Blood pressure decreased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+308,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+308,3,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+309,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+309,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+309,3,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+309,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+310,1,Muscle tightness,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+310,2,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+311,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+311,2,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+311,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+312,1,Consciousness fluctuating,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+312,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+312,3,Dyskinesia,Dyskinesias and movement disorders NEC,Movement disorders (incl parkinsonism),Nerv,N
+312,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+312,5,Pallor,Site specific vascular disorders NEC,Vascular disorders NEC,Vasc,N
+313,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+313,2,Nasal congestion,Nasal congestion and inflammations,Upper respiratory tract disorders (excl infections),Resp,N
+313,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+313,4,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+313,5,Sneezing,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+313,6,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+314,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+314,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+315,1,Body temperature decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+315,2,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+315,3,Dysphonia,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+315,4,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+315,5,Throat irritation,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+316,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+316,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+316,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+317,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+317,2,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+318,1,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+319,1,Aphasia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+319,2,Cognitive disorder,Mental impairment (excl dementia and memory loss),Mental impairment disorders,Nerv,N
+319,3,Monoplegia,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+320,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+320,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+320,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+321,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+322,1,Blood glucose decreased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+323,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+323,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+323,3,Product quality issue,Product quality issues NEC,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+324,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+324,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+325,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+326,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+326,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+326,3,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+327,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+328,1,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+328,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+329,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+329,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+329,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+329,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+329,5,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+330,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+330,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+330,3,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+330,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+330,5,Pharyngeal swelling,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+331,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+331,2,Incorrect drug administration rate,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+331,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+331,4,Sedation,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+332,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+332,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+333,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+333,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+333,3,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+333,4,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+334,1,Application site inflammation,Application site reactions,Administration site reactions,Genrl,N
+334,2,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+334,3,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+334,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+335,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+335,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+335,3,Headache,Headaches NEC,Headaches,Nerv,N
+335,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+335,5,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+336,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,Y
+337,1,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+337,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+337,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+338,1,Throat tightness,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+338,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+338,3,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+339,1,Retinal vein occlusion,Retinal bleeding and vascular disorders (excl retinopathy),"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+340,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+341,1,Lip blister,Oral soft tissue disorders NEC,Oral soft tissue conditions,Gastr,N
+341,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+342,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+343,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+343,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+344,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+345,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+345,2,Phlebitis,Phlebitis NEC,Vascular infections and inflammations,Vasc,N
+346,1,Thermal burns of eye,Thermal burns,Injuries by physical agents,Inj&P,N
+347,1,Paraesthesia oral,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+347,2,Pharyngeal paraesthesia,Pharyngeal disorders (excl infections and neoplasms),Upper respiratory tract disorders (excl infections),Resp,N
+347,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+348,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+349,1,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+350,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+350,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+350,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+350,4,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+351,1,Anaphylactic shock,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N

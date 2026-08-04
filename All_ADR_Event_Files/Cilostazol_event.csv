@@ -1,0 +1,357 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abdominal discomfort,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+1,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+2,1,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+2,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+2,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+3,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+3,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+4,1,Atrioventricular block,Cardiac conduction disorders,Cardiac arrhythmias,Card,N
+4,2,Bradycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+5,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+5,2,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+5,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+6,1,Headache,Headaches NEC,Headaches,Nerv,N
+7,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+7,2,Headache,Headaches NEC,Headaches,Nerv,N
+7,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+8,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+8,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+9,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+9,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+10,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+10,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+11,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+11,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+11,3,Headache,Headaches NEC,Headaches,Nerv,N
+12,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+12,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+12,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+13,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+14,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+14,2,Headache,Headaches NEC,Headaches,Nerv,N
+15,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+15,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+15,3,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+16,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+17,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+18,1,Migraine,Migraine headaches,Headaches,Nerv,N
+19,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+19,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+19,3,Headache,Headaches NEC,Headaches,Nerv,N
+20,1,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+21,1,Arteriosclerosis,Non-site specific necrosis and vascular insufficiency NEC,"Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+21,2,Brain injury,Structural brain disorders NEC,Structural brain disorders,Nerv,N
+21,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,Y
+22,1,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+23,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+24,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+25,1,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+26,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+27,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+28,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+28,2,Tension headache,Headaches NEC,Headaches,Nerv,N
+29,1,Confusional state,Confusion and disorientation,Deliria (incl confusion),Psych,N
+29,2,Headache,Headaches NEC,Headaches,Nerv,N
+29,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+29,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+30,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+31,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+32,1,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+33,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+33,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+34,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+34,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+34,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+35,1,Headache,Headaches NEC,Headaches,Nerv,N
+36,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+36,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+37,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+38,1,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+39,1,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+39,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+40,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+41,1,Headache,Headaches NEC,Headaches,Nerv,N
+41,2,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+42,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+43,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+44,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+44,2,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+45,1,Post procedural haemorrhage,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+46,1,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+46,2,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+47,1,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+48,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+48,2,Headache,Headaches NEC,Headaches,Nerv,N
+48,3,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+49,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+50,1,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+51,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+51,2,Headache,Headaches NEC,Headaches,Nerv,N
+52,1,Pulmonary fibrosis,Parenchymal lung disorders NEC,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+53,1,Headache,Headaches NEC,Headaches,Nerv,N
+53,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+53,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+54,1,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+54,2,Headache,Headaches NEC,Headaches,Nerv,N
+55,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+56,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+57,1,Duodenal ulcer,Duodenal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+57,2,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+58,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+58,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+59,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+60,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+60,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+61,1,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,Y
+62,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+62,2,Tinnitus,Inner ear signs and symptoms,Inner ear and VIIIth cranial nerve disorders,Ear,N
+63,1,Headache,Headaches NEC,Headaches,Nerv,N
+64,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+64,2,Migraine,Migraine headaches,Headaches,Nerv,N
+65,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+66,1,Oedema,Oedema NEC,General system disorders NEC,Genrl,N
+66,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+67,1,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+68,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+68,2,Headache,Headaches NEC,Headaches,Nerv,N
+68,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+68,4,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+69,1,Headache,Headaches NEC,Headaches,Nerv,N
+70,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+70,2,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+70,3,Gastritis,Gastritis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+71,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+71,2,Flushing,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+71,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+72,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+73,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+73,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+73,3,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+74,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+74,2,Atrial flutter,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+74,3,Loss of consciousness,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+75,1,Electrocardiogram QT prolonged,ECG investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+76,1,Headache,Headaches NEC,Headaches,Nerv,N
+77,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+78,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+79,1,Erection increased,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+80,1,Acute left ventricular failure,Left ventricular failures,Heart failures,Card,Y
+80,2,Arteriosclerosis coronary artery,Coronary artery disorders NEC,Coronary artery disorders,Card,N
+80,3,Myocardial fibrosis,Myocardial disorders NEC,Myocardial disorders,Card,N
+81,1,Generalised oedema,Oedema NEC,General system disorders NEC,Genrl,N
+82,1,Headache,Headaches NEC,Headaches,Nerv,N
+82,2,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+82,3,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+83,1,Headache,Headaches NEC,Headaches,Nerv,N
+84,1,Orthostatic hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+85,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+86,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+86,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+86,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+87,1,Acute myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+87,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+87,3,Headache,Headaches NEC,Headaches,Nerv,N
+87,4,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+88,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+88,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+89,1,Ventricular tachycardia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+90,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+91,1,Acute coronary syndrome,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+91,2,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+92,1,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+93,1,Headache,Headaches NEC,Headaches,Nerv,N
+93,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+93,3,Poor peripheral circulation,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+94,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+94,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+95,1,Mouth haemorrhage,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+95,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+95,3,Urethral haemorrhage,Urethral disorders NEC,Urethral disorders (excl calculi),Renal,N
+96,1,Mouth haemorrhage,Oral soft tissue haemorrhages,Oral soft tissue conditions,Gastr,N
+96,2,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+96,3,Urethral haemorrhage,Urethral disorders NEC,Urethral disorders (excl calculi),Renal,N
+97,1,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+97,2,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+98,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+98,2,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+99,1,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+100,1,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+101,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+102,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+103,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+103,2,Oesophageal ulcer,Oesophageal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+104,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+104,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+105,1,Haematemesis,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+105,2,Oesophageal ulcer,Oesophageal ulcers and perforation,Gastrointestinal ulceration and perforation,Gastr,N
+106,1,Angina pectoris,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+107,1,Left ventricular failure,Left ventricular failures,Heart failures,Card,N
+107,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+107,3,Raynaud's phenomenon,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+108,1,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+109,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+110,1,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+110,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+110,3,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+110,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+110,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+110,6,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+110,7,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+111,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+111,2,Headache,Headaches NEC,Headaches,Nerv,N
+111,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+111,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+112,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+113,1,Blood pressure increased,Vascular tests NEC (incl blood pressure),Cardiac and vascular investigations (excl enzyme tests),Inv,N
+113,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+113,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+113,4,Intermittent claudication,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+113,5,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+114,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+114,2,Extrasystoles,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+114,3,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+115,1,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+116,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+116,2,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,Y
+116,3,Humerus fracture,Limb fractures and dislocations,Bone and joint injuries,Inj&P,N
+116,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+116,5,Road traffic accident,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+117,1,Headache,Headaches NEC,Headaches,Nerv,N
+118,1,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+118,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+119,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+120,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+120,2,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+121,1,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+121,2,Mouth ulceration,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+121,3,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+122,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+122,2,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+123,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+123,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+123,3,Somnolence,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+124,1,Lacrimation increased,Lacrimation disorders,Eye disorders NEC,Eye,N
+124,2,Rhinitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+125,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+125,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+125,3,Headache,Headaches NEC,Headaches,Nerv,N
+125,4,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+125,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+125,6,Oedema due to cardiac disease,Oedema NEC,General system disorders NEC,Genrl,N
+125,7,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+125,8,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+125,9,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+126,1,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+127,1,Headache,Headaches NEC,Headaches,Nerv,N
+128,1,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+128,2,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+129,1,Acute hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,N
+129,2,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+129,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+129,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+129,5,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+130,1,Myalgia,Muscle pains,Muscle disorders,Musc,N
+130,2,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+131,1,Increased tendency to bruise,Bleeding tendencies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+132,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+132,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+132,3,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+133,1,Haemorrhagic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+134,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+135,1,Chest discomfort,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+135,2,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+136,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+137,1,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+138,1,Arthralgia,Joint related signs and symptoms,Joint disorders,Musc,N
+138,2,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+139,1,Cardiac failure,Heart failures NEC,Heart failures,Card,N
+139,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+139,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+140,1,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+140,2,Hyperhidrosis,Apocrine and eccrine gland disorders,Skin appendage conditions,Skin,N
+140,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+140,4,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+141,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+141,2,Gingival bleeding,Gingival haemorrhages,Dental and gingival conditions,Gastr,N
+141,3,Loose tooth,Dental disorders NEC,Dental and gingival conditions,Gastr,N
+142,1,Increased tendency to bruise,Bleeding tendencies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+142,2,Joint swelling,Joint related signs and symptoms,Joint disorders,Musc,N
+142,3,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+143,1,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+143,2,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+143,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+144,1,Arrhythmia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+145,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+145,2,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+145,3,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+145,4,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+145,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+146,1,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+146,2,Faeces discoloured,Faecal abnormalities NEC,Gastrointestinal signs and symptoms,Gastr,N
+146,3,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+146,4,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+147,1,Headache,Headaches NEC,Headaches,Nerv,N
+148,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+148,2,Post procedural haematoma,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+149,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+149,2,Skin ulcer,Skin and subcutaneous tissue ulcerations,Skin and subcutaneous tissue disorders NEC,Skin,N
+150,1,Headache,Headaches NEC,Headaches,Nerv,N
+150,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+150,3,Tendonitis,Tendon disorders,"Tendon, ligament and cartilage disorders",Musc,N
+151,1,Tendonitis,Tendon disorders,"Tendon, ligament and cartilage disorders",Musc,N
+152,1,Headache,Headaches NEC,Headaches,Nerv,N
+152,2,Tachycardia,Rate and rhythm disorders NEC,Cardiac arrhythmias,Card,N
+152,3,Tendonitis,Tendon disorders,"Tendon, ligament and cartilage disorders",Musc,N
+153,1,Palpitations,Cardiac signs and symptoms NEC,"Cardiac disorders, signs and symptoms NEC",Card,N
+154,1,Blood loss anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+154,2,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+154,3,Upper gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+155,1,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+155,2,Post procedural haematoma,Non-site specific procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+156,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+157,1,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+158,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+158,2,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+158,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+158,4,Functional gastrointestinal disorder,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N
+158,5,Nocturia,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+158,6,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,7,Prostatomegaly,"Prostatic signs, symptoms and disorders NEC",Prostatic disorders (excl infections and inflammations),Repro,N
+158,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+158,9,Scrotal swelling,Scrotal disorders NEC,Penile and scrotal disorders (excl infections and inflammations),Repro,N
+158,10,Urinary hesitation,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+158,11,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+158,12,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+159,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+159,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+159,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+159,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+160,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+160,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+160,3,Chest pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+160,4,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+161,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+161,2,Eye haemorrhage,Ocular bleeding and vascular disorders NEC,Ocular haemorrhages and vascular disorders NEC,Eye,N
+161,3,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+161,4,Skin odour abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+162,1,Headache,Headaches NEC,Headaches,Nerv,N
+163,1,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+163,2,Ventricular fibrillation,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+164,1,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+165,1,Unevaluable event,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+166,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+167,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+168,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+169,1,Vascular operation,Vascular therapeutic procedures NEC,Vascular therapeutic procedures,Surg,N
+170,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+170,2,Headache,Headaches NEC,Headaches,Nerv,N
+171,1,Contraindicated product administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+171,2,Haemorrhagic stroke,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+171,3,Ventricular arrhythmia,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,N
+172,1,Headache,Headaches NEC,Headaches,Nerv,N
+173,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+173,2,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,Y
+173,3,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+173,4,Intestinal ischaemia,Gastrointestinal vascular occlusion and infarction,Gastrointestinal vascular conditions,Gastr,N
+173,5,Pneumatosis intestinalis,Gastrointestinal disorders NEC,Gastrointestinal conditions NEC,Gastr,N

@@ -1,0 +1,402 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+1,2,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+1,3,Mitochondrial cytopathy,Cell metabolism disorders NEC,Metabolism disorders NEC,Metab,N
+2,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+2,2,Blood lactate dehydrogenase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+2,3,Blood lactate dehydrogenase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+2,4,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+2,5,Premature labour,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+3,1,Arthritis,Arthropathies NEC,Joint disorders,Musc,N
+3,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+4,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+5,1,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+5,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+5,3,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+5,4,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+5,5,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+5,6,Mitochondrial cytopathy,Cell metabolism disorders NEC,Metabolism disorders NEC,Metab,Y
+5,7,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+5,8,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+6,1,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+6,2,Nephropathy toxic,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+6,3,Retinal detachment,"Retinal structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+6,4,Visual impairment,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+7,1,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+7,2,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+7,3,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+7,4,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+8,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+8,2,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+8,3,International normalised ratio increased,Coagulation and bleeding analyses,Haematology investigations (incl blood groups),Inv,N
+8,4,Oliguria,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+9,1,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+10,1,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+11,1,Hypertriglyceridaemia,Elevated triglycerides,Lipid metabolism disorders,Metab,N
+11,2,Pancytopenia,Marrow depression and hypoplastic anaemias,Anaemias nonhaemolytic and marrow depression,Blood,N
+12,1,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+13,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+13,2,Headache,Headaches NEC,Headaches,Nerv,N
+13,3,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+13,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+14,1,Breast tenderness,Breast signs and symptoms,Breast disorders,Repro,N
+14,2,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+14,3,Polymenorrhoea,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+15,1,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,Y
+16,1,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+17,1,Deafness neurosensory,Hearing losses,Hearing disorders,Ear,N
+17,2,Headache,Headaches NEC,Headaches,Nerv,N
+17,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+18,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+18,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+19,1,Haemolytic anaemia,Anaemias haemolytic NEC,Haemolyses and related conditions,Blood,N
+20,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+20,2,Rhabdomyolysis,Myopathies,Muscle disorders,Musc,N
+21,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+22,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+22,2,Suicide attempt,Suicidal and self-injurious behaviour,Suicidal and self-injurious behaviours NEC,Psych,N
+23,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+24,1,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+24,2,Myalgia,Muscle pains,Muscle disorders,Musc,N
+24,3,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+25,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+25,2,Heavy menstrual bleeding,Menstruation with increased bleeding,Menstrual cycle and uterine bleeding disorders,Repro,N
+25,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+26,1,Type 1 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+27,1,Deep vein thrombosis,Peripheral embolism and thrombosis,Embolism and thrombosis,Vasc,N
+28,1,Diabetes mellitus inadequate control,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+29,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+29,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+30,1,Pulmonary hypertension,Pulmonary hypertensions,Pulmonary vascular disorders,Resp,N
+31,1,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,Y
+32,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+32,2,Amylase increased,Digestive enzymes,Gastrointestinal investigations,Inv,N
+32,3,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+32,4,Blood potassium increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+33,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+33,2,Potentiating drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+33,3,Renal colic,Urinary tract signs and symptoms NEC,Urinary tract signs and symptoms,Renal,N
+34,1,Blood prolactin increased,Pituitary analyses anterior,Endocrine investigations (incl sex hormones),Inv,N
+34,2,Galactorrhoea,Lactation disorders,Breast disorders,Repro,N
+35,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+35,2,Lipid metabolism disorder,Lipid metabolism and deposit disorders NEC,Lipid metabolism disorders,Metab,N
+35,3,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+36,1,Hepatitis acute,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,Y
+37,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+37,2,Hemiparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+37,3,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+37,4,Seizure,Seizures and seizure disorders NEC,Seizures (incl subtypes),Nerv,N
+37,5,Subdural haematoma,Cerebral injuries NEC,Injuries NEC,Inj&P,N
+38,1,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
+38,2,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+38,3,Hypertriglyceridaemia,Elevated triglycerides,Lipid metabolism disorders,Metab,N
+39,1,Gastrointestinal haemorrhage,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+39,2,Melaena,Non-site specific gastrointestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+39,3,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+40,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+40,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+41,1,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+41,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+41,3,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+41,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+42,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+43,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+43,2,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+44,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+44,2,Hepatomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+45,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+46,1,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+46,2,Fat redistribution,Lipid metabolism and deposit disorders NEC,Lipid metabolism disorders,Metab,N
+46,3,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+47,1,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+48,1,Fat tissue increased,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+48,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+49,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+49,2,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+50,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+50,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+50,3,Limb discomfort,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+51,1,Dysgeusia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+51,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+51,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+51,4,Flatulence,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+52,1,Lipids abnormal,Lipoprotein and lipid tests NEC,Lipid analyses,Inv,N
+52,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+52,3,Type 2 diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+52,4,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+53,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+53,2,Obesity,General nutritional disorders NEC,Appetite and general nutritional disorders,Metab,N
+54,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+54,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+55,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+55,2,Epididymal cyst,Testicular and epididymal neoplasms,Testicular and epididymal disorders,Repro,N
+55,3,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+55,4,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+56,1,Hyperthyroidism,Thyroid hyperfunction disorders,Thyroid gland disorders,Endo,N
+57,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+57,2,Abdominal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+57,3,Decreased appetite,Appetite disorders,Appetite and general nutritional disorders,Metab,N
+57,4,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+57,5,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+57,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+58,1,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+58,2,Hyperchlorhydria,Gastrointestinal mucosal dystrophies and secretion disorders,Gastrointestinal conditions NEC,Gastr,N
+58,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+59,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+59,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+59,3,Weight decreased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+60,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+61,1,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+61,2,Haemorrhagic diathesis,Bleeding tendencies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+62,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+63,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+64,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+64,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+65,1,Premature baby,Gestational age and weight conditions,Neonatal and perinatal conditions,Preg,N
+66,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+66,2,Lipoatrophy,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+67,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+67,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+68,1,Abdominal distension,"Flatulence, bloating and distension",Gastrointestinal signs and symptoms,Gastr,N
+68,2,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+69,1,Fat tissue increased,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+69,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+70,1,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
+70,2,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+71,1,Erectile dysfunction,Erection and ejaculation conditions and disorders,Sexual function and fertility disorders,Repro,N
+72,1,Breast enlargement,Breast disorders NEC,Breast disorders,Repro,N
+72,2,Flank pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+72,3,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+73,1,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+74,1,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+74,2,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+75,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+75,2,Weight increased,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+76,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+76,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+77,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+77,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+78,1,Pancreatic pseudocyst,Cystic pancreatic disorders,Exocrine pancreas conditions,Gastr,N
+78,2,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+79,1,Agoraphobia,Fear symptoms and phobic disorders (incl social phobia),Anxiety disorders and symptoms,Psych,N
+79,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+79,3,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+79,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+80,1,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+81,1,Abdominal pain lower,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+81,2,Cystitis,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+81,3,Cystitis ulcerative,Bladder infections and inflammations,Bladder and bladder neck disorders (excl calculi),Renal,N
+81,4,Dysuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+81,5,Haematuria,Urinary abnormalities,Urinary tract signs and symptoms,Renal,N
+81,6,Pollakiuria,Bladder and urethral symptoms,Urinary tract signs and symptoms,Renal,N
+81,7,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+82,1,Lipids abnormal,Lipoprotein and lipid tests NEC,Lipid analyses,Inv,N
+83,1,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
+83,2,Hypertriglyceridaemia,Elevated triglycerides,Lipid metabolism disorders,Metab,N
+84,1,Lipids abnormal,Lipoprotein and lipid tests NEC,Lipid analyses,Inv,N
+84,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+85,1,Diabetes mellitus,Diabetes mellitus (incl subtypes),Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+85,2,Hypertriglyceridaemia,Elevated triglycerides,Lipid metabolism disorders,Metab,N
+85,3,Hypothyroidism,Thyroid hypofunction disorders,Thyroid gland disorders,Endo,N
+85,4,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+86,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+87,1,Fat tissue increased,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+88,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+88,2,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+88,3,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+89,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+90,1,Blood lactate dehydrogenase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+90,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+90,3,Sedation complication,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+91,1,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+92,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+92,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+92,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+93,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+94,1,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+94,2,Pancreatic pseudocyst,Cystic pancreatic disorders,Exocrine pancreas conditions,Gastr,N
+95,1,Renal tubular dysfunction,Nephropathies and tubular disorders NEC,Nephropathies,Renal,N
+96,1,Agitated depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+96,2,Paranoia,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+97,1,Coagulopathy,Coagulopathies,Coagulopathies and bleeding diatheses (excl thrombocytopenic),Blood,N
+97,2,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+97,3,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+97,4,Pancreatic cyst,Cystic pancreatic disorders,Exocrine pancreas conditions,Gastr,N
+97,5,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+98,1,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+98,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+99,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+100,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+100,2,Transient ischaemic attack,Transient cerebrovascular events,Central nervous system vascular disorders,Nerv,N
+101,1,Encephalopathy,Encephalopathies NEC,Encephalopathies,Nerv,Y
+101,2,Headache,Headaches NEC,Headaches,Nerv,N
+101,3,Hostility,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+101,4,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+101,5,Lymphocytosis,Leukocytoses NEC,White blood cell disorders,Blood,N
+101,6,Social avoidant behaviour,Behaviour and socialisation disturbances,Personality disorders and disturbances in behaviour,Psych,N
+102,1,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+102,2,Photosensitivity reaction,Photosensitivity and photodermatosis conditions,Epidermal and dermal conditions,Skin,N
+102,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+103,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+103,2,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+103,3,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+103,4,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+104,1,Hepatic steatosis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+105,1,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+106,1,Fat tissue increased,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+106,2,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+106,3,Lipohypertrophy,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+107,1,Pancreatitis acute,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+108,1,Ingrowing nail,Nail and nail bed conditions (excl infections and infestations),Skin appendage conditions,Skin,N
+109,1,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+110,1,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+111,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+111,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+111,3,Oesophageal pain,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+112,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+112,2,Dyspepsia,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+113,1,Paraesthesia mucosal,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+114,1,Feeling abnormal,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+114,2,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+114,3,Mean cell volume increased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+114,4,Neutrophil count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+114,5,Platelet count decreased,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+114,6,Pneumonia,Lower respiratory tract and lung infections,Infections - pathogen unspecified,Infec,N
+114,7,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+114,8,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+115,1,Blood prolactin increased,Pituitary analyses anterior,Endocrine investigations (incl sex hormones),Inv,N
+115,2,Gynaecomastia,Breast disorders NEC,Breast disorders,Repro,N
+116,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+117,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+117,2,Premature labour,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+118,1,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+118,2,Spinal compression fracture,Spinal fractures and dislocations,Bone and joint injuries,Inj&P,N
+119,1,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+120,1,Cholecystitis acute,Cholecystitis and cholelithiasis,Gallbladder disorders,Hepat,N
+120,2,Hepatitis cholestatic,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+120,3,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
+121,1,Premature delivery,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+122,1,Osteonecrosis,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+123,1,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+123,2,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+124,1,Bronchiectasis,Bronchial conditions NEC,Bronchial disorders (excl neoplasms),Resp,N
+124,2,Chest X-ray abnormal,Respiratory tract and thoracic imaging procedures,Respiratory and pulmonary investigations (excl blood gases),Inv,N
+124,3,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+124,4,Pneumonia cytomegaloviral,Cytomegaloviral infections,Viral infectious disorders,Infec,N
+124,5,Respiratory disorder,Respiratory tract disorders NEC,Respiratory disorders NEC,Resp,N
+125,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+125,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+125,3,Retinal haemorrhage,Retinal bleeding and vascular disorders (excl retinopathy),"Retina, choroid and vitreous haemorrhages and vascular disorders",Eye,N
+125,4,Skin necrosis,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+126,1,Appendicitis,Abdominal and gastrointestinal infections,Infections - pathogen unspecified,Infec,N
+127,1,Cardiac failure congestive,Heart failures NEC,Heart failures,Card,N
+127,2,Hypoglycaemia,Hypoglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+127,3,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+128,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+128,2,Hepatosplenomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+128,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+128,4,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+128,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+128,6,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+129,1,Hyperglycaemia,Hyperglycaemic conditions NEC,Glucose metabolism disorders (incl diabetes mellitus),Metab,N
+130,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+130,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+130,3,Myalgia,Muscle pains,Muscle disorders,Musc,N
+131,1,Hydronephrosis,Renal obstructive disorders,Renal disorders (excl nephropathies),Renal,N
+132,1,Multiple fractures,Fractures and dislocations NEC,Bone and joint injuries,Inj&P,N
+132,2,Osteonecrosis,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+132,3,Osteoporosis,Metabolic bone disorders,Bone disorders (excl congenital and fractures),Musc,N
+133,1,Congenital hydronephrosis,Renal and urinary tract disorders congenital NEC,Renal and urinary tract disorders congenital,Cong,N
+133,2,Delivery,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+133,3,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+134,1,Alpha 1 foetoprotein abnormal,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+134,2,Alpha 1 foetoprotein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+135,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+135,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+135,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+136,1,Alpha 1 foetoprotein abnormal,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+136,2,Laboratory test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+137,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+138,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+138,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+139,1,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+139,2,Atrial fibrillation,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+139,3,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+139,4,Hepatic failure,Hepatic failure and associated disorders,Hepatic and hepatobiliary disorders,Hepat,Y
+139,5,Jaundice,Cholestasis and jaundice,Hepatic and hepatobiliary disorders,Hepat,N
+139,6,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+139,7,Liver function test abnormal,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+139,8,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+139,9,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+139,10,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+140,1,Acne,Acnes,Skin appendage conditions,Skin,N
+140,2,Dermatitis acneiform,Acnes,Skin appendage conditions,Skin,N
+140,3,Exfoliative rash,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+140,4,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+140,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+140,6,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+140,7,Toxic epidermal necrolysis,Bullous conditions,Epidermal and dermal conditions,Skin,N
+141,1,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+141,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+141,3,Rash papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+141,4,Rash pruritic,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+141,5,Rosacea,Rosaceas,Skin appendage conditions,Skin,N
+142,1,Throat cancer,Respiratory tract and pleural neoplasms malignant cell type unspecified NEC,Respiratory and mediastinal neoplasms malignant and unspecified,Neopl,N
+143,1,Poor quality sleep,Dyssomnias,Sleep disorders and disturbances,Psych,N
+143,2,Salivary hypersecretion,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+144,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+144,2,Liver function test increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+145,1,Central nervous system lesion,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+145,2,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+145,3,Drug ineffective,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+145,4,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+145,5,Pleocytosis,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+146,1,Adverse drug reaction,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+146,2,Pathogen resistance,Infections NEC,Infections - pathogen unspecified,Infec,N
+146,3,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+146,4,Virologic failure,Infections NEC,Infections - pathogen unspecified,Infec,N
+147,1,Alpha 1 foetoprotein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+147,2,Foetal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+147,3,Laboratory test abnormal,Investigations NEC,"Investigations, imaging and histopathology procedures NEC",Inv,N
+148,1,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+148,2,Exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+148,3,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+148,4,Maternal exposure before pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+148,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+149,1,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+150,1,Kaposi's sarcoma,Kaposi's sarcomas,Soft tissue neoplasms malignant and unspecified,Neopl,N
+151,1,Cerebrovascular accident,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+152,1,Platelet count abnormal,Platelet analyses,Haematology investigations (incl blood groups),Inv,N
+152,2,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+152,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+153,1,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+153,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+153,3,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+154,1,Hepatic function abnormal,Hepatic enzymes and function abnormalities,Hepatic and hepatobiliary disorders,Hepat,N
+154,2,Hyperlipidaemia,Hyperlipidaemias NEC,Lipid metabolism disorders,Metab,N
+154,3,Pancreatic cyst,Cystic pancreatic disorders,Exocrine pancreas conditions,Gastr,N
+154,4,Pancreatitis,Acute and chronic pancreatitis,Exocrine pancreas conditions,Gastr,N
+155,1,Mitochondrial myopathy,Genetic mitochondrial abnormalities NEC,Cytoplasmic disorders congenital,Cong,N
+156,1,HIV infection,Retroviral infections,Viral infectious disorders,Infec,N
+156,2,Lactic acidosis,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+156,3,Multiple organ dysfunction syndrome,General signs and symptoms NEC,General system disorders NEC,Genrl,Y
+156,4,Pregnancy,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+156,5,Premature delivery,Labour onset and length abnormalities,Maternal complications of labour and delivery,Preg,N
+157,1,Adrenal insufficiency,Adrenal cortical hypofunctions,Adrenal gland disorders,Endo,N
+157,2,Cushing's syndrome,Adrenal cortical hyperfunctions,Adrenal gland disorders,Endo,N
+157,3,Labelled drug-drug interaction medication error,Product monitoring errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+158,1,Cough,Coughing and associated symptoms,Respiratory disorders NEC,Resp,N
+158,2,Hepatosplenomegaly,Hepatobiliary signs and symptoms,Hepatic and hepatobiliary disorders,Hepat,N
+158,3,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+158,4,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+158,5,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+158,6,Renal failure,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+159,1,Blood cholesterol increased,Cholesterol analyses,Lipid analyses,Inv,N
+159,2,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+159,3,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+159,4,Hypotension,Vascular hypotensive disorders,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+159,5,Hypoxia,Conditions associated with abnormal gas exchange,Respiratory disorders NEC,Resp,N
+159,6,Myocardial infarction,Ischaemic coronary artery disorders,Coronary artery disorders,Card,N
+159,7,Pulmonary oedema,Pulmonary oedemas,Lower respiratory tract disorders (excl obstruction and infection),Resp,N
+160,1,Genotype drug resistance test positive,Virus identification and serology,Microbiology and serology investigations,Inv,N
+161,1,Virologic failure,Infections NEC,Infections - pathogen unspecified,Infec,N

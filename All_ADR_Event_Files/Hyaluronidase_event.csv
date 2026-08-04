@@ -1,0 +1,618 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+2,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+3,1,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+4,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+4,2,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+5,1,Injection site abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+6,1,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+7,1,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+8,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+9,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+9,2,Periorbital swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+9,3,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+10,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+10,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+10,3,Periorbital swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+10,4,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+11,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+12,1,Dysphagia,Gastrointestinal signs and symptoms NEC,Gastrointestinal signs and symptoms,Gastr,N
+12,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+13,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+13,2,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+13,3,Type I hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+14,1,Dermatitis contact,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+15,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,1,Deposit eye,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+17,1,Hyperventilation,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+17,2,Syncope,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+18,1,Arthropathy,Arthropathies NEC,Joint disorders,Musc,N
+18,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+19,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+20,1,Purpura,Purpura and related conditions,Skin vascular abnormalities,Skin,N
+21,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+22,1,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+23,1,Cellulitis,Bacterial infections NEC,Bacterial infectious disorders,Infec,N
+24,1,Eczema,Dermatitis and eczema,Epidermal and dermal conditions,Skin,N
+25,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+26,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+27,1,Application site reaction,Application site reactions,Administration site reactions,Genrl,N
+27,2,Stomatitis,Stomatitis and ulceration,Oral soft tissue conditions,Gastr,N
+28,1,Application site oedema,Application site reactions,Administration site reactions,Genrl,N
+29,1,Dermatitis bullous,Bullous conditions,Epidermal and dermal conditions,Skin,N
+29,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+30,1,Cardio-respiratory arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+31,1,Circulatory collapse,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+31,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+31,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+32,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+33,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+33,2,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+34,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+35,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+36,1,Injection site abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+37,1,Injection site abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+38,1,Injection site inflammation,Injection site reactions,Administration site reactions,Genrl,N
+39,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+39,2,Peripheral nerve injury,Peripheral nerve injuries,Injuries NEC,Inj&P,N
+40,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+40,2,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+40,3,Pupillary light reflex tests abnormal,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+41,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+41,2,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+41,3,Periorbital oedema,Ocular disorders NEC,Eye disorders NEC,Eye,N
+42,1,Conjunctival haemorrhage,Conjunctival and corneal bleeding and vascular disorders,Ocular haemorrhages and vascular disorders NEC,Eye,N
+43,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+44,1,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+45,1,Hypoaesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+45,2,Skin exfoliation,Exfoliative conditions,Epidermal and dermal conditions,Skin,N
+45,3,Tenderness,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+46,1,Injection site abscess,Infections NEC,Infections - pathogen unspecified,Infec,N
+47,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+47,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+47,3,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+48,1,Disorder of orbit,Ocular disorders NEC,Eye disorders NEC,Eye,N
+49,1,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+49,2,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+49,3,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+49,4,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+49,5,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+49,6,Parophthalmia,"Orbital infections, inflammations and irritations","Ocular infections, irritations and inflammations",Eye,N
+49,7,Parophthalmia,"Orbital infections, inflammations and irritations","Ocular infections, irritations and inflammations",Eye,N
+49,8,Visual acuity reduced,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+50,1,Cardiac arrest,Ventricular arrhythmias and cardiac arrest,Cardiac arrhythmias,Card,Y
+50,2,Generalised tonic-clonic seizure,Generalised tonic-clonic seizures,Seizures (incl subtypes),Nerv,N
+51,1,Anaphylactoid reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+52,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+52,2,Eye movement disorder,Ocular nerve and muscle disorders,Ocular neuromuscular disorders,Eye,N
+53,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+54,1,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+55,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+56,1,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+57,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+57,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+57,3,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+58,1,Apraxia,Cortical dysfunction NEC,Neurological disorders NEC,Nerv,N
+58,2,Conjunctival oedema,"Conjunctival infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+58,3,Eosinophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+58,4,Exophthalmos,"Structural change, deposit and degeneration of eye NEC","Ocular structural change, deposit and degeneration NEC",Eye,N
+58,5,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+58,6,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+58,7,Intraocular pressure increased,Ophthalmic function diagnostic procedures,"Neurological, special senses and psychiatric investigations",Inv,N
+58,8,Iridocyclitis,"Iris and uveal tract infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+58,9,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+58,10,Type IV hypersensitivity reaction,Allergic conditions NEC,Allergic conditions,Immun,N
+59,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+59,2,Periorbital swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+60,1,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+60,2,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+60,3,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+60,4,Wheezing,Bronchospasm and obstruction,Bronchial disorders (excl neoplasms),Resp,N
+61,1,Facial paralysis,Facial cranial nerve disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+61,2,Trigeminal palsy,Trigeminal disorders,Cranial nerve disorders (excl neoplasms),Nerv,N
+62,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+62,2,Peripheral swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+62,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+63,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+64,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+64,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+65,1,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+66,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+66,2,Muscle spasms,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+66,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+67,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+68,1,Circumoral oedema,Angioedemas,Angioedema and urticaria,Skin,N
+68,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+68,3,Oral mucosal erythema,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+68,4,Periorbital swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+69,1,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+69,2,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+69,3,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+69,4,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+69,5,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+69,6,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+69,7,Condition aggravated,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+69,8,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+69,9,Epigastric discomfort,Dyspeptic signs and symptoms,Gastrointestinal signs and symptoms,Gastr,N
+69,10,Muscle strain,"Muscle, tendon and ligament injuries",Injuries NEC,Inj&P,N
+69,11,Nail infection,Skin structures and soft tissue infections,Infections - pathogen unspecified,Infec,N
+69,12,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+69,13,Neuropathy peripheral,Peripheral neuropathies NEC,Peripheral neuropathies,Nerv,N
+69,14,Neutropenia,Neutropenias,White blood cell disorders,Blood,N
+69,15,White blood cell count decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+70,1,Osteomyelitis,Bone and joint infections,Infections - pathogen unspecified,Infec,N
+70,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+70,3,Staphylococcal infection,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+70,4,Staphylococcus test positive,Bacteria identification and serology (excl mycobacteria),Microbiology and serology investigations,Inv,N
+70,5,Wound infection staphylococcal,Staphylococcal infections,Bacterial infectious disorders,Infec,N
+71,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+71,2,Eye contusion,Eye injuries NEC,Injuries NEC,Inj&P,N
+71,3,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+71,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+71,5,Eye pruritus,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+71,6,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+71,7,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+71,8,Headache,Headaches NEC,Headaches,Nerv,N
+71,9,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+71,10,Ocular hyperaemia,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+71,11,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+71,12,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+71,13,Spinal pain,Bone related signs and symptoms,Bone disorders (excl congenital and fractures),Musc,N
+71,14,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+71,15,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+72,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+72,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+72,3,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+73,1,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+73,2,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+74,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+74,2,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+74,3,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+74,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+75,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+75,2,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N
+76,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+76,2,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+77,1,Acute myeloid leukaemia,Leukaemias acute myeloid,Leukaemias,Neopl,N
+78,1,Anaesthetic complication neurological,Anaesthetic and allied procedural complications,Procedural related injuries and complications NEC,Inj&P,N
+78,2,Brain stem syndrome,Nervous system disorders NEC,Neurological disorders NEC,Nerv,N
+78,3,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+78,4,Supraventricular tachycardia,Supraventricular arrhythmias,Cardiac arrhythmias,Card,N
+79,1,Dermatochalasis,"Lid, lash and lacrimal structural disorders","Anterior eye structural change, deposit and degeneration",Eye,N
+79,2,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+79,3,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+79,4,Facial asymmetry,"Musculoskeletal and connective tissue deformities of skull, face and buccal cavity",Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+79,5,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+79,6,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+79,7,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+79,8,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+79,9,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+80,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+80,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+80,3,Product solubility abnormal,Product physical issues,"Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+80,4,Suspected counterfeit product,"Counterfeit, falsified and substandard products","Product quality, supply, distribution, manufacturing and quality system issues",Prod,N
+80,5,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+81,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+81,2,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+81,3,Headache,Headaches NEC,Headaches,Nerv,N
+81,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+81,5,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+82,1,Device dislocation,Device issues NEC,Device issues,Prod,N
+82,2,Foreign body in eye,Eye injuries NEC,Injuries NEC,Inj&P,N
+82,3,Intentional product use issue,Intentional product use issues,Off label uses and intentional product misuses/use issues,Inj&P,N
+82,4,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+83,1,Acute kidney injury,Renal failure and impairment,Renal disorders (excl nephropathies),Renal,N
+83,2,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+83,3,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+83,4,Presyncope,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+84,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+85,1,Face oedema,Oedema NEC,General system disorders NEC,Genrl,N
+86,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+86,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+86,3,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+86,4,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+86,5,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+86,6,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+86,7,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+86,8,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+86,9,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+86,10,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+86,11,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+86,12,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+86,13,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+86,14,Blood phosphorus increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+86,15,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+86,16,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+86,17,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+86,18,Colitis ulcerative,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+86,19,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+86,20,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+86,21,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+86,22,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+86,23,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+86,24,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+86,25,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+86,26,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+86,27,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+86,28,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+86,29,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+86,30,Headache,Headaches NEC,Headaches,Nerv,N
+86,31,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+86,32,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+86,33,Hypoalbuminaemia,Protein metabolism disorders NEC,Protein and amino acid metabolism disorders NEC,Metab,N
+86,34,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+86,35,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+86,36,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+86,37,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+86,38,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+86,39,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+86,40,Lymphopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+86,41,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+86,42,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+86,43,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+86,44,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+86,45,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+86,46,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+86,47,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+86,48,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+86,49,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+86,50,Protein total decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+86,51,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+86,52,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+86,53,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+86,54,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+86,55,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+86,56,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+86,57,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+86,58,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+86,59,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+87,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+87,2,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+87,3,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+87,4,Connective tissue disorder,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+87,5,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+87,6,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+87,7,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+87,8,Hair texture abnormal,Pilar disorders NEC,Skin appendage conditions,Skin,N
+87,9,Head deformity,"Musculoskeletal and connective tissue deformities of skull, face and buccal cavity",Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+87,10,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+87,11,Pain of skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+87,12,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+87,13,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+87,14,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+87,15,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+87,16,Soft tissue atrophy,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+87,17,Trichorrhexis,Pilar disorders NEC,Skin appendage conditions,Skin,N
+88,1,Burning sensation,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+88,2,Eye disorder,Ocular disorders NEC,Eye disorders NEC,Eye,N
+88,3,Facial asymmetry,"Musculoskeletal and connective tissue deformities of skull, face and buccal cavity",Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+88,4,Facial asymmetry,"Musculoskeletal and connective tissue deformities of skull, face and buccal cavity",Musculoskeletal and connective tissue deformities (incl intervertebral disc disorders),Musc,N
+88,5,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+88,6,Impaired quality of life,Social issues NEC,Lifestyle issues,SocCi,N
+88,7,Injection site injury,Injection site reactions,Administration site reactions,Genrl,N
+88,8,Injection site injury,Injection site reactions,Administration site reactions,Genrl,N
+88,9,Lid sulcus deepened,"Orbital structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+88,10,Soft tissue atrophy,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+89,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+89,2,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+89,3,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+89,4,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+89,5,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+90,1,Gait disturbance,Gait disturbances,General system disorders NEC,Genrl,N
+90,2,Pain in extremity,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+91,1,Deformity,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+91,2,Excessive skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+91,3,Peripheral coldness,"Peripheral vasoconstriction, necrosis and vascular insufficiency","Arteriosclerosis, stenosis, vascular insufficiency and necrosis",Vasc,N
+91,4,Skin disorder,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+91,5,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+92,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+93,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+94,1,Deformity,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+94,2,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+94,3,Excessive skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+94,4,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+94,5,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+94,6,Lip disorder,Oral soft tissue disorders NEC,Oral soft tissue conditions,Gastr,N
+94,7,Nerve injury,Nerve injuries NEC,Injuries NEC,Inj&P,N
+94,8,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+94,9,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+94,10,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+95,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+95,2,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+95,3,Eye irritation,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+95,4,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+95,5,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+96,1,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+96,2,Blindness,Visual impairment and blindness (excl colour blindness),Vision disorders,Eye,N
+96,3,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+97,1,Atrophy,Trophic disorders,Tissue disorders NEC,Genrl,N
+97,2,Histamine intolerance,Food malabsorption and intolerance syndromes (excl sugar intolerance),Food intolerance syndromes,Metab,N
+97,3,Mast cell activation syndrome,Haematological disorders,Haematological disorders NEC,Blood,N
+97,4,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+97,5,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+97,6,Temperature intolerance,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+98,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+98,2,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+98,3,Eyelid function disorder,Eyelid movement disorders,Ocular neuromuscular disorders,Eye,N
+98,4,Formication,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+98,5,Incorrect dosage administered,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+98,6,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+98,7,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+98,8,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+98,9,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+98,10,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+98,11,Skin injury,Skin injuries NEC,Injuries NEC,Inj&P,N
+98,12,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+99,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+99,2,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+99,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+99,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+100,1,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+100,2,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+100,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+100,4,Foreign body sensation in eyes,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+100,5,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+100,6,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+100,7,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+100,8,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+101,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+101,2,Deafness,Hearing losses,Hearing disorders,Ear,N
+101,3,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+101,4,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+101,5,Dry mouth,Oral dryness and saliva altered,Salivary gland conditions,Gastr,N
+101,6,Ear discomfort,Ear disorders NEC,Aural disorders NEC,Ear,N
+101,7,Ear discomfort,Ear disorders NEC,Aural disorders NEC,Ear,N
+101,8,Face injury,Site specific injuries NEC,Injuries NEC,Inj&P,N
+101,9,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+101,10,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+101,11,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+101,12,Gingival recession,"Gingival disorders, signs and symptoms NEC",Dental and gingival conditions,Gastr,N
+101,13,Head discomfort,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+101,14,Heart rate increased,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+101,15,Heart rate irregular,Heart rate and pulse investigations,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+101,16,Madarosis,Alopecias,Skin appendage conditions,Skin,N
+101,17,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+101,18,Nerve injury,Nerve injuries NEC,Injuries NEC,Inj&P,N
+101,19,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+101,20,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+101,21,Oral discomfort,Oral soft tissue signs and symptoms,Oral soft tissue conditions,Gastr,N
+101,22,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+101,23,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+101,24,Respiration abnormal,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+101,25,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+101,26,Skin burning sensation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+101,27,Skin laxity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+101,28,Skin wrinkling,Skin dystrophies,Cornification and dystrophic skin disorders,Skin,N
+101,29,Soft tissue atrophy,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+101,30,Tongue discomfort,Tongue signs and symptoms,Tongue conditions,Gastr,N
+101,31,Vitreous floaters,"Choroid and vitreous structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+102,1,Abnormal sensation in eye,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+102,2,Anxiety,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+102,3,Depression,Depressive disorders,Depressed mood disorders and disturbances,Psych,N
+102,4,Dermatochalasis,"Lid, lash and lacrimal structural disorders","Anterior eye structural change, deposit and degeneration",Eye,N
+102,5,Dermatochalasis,"Lid, lash and lacrimal structural disorders","Anterior eye structural change, deposit and degeneration",Eye,N
+102,6,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+102,7,Eye discharge,"Ocular infections, inflammations and associated manifestations","Ocular infections, irritations and inflammations",Eye,N
+102,8,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+102,9,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+102,10,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+102,11,General physical condition abnormal,Physical examination procedures and organ system status,Physical examination and organ system status topics,Inv,N
+102,12,Hyaluronic acid abnormal,Metabolism tests NEC,"Metabolic, nutritional and blood gas investigations",Inv,N
+102,13,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+102,14,Lagophthalmos,"Lid, lash and lacrimal structural disorders","Anterior eye structural change, deposit and degeneration",Eye,N
+102,15,Lethargy,Disturbances in consciousness NEC,Neurological disorders NEC,Nerv,N
+102,16,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+102,17,Muscular weakness,Muscle weakness conditions,Muscle disorders,Musc,N
+102,18,Myokymia,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+102,19,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+102,20,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+102,21,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+102,22,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+102,23,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,24,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,25,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,26,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,27,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,28,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+102,29,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,30,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,31,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,32,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,33,Skin laxity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,34,Skin texture abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,35,Skin texture abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+102,36,Soft tissue atrophy,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+102,37,Soft tissue atrophy,Soft tissue disorders NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+102,38,Therapeutic product ineffective for unapproved indication,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+102,39,Vision blurred,Visual disorders NEC,Vision disorders,Eye,N
+103,1,Alopecia,Alopecias,Skin appendage conditions,Skin,N
+103,2,Anaemia,Anaemias NEC,Anaemias nonhaemolytic and marrow depression,Blood,N
+103,3,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+103,4,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+103,5,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+103,6,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+103,7,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+103,8,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+103,9,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+103,10,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+103,11,Epistaxis,Nasal disorders NEC,Upper respiratory tract disorders (excl infections),Resp,N
+103,12,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+103,13,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+103,14,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+103,15,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+103,16,Gastrooesophageal reflux disease,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+103,17,Gingival swelling,"Gingival disorders, signs and symptoms NEC",Dental and gingival conditions,Gastr,N
+103,18,Hot flush,Peripheral vascular disorders NEC,Vascular disorders NEC,Vasc,N
+103,19,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+103,20,Lymphoedema,Lymphoedemas,Lymphatic vessel disorders,Vasc,N
+103,21,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+103,22,Mucosal inflammation,Mucosal findings abnormal,General system disorders NEC,Genrl,N
+103,23,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+103,24,Osteonecrosis of jaw,Bone disorders NEC,Bone disorders (excl congenital and fractures),Musc,N
+103,25,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+103,26,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+103,27,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+103,28,Vascular device infection,Vascular infections,Infections - pathogen unspecified,Infec,N
+104,1,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+105,1,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+105,2,Lid sulcus deepened,"Orbital structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+105,3,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+105,4,Skin laxity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+106,1,Device related infection,Infections NEC,Infections - pathogen unspecified,Infec,N
+106,2,Ejection fraction decreased,Cardiac function diagnostic procedures,Cardiac and vascular investigations (excl enzyme tests),Inv,N
+106,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+106,4,Sepsis,"Sepsis, bacteraemia, viraemia and fungaemia NEC",Infections - pathogen unspecified,Infec,N
+107,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+107,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+108,1,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+109,1,Abnormal sensation in eye,Ocular sensation disorders,Ocular sensory symptoms NEC,Eye,N
+109,2,Dry eye,Lacrimation disorders,Eye disorders NEC,Eye,N
+109,3,Dry skin,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,4,Eye pain,Ocular disorders NEC,Eye disorders NEC,Eye,N
+109,5,Facial pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+109,6,Facial wasting,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+109,7,Lid sulcus deepened,"Orbital structural change, deposit and degeneration","Ocular structural change, deposit and degeneration NEC",Eye,N
+109,8,Myalgia,Muscle pains,Muscle disorders,Musc,N
+109,9,Neuralgia,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+109,10,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+109,11,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+109,12,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+109,13,Skin atrophy,Skin hypoplasias and atrophies,Cornification and dystrophic skin disorders,Skin,N
+109,14,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,15,Skin discolouration,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,16,Skin fragility,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,17,Skin indentation,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,18,Skin laxity,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,19,Skin texture abnormal,Dermal and epidermal conditions NEC,Epidermal and dermal conditions,Skin,N
+109,20,Tissue injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+110,1,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+110,2,Tissue injury,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+111,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+111,2,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+111,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+111,4,Permanent cosmetic dermapigmentation,Skin and subcutaneous tissue therapeutic procedures NEC,Skin and subcutaneous tissue therapeutic procedures,Surg,N
+111,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+112,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+112,2,Injection site erythema,Injection site reactions,Administration site reactions,Genrl,N
+112,3,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+112,4,Permanent cosmetic dermapigmentation,Skin and subcutaneous tissue therapeutic procedures NEC,Skin and subcutaneous tissue therapeutic procedures,Surg,N
+112,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+113,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+114,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+115,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+115,2,Injection site hypersensitivity,Injection site reactions,Administration site reactions,Genrl,N
+115,3,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+115,4,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+116,1,Abdominal pain upper,Gastrointestinal and abdominal pains (excl oral and throat),Gastrointestinal signs and symptoms,Gastr,N
+116,2,Agitation,Anxiety symptoms,Anxiety disorders and symptoms,Psych,N
+116,3,Alanine aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+116,4,Ascites,Peritoneal and retroperitoneal disorders,Peritoneal and retroperitoneal conditions,Gastr,N
+116,5,Aspartate aminotransferase increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+116,6,Asthenia,Asthenic conditions,General system disorders NEC,Genrl,N
+116,7,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+116,8,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+116,9,Balance disorder,Coordination and balance disturbances,Neurological disorders NEC,Nerv,N
+116,10,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+116,11,Blood alkaline phosphatase increased,Tissue enzyme analyses NEC,Enzyme investigations NEC,Inv,N
+116,12,Blood bilirubin increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+116,13,Blood creatinine increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+116,14,Blood glucose increased,Carbohydrate tolerance analyses (incl diabetes),"Metabolic, nutritional and blood gas investigations",Inv,N
+116,15,Blood phosphorus increased,Mineral and electrolyte analyses,"Water, electrolyte and mineral investigations",Inv,N
+116,16,Blood urea increased,Renal function analyses,Renal and urinary tract investigations and urinalyses,Inv,N
+116,17,C-reactive protein increased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+116,18,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+116,19,Cerebral haemorrhage,Central nervous system haemorrhages and cerebrovascular accidents,Central nervous system vascular disorders,Nerv,N
+116,20,Colitis ulcerative,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+116,21,Constipation,Gastrointestinal atonic and hypomotility disorders NEC,Gastrointestinal motility and defaecation conditions,Gastr,N
+116,22,Crohn's disease,Colitis (excl infective),Gastrointestinal inflammatory conditions,Gastr,N
+116,23,Crying,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+116,24,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+116,25,Depressed mood,Mood alterations with depressive symptoms,Depressed mood disorders and disturbances,Psych,N
+116,26,Diarrhoea,Diarrhoea (excl infective),Gastrointestinal motility and defaecation conditions,Gastr,N
+116,27,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+116,28,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+116,29,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+116,30,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+116,31,Haemoglobin decreased,Red blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+116,32,Haemorrhage,Haemorrhages NEC,Vascular haemorrhagic disorders,Vasc,N
+116,33,Headache,Headaches NEC,Headaches,Nerv,N
+116,34,Hypernatraemia,Sodium imbalance,Electrolyte and fluid balance conditions,Metab,N
+116,35,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+116,36,Hypertension,Vascular hypertensive disorders NEC,Vascular hypertensive disorders,Vasc,N
+116,37,Hypoalbuminaemia,Protein metabolism disorders NEC,Protein and amino acid metabolism disorders NEC,Metab,N
+116,38,Hypokalaemia,Potassium imbalance,Electrolyte and fluid balance conditions,Metab,N
+116,39,Ill-defined disorder,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+116,40,Injection site pain,Injection site reactions,Administration site reactions,Genrl,N
+116,41,Insomnia,Disturbances in initiating and maintaining sleep,Sleep disorders and disturbances,Psych,N
+116,42,Irritability,Emotional and mood disturbances NEC,Mood disorders and disturbances NEC,Psych,N
+116,43,Lymphopenia,Leukopenias NEC,White blood cell disorders,Blood,N
+116,44,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+116,45,Muscle twitching,Muscle related signs and symptoms NEC,Muscle disorders,Musc,N
+116,46,Musculoskeletal stiffness,Musculoskeletal and connective tissue conditions NEC,Musculoskeletal and connective tissue disorders NEC,Musc,N
+116,47,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,48,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,49,Neck pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+116,50,Neutrophil count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+116,51,Pain,Pain and discomfort NEC,General system disorders NEC,Genrl,N
+116,52,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+116,53,Product administered at inappropriate site,Product administration errors and issues,Medication errors and other product use errors and issues,Inj&P,N
+116,54,Protein total decreased,Protein analyses NEC,Protein and chemistry analyses NEC,Inv,N
+116,55,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+116,56,Rectal haemorrhage,Intestinal haemorrhages,Gastrointestinal haemorrhages NEC,Gastr,N
+116,57,Sensory disturbance,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+116,58,Sensory loss,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+116,59,Sinusitis,Upper respiratory tract infections,Infections - pathogen unspecified,Infec,N
+116,60,Tremor,Tremor (excl congenital),Movement disorders (incl parkinsonism),Nerv,N
+116,61,Urinary tract infection,Urinary tract infections,Infections - pathogen unspecified,Infec,N
+116,62,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,63,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,64,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,65,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+116,66,White blood cell count increased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+117,1,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+118,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+118,2,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+119,1,Erythema,Erythemas,Epidermal and dermal conditions,Skin,N
+119,2,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+120,1,Application site erythema,Application site reactions,Administration site reactions,Genrl,N
+120,2,Application site pain,Application site reactions,Administration site reactions,Genrl,N
+120,3,Application site swelling,Application site reactions,Administration site reactions,Genrl,N
+120,4,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+120,5,Skin test positive,Immunology skin tests NEC,Immunology and allergy investigations,Inv,N
+121,1,Chills,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+121,2,Contusion,Skin injuries NEC,Injuries NEC,Inj&P,N
+121,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+121,4,Heat oedema,Heat injuries (excl thermal burns),Injuries by physical agents,Inj&P,N
+121,5,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+121,6,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+121,7,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+122,1,Collagen disorder,Connective tissue disorders NEC,Connective tissue disorders (excl congenital),Musc,N
+122,2,Dyspnoea,Breathing abnormalities,Respiratory disorders NEC,Resp,N
+122,3,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+122,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+122,5,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+122,6,Shock,Circulatory collapse and shock,Decreased and nonspecific blood pressure disorders and shock,Vasc,N
+122,7,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+123,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+124,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+125,1,Angioedema,Angioedemas,Angioedema and urticaria,Skin,N
+125,2,Urticaria,Urticarias,Angioedema and urticaria,Skin,N
+126,1,Drug hypersensitivity,"Allergies to foods, food additives, drugs and other chemicals",Allergic conditions,Immun,N
+126,2,Feeling hot,Feelings and sensations NEC,General system disorders NEC,Genrl,N
+126,3,Lip swelling,Oral soft tissue swelling and oedema,Oral soft tissue conditions,Gastr,N
+126,4,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+126,5,Oropharyngeal pain,Upper respiratory tract signs and symptoms,Respiratory tract signs and symptoms,Resp,N
+126,6,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+126,7,Pruritus,Pruritus NEC,Epidermal and dermal conditions,Skin,N
+126,8,Swelling,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+126,9,Swelling face,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+127,1,Inflammation,Inflammations,General system disorders NEC,Genrl,N
+127,2,Medication error,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+128,1,Hypersensitivity,Allergic conditions NEC,Allergic conditions,Immun,N
+129,1,Eye swelling,Ocular disorders NEC,Eye disorders NEC,Eye,N
+129,2,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+129,3,Fatigue,Asthenic conditions,General system disorders NEC,Genrl,N
+129,4,Influenza like illness,General signs and symptoms NEC,General system disorders NEC,Genrl,N
+129,5,Off label use,Off label uses,Off label uses and intentional product misuses/use issues,Inj&P,N
+129,6,Product use in unapproved indication,"Medication errors, product use errors and issues NEC",Medication errors and other product use errors and issues,Inj&P,N
+129,7,Swelling of eyelid,"Lid, lash and lacrimal infections, irritations and inflammations","Ocular infections, irritations and inflammations",Eye,N

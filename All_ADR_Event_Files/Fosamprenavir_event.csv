@@ -1,0 +1,67 @@
+ADR,SEQ,PT,HLT,HLGT,SOC_ABBREV,FATAL_YN
+1,1,Abortion missed,Abortions not specified as induced or spontaneous,Abortions and stillbirth,Preg,N
+1,2,Anembryonic gestation,Abortion related conditions and complications,Abortions and stillbirth,Preg,N
+2,1,Hepatitis,Hepatocellular damage and hepatitis NEC,Hepatic and hepatobiliary disorders,Hepat,N
+2,2,Lymphadenopathy,Lymphatic system disorders NEC,"Spleen, lymphatic and reticuloendothelial system disorders",Blood,N
+2,3,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+2,4,Pyrexia,Febrile disorders,Body temperature conditions,Genrl,N
+2,5,Rash maculo-papular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+2,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+3,1,Galactorrhoea,Lactation disorders,Breast disorders,Repro,N
+4,1,Taste disorder,Sensory abnormalities NEC,Neurological disorders NEC,Nerv,N
+5,1,CD4 lymphocytes decreased,White blood cell analyses,Haematology investigations (incl blood groups),Inv,N
+5,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+5,3,Viral load increased,Virus identification and serology,Microbiology and serology investigations,Inv,N
+5,4,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,1,Delivery,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+6,2,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+6,3,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+7,1,Blister,Bullous conditions,Epidermal and dermal conditions,Skin,N
+7,2,Paraesthesia,Paraesthesias and dysaesthesias,Neurological disorders NEC,Nerv,N
+7,3,Vulvovaginal discomfort,Vulvovaginal signs and symptoms,Vulvovaginal disorders (excl infections and inflammations),Repro,N
+8,1,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+8,2,Kaposi's sarcoma,Kaposi's sarcomas,Soft tissue neoplasms malignant and unspecified,Neopl,N
+8,3,Lymphoedema,Lymphoedemas,Lymphatic vessel disorders,Vasc,N
+9,1,Hyperlactacidaemia,Metabolic acidoses (excl diabetic acidoses),Acid-base disorders,Metab,N
+9,2,Monoparesis,Paralysis and paresis (excl cranial nerve),Movement disorders (incl parkinsonism),Nerv,N
+9,3,Myositis,Muscle infections and inflammations,Muscle disorders,Musc,N
+9,4,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+10,1,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+10,2,Kaposi's sarcoma,Kaposi's sarcomas,Soft tissue neoplasms malignant and unspecified,Neopl,N
+11,1,Immune reconstitution inflammatory syndrome,Immune and associated conditions NEC,Immune disorders NEC,Immun,N
+11,2,Kaposi's sarcoma,Kaposi's sarcomas,Soft tissue neoplasms malignant and unspecified,Neopl,N
+11,3,Lymphoedema,Lymphoedemas,Lymphatic vessel disorders,Vasc,N
+12,1,Back pain,Musculoskeletal and connective tissue pain and discomfort,Musculoskeletal and connective tissue disorders NEC,Musc,N
+12,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+12,3,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+12,4,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+12,5,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+13,1,Lipodystrophy acquired,Lipodystrophies,Skin and subcutaneous tissue disorders NEC,Skin,N
+14,1,Dizziness,Neurological signs and symptoms NEC,Neurological disorders NEC,Nerv,N
+14,2,Hepatic enzyme increased,Hepatobiliary function diagnostic procedures,Hepatobiliary investigations,Inv,N
+14,3,Nightmare,Parasomnias,Sleep disorders and disturbances,Psych,N
+15,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+15,2,Rash,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,1,Rash erythematous,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+16,2,Rash macular,"Rashes, eruptions and exanthems NEC",Epidermal and dermal conditions,Skin,N
+17,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+17,2,Toxicity to various agents,Poisoning and toxicity,"Exposures, chemical injuries and poisoning",Inj&P,N
+18,1,Cardiomyopathy,Cardiomyopathies,Myocardial disorders,Card,N
+18,2,Oedema peripheral,Oedema NEC,General system disorders NEC,Genrl,N
+19,1,Anaphylactic reaction,Anaphylactic and anaphylactoid responses,Allergic conditions,Immun,N
+20,1,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+21,1,Blood triglycerides increased,Triglyceride analyses,Lipid analyses,Inv,N
+22,1,Nephrolithiasis,Renal lithiasis,Urolithiases,Renal,N
+23,1,Methaemoglobinaemia,Haematological disorders,Haematological disorders NEC,Blood,N
+24,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+25,1,Death,Death and sudden death,Fatal outcomes,Genrl,Y
+26,1,Fall,Non-site specific injuries NEC,Injuries NEC,Inj&P,N
+26,2,Malaise,Asthenic conditions,General system disorders NEC,Genrl,N
+27,1,Caesarean section,Obstetric therapeutic procedures,Obstetric and gynaecological therapeutic procedures,Surg,N
+27,2,Live birth,"Normal pregnancy, labour and delivery","Pregnancy, labour, delivery and postpartum conditions",Preg,N
+27,3,Maternal exposure during pregnancy,"Exposures associated with pregnancy, delivery and lactation","Exposures, chemical injuries and poisoning",Inj&P,N
+27,4,Multiple-drug resistance,Therapeutic and nontherapeutic responses,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+27,5,Nausea,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+27,6,Vomiting,Nausea and vomiting symptoms,Gastrointestinal signs and symptoms,Gastr,N
+28,1,Drug interaction,Interactions,Therapeutic and nontherapeutic effects (excl toxicity),Genrl,N
+28,2,Hypercholesterolaemia,Elevated cholesterol,Lipid metabolism disorders,Metab,N
